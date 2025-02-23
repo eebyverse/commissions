@@ -93,7 +93,7 @@ var data = {
 		{
 			// Jebbee | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5ce39gqd4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce39grm4.png",
 			title: "eee",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
