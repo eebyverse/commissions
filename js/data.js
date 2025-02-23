@@ -21,7 +21,7 @@ var data = {
 			art_url: null,
 			desc: "test",
 			date_str: "Nov 2024",
-			tags: ["SFW", "Micaiah", "Edelgard", "Eeby"],
+			tags: ["sfw", "micaiah", "edelgard", "eeby"],
 			hidden: false
 		},
 		{
