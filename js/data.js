@@ -15,7 +15,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqjxq7.png",
-			title: "",
+			title: "eee",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
