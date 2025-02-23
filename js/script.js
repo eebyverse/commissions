@@ -240,6 +240,7 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		edelgard: "Edelgard",
+		eleanor: "Eleanor",
 		micaiah: "Micaiah",
 		eeby: "Eeby"
 	};
