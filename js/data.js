@@ -48,7 +48,7 @@ var data = {
 			art_url: null,
 			desc: "test",
 			date_str: "Oct 2024",
-			tags: ["sfw", "micaiah", "edelgard"],
+			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
@@ -101,6 +101,19 @@ var data = {
 			desc: "test",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// kayksyla | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2ow8qv4.png",
+			title: "eee",
+			artist: "kayksyla",
+			artist_url: "https://x.com/kayksyla_",
+			art_url: "https://x.com/SummonerEeby/status/1687400106755018753",
+			desc: "test",
+			date_str: "Aug 2023",
+			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
