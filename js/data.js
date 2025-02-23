@@ -54,13 +54,39 @@ var data = {
 		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqjxq7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqnn37.png",
 			title: "eee",
 			artist: "Gale",
 			artist_url: "https://x.com/sampleduckling",
 			art_url: "https://x.com/sampleduckling/status/1683784135322771458",
 			desc: "test",
-			date_str: "Nov 2024",
+			date_str: "Jul 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Greentapir | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/4gdcx9wp6g4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2n6q8wy.png",
+			title: "eee",
+			artist: "GreenTapir",
+			artist_url: "https://www.pixiv.net/en/users/57086285",
+			art_url: "https://www.pixiv.net/en/artworks/98574144",
+			desc: "test",
+			date_str: "May 2022",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// JadeSnap | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/y8xcngvkjo4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce39gqd4.png",
+			title: "eee",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: "https://x.com/JadesnapArt/status/1560325764125528068",
+			desc: "test",
+			date_str: "Aug 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
