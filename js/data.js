@@ -13,6 +13,18 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqjxq7.png",
+			title: "",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "test",
+			date_str: "Nov 2024",
+			tags: ["Micaiah", "Edelgard", "Eeby"],
+			hidden: true
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
