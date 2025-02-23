@@ -238,7 +238,7 @@ function updateImageCountLabel() {
 // Map a string to another string
 function translateWord(word) {
 	var translations = {
-		sfw: "Example 1",
+		sfw: "SFW",
 		edelgard: "Edelgard",
 		micaiah: "Micaiah",
 		eeby: "Eeby"
