@@ -41,7 +41,7 @@ var data = {
 		{
 			// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5ce39grm4.png",
+			thumbnail: "https://cdn.imgchest.com/files/46acqv8gkg7.png",
 			title: "eee",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
