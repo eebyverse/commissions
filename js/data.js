@@ -22,7 +22,7 @@ var data = {
 			desc: "test",
 			date_str: "Nov 2024",
 			tags: ["Micaiah", "Edelgard", "Eeby"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: [""],
