@@ -91,6 +91,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Jebbee | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce39gqd4.png",
+			title: "eee",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
+			desc: "test",
+			date_str: "Aug 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
