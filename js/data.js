@@ -229,7 +229,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
 			art_url: null,
 			desc: "Just say mwah.",
-			date_str: "Apr 2024",
+			date_str: "July 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
