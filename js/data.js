@@ -13,6 +13,19 @@ var data = {
 			hidden: true
 		},
 		{
+			// Argilla | Edelgard and Laura
+			src: ["https://cdn.imgchest.com/files/4gdcx9wpkg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "Shows of Devotion",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: null,
+			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...",
+			date_str: "Feb 2024",
+			tags: ["sfw", "laura", "edelgard", "eleanor", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Evo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
