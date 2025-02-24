@@ -98,7 +98,7 @@ var data = {
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
-			desc: "Micaiah's kindness—her selfless compassion—seems, to Edelgard, deserving of so much more – yet the Emperor has never felt more grateful in all her years.",
+			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid – but she tries all the same.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
