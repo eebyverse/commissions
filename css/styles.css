@@ -31,7 +31,7 @@ body {
 	border: none;
 	border-radius: 0.25rem;
 	padding: 10px;
-	background-color: #666a80;
+	background-color: #968379;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 	font-size: 1rem;
 }
@@ -168,8 +168,8 @@ a:hover, a:active {
 
 #dropdownMenuLink {
 	color: #fff;
-	background-color: #666a80;
-	border-color: #666a80;
+	background-color: #968379;
+	border-color: #968379;
 }
 #dropdownMenuLink:hover, #dropdownMenuLink:active, #dropdownMenuLink:focus {
 	background-color: #968379;
@@ -189,7 +189,7 @@ a:hover, a:active {
 	border: none;
 	padding: 0.4375rem 0.75rem;
 	border-radius: 0.25rem;
-	background-color: #666a80;
+	background-color: #968379;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 .shuffle-button:hover {
@@ -205,7 +205,7 @@ a:hover, a:active {
 	border: none;
 	padding: 0.4375rem 0.75rem;
 	border-radius: 0.25rem;
-	background-color: #666a80;
+	background-color: #968379;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 .show-all-button:hover {
@@ -220,7 +220,7 @@ a:hover, a:active {
 	background-color: #ad50ad;
 }
 .accordion-button {
-	background-color: #666a80;
+	background-color: #968379;
 	color: white;
 }
 .accordion-button:not(.collapsed) {
@@ -233,7 +233,7 @@ a:hover, a:active {
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");	
 }
 .accordion-body {
-	background-color: #666a80;
+	background-color: #968379;
 	color: white;
 }
 .series-link {
