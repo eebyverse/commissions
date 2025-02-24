@@ -146,11 +146,11 @@ var data = {
 			// Sethkiel | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "eee",
+			title: "Meeting at the Edge of Dawn",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
-			desc: "test",
+			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
