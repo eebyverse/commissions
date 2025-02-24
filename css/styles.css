@@ -168,7 +168,7 @@ a:hover, a:active {
 
 #dropdownMenuLink {
 	color: #fff;
-	background-color: #e3ae98;
+	background-color: #c97447;
 	border-color: #e3ae98;
 }
 #dropdownMenuLink:hover, #dropdownMenuLink:active, #dropdownMenuLink:focus {
@@ -205,7 +205,7 @@ a:hover, a:active {
 	border: none;
 	padding: 0.4375rem 0.75rem;
 	border-radius: 0.25rem;
-	background-color: #e3ae98;
+	background-color: #c97447;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 .show-all-button:hover {
