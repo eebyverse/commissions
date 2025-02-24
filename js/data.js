@@ -67,7 +67,7 @@ var data = {
 		{
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvznzg64.png",
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
 			title: "Eleanor, Maid of Mystery",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
@@ -300,7 +300,7 @@ var data = {
 		{
 			// LazzleDazzler | Eleanor
 			src: ["https://cdn.imgchest.com/files/7w6c2nl26gy.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4apc5lglgk4.png",
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lgl3b4.png",
 			title: "TBD",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
@@ -334,6 +334,19 @@ var data = {
 			desc: "She's got a nose for these things.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// Mnejing | Eleanor
+			src: ["https://cdn.imgchest.com/files/ye3c2oa2wl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng3g2m4.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
+			desc: "TBD",
+			date_str: "Nov 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
