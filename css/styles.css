@@ -31,7 +31,7 @@ body {
 	border: none;
 	border-radius: 0.25rem;
 	padding: 10px;
-	background-color: #968379;
+	background-color: #c97447;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 	font-size: 1rem;
 }
@@ -176,7 +176,7 @@ a:hover, a:active {
 	border-color: #968379;
 }
 #tags-dropdown {
-	background-color: #e1e4f2;
+	background-color: #f2eee1;
 }
 .tag-dropdown-button {
 	float: left;
