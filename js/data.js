@@ -65,6 +65,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Eleanor
+			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvznzg64.png",
+			title: "Eleanor, Maid of Mystery",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
@@ -155,7 +168,7 @@ var data = {
 			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
 			hidden: false
 		},
-		{			// Fusenryo | Edelcaiah Kiss
+		{	// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
 			title: "Saint and Sinner",
@@ -282,6 +295,19 @@ var data = {
 			desc: "Even the heaviest burdens have a way of melting to nothing under the summer sun – as Edelgard is quick to discover after a day out with Micaiah.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Eleanor
+			src: ["https://cdn.imgchest.com/files/7w6c2nl26gy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lglgk4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
