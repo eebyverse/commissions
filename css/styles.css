@@ -47,7 +47,7 @@ body {
 	color: white;
 }
 #gallery-container {
-	background-color: #e3ae98;
+	background-color: #db8e72;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	padding-bottom: 10px;
@@ -58,7 +58,7 @@ body {
 	padding-left: 2%;
 }
 #gallery img {
-	width: 50%;
+	width: 110%;
 	border-radius: 2px;
 	transition: filter 0.15s ease-in-out;
 }
@@ -217,7 +217,7 @@ a:hover, a:active {
 	background-color: #9c4848;
 }
 .show-all-button-active:hover {
-	background-color: #ad50ad;
+	background-color: #e3ae98;
 }
 .accordion-button {
 	background-color: #e3ae98;
