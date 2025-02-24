@@ -16,11 +16,11 @@ var data = {
 			// Evo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
-			title: "eee",
+			title: "No Going Back",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "test",
+			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.",
 			date_str: "Sep 2021",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -68,11 +68,11 @@ var data = {
 			// Greentapir | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4gdcx9wp6g4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2n6q8wy.png",
-			title: "eee",
+			title: "For Her Dream",
 			artist: "GreenTapir",
 			artist_url: "https://www.pixiv.net/en/users/57086285",
 			art_url: "https://www.pixiv.net/en/artworks/98574144",
-			desc: "test",
+			desc: "If peace is a fragile dream, it must be protected – no matter the personal cost.",
 			date_str: "May 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -81,11 +81,11 @@ var data = {
 			// JadeSnap | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcngvkjo4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce39gqd4.png",
-			title: "eee",
+			title: "The Light of Dawn",
 			artist: "JadesnapArt",
 			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
 			art_url: "https://x.com/JadesnapArt/status/1560325764125528068",
-			desc: "test",
+			desc: "Little by little, one day at a time, Edelgard comes to find comfort in the dawn.",
 			date_str: "Aug 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -94,11 +94,11 @@ var data = {
 			// Jebbee | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce39grm4.png",
-			title: "eee",
+			title: "Thank You",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
-			desc: "test",
+			desc: "Micaiah's kindness—her selfless compassion—seems, to Edelgard, deserving of so much more – yet the Emperor has never felt more grateful in all her years.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -107,11 +107,11 @@ var data = {
 			// kayksyla | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4apc5lq3e84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2ow8qv4.png",
-			title: "eee",
+			title: "Queen and Confidant",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
 			art_url: null,
-			desc: "test",
+			desc: "Queen Micaiah, fifteenth ruler of Daein, alongside her trusted head of staff. But, as so many nobles have wondered, both privately and openly... just who is this mysterious young woman, to command such authority and receive such unconditional trust from the Queen?",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
