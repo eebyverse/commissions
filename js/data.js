@@ -169,6 +169,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Redkite | Edelcaiah and Jokercina
+			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "Happy Holidays",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1730733967702430189",
+			desc: "Season's greetings from two happy couples.",
+			date_str: "Dec 2023",
+			tags: ["sfw", "micaiah", "edelgard", "lucina", "other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
