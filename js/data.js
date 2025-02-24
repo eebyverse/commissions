@@ -156,6 +156,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Sethkiel | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "eee",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: null,
+			desc: "test",
+			date_str: "Jun 2022",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
