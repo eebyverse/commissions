@@ -239,10 +239,19 @@ function updateImageCountLabel() {
 function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
+		nsfw: "NSFW",
+		gifts_given: "Gifts Given",
+		gifts_received: "Gifts Received",
+		collab: "Collaborations",
 		edelgard: "Edelgard",
 		eleanor: "Eleanor",
 		micaiah: "Micaiah",
-		eeby: "Eeby"
+		laura: "Laura",
+		Lucina: "Lucina",
+		eeby: "Eeby",
+		lif: "Líf",
+		thrasir: "Thrasir",
+		other: "Other/Misc"
 	};
 	if (word in translations) {
 		return translations[word];
