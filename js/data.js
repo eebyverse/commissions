@@ -105,7 +105,7 @@ var data = {
 		},
 		{
 			// kayksyla | Edelcaiah
-			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
+			src: ["https://cdn.imgchest.com/files/4apc5lq3e84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2ow8qv4.png",
 			title: "eee",
 			artist: "kayksyla",
