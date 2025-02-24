@@ -120,11 +120,11 @@ var data = {
 			// LazzleDazzler | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/46acqv8b2m7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "eee",
+			title: "Wavecrest Kiss",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "test",
+			desc: "Even the heaviest burdens have a way of melting to nothing under the summer sun – as Edelgard is quick to discover after a day out with Micaiah.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -133,11 +133,11 @@ var data = {
 			// Peach | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "eee",
+			title: "Good Kitty",
 			artist: "Peach1101",
 			artist_url: "https://bsky.app/profile/peach1101.bsky.social",
 			art_url: null,
-			desc: "test",
+			desc: "Queen Micaiah with her beloved companion – full of affection, and without a care in the world.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -159,11 +159,11 @@ var data = {
 			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "eee",
+			title: "Little Chaos",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
-			desc: "test",
+			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
