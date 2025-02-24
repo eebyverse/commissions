@@ -28,7 +28,7 @@ var data = {
 		{
 			// Fubbz | Edelcaiah and Lifthrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqmbkxd7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
 			title: "A Tail of Two Kitties",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
