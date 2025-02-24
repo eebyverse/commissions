@@ -189,7 +189,7 @@ a:hover, a:active {
 	border: none;
 	padding: 0.4375rem 0.75rem;
 	border-radius: 0.25rem;
-	background-color: #e3ae98;
+	background-color: #c97447;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 .shuffle-button:hover {
