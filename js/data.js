@@ -27,7 +27,7 @@ var data = {
 		},
 		{
 			// Fubbz | Edelcaiah and Lifthrasir
-			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png"],
+			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png", "https://cdn.imgchest.com/files/ye3c2owdz94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
 			title: "A Tail of Two Kitties",
 			artist: "fubbz",
@@ -189,7 +189,7 @@ var data = {
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1730733967702430189",
-			desc: "Season's greetings from two happy couples.",
+			desc: "A fond Season's Greetings from two happy couples!",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "lucina", "other"],
 			hidden: false
