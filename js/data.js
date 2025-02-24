@@ -15,7 +15,7 @@ var data = {
 		{
 			// Argilla | Edelgard and Laura
 			src: ["https://cdn.imgchest.com/files/4gdcx9wpkg4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gvajg7.png",
 			title: "Shows of Devotion",
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
@@ -41,7 +41,7 @@ var data = {
 		{
 			// Fubbz | Edelcaiah and Lifthrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png", "https://cdn.imgchest.com/files/ye3c2owdz94.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3agkg34.png",
 			title: "A Tail of Two Kitties",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
@@ -54,7 +54,7 @@ var data = {
 		{
 			// Fusenryo | Edelgard and Slurpuff
 			src: ["https://cdn.imgchest.com/files/4z9cv3jwbb7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmdadw7.png",
 			title: "Sweet Feelings",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
@@ -67,7 +67,7 @@ var data = {
 		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqmbkxd7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gmee27.png",
 			title: "Indulgence",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
@@ -80,7 +80,7 @@ var data = {
 		{
 			// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
-			thumbnail: "https://cdn.imgchest.com/files/46acqv8gkg7.png",
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kwn2ey.png",
 			title: "Midnight Rendezvous",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
@@ -93,12 +93,12 @@ var data = {
 		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqnn37.png",
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp3naed7.png",
 			title: "Walk With You",
 			artist: "Gale",
 			artist_url: "https://x.com/sampleduckling",
 			art_url: "https://x.com/sampleduckling/status/1683784135322771458",
-			desc: "Through Askr, an emperor shorn of hope finds something—and someone—new to believe in.",
+			desc: "Through Askr, an emperor shorn of hope finds something—and someone—to believe in.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -106,7 +106,7 @@ var data = {
 		{
 			// Greentapir | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4gdcx9wp6g4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/7w6c2n6q8wy.png",
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vxrvy.png",
 			title: "For Her Dream",
 			artist: "GreenTapir",
 			artist_url: "https://www.pixiv.net/en/users/57086285",
@@ -119,7 +119,7 @@ var data = {
 		{
 			// JadeSnap | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcngvkjo4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5ce39gqd4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3j5kv4.png",
 			title: "The Light of Dawn",
 			artist: "JadesnapArt",
 			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
@@ -132,7 +132,7 @@ var data = {
 		{
 			// Jebbee | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5ce39grm4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vx9vy.png",
 			title: "Thank You",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
@@ -145,7 +145,7 @@ var data = {
 		{
 			// kayksyla | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4apc5lq3e84.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2ow8qv4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5gx5d4.png",
 			title: "Queen and Confidant",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
@@ -158,33 +158,33 @@ var data = {
 		{
 			// LazzleDazzler | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/46acqv8b2m7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nl9m2y.png",
 			title: "Wavecrest Kiss",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
 			desc: "Even the heaviest burdens have a way of melting to nothing under the summer sun – as Edelgard is quick to discover after a day out with Micaiah.",
-			date_str: "Aug 2023",
+			date_str: "Jun 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
 			// Peach | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjx6gd7.png",
 			title: "Good Kitty",
 			artist: "Peach1101",
 			artist_url: "https://bsky.app/profile/peach1101.bsky.social",
 			art_url: null,
 			desc: "Queen Micaiah with her beloved companion – full of affection, and without a care in the world.",
-			date_str: "Jun 2022",
+			date_str: "Oct 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
 			// Redkite | Edelcaiah and Jokercina
 			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9nb4.png",
 			title: "Happy Holidays",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
@@ -197,12 +197,12 @@ var data = {
 		{
 			// Sethkiel | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv3oqja7.png",
 			title: "Meeting at the Edge of Dawn",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
-			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.",
+			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard", "collab"],
 			hidden: false
@@ -210,7 +210,7 @@ var data = {
 		{
 			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvznxrx4.png",
 			title: "A Little Chaos",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
@@ -223,7 +223,7 @@ var data = {
 		{
 			// Urby | Edelcaiah Mwah
 			src: ["https://cdn.imgchest.com/files/4jdcvz2jo84.png", "https://cdn.imgchest.com/files/yrgcn5bzmz4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9kb4.png",
 			title: "Mwah",
 			artist: "Urby",
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
@@ -236,7 +236,7 @@ var data = {
 		{
 			// Urby | Edelcaiah Little Guys
 			src: ["https://cdn.imgchest.com/files/7mmc9gqr2n7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxrpmk7.png",
 			title: "Little Guys",
 			artist: "Urby",
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
