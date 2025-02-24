@@ -20,7 +20,7 @@ var data = {
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: null,
-			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...",
+			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "laura", "edelgard", "eleanor", "gifts_received"],
 			hidden: false
@@ -33,7 +33,7 @@ var data = {
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.",
+			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Sep 2021",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
@@ -59,7 +59,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Edelgard delivers a heartfelt gift for the Day of Devotion – with a little help from a little friend.",
+			desc: "Edelgard delivers a heartfelt gift for the Day of Devotion – with a little help from a little friend.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "edelgard", "other", "gifts_received"],
 			hidden: false
@@ -137,7 +137,7 @@ var data = {
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
-			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid – but she tries all the same.",
+			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
@@ -189,7 +189,7 @@ var data = {
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1730733967702430189",
-			desc: "A fond Season's Greetings from two happy couples!",
+			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
 			hidden: false
@@ -215,7 +215,7 @@ var data = {
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
-			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...",
+			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
