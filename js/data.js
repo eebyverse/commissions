@@ -29,11 +29,11 @@ var data = {
 			// Fusenryo | Eeby + Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmbkxd7.png",
-			title: "eee",
+			title: "Indulgence",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "test",
+			desc: "Eeby's fondness for two fellow postgrads doesn't go unnoticed – and when they both catch her drinking alone one night, they decide together to indulge her interest...",
 			date_str: "Nov 2024",
 			tags: ["sfw", "micaiah", "edelgard", "eeby"],
 			hidden: false
