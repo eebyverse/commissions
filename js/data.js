@@ -182,6 +182,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Redkite | Edelcaiah and Jokercina
+			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "Happy Holidays",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1730733967702430189",
+			desc: "A fond Season's Greetings from two happy couples!",
+			date_str: "Dec 2023",
+			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Sethkiel | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
@@ -198,7 +211,7 @@ var data = {
 			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "Little Chaos",
+			title: "A Little Chaos",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
@@ -208,16 +221,29 @@ var data = {
 			hidden: false
 		},
 		{
-			// Redkite | Edelcaiah and Jokercina
-			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
+			// Urby | Edelcaiah Mwah
+			src: ["https://cdn.imgchest.com/files/4jdcvz2jo84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
-			title: "Happy Holidays",
-			artist: "RedKite",
-			artist_url: "https://x.com/RedKite333",
-			art_url: "https://x.com/RedKite333/status/1730733967702430189",
-			desc: "A fond Season's Greetings from two happy couples!",
+			title: "Mwah",
+			artist: "Urby",
+			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
+			art_url: null,
+			desc: "Just say mwah.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Urby | Edelcaiah Little Guys
+			src: ["https://cdn.imgchest.com/files/7mmc9gqr2n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "Little Guys",
+			artist: "Urby",
+			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
+			art_url: null,
+			desc: "Return to small.",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
