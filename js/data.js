@@ -13,6 +13,19 @@ var data = {
 			hidden: true
 		},
 		{
+			// Argilla | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/7ogcbp5b89y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kw2oly.png",
+			title: "Black and White",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://x.com/babykatafan/status/1782083946467008730",
+			desc: "TBD",
+			date_str: "Apr 2024",
+			tags: ["sfw", "edelgard", "micaiah"],
+			hidden: false
+		},
+		{
 			// Argilla | Edelgard and Laura
 			src: ["https://cdn.imgchest.com/files/4gdcx9wpkg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gvajg7.png",
@@ -26,8 +39,99 @@ var data = {
 			hidden: false
 		},
 		{
+			// Betabetamaru | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
+			title: "TBD",
+			artist: "Betabetamaru_77",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
+			desc: "TBD",
+			date_str: "May 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Darkness | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3jebr4.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Apr 2023",
+			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dotty | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
+			title: "TBD",
+			artist: "Dotty",
+			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
+			art_url: "https://x.com/dotted__clouds/status/1514487683636084739",
+			desc: "TBD",
+			date_str: "Apr 2022",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Edelgard and Micaiah #1
+			src: ["https://cdn.imgchest.com/files/yd5ce3je9k4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca85vbw7.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: "https://x.com/Dux_Draws/status/1678409676193406978",
+			desc: "TBD",
+			date_str: "Jul 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Edelgard and Micaiah #2
+			src: ["https://cdn.imgchest.com/files/yrgcn5gnb54.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng3xqg4.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: "https://x.com/Dux_Draws/status/1681033489154539523",
+			desc: "TBD",
+			date_str: "Jul 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Edelgard and Micaiah #3
+			src: ["https://cdn.imgchest.com/files/7mmc9gv9qw7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nlezmy.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: "https://x.com/Dux_Draws/status/1724296286352843192",
+			desc: "TBD",
+			date_str: "Nov 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
 			// Evo | Edelcaiah Kiss
-			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
+			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
 			title: "No Going Back",
 			artist: "Evomanaphy",
@@ -49,6 +153,18 @@ var data = {
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
+			hidden: false
+		},
+		{			// Fusenryo | Edelcaiah Kiss
+			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
+			title: "Saint and Sinner",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "In one timeline, after learning of their common foe, Flayn resolves to stay with Edelgard – serving as both a moderating force and a ward against the greater evils she knows only too well.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "edelgard", "flayn"],
 			hidden: false
 		},
 		{
@@ -182,6 +298,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Edelgard Tea
+			src: ["https://cdn.imgchest.com/files/49zc2kw2gqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gv98j7.png",
+			title: "Simple Curiosity",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1752115176588091475",
+			desc: "She's got a nose for these things.",
+			date_str: "Jan 2024",
+			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
 			// Redkite | Edelcaiah and Jokercina
 			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9nb4.png",
@@ -218,6 +347,19 @@ var data = {
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Sugarwurm | Edelgard Cosy
+			src: ["https://cdn.imgchest.com/files/4nec8ok8wx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2oa23d4.png",
+			title: "Comfy Cosy",
+			artist: "Shelby",
+			artist_url: "https://x.com/sugarwurm",
+			art_url: null,
+			desc: "The perfect antidote to a hard, stressful day.",
+			date_str: "Jun 2024",
+			tags: ["sfw", "edelgard"],
 			hidden: false
 		},
 		{
