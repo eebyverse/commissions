@@ -229,7 +229,7 @@ var data = {
 			art_url: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
 			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Feb 2025",
-			tags: ["sfw", "micaiah", "other"],
+			tags: ["sfw", "micaiah", "other", "gifts_given"],
 			hidden: false
 		},
 		{
