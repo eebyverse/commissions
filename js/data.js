@@ -66,7 +66,7 @@ var data = {
 		},
 		{
 			// DeliiChan | Edelgard and Micaiah
-			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
+			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
 			title: "TBD",
 			artist: "DeliiChan",
@@ -79,8 +79,8 @@ var data = {
 		},
 		{
 			// Dotty | Edelgard and Micaiah
-			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
+			src: ["https://cdn.imgchest.com/files/4jdcvznv2v4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kwawgy.png",
 			title: "TBD",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
@@ -131,7 +131,7 @@ var data = {
 		},
 		{
 			// Evo | Edelcaiah Kiss
-			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
+			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
 			title: "No Going Back",
 			artist: "Evomanaphy",
