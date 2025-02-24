@@ -26,6 +26,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Edelcaiah and Lifthrasir
+			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmbkxd7.png",
+			title: "A Tail of Two Kitties",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmbkxd7.png",
