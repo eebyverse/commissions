@@ -110,10 +110,49 @@ var data = {
 			title: "eee",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
-			art_url: "https://x.com/SummonerEeby/status/1687400106755018753",
+			art_url: null,
 			desc: "test",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/46acqv8b2m7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "eee",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "test",
+			date_str: "Aug 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Peach | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "eee",
+			artist: "Peach1101",
+			artist_url: "https://bsky.app/profile/peach1101.bsky.social",
+			art_url: null,
+			desc: "test",
+			date_str: "Jun 2022",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Sethkiel | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "eee",
+			artist: "Sethkiel",
+			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
+			art_url: null,
+			desc: "test",
+			date_str: "Mar 2024",
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
