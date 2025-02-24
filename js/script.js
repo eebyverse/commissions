@@ -247,7 +247,7 @@ function translateWord(word) {
 		eleanor: "Eleanor",
 		micaiah: "Micaiah",
 		laura: "Laura",
-		Lucina: "Lucina",
+		lucina: "Lucina",
 		eeby: "Eeby",
 		lif: "Líf",
 		thrasir: "Thrasir",
