@@ -69,9 +69,9 @@ body {
 }
 .gallery-img {
 	display: block;
-	margin-bottom: 2%;
+	margin-bottom: 1%;
 	width: 18%;
-	margin-right: 2%;
+	margin-right: 1%;
 	float: left;
 }
 #gallery-header {
