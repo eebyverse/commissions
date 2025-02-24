@@ -22,7 +22,7 @@ var data = {
 			art_url: null,
 			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.",
 			date_str: "Sep 2021",
-			tags: ["sfw", "micaiah", "edelgard"],
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -34,8 +34,21 @@ var data = {
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
-			date_str: "Nov 2024",
+			date_str: "Dec 2024",
 			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelgard and Slurpuff
+			src: ["https://cdn.imgchest.com/files/4z9cv3jwbb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
+			title: "Sweet Feelings",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Edelgard delivers a heartfelt gift for the Day of Devotion – with a little help from a little friend.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "edelgard", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -113,7 +126,7 @@ var data = {
 			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
 			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid – but she tries all the same.",
 			date_str: "Aug 2023",
-			tags: ["sfw", "micaiah", "edelgard"],
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -165,7 +178,7 @@ var data = {
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
 			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.",
 			date_str: "Mar 2024",
-			tags: ["sfw", "micaiah", "edelgard"],
+			tags: ["sfw", "micaiah", "edelgard", "collab"],
 			hidden: false
 		},
 		{
@@ -178,7 +191,7 @@ var data = {
 			art_url: null,
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...",
 			date_str: "Jun 2022",
-			tags: ["sfw", "micaiah", "edelgard"],
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -191,7 +204,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1730733967702430189",
 			desc: "A fond Season's Greetings from two happy couples!",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "lucina", "other"],
+			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
 			hidden: false
 		},
 		{
