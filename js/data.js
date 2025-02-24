@@ -149,14 +149,14 @@ var data = {
 			title: "eee",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
-			art_url: null,
+			art_url: "https://x.com/sethkiell/status/1773838847778128034",
 			desc: "test",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
-			// Sethkiel | Edelcaiah
+			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
 			title: "eee",
