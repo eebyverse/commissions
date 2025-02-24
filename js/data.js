@@ -207,16 +207,16 @@ var data = {
 			hidden: false
 		},
 		{
-			// Fusenryo | Edelcaiah Kiss
-			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
-			thumbnail: "https://cdn.imgchest.com/files/49zc2kwn2ey.png",
-			title: "Midnight Rendezvous",
+			// Fusenryo | Micaiah and Vika
+			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
+			title: "TBD",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
-			date_str: "Oct 2024",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			art_url: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "micaiah", "other"],
 			hidden: false
 		},
 		{
