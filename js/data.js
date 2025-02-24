@@ -168,7 +168,7 @@ var data = {
 			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
 			hidden: false
 		},
-		{	// Fusenryo | Edelcaiah Kiss
+		{	// Fusenryo | Edelgard and Flayn
 			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
 			title: "Saint and Sinner",
@@ -191,6 +191,19 @@ var data = {
 			desc: "Edelgard delivers a heartfelt gift for the Day of Devotion – with a little help from a little friend.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "edelgard", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelcaiah Kiss
+			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kwn2ey.png",
+			title: "Midnight Rendezvous",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
