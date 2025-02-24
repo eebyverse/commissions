@@ -58,7 +58,7 @@ body {
 	padding-left: 2%;
 }
 #gallery img {
-	width: 110%;
+	width: 100%;
 	border-radius: 2px;
 	transition: filter 0.15s ease-in-out;
 }
@@ -79,7 +79,7 @@ body {
 	margin-bottom: 15px;
 }
 #title {
-	font-size: 16px;
+	font-size: 22px;
 }
 .modal {
 	text-align: center;
@@ -93,7 +93,7 @@ body {
 	max-width: 95%;
 }
 .modal-content {
-	background-color: #db8e72;
+	background-color: #c97447;
 }
 .modal-header {
 	border-bottom: 1px solid #e3ae98;
