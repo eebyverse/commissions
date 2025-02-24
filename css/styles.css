@@ -47,7 +47,7 @@ body {
 	color: white;
 }
 #gallery-container {
-	background-color: #db8e72;
+	background-color: #e3ae98;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	padding-bottom: 10px;
@@ -58,7 +58,7 @@ body {
 	padding-left: 2%;
 }
 #gallery img {
-	width: 100%;
+	width: 50%;
 	border-radius: 2px;
 	transition: filter 0.15s ease-in-out;
 }
