@@ -240,9 +240,9 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		nsfw: "NSFW 🔞",
-		gifts_given: "Gift (Given) 🫳",
-		gifts_received: "Gift (Received) 🫴",
-		collab: "Collaboration 🤝",
+		gifts_given: "Gift (Given)",
+		gifts_received: "Gift (Received)",
+		collab: "Collaboration",
 		edelgard: "Edelgard",
 		eleanor: "Eleanor",
 		micaiah: "Micaiah",
@@ -251,6 +251,7 @@ function translateWord(word) {
 		eeby: "Eeby",
 		lif: "Líf",
 		thrasir: "Thrasir",
+		flayn: "Flayn",
 		other: "Other/Misc"
 	};
 	if (word in translations) {
