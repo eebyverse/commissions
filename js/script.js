@@ -239,10 +239,10 @@ function updateImageCountLabel() {
 function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
-		nsfw: "NSFW",
-		gifts_given: "Gifts Given",
-		gifts_received: "Gifts Received",
-		collab: "Collaborations",
+		nsfw: "NSFW 🔞",
+		gifts_given: "Gift (Given) 🫳",
+		gifts_received: "Gift (Received) 🫴",
+		collab: "Collaboration 🤝",
 		edelgard: "Edelgard",
 		eleanor: "Eleanor",
 		micaiah: "Micaiah",
