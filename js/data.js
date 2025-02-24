@@ -222,7 +222,7 @@ var data = {
 		},
 		{
 			// Urby | Edelcaiah Mwah
-			src: ["https://cdn.imgchest.com/files/4jdcvz2jo84.png"],
+			src: ["https://cdn.imgchest.com/files/4jdcvz2jo84.png", "https://cdn.imgchest.com/files/yrgcn5bzmz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjvzap7.png",
 			title: "Mwah",
 			artist: "Urby",
