@@ -42,11 +42,11 @@ var data = {
 			// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv8gkg7.png",
-			title: "eee",
+			title: "Midnight Rendezvous",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "test",
+			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
 			date_str: "Oct 2024",
 			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
@@ -55,11 +55,11 @@ var data = {
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gqnn37.png",
-			title: "eee",
+			title: "Walk With You",
 			artist: "Gale",
 			artist_url: "https://x.com/sampleduckling",
 			art_url: "https://x.com/sampleduckling/status/1683784135322771458",
-			desc: "test",
+			desc: "Through Askr, an emperor shorn of hope finds something—and someone—new to believe in.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
