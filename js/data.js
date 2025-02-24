@@ -65,8 +65,21 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Eleanor
+			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
+			title: "Eleanor, Maid of Mystery",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Edelgard and Micaiah
-			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
+			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
 			title: "TBD",
 			artist: "DeliiChan",
@@ -79,8 +92,8 @@ var data = {
 		},
 		{
 			// Dotty | Edelgard and Micaiah
-			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
+			src: ["https://cdn.imgchest.com/files/4jdcvznv2v4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kwawgy.png",
 			title: "TBD",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
@@ -131,7 +144,7 @@ var data = {
 		},
 		{
 			// Evo | Edelcaiah Kiss
-			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
+			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
 			title: "No Going Back",
 			artist: "Evomanaphy",
@@ -155,7 +168,7 @@ var data = {
 			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
 			hidden: false
 		},
-		{			// Fusenryo | Edelcaiah Kiss
+		{	// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
 			title: "Saint and Sinner",
@@ -285,6 +298,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Eleanor
+			src: ["https://cdn.imgchest.com/files/7w6c2nl26gy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lgl3b4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
 			// Peach | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjx6gd7.png",
@@ -308,6 +334,19 @@ var data = {
 			desc: "She's got a nose for these things.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// Mnejing | Eleanor
+			src: ["https://cdn.imgchest.com/files/ye3c2oa2wl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng3g2m4.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
+			desc: "TBD",
+			date_str: "Nov 2023",
+			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
 		},
 		{
