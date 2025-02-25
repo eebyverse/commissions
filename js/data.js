@@ -39,6 +39,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Asu | Miccy and Renne
+			src: ["https://cdn.imgchest.com/files/yrgcn5gkxm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr2r7.png",
+			title: "TBD",
+			artist: "Asu",
+			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
+			art_url: "https://x.com/Aegis_Asu/status/1769005985400549832",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Bad Frog | Micaiah Birthday
 			src: ["https://cdn.imgchest.com/files/yq9c3agaon4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx5w6k97.png",
@@ -259,6 +272,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gale | Laura and Miccy
+			src: ["https://cdn.imgchest.com/files/739cx59nzv7.jpg", "https://cdn.imgchest.com/files/7w6c2nlm98y.jpg", "https://cdn.imgchest.com/files/yd5ce3jz584.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3l25w4.png",
+			title: "Growing Closer",
+			artist: "Gale",
+			artist_url: "https://x.com/sampleduckling",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "micaiah", "laura"],
+			hidden: false
+		},
+		{
 			// Greentapir | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4gdcx9wp6g4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vxrvy.png",
@@ -295,6 +321,19 @@ var data = {
 			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jebbee | Miccy and Fiona
+			src: ["https://cdn.imgchest.com/files/4nec8okwze4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lomng4.png",
+			title: "TBD",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://x.com/JebbeeSketches/status/1714267215380578771",
+			desc: "TBD<br/><br/>Unpaid sketch request.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -350,6 +389,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Pomelo | Modern Miccy
+			src: ["https://cdn.imgchest.com/files/46acqvkvmm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9rb8w4.png",
+			title: "TBD",
+			artist: "PomeloMelon",
+			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
+			art_url: "https://x.com/PomeloMelon1/status/1772311065293963729",
+			desc: "TBD.",
+			date_str: "Mar 2024",
+			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// Meqqey | Miccy
+			src: ["https://cdn.imgchest.com/files/yrgcn5g5ez4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqvwbg27.png",
+			title: "TBD",
+			artist: "Meqqey",
+			artist_url: "https://ko-fi.com/meqqey",
+			art_url: "https://x.com/Meqqey/status/1576645426006327296",
+			desc: "TBD.",
+			date_str: "Oct 2022",
+			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
 			// Mnejing | Edelgard Tea
 			src: ["https://cdn.imgchest.com/files/49zc2kw2gqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gv98j7.png",
@@ -376,6 +441,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Miccy Manuela
+			src: ["https://cdn.imgchest.com/files/7mmc9gvgen7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr3r7.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1798492259140411794",
+			desc: "TBD",
+			date_str: "Jun 2024",
+			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
 			// Redkite | Edelcaiah and Jokercina
 			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9nb4.png",
@@ -386,6 +464,19 @@ var data = {
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Rotomdocs | PJ Miccy
+			src: ["https://cdn.imgchest.com/files/yxkczxrjpz7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lx3pm4.png",
+			title: "TBD",
+			artist: "RotomDocs",
+			artist_url: "https://web-cdn.bsky.app/profile/did:plc:hd3rni5gped4mfzeu3qwymoo",
+			art_url: "https://x.com/RotomDocs/status/1786745690095514110",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "May 2024",
+			tags: ["sfw", "micaiah", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
