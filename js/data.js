@@ -20,7 +20,7 @@ var data = {
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/babykatafan/status/1782083946467008730",
-			desc: "TBD",
+			desc: "Compared to the clamour and commotion of their university's debating society, where they first met, a morning game of chess allows Micaiah and Edelgard to wage a battle of wits in much more comfortable—and intimate—surroundings.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "edelgard", "micaiah"],
 			hidden: false
@@ -46,7 +46,7 @@ var data = {
 			artist: "Bad Frog",
 			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
+			desc: "Micaiah offers up a treat for a very special day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "micaiah", "gifts_received"],
 			hidden: false
@@ -55,11 +55,11 @@ var data = {
 			// Betabetamaru | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
-			title: "TBD",
+			title: "A Moment's Repreive",
 			artist: "Betabetamaru_77",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
-			desc: "TBD",
+			desc: "Though downtime brings its own share of struggles for Edelgard, Micaiah always ensures she gets the rest she needs – warding off nightmares with her steady, comforting presence.",
 			date_str: "May 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -68,11 +68,11 @@ var data = {
 			// Darkness | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3jebr4.png",
-			title: "TBD",
+			title: "Just One",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
+			desc: "Impatient for the working day to end, Micaiah steals a midday kiss from her devoted head of staff. No-one will notice a few moments' absence...",
 			date_str: "Apr 2023",
 			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
 			hidden: false
@@ -85,7 +85,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids. ",
 			date_str: "Jun 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
@@ -94,11 +94,11 @@ var data = {
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
-			title: "TBD",
+			title: "Dawn's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "Micaiah's fondness for hugs is quick to rub off on others – even the restrained and reserved Emperor of Adrestia.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -107,11 +107,11 @@ var data = {
 			// Dotty | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4jdcvznv2v4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kwawgy.png",
-			title: "TBD",
+			title: "Adjacent",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
 			art_url: "https://x.com/dotted__clouds/status/1514487683636084739",
-			desc: "TBD",
+			desc: "Upon learning that Edelgard can only transform into the monstrous Hegemon Husk if isolated from her allies, Micaiah refuses to leave her side.",
 			date_str: "Apr 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -120,11 +120,11 @@ var data = {
 			// Dux_Draws | Edelgard and Micaiah #1
 			src: ["https://cdn.imgchest.com/files/yd5ce3je9k4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca85vbw7.png",
-			title: "TBD",
+			title: "Dawn of a New Year",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: "https://x.com/Dux_Draws/status/1678409676193406978",
-			desc: "TBD",
+			desc: "Edelgard and Micaiah welcome the new year as one.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -133,11 +133,11 @@ var data = {
 			// Dux_Draws | Edelgard and Micaiah #2
 			src: ["https://cdn.imgchest.com/files/yrgcn5gnb54.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3xqg4.png",
-			title: "TBD",
+			title: "Dual Nature",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: "https://x.com/Dux_Draws/status/1681033489154539523",
-			desc: "TBD",
+			desc: "Edelgard and Micaiah's costumes for Halloween cut a striking contrast – heron and husk, angel and devil.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -146,11 +146,11 @@ var data = {
 			// Dux_Draws | Edelgard and Micaiah #3
 			src: ["https://cdn.imgchest.com/files/7mmc9gv9qw7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nlezmy.png",
-			title: "TBD",
+			title: "Shinobi in Scarlet",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: "https://x.com/Dux_Draws/status/1724296286352843192",
-			desc: "TBD",
+			desc: "While Edelgard initially declined to attend the Ninja Festival, Micaiah eventually persuaded her to step out of the shadows – flame shuriken in hand.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -327,11 +327,11 @@ var data = {
 			// LazzleDazzler | Eleanor
 			src: ["https://cdn.imgchest.com/files/7w6c2nl26gy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgl3b4.png",
-			title: "TBD",
+			title: "Eleanor, Devoted Servant",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, in more casual attire. Though many of Daein Keep's servants dream of trying their luck with her, all agree—begrudgingly—that her heart already belongs to their queen.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
