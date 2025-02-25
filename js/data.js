@@ -378,7 +378,7 @@ var data = {
 		{
 			// kayksyla | Camilla
 			src: ["https://cdn.imgchest.com/files/49zc2kz2aay.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn568xl4.png",
 			title: "TBD",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
@@ -559,15 +559,28 @@ var data = {
 		},
 		{
 			// r51633060 | Brave Camilla
-			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png", "https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9g5zgz7.png",
+			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
 			title: "TBD",
 			artist: "RedKite",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
-			tags: ["sfw", "nsfw", "camilla", "gifts_given"],
+			tags: ["sfw", "camilla", "gifts_given"],
+			hidden: false
+		},
+		{
+			// r51633060 | Brave Camilla
+			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/r51633060",
+			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["nsfw", "camilla", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -607,6 +620,19 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "micaiah", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
+			// ScruffyTurtles | Eirimilla
+			src: ["https://cdn.imgchest.com/files/yd5ce3bekr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqvzo5z7.png",
+			title: "TBD",
+			artist: "ScruffyTurtles",
+			artist_url: "https://bsky.app/profile/scruffyturtles.bsky.social",
+			art_url: null,
+			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jul 2024",
+			tags: ["sfw", "camilla", "eirika", "collab"],
 			hidden: false
 		},
 		{
