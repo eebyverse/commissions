@@ -312,7 +312,7 @@ var data = {
 		},
 		{
 			// Homugabs | Edelgard and Micaiah
-			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
+			src: ["https://cdn.imgchest.com/files/739cx5mrnp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3ld394.png",
 			title: "TBD",
 			artist: "Homugabs",
@@ -378,7 +378,7 @@ var data = {
 		{
 			// Kitty | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcng86l94.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/yrgcn5gx5d4.png",
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8w54.png",
 			title: "TBD",
 			artist: "Kitty",
 			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
@@ -572,7 +572,7 @@ var data = {
 		},
 		{
 			// Siren | Edelcaiah
-			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
+			src: ["https://cdn.imgchest.com/files/ye3c2o3npp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
 			title: "TBD",
 			artist: "Siren",
@@ -580,7 +580,7 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
 			date_str: "May 2024",
-			tags: ["nsfw", "micaiah", "edelgard", "other", "collabs"],
+			tags: ["nsfw", "micaiah", "edelgard", "other", "collab"],
 			hidden: false
 		},
 		{
