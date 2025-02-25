@@ -236,11 +236,11 @@ var data = {
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
-			title: "TBD",
+			title: "Sheltered From the Rain",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
-			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			desc: "Between battles for Daein's liberation, Vika and Micaiah's fledgling friendship is quick to blossom into something more.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "micaiah", "other", "gifts_given"],
 			hidden: false
@@ -366,11 +366,11 @@ var data = {
 			// Mnejing | Eleanor
 			src: ["https://cdn.imgchest.com/files/ye3c2oa2wl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3g2m4.png",
-			title: "TBD",
+			title: "Memento",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
-			desc: "TBD",
+			desc: "Though the crown is gone, its weight remains.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
