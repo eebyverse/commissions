@@ -38,6 +38,32 @@ var data = {
 			tags: ["sfw", "laura", "edelgard", "eleanor", "gifts_received"],
 			hidden: false
 		},
+			{
+			// Argilla | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/7ogcbp5b89y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kw2oly.png",
+			title: "Black and White",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://x.com/babykatafan/status/1782083946467008730",
+			desc: "TBD",
+			date_str: "Apr 2024",
+			tags: ["sfw", "edelgard", "micaiah"],
+			hidden: false
+		},
+		{
+			// Bad Frog | Micaiah Birthday
+			src: ["https://cdn.imgchest.com/files/yq9c3agaon4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx5w6k97.png",
+			title: "TBD",
+			artist: "Bad Frog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "micaiah", "gifts_received"],
+			hidden: false
+		},
 		{
 			// Betabetamaru | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
