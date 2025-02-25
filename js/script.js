@@ -244,6 +244,7 @@ function translateWord(word) {
 		gifts_received: "🎁 Gifts (from others)",
 		collab: "🤝 Collabs",
 		edelgard: "👤 Edelgard",
+		eirika: "👤 Eirika",
 		eleanor: "👤 Eleanor",
 		micaiah: "👤 Micaiah",
 		laura: "👤 Laura",
