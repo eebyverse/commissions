@@ -573,7 +573,7 @@ var data = {
 		{
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn568664.png",
 			title: "TBD",
 			artist: "RedKite",
 			artist_url: "https://x.com/r51633060",
