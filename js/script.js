@@ -243,16 +243,16 @@ function translateWord(word) {
 		gifts_given: "💝 Gifts (to others)",
 		gifts_received: "🎁 Gifts (from others)",
 		collab: "🤝 Collabs",
-		edelgard: "Edelgard",
-		eleanor: "Eleanor",
-		micaiah: "Micaiah",
-		laura: "Laura",
-		lucina: "Lucina",
-		eeby: "Eeby",
-		lif: "Líf",
-		thrasir: "Thrasir",
-		flayn: "Flayn",
-		other: "Other/Misc"
+		edelgard: "👤 Edelgard",
+		eleanor: "👤 Eleanor",
+		micaiah: "👤 Micaiah",
+		laura: "👤 Laura",
+		lucina: "👤 Lucina",
+		eeby: "👤 Eeby",
+		lif: "👤 Líf",
+		thrasir: "👤 Thrasir",
+		flayn: "👤 Flayn",
+		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
 		return translations[word];
