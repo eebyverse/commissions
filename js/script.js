@@ -252,6 +252,7 @@ function translateWord(word) {
 		lif: "👤 Líf",
 		thrasir: "👤 Thrasir",
 		flayn: "👤 Flayn",
+		camilla: "👤 Camilla",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
