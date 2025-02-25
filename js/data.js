@@ -240,7 +240,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
-			desc: "Between battles for Daein's liberation, Vika and Micaiah's fledgling friendship is quick to blossom into something more.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			desc: "Between battles for Daein's liberation, Vika and Micaiah discover feelings deeper than simple friendship.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "micaiah", "other", "gifts_given"],
 			hidden: false
@@ -370,7 +370,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
-			desc: "Though the crown is gone, its weight remains.",
+			desc: "A crown doesn't need to be worn for its weight to remain.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
