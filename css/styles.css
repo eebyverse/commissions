@@ -74,6 +74,7 @@ body {
 	margin-right: 2%;
 	float: left;
 	position: relative;
+	overflow: hidden;
 }
 .thumbnail-title {
 	display: inline-block;
@@ -94,6 +95,7 @@ body {
 	backdrop-filter: blur(5px);
 	background: rgba(0, 0, 0, 0.5);
 	font-size: 1.2rem;
+	max-height: 100%;
 }
 .gallery-img:hover .thumbnail-title {
 	opacity: 1;
