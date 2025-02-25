@@ -62,7 +62,7 @@ body {
 	border-radius: 2px;
 	transition: filter 0.15s ease-in-out;
 }
-#gallery img:hover {
+.gallery-img:hover {
 	filter: brightness(1.15);
 	cursor: zoom-in;
 	transition: filter 0.15s ease-in-out;
@@ -73,6 +73,31 @@ body {
 	width: 18%;
 	margin-right: 2%;
 	float: left;
+	position: relative;
+}
+.thumbnail-title {
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+	opacity: 0;
+	transition: opacity 0.3s ease;
+	color: white;
+	text-shadow: 
+		-1px -1px 0 black,  
+		 1px -1px 0 black,
+		-1px  1px 0 black,
+		 1px  1px 0 black;
+	font-weight: bold;
+	backdrop-filter: blur(5px);
+	background: rgba(0, 0, 0, 0.5);
+	font-size: 1.2rem;
+}
+.gallery-img:hover .thumbnail-title {
+	opacity: 1;
+	cursor: zoom-in;
 }
 #gallery-header {
 	margin-top: 30px;

@@ -159,7 +159,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 			tags.add(image.tags[t]);
 		}
 		// If image is hidden, then don't show it
-		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img"+((image.hidden) ? " hidden-image" : "") +"' index='"+index+"' id='img"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' index='"+index+"' class='"+tags_class+"'></a>";
+		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img"+((image.hidden) ? " hidden-image" : "") +"' index='"+index+"' id='img"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' index='"+index+"' class='"+tags_class+"'><div class='thumbnail-title'>"+image.title+"</div></a>";
 	}
 	$("#gallery").html(gallery_html);
 
