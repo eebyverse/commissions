@@ -78,6 +78,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ClariAriKari | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2o35o34.png",
+			title: "TBA",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
 			// Darkness | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/y2pckazk987.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3jebr4.png",
@@ -279,7 +292,7 @@ var data = {
 			artist: "Gale",
 			artist_url: "https://x.com/sampleduckling",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Three snapshots from a year of love and war.",
 			date_str: "Sep 2023",
 			tags: ["sfw", "micaiah", "laura"],
 			hidden: false
@@ -292,9 +305,22 @@ var data = {
 			artist: "GreenTapir",
 			artist_url: "https://www.pixiv.net/en/users/57086285",
 			art_url: "https://www.pixiv.net/en/artworks/98574144",
-			desc: "If peace is a fragile dream, it must be protected – no matter the personal cost.",
+			desc: "Knowing her own dreams lie in ruin, Edelgard resolves to keep Micaiah's alive – no matter the cost.",
 			date_str: "May 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Homugabs | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3ld394.png",
+			title: "TBD",
+			artist: "Homugabs",
+			artist_url: "https://bsky.app/profile/homuspicy.bsky.social",
+			art_url: "https://x.com/homuspicy/status/1795832946680906132/photo/1",
+			desc: "TBD.",
+			date_str: "May 2024",
+			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -347,6 +373,19 @@ var data = {
 			desc: "Queen Micaiah, fifteenth ruler of Daein, alongside her trusted head of staff. But, as so many nobles have wondered, both privately and openly... just who is this mysterious young woman, to command such authority and receive such unconditional trust from the Queen?",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// Kitty | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/y8xcng86l94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5gx5d4.png",
+			title: "TBD",
+			artist: "Kitty",
+			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2023",
+			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -415,6 +454,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// micaiah_mrmm | Micaiah
+			src: ["https://cdn.imgchest.com/files/49zc2kolgvy.png","https://cdn.imgchest.com/files/yvdcw9oqb6y.png","https://cdn.imgchest.com/files/4apc5lo8dx4.png","https://cdn.imgchest.com/files/46acqvedae7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nowd9y.png",
+			title: "Eat Out to Help Out",
+			artist: "micaiah_mrmm",
+			artist_url: "https://www.pixiv.net/en/users/6486686",
+			art_url: "https://www.pixiv.net/en/artworks/101661248",
+			desc: "TBD",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "micaiah"],
+			hidden: false
+		},
+		{
 			// Mnejing | Edelgard Tea
 			src: ["https://cdn.imgchest.com/files/49zc2kw2gqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gv98j7.png",
@@ -451,6 +503,19 @@ var data = {
 			desc: "TBD",
 			date_str: "Jun 2024",
 			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// Mr.Takealook | Edelgard
+			src: ["https://cdn.imgchest.com/files/yq9c3anq5o4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxo9zq7.png",
+			title: "TBD",
+			artist: "Mr.Takealook",
+			artist_url: null,
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Jan 2022",
+			tags: ["nsfw", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -495,7 +560,7 @@ var data = {
 		{
 			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvznxrx4.png",
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv3xpaj7.png",
 			title: "A Little Chaos",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
@@ -503,6 +568,19 @@ var data = {
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Siren | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
+			date_str: "May 2024",
+			tags: ["nsfw", "micaiah", "edelgard", "other", "collabs"],
 			hidden: false
 		},
 		{
@@ -516,6 +594,19 @@ var data = {
 			desc: "The perfect antidote to a hard, stressful day.",
 			date_str: "Jun 2024",
 			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Dawn's Devotion
+			src: ["https://cdn.imgchest.com/files/7kzca83le67.png", "https://cdn.imgchest.com/files/45xcvmw5kd7.png", "https://cdn.imgchest.com/files/4gdcx9rzvl4.png", "https://cdn.imgchest.com/files/4z9cv3xp8j7.png", "https://cdn.imgchest.com/files/7w6c2nowmny.png", "https://cdn.imgchest.com/files/7pjcqmojx37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8ba4.png",
+			title: "Dawn's Devotion",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2024 – Mar 2025",
+			tags: ["nsfw", "micaiah", "laura", "other"],
 			hidden: false
 		},
 		{
