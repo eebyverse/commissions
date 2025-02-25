@@ -324,6 +324,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// JadeSnap | Camilla
+			src: ["https://cdn.imgchest.com/files/yxkczx2znb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczx2znb7.png",
+			title: "TBD",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "camilla", "gifts_given"],
+			hidden: false
+		},
+		{
 			// JadeSnap | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcngvkjo4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3j5kv4.png",
@@ -360,6 +373,19 @@ var data = {
 			desc: "TBD<br/><br/>Unpaid sketch request.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// kayksyla | Camilla
+			src: ["https://cdn.imgchest.com/files/49zc2kz2aay.png"],
+			thumbnail: "",
+			title: "TBD",
+			artist: "kayksyla",
+			artist_url: "https://x.com/kayksyla_",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "camilla", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -467,6 +493,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Camilla
+			src: ["https://cdn.imgchest.com/files/4nec8o58eo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw96ra8y.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1739404795889467567",
+			desc: "TBD.",
+			date_str: "Dec 2023",
+			tags: ["sfw", "camilla"],
+			hidden: false
+		},
+		{
 			// Mnejing | Edelgard Tea
 			src: ["https://cdn.imgchest.com/files/49zc2kw2gqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gv98j7.png",
@@ -516,6 +555,19 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// r51633060 | Brave Camilla
+			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png", "https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9g5zgz7.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/r51633060",
+			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["sfw", "nsfw", "camilla", "gifts_given"],
 			hidden: false
 		},
 		{
