@@ -188,7 +188,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "In one timeline, after learning of their common foe, Flayn resolves to stay with Edelgard – serving as both a moderating force and a ward against the greater evils she knows only too well.",
+			desc: "A glimpse into a timeline where, after learning of their common foe, Flayn resolves to stay with Edelgard – serving as both a moderating force and a ward against the greater evils she knows only too well.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "edelgard", "flayn"],
 			hidden: false
