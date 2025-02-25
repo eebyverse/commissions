@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "edelgard", "eeby", "eleanor", "flayn", "laura", "lif", "lucina", "micaiah", "thrasir", "other"],
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "edelgard", "eeby", "eirika", "eleanor", "flayn", "laura", "lif", "lucina", "micaiah", "thrasir", "other"],
 			hidden: true
 		},
 		{
@@ -204,7 +204,7 @@ var data = {
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2024",
-			tags: ["sfw", "micaiah", "edelgard", "lif", "thrasir"],
+			tags: ["sfw", "micaiah", "edelgard", "thrasir", "other"],
 			hidden: false
 		},
 		{	// Fusenryo | Edelgard and Flayn
@@ -516,6 +516,19 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Redkite | Camilla and Flora
+			src: ["https://cdn.imgchest.com/files/yvdcw96wrwy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn56nl34.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1754312661372928498",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Feb 2024",
+			tags: ["sfw", "camilla", "other", "collab"],
 			hidden: false
 		},
 		{
