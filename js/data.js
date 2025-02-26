@@ -42,11 +42,11 @@ var data = {
 			// Asu | Miccy and Renne
 			src: ["https://cdn.imgchest.com/files/yrgcn5gkxm4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr2r7.png",
-			title: "TBD",
+			title: "Golden Eyes",
 			artist: "Asu",
 			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
 			art_url: "https://x.com/Aegis_Asu/status/1769005985400549832",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
+			desc: "Micaiah and Renne Bright – worlds apart, yet with a strikingly similar gaze...<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
@@ -405,11 +405,11 @@ var data = {
 			// Kitty | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcng86l94.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8w54.png",
-			title: "TBD",
+			title: "Heat of Summer",
 			artist: "Kitty",
 			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
 			art_url: null,
-			desc: "Edelgard's first time accompanying Micaiah to the Hoshidan summer festival ends the only way it can.",
+			desc: "Edelgard's first time accompanying Micaiah to the Hoshidan summer festival ends on a high note.",
 			date_str: "Dec 2023",
 			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
@@ -457,7 +457,7 @@ var data = {
 			// Pomelo | Modern Miccy
 			src: ["https://cdn.imgchest.com/files/46acqvkvmm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9rb8w4.png",
-			title: "TBD",
+			title: "Silver-Haired Student",
 			artist: "PomeloMelon",
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
 			art_url: "https://x.com/PomeloMelon1/status/1772311065293963729",
@@ -561,7 +561,7 @@ var data = {
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
-			title: "TBD",
+			title: "Bewitching Beauty",
 			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
@@ -574,11 +574,11 @@ var data = {
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568664.png",
-			title: "TBD",
+			title: "Bewitching Beauty",
 			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
-			desc: "Queen Camilla of Nohr, dubiously ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Queen Camilla of Nohr, most certainly not ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["nsfw", "camilla", "gifts_given"],
 			hidden: false
@@ -665,7 +665,7 @@ var data = {
 			// Siren | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2o3npp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
-			title: "TBD",
+			title: "Birds of a Feather",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
