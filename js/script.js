@@ -254,6 +254,9 @@ function translateWord(word) {
 		thrasir: "👤 Thrasir",
 		flayn: "👤 Flayn",
 		camilla: "👤 Camilla",
+		caeda: "👤 Caeda",
+		mirabilis: "👤 Mirabilis",
+		loki: "👤 Loki",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
