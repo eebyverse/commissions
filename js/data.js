@@ -80,8 +80,8 @@ var data = {
 		{
 			// Bramblefix | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/yrgcn56n594.png", "https://cdn.imgchest.com/files/739cx53x5j7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
-			title: "A Moment's Repreive",
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngk2ar4.png",
+			title: "TBD",
 			artist: "Bramblefix",
 			artist_url: "https://bsky.app/profile/bramblefix.bsky.social",
 			art_url: null,
@@ -93,7 +93,7 @@ var data = {
 		{
 			// ClariAriKari | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcngk2ar4.png",
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2o35o34.png",
 			title: "It's Still You",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
