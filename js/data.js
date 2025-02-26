@@ -14,8 +14,8 @@ var data = {
 		},
 		{
 			// 1340Smile | Eeby and Loki
-			src: ["https://cdn.imgchest.com/files/yvdcw9dko5y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4apc5l3pnw4.jpg",
+			src: ["https://cdn.imgchest.com/files/4apc5l3pnw4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dko5y.png",
 			title: "TBD",
 			artist: "1340Smile",
 			artist_url: "https://x.com/1340Smile",
@@ -118,8 +118,8 @@ var data = {
 		},
 		{
 			// CountGalatea | Caeda
-			src: ["https://cdn.imgchest.com/files/yd5ce3rajz4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4nec8omqbn4.jpg",
+			src: ["https://cdn.imgchest.com/files/4nec8omqbn4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rajz4.png",
 			title: "TBD",
 			artist: "CountGalatea",
 			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
