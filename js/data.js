@@ -103,6 +103,32 @@ var data = {
 			tags: ["nsfw", "eirika", "camilla"],
 			hidden: false
 		},
+	{
+			// Chikaretsu | Eeby and Loki
+			src: ["https://cdn.imgchest.com/files/7lxcp3d5wm7.png", "https://cdn.imgchest.com/files/yd5ce3rao54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbg37.png",
+			title: "TBD",
+			artist: "Chikaretsu",
+			artist_url: "https://x.com/chikaretsu",
+			art_url: "https://x.com/chikaretsu/status/1602271122841432064",
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "eeby", "loki", "caeda", "other", "collab"],
+			hidden: false
+		},
+		{
+			// ClariAriKari | Eeby and Loki
+			src: ["https://cdn.imgchest.com/files/yq9c3aelpo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx56qbj7.png",
+			title: "TBD",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
 		{
 			// ClariAriKari | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
@@ -283,6 +309,19 @@ var data = {
 			desc: "TBD",
 			date_str: "Jul – Sep 2023",
 			tags: ["nsfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Evo | Loki and Eeby
+			src: ["https://cdn.imgchest.com/files/4jdcvzjerp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9d3zwy.png",
+			title: "tbd",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "tbd<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "Nov 2021",
+			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -688,6 +727,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Nessu | Loki and Caeda
+			src: ["https://cdn.imgchest.com/files/4jdcvzje2p4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8om9g64.png",
+			title: "TBD",
+			artist: "Nessu",
+			artist_url: "https://x.com/NessuDraws",
+			art_url: "https://x.com/NessuDraws/status/1661024195600416768",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
+			date_str: "May 2023",
+			tags: ["nsfw", "caeda", "loki", "collab"],
+			hidden: false
+		},
+		{
 			// Picnicic | Lucina Caeda
 			src: ["https://cdn.imgchest.com/files/7ogcbpk6rey.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngk53k4.png",
@@ -823,11 +875,24 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lx3pm4.png",
 			title: "Little Summoner",
 			artist: "RotomDocs",
-			artist_url: "https://web-cdn.bsky.app/profile/did:plc:hd3rni5gped4mfzeu3qwymoo",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1786745690095514110",
 			desc: "Micaiah finds she sleeps most comfortably when around those near and dear to her heart.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "micaiah", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Roychan | Caeda and Kris
+			src: ["https://cdn.imgchest.com/files/yq9c3aelbo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbz37.png",
+			title: "TBD",
+			artist: "Roychan",
+			artist_url: "https://www.pixiv.net/en/users/49077664/artworks",
+			art_url: null,
+			desc: "tbd<br/><br/>Collab with <strong>SpicedCake</strong>.",
+			date_str: "May 2024",
+			tags: ["nsfw", "caeda", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -931,7 +996,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/119141252",
 			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "May 2023",
-			tags: ["sfw", "caeda", "others", "gifts_given"],
+			tags: ["sfw", "caeda", "other", "gifts_given"],
 			hidden: false
 		},
 		{
