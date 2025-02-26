@@ -13,6 +13,19 @@ var data = {
 			hidden: true
 		},
 		{
+			// 1340Smile | Eeby and Loki
+			src: ["https://cdn.imgchest.com/files/yvdcw9dko5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5l3pnw4.jpg",
+			title: "TBD",
+			artist: "1340Smile",
+			artist_url: "https://x.com/1340Smile",
+			art_url: "https://x.com/1340Smile/status/1600141038693191681",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Argilla | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7ogcbp5b89y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kw2oly.png",
@@ -101,6 +114,19 @@ var data = {
 			desc: "Edelgard's deepest nightmares—her fears of what she might have to become, upon returning to Fódlan, and of the monster she might already secretly be in all but form—are no place for Micaiah. Yet when the Queen finds herself in one, under the most peculiar circumstances, she proves quick to reassure Edelgard that she loves her for who she is, no matter her form or the extent of her mistakes... just as she proves surprisingly eager to show it, in no uncertain terms.",
 			date_str: "Jul 2022",
 			tags: ["nsfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// CountGalatea | Caeda
+			src: ["https://cdn.imgchest.com/files/yd5ce3rajz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8omqbn4.jpg",
+			title: "TBD",
+			artist: "CountGalatea",
+			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
+			art_url: null,
+			desc: "TBD>.",
+			date_str: "Mar 2022",
+			tags: ["sfw", "caeda"],
 			hidden: false
 		},
 		{
@@ -257,6 +283,19 @@ var data = {
 			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Sep 2021",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Loki
+			src: ["https://cdn.imgchest.com/files/y8xcngk59k4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw25j7.png",
+			title: "TBD",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1572265670641086464",
+			desc: "TBD",
+			date_str: "Sep 2022",
+			tags: ["sfw", "caeda", "loki"],
 			hidden: false
 		},
 		{
@@ -506,6 +545,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LouiseArina | Caeda + Loki
+			src: ["https://cdn.imgchest.com/files/7bwckjdp3p7.png", "https://cdn.imgchest.com/files/45xcvm92n87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx56j987.png",
+			title: "TBD",
+			artist: "LouiseArina",
+			artist_url: "https://vgen.co/Louisearina",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "caeda", "loki", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Peach | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjx6gd7.png",
@@ -620,6 +672,19 @@ var data = {
 			desc: "Wreathed in her beloved's cloak, Edelgard makes her desires known.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Picnicic | Lucina Caeda
+			src: ["https://cdn.imgchest.com/files/7ogcbpk6rey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngk53k4.png",
+			title: "TBD",
+			artist: "Picnicic",
+			artist_url: "https://x.com/picnicic",
+			art_url: "https://x.com/picnicic/status/1518183995695005696",
+			desc: "TBD",
+			date_str: "Apr 2022",
+			tags: ["sfw", "caeda", "lucina"],
 			hidden: false
 		},
 		{
@@ -753,6 +818,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Sethkiel | Caeda and Norne
+			src: ["https://cdn.imgchest.com/files/49zc2kb3evy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3aelga4.png",
+			title: "TBD",
+			artist: "Sethkiel",
+			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
+			art_url: "https://x.com/sethkiell/status/1804651052383539711",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["sfw", "caeda", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Sethkiel | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3oqja7.png",
@@ -789,6 +867,19 @@ var data = {
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Caeda
+			src: ["https://cdn.imgchest.com/files/7pjcqmw2b37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nv3lly.png",
+			title: "TBD",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/108042015",
+			desc: "TBD",
+			date_str: "May 2023",
+			tags: ["sfw", "caeda"],
 			hidden: false
 		},
 		{
