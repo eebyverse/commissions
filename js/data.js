@@ -81,11 +81,11 @@ var data = {
 			// ClariAriKari | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o35o34.png",
-			title: "TBA",
+			title: "It's Still You",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Edelgard's deepest nightmares—her fears of what she might have to become, upon returning to Fódlan, and of the monster she might already secretly be in all but form—are no place for Micaiah. Yet when the Queen finds herself in one, under the most peculiar circumstances, she proves quick to reassure Edelgard that she loves her for who she is, no matter her form or the extent of her mistakes... just as she proves surprisingly eager to show it, in no uncertain terms.",
 			date_str: "Jul 2022",
 			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
@@ -107,7 +107,7 @@ var data = {
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
-			title: "Eleanor, Maid of Mystery",
+			title: "Maid of Mystery",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
@@ -314,11 +314,11 @@ var data = {
 			// Homugabs | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/739cx5mrnp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3ld394.png",
-			title: "TBD",
+			title: "Even in Nightmares, I Dream of Loving You",
 			artist: "Homugabs",
 			artist_url: "https://bsky.app/profile/homuspicy.bsky.social",
 			art_url: "https://x.com/homuspicy/status/1795832946680906132/photo/1",
-			desc: "TBD.",
+			desc: "For Edelgard, the monstrous form of her most troubled nightmares is a constant reminder of a war waged in folly. For Micaiah... it has more practical uses.",
 			date_str: "May 2024",
 			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
@@ -327,11 +327,11 @@ var data = {
 			// JadeSnap | Camilla
 			src: ["https://cdn.imgchest.com/files/yxkczx2znb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczx2znb7.png",
-			title: "TBD",
+			title: "Good Girl",
 			artist: "JadesnapArt",
 			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "For her tireless service and loyalty through the war with Hoshido, Camilla treats her wyvern to the attention and affection she deserves.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "camilla", "gifts_given"],
 			hidden: false
@@ -366,11 +366,11 @@ var data = {
 			// Jebbee | Miccy and Fiona
 			src: ["https://cdn.imgchest.com/files/4nec8okwze4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lomng4.png",
-			title: "TBD",
+			title: "Beloved Daein",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1714267215380578771",
-			desc: "TBD<br/><br/>Unpaid sketch request.",
+			desc: "Through serving Micaiah, Fiona's loyalty to her country takes on new form and life.<br/><br/>Unpaid sketch request.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
@@ -379,11 +379,11 @@ var data = {
 			// kayksyla | Camilla
 			src: ["https://cdn.imgchest.com/files/49zc2kz2aay.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568xl4.png",
-			title: "TBD",
+			title: "Light of Nohr",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Queen Camilla of Nohr – a ruler determined to bear both the hopes of her people and the dreams of family lost.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "camilla", "gifts_given"],
 			hidden: false
@@ -409,7 +409,7 @@ var data = {
 			artist: "Kitty",
 			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Edelgard's first time accompanying Micaiah to the Hoshidan summer festival ends the only way it can.",
 			date_str: "Dec 2023",
 			tags: ["nsfw", "micaiah", "edelgard"],
 			hidden: false
@@ -461,20 +461,20 @@ var data = {
 			artist: "PomeloMelon",
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
 			art_url: "https://x.com/PomeloMelon1/status/1772311065293963729",
-			desc: "TBD.",
+			desc: "Micaiah Kirsch, a doctor in training and current postgrad at Zenith University – seeming to come from wealth, yet with some reluctance and even shame. Though kind at heart, her sweet smile hides a certain mischief known only to her closest friends...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
-			tags: ["sfw", "micaiah"],
+			tags: ["sfw", "micaiah", "collab"],
 			hidden: false
 		},
 		{
 			// Meqqey | Miccy
 			src: ["https://cdn.imgchest.com/files/yrgcn5g5ez4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvwbg27.png",
-			title: "TBD",
+			title: "Radiant Queen",
 			artist: "Meqqey",
 			artist_url: "https://ko-fi.com/meqqey",
 			art_url: "https://x.com/Meqqey/status/1576645426006327296",
-			desc: "TBD.",
+			desc: "Despite the demands of her new position, Micaiah's playful spirit endures.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "micaiah"],
 			hidden: false
@@ -487,7 +487,7 @@ var data = {
 			artist: "micaiah_mrmm",
 			artist_url: "https://www.pixiv.net/en/users/6486686",
 			art_url: "https://www.pixiv.net/en/artworks/101661248",
-			desc: "TBD",
+			desc: "Micaiah is ever at the ready to serve her dearest friends.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "micaiah"],
 			hidden: false
@@ -496,11 +496,11 @@ var data = {
 			// Mnejing | Camilla
 			src: ["https://cdn.imgchest.com/files/4nec8o58eo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw96ra8y.png",
-			title: "TBD",
+			title: "You're Late",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1739404795889467567",
-			desc: "TBD.",
+			desc: "Camilla has a world of patience for those she's fond of – which is just as well, given how long she's been waiting.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "camilla"],
 			hidden: false
@@ -535,24 +535,24 @@ var data = {
 			// Mnejing | Miccy Manuela
 			src: ["https://cdn.imgchest.com/files/7mmc9gvgen7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr3r7.png",
-			title: "TBD",
+			title: "A Familiar Voice",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1798492259140411794",
-			desc: "TBD",
+			desc: "For reasons beyond her, Micaiah often finds Heroes from Fódlan mistaking her voice for Professor Manuela's...",
 			date_str: "Jun 2024",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah"],
 			hidden: false
 		},
 		{
 			// Mr.Takealook | Edelgard
 			src: ["https://cdn.imgchest.com/files/yq9c3anq5o4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxo9zq7.png",
-			title: "TBD",
+			title: "Your Emperor's Command",
 			artist: "Mr.Takealook",
 			artist_url: null,
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			desc: "Wreathed in her beloved's cloak, Edelgard makes her desires known.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
 			hidden: false
@@ -562,10 +562,10 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
 			title: "TBD",
-			artist: "RedKite",
+			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Queen Camilla of Nohr, ostensibly ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["sfw", "camilla", "gifts_given"],
 			hidden: false
@@ -575,10 +575,10 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568664.png",
 			title: "TBD",
-			artist: "RedKite",
+			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Queen Camilla of Nohr, dubiously ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["nsfw", "camilla", "gifts_given"],
 			hidden: false
@@ -587,11 +587,11 @@ var data = {
 			// Redkite | Camilla and Flora
 			src: ["https://cdn.imgchest.com/files/yvdcw96wrwy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn56nl34.png",
-			title: "TBD",
+			title: "Kneel",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1754312661372928498",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "A glimpse of an alternate timeline following Hoshido's triumph over Nohr – where Camilla took the throne, and where Flora survived to become the new chieftain of the Ice Tribe. Here, the Ice Tribe has been granted full autonomy and independence, free to forge its own future... yet Flora, drawn to something in the new queen's earnest benevolence, finds herself now a willing subject of the kingdom to which she was once mere servant and slave.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "camilla", "other", "collab"],
 			hidden: false
@@ -613,11 +613,11 @@ var data = {
 			// Rotomdocs | PJ Miccy
 			src: ["https://cdn.imgchest.com/files/yxkczxrjpz7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lx3pm4.png",
-			title: "TBD",
+			title: "Little Summoner",
 			artist: "RotomDocs",
 			artist_url: "https://web-cdn.bsky.app/profile/did:plc:hd3rni5gped4mfzeu3qwymoo",
 			art_url: "https://x.com/RotomDocs/status/1786745690095514110",
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			desc: "Micaiah finds she sleeps most comfortably when around those near and dear to her heart.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "micaiah", "eeby", "gifts_received"],
 			hidden: false
@@ -626,11 +626,11 @@ var data = {
 			// ScruffyTurtles | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yd5ce3bekr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvzo5z7.png",
-			title: "TBD",
+			title: "Lunar Ladies",
 			artist: "ScruffyTurtles",
 			artist_url: "https://bsky.app/profile/scruffyturtles.bsky.social",
 			art_url: null,
-			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Long before their marriage, Eirika and Camilla's first fateful encounter was by moonlight – a happy coincidence for the wearers of Grossartig Mond and the Lunar Brace.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Jul 2024",
 			tags: ["sfw", "camilla", "eirika", "collab"],
 			hidden: false
@@ -669,7 +669,7 @@ var data = {
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
+			desc: "When Micaiah hears of Sonya's love and kindness from Leanne, she and Edelgard agree to offer a rare invitation.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
 			date_str: "May 2024",
 			tags: ["nsfw", "micaiah", "edelgard", "other", "collab"],
 			hidden: false
@@ -695,7 +695,7 @@ var data = {
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
-			desc: "TBD",
+			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
 			date_str: "Jan 2024 – Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
 			hidden: false
