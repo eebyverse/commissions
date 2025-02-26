@@ -227,7 +227,7 @@ var data = {
 			title: "Shinobi in Scarlet",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
-			art_url: null",
+			art_url: null,
 			desc: "While Edelgard initially declined to attend the Ninja Festival, Micaiah eventually persuaded her to step out of the shadows – flame shuriken in hand.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
