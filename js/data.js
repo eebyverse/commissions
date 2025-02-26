@@ -169,6 +169,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeliiChan | Caeda
+			src: ["https://cdn.imgchest.com/files/yvdcw9dk85y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dk85y.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "caeda", "loki"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/y2pcka6kpz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pcka6kpz7.png",
@@ -184,7 +197,7 @@ var data = {
 		{
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw3ek7.png",
 			title: "Dawn's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -779,6 +792,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Redkite | Caeda and Eeby
+			src: ["https://cdn.imgchest.com/files/y8xcngk55d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvjboy.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1667878379000066048",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
+			date_str: "Jun 2023",
+			tags: ["sfw", "caeda", "eeby", "collab"],
+			hidden: false
+		},
+		{
 			// Redkite | Edelcaiah and Jokercina
 			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9nb4.png",
@@ -870,6 +896,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ShiroFont | Eeby Birthday
+			src: ["https://cdn.imgchest.com/files/yrgcn5zjjj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvj26y.png",
+			title: "TBD",
+			artist: "ShiroFont",
+			artist_url: "https://x.com/ShiroFont",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "eeby", "caeda", "mirabilis", "gifts_received"],
+			hidden: false
+		},
+		{
 			// SilverCandyGum | Caeda
 			src: ["https://cdn.imgchest.com/files/7pjcqmw2b37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nv3lly.png",
@@ -880,6 +919,19 @@ var data = {
 			desc: "TBD",
 			date_str: "May 2023",
 			tags: ["sfw", "caeda"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Caeda
+			src: ["https://cdn.imgchest.com/files/4z9cv3wzz27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rnqq4.png",
+			title: "TBD",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/119141252",
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "May 2023",
+			tags: ["sfw", "caeda", "others", "gifts_given"],
 			hidden: false
 		},
 		{
