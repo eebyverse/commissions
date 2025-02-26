@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "edelgard", "eeby", "eirika", "eleanor", "flayn", "laura", "lif", "lucina", "micaiah", "thrasir", "other"],
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "edelgard", "eeby", "eirika", "eleanor", "flayn", "laura", "lucina", "micaiah", "other"],
 			hidden: true
 		},
 		{
@@ -78,9 +78,22 @@ var data = {
 			hidden: false
 		},
 		{
+			// Bramblefix | Eirika and Camilla
+			src: ["https://cdn.imgchest.com/files/yrgcn56n594.png", "https://cdn.imgchest.com/files/739cx53x5j7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
+			title: "A Moment's Repreive",
+			artist: "Bramblefix",
+			artist_url: "https://bsky.app/profile/bramblefix.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jan 2022",
+			tags: ["nsfw", "eirika", "camilla"],
+			hidden: false
+		},
+		{
 			// ClariAriKari | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2o35o34.png",
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngk2ar4.png",
 			title: "It's Still You",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
@@ -88,6 +101,19 @@ var data = {
 			desc: "Edelgard's deepest nightmares—her fears of what she might have to become, upon returning to Fódlan, and of the monster she might already secretly be in all but form—are no place for Micaiah. Yet when the Queen finds herself in one, under the most peculiar circumstances, she proves quick to reassure Edelgard that she loves her for who she is, no matter her form or the extent of her mistakes... just as she proves surprisingly eager to show it, in no uncertain terms.",
 			date_str: "Jul 2022",
 			tags: ["nsfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Darkness | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/7pjcqm6qab7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9g53bz7.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Nov 2022",
+			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
 		},
 		{
@@ -117,6 +143,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeliiChan | Eirika and Camilla
+			src: ["https://cdn.imgchest.com/files/y2pcka6kpz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pcka6kpz7.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "eirika", "camilla"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzngrj4.png",
@@ -143,13 +182,26 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dux_Draws | Eirika and Camilla
+			src: ["https://cdn.imgchest.com/files/7lxcp36p9l7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9nog84.png",
+			title: "Hunter and Prey",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "eirika", "camilla"],
+			hidden: false
+		},
+		{
 			// Dux_Draws | Edelgard and Micaiah #1
 			src: ["https://cdn.imgchest.com/files/yd5ce3je9k4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca85vbw7.png",
 			title: "Dawn of a New Year",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
-			art_url: "https://x.com/Dux_Draws/status/1678409676193406978",
+			art_url: null,
 			desc: "Edelgard and Micaiah welcome the new year as one.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
@@ -162,7 +214,7 @@ var data = {
 			title: "Dual Nature",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
-			art_url: "https://x.com/Dux_Draws/status/1681033489154539523",
+			art_url: null,
 			desc: "Edelgard and Micaiah's costumes for Halloween cut a striking contrast – heron and husk, angel and devil.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
@@ -175,10 +227,23 @@ var data = {
 			title: "Shinobi in Scarlet",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
-			art_url: "https://x.com/Dux_Draws/status/1724296286352843192",
+			art_url: null",
 			desc: "While Edelgard initially declined to attend the Ninja Festival, Micaiah eventually persuaded her to step out of the shadows – flame shuriken in hand.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Ebinku | Eirimilla
+			src: ["https://cdn.imgchest.com/files/7w6c2nr2nay.png", "https://cdn.imgchest.com/files/4z9cv3dv3g7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dnggy.png",
+			title: "TBD",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://www.pixiv.net/en/artworks/111756077",
+			desc: "TBD",
+			date_str: "Jul – Sep 2023",
+			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
 		},
 		{
@@ -204,7 +269,7 @@ var data = {
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2024",
-			tags: ["sfw", "micaiah", "edelgard", "thrasir", "other"],
+			tags: ["sfw", "micaiah", "edelgard", "other"],
 			hidden: false
 		},
 		{	// Fusenryo | Edelgard and Flayn
@@ -584,6 +649,58 @@ var data = {
 			hidden: false
 		},
 		{
+			// Raichana | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/4jdcvzbvg94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lbwro4.png",
+			title: "TBD",
+			artist: "Raichana",
+			artist_url: "https://bsky.app/profile/raichana.bsky.social",
+			art_url: "https://vgen.co/Raichana/portfolio/showcase/summonereeby-s-pair-ych/e9a0f6f7-1167-4ccc-abb9-0c808cdbc129",
+			desc: "TBD",
+			date_str: "Jan 2024",
+			tags: ["sfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Redkite | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/yq9c3a63z64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvzb3aq4.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1802505233974927861",
+			desc: "TBD",
+			date_str: "Jun 2024",
+			tags: ["sfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Redkite | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/y8xcngpngr4.jpg", "https://cdn.imgchest.com/files/45xcvmevm57.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5z9p54.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1646777725603155968",
+			desc: "TBD",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Redkite | Camilla and Eirika + Girls
+			src: ["https://cdn.imgchest.com/files/739cx53xpj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lbwao4.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1707168289150119995",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "camilla", "eirika", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Redkite | Camilla and Flora
 			src: ["https://cdn.imgchest.com/files/yvdcw96wrwy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn56nl34.png",
@@ -639,13 +756,26 @@ var data = {
 			// Sethkiel | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7kzca89bzo7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3oqja7.png",
-			title: "Meeting at the Edge of Dawn",
+			title: "First Meeting at the Edge of Dawn",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
 			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard", "collab"],
+			hidden: false
+		},
+		{
+			// shan | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/yrgcn56n894.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx53gv57.png",
+			title: "TBD",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2022",
+			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
 		},
 		{
@@ -688,6 +818,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// TheHmago | Camilla and Caeda
+			src: ["https://cdn.imgchest.com/files/yxkczx2zjb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3aevqp4.png",
+			title: "TBD",
+			artist: "TheHmago",
+			artist_url: "https://x.com/TheHmago",
+			art_url: "https://x.com/TheHmago/status/1839714751070310536",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/gvsleepi.bsky.social'>GVSleepi</a></strong>.",
+			date_str: "Sep 2024",
+			tags: ["nsfw", "camilla", "caeda", "collab"],
+			hidden: false
+		},
+		{
 			// TimboCactus | Dawn's Devotion
 			src: ["https://cdn.imgchest.com/files/7kzca83le67.png", "https://cdn.imgchest.com/files/45xcvmw5kd7.png", "https://cdn.imgchest.com/files/4gdcx9rzvl4.png", "https://cdn.imgchest.com/files/4z9cv3xp8j7.png", "https://cdn.imgchest.com/files/7w6c2nowmny.png", "https://cdn.imgchest.com/files/7pjcqmojx37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8ba4.png",
@@ -698,6 +841,19 @@ var data = {
 			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
 			date_str: "Jan 2024 – Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
+			hidden: false
+		},
+		{
+			// Urby | Eirimilla Boobie
+			src: ["https://cdn.imgchest.com/files/7mmc9g59z37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2ob8mw4.png",
+			title: "TBD",
+			artist: "Urby",
+			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "July 2023",
+			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
 		},
 		{
