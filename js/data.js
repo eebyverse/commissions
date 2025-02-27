@@ -453,6 +453,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Larcei and Seliph
+			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3naed7.png",
