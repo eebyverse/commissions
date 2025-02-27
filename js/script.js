@@ -257,6 +257,9 @@ function translateWord(word) {
 		caeda: "👤 Caeda",
 		mirabilis: "👤 Mirabilis",
 		loki: "👤 Loki",
+		lysithea: "👤 Lysithea",
+		severa: "👤 Severa",
+		tiki: "👤 Tiki",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
