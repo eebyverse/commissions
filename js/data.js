@@ -1105,7 +1105,7 @@ var data = {
 		{
 			// SilverCandyGum | Merrin and Chloe
 			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/yxkczxk5l57.png",
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zm64.png",
 			title: "TBD",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
