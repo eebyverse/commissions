@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "edelgard", "eeby", "eirika", "eleanor", "flayn", "laura", "loki", "lucina", "micaiah", "mirabilis", "other"],
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "edelgard", "eeby", "eirika", "eleanor", "flayn", "laura", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "severa", "tiki", "other"],
 			hidden: true
 		},
 		{
