@@ -864,7 +864,7 @@ var data = {
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1646777725603155968",
-			desc: "A very, <em<very</em> soft place.",
+			desc: "A very, <em>very</em> soft place.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
@@ -1100,7 +1100,7 @@ var data = {
 			art_url: "https://bsky.app/profile/sirknightbot.bsky.social/post/3kfrl37y2q22x",
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "July 2023",
-			tags: ["nsfw", "severa", "other", "gifts_given"],
+			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
 		},
 		{
