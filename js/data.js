@@ -146,7 +146,7 @@ var data = {
 			// CountGalatea | Caeda
 			src: ["https://cdn.imgchest.com/files/4nec8omqbn4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rajz4.png",
-			title: "TBD",
+			title: "Street Smart",
 			artist: "CountGalatea",
 			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
 			art_url: null,
@@ -741,13 +741,13 @@ var data = {
 		},
 		{
 			// Nessu | Loki and Caeda
-			src: ["https://cdn.imgchest.com/files/4jdcvzje2p4.jpg"],
+			src: ["https://cdn.imgchest.com/files/7lxcp3d5jm7.jpg", "https://cdn.imgchest.com/files/4jdcvzje2p4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8om9g64.png",
-			title: "TBD",
+			title: "All Tied Up",
 			artist: "Nessu",
 			artist_url: "https://x.com/NessuDraws",
 			art_url: "https://x.com/NessuDraws/status/1661024195600416768",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
+			desc: "Loki takes special measures to secure her new identity.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "caeda", "loki", "collab"],
 			hidden: false
@@ -782,7 +782,7 @@ var data = {
 			// Raichana | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/4jdcvzbvg94.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lbwro4.png",
-			title: "TBD",
+			title: "Two Queens",
 			artist: "Raichana",
 			artist_url: "https://bsky.app/profile/raichana.bsky.social",
 			art_url: "https://vgen.co/Raichana/portfolio/showcase/summonereeby-s-pair-ych/e9a0f6f7-1167-4ccc-abb9-0c808cdbc129",
@@ -808,11 +808,11 @@ var data = {
 			// Redkite | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/y8xcngpngr4.jpg", "https://cdn.imgchest.com/files/45xcvmevm57.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn5z9p54.png",
-			title: "TBD",
+			title: "A Place to Rest",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1646777725603155968",
-			desc: "TBD",
+			desc: "A very, <em<very</em> soft place.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
@@ -886,11 +886,11 @@ var data = {
 			// Roychan | Caeda and Kris
 			src: ["https://cdn.imgchest.com/files/yq9c3aelbo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbz37.png",
-			title: "TBD",
+			title: "A Royal Reward",
 			artist: "Roychan",
 			artist_url: "https://www.pixiv.net/en/users/49077664/artworks",
 			art_url: null,
-			desc: "tbd<br/><br/>Collab with <strong>SpicedCake</strong>.",
+			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
 			date_str: "May 2024",
 			tags: ["nsfw", "caeda", "other", "collab"],
 			hidden: false
@@ -1029,11 +1029,11 @@ var data = {
 			// TheHmago | Camilla and Caeda
 			src: ["https://cdn.imgchest.com/files/yxkczx2zjb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3aevqp4.png",
-			title: "TBD",
+			title: "Princesses' Passion",
 			artist: "TheHmago",
 			artist_url: "https://x.com/TheHmago",
 			art_url: "https://x.com/TheHmago/status/1839714751070310536",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/gvsleepi.bsky.social'>GVSleepi</a></strong>.",
+			desc: "Through Askr, Caeda and Camilla find countless opportunities to grow closer.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/gvsleepi.bsky.social'>GVSleepi</a></strong>.",
 			date_str: "Sep 2024",
 			tags: ["nsfw", "camilla", "caeda", "collab"],
 			hidden: false
@@ -1055,7 +1055,7 @@ var data = {
 			// Urby | Eirimilla Boobie
 			src: ["https://cdn.imgchest.com/files/7mmc9g59z37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2ob8mw4.png",
-			title: "TBD",
+			title: "Admiration",
 			artist: "Urby",
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
 			art_url: null,
