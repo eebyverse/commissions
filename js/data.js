@@ -16,11 +16,11 @@ var data = {
 			// 1340Smile | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/4apc5l3pnw4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dko5y.png",
-			title: "TBD",
+			title: "Devil on Your Shoulder",
 			artist: "1340Smile",
 			artist_url: "https://x.com/1340Smile",
 			art_url: "https://x.com/1340Smile/status/1600141038693191681",
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "For the lonely summoner, a friend of many faces is a hard friend to refuse... not least of all when those faces are beyond her reach.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "eeby", "loki", "caeda", "gifts_received"],
 			hidden: false
@@ -94,11 +94,11 @@ var data = {
 			// Bramblefix | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/yrgcn56n594.png", "https://cdn.imgchest.com/files/739cx53x5j7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngk2ar4.png",
-			title: "TBD",
+			title: "A Brave Front",
 			artist: "Bramblefix",
 			artist_url: "https://bsky.app/profile/bramblefix.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Eirika's change of hairstyle only gives Camilla a new way to play with her.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "eirika", "camilla"],
 			hidden: false
@@ -107,11 +107,11 @@ var data = {
 			// Chikaretsu | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/7lxcp3d5wm7.png", "https://cdn.imgchest.com/files/yd5ce3rao54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbg37.png",
-			title: "TBD",
+			title: "Wicked Wiles",
 			artist: "Chikaretsu",
 			artist_url: "https://x.com/chikaretsu",
 			art_url: "https://x.com/chikaretsu/status/1602271122841432064",
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			desc: "Two summoners learn, too late, that even lofty power has its limits.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "other", "collab"],
 			hidden: false
@@ -120,11 +120,11 @@ var data = {
 			// ClariAriKari | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/yq9c3aelpo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx56qbj7.png",
-			title: "TBD",
+			title: "Twisted Love",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			desc: "Loki's smile sits strangely on Caeda's lips – but her kisses, Eeby finds, taste all too sweet.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
 			hidden: false
@@ -150,7 +150,7 @@ var data = {
 			artist: "CountGalatea",
 			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
 			art_url: null,
-			desc: "TBD>.",
+			desc: "Even through the chilly winter months, Caeda knows how to stay stylish.",
 			date_str: "Mar 2022",
 			tags: ["sfw", "caeda"],
 			hidden: false
@@ -159,11 +159,11 @@ var data = {
 			// Darkness | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/7pjcqm6qab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9g53bz7.png",
-			title: "TBD",
+			title: "My Darling",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
+			desc: "At every opportunity, Camilla makes sure to cherish her wife – knowing, perhaps, to never take happiness for granted.",
 			date_str: "Nov 2022",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
@@ -198,11 +198,11 @@ var data = {
 			// DeliiChan | Caeda
 			src: ["https://cdn.imgchest.com/files/yvdcw9dk85y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dk85y.png",
-			title: "TBD",
+			title: "Friendly Face",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "The sweetest Heroes have always made for the most effective guises.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "caeda", "loki"],
 			hidden: false
@@ -211,11 +211,11 @@ var data = {
 			// DeliiChan | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/y2pcka6kpz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pcka6kpz7.png",
-			title: "TBD",
+			title: "Dusk's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "Camilla's hugs are as tight as they come – but always a steady and welcome reminder of her affection.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "eirika", "camilla"],
 			hidden: false
@@ -254,7 +254,7 @@ var data = {
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Eirika and Camilla dressed for Halloween – though it's hard to tell whether Eirika is hunter or hunted...",
 			date_str: "Jul 2023",
 			tags: ["sfw", "eirika", "camilla"],
 			hidden: false
@@ -302,11 +302,11 @@ var data = {
 			// Ebinku | Eirimilla
 			src: ["https://cdn.imgchest.com/files/7w6c2nr2nay.png", "https://cdn.imgchest.com/files/4z9cv3dv3g7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dnggy.png",
-			title: "TBD",
+			title: "Give and Take",
 			artist: "Ebinku",
 			artist_url: "https://x.com/ebinkuu",
 			art_url: "https://www.pixiv.net/en/artworks/111756077",
-			desc: "TBD",
+			desc: "Eirika knows well how Camilla, on most nights, insists on only giving, and never receiving – burdened by lingering guilt for the past, and believing herself unworthy of any greater pleasure than simple satisfaction. But when, at last, both return to Renais, and dreams of family take root, Camilla finally manages to overcome her reluctance – allowing Eirika to give her the greatest gift of all.",
 			date_str: "Jul – Sep 2023",
 			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
@@ -315,11 +315,11 @@ var data = {
 			// Evo | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/4jdcvzjerp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9d3zwy.png",
-			title: "tbd",
+			title: "Held Tight",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "tbd<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			desc: "The way to the summoner's heart, so Loki discovers, is between her legs.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Nov 2021",
 			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
 			hidden: false
@@ -341,11 +341,11 @@ var data = {
 			// Fraudulent Taco | Loki
 			src: ["https://cdn.imgchest.com/files/y8xcngk59k4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw25j7.png",
-			title: "TBD",
+			title: "Trickster's Guise",
 			artist: "Fraudulent Taco",
 			artist_url: "https://x.com/FraudulentTaco",
 			art_url: "https://x.com/FraudulentTaco/status/1572265670641086464",
-			desc: "TBD",
+			desc: "Princess Caeda, and no-one else.",
 			date_str: "Sep 2022",
 			tags: ["sfw", "caeda", "loki"],
 			hidden: false
@@ -600,11 +600,11 @@ var data = {
 			// LouiseArina | Caeda + Loki
 			src: ["https://cdn.imgchest.com/files/7bwckjdp3p7.png", "https://cdn.imgchest.com/files/45xcvm92n87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx56j987.png",
-			title: "TBD",
+			title: "Fond or False",
 			artist: "LouiseArina",
 			artist_url: "https://vgen.co/Louisearina",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "A letter, offered on the Day of Devotion – but who is it really from...?<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "caeda", "loki", "gifts_received"],
 			hidden: false
@@ -620,6 +620,19 @@ var data = {
 			desc: "Queen Micaiah with her beloved companion – full of affection, and without a care in the world.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Picnicic | Lucina Caeda
+			src: ["https://cdn.imgchest.com/files/7ogcbpk6rey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngk53k4.png",
+			title: "Flowers for the Future",
+			artist: "Picnicic",
+			artist_url: "https://x.com/picnicic",
+			art_url: "https://x.com/picnicic/status/1518183995695005696",
+			desc: "Lucina and Caeda, bridging two-thousand years of Archanean history through the miracle of Askr.",
+			date_str: "Apr 2022",
+			tags: ["sfw", "caeda", "lucina"],
 			hidden: false
 		},
 		{
@@ -740,19 +753,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Picnicic | Lucina Caeda
-			src: ["https://cdn.imgchest.com/files/7ogcbpk6rey.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcngk53k4.png",
-			title: "TBD",
-			artist: "Picnicic",
-			artist_url: "https://x.com/picnicic",
-			art_url: "https://x.com/picnicic/status/1518183995695005696",
-			desc: "TBD",
-			date_str: "Apr 2022",
-			tags: ["sfw", "caeda", "lucina"],
-			hidden: false
-		},
-		{
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
@@ -786,7 +786,7 @@ var data = {
 			artist: "Raichana",
 			artist_url: "https://bsky.app/profile/raichana.bsky.social",
 			art_url: "https://vgen.co/Raichana/portfolio/showcase/summonereeby-s-pair-ych/e9a0f6f7-1167-4ccc-abb9-0c808cdbc129",
-			desc: "TBD",
+			desc: "Even as fellow Queens of Renais, some things never change between Eirika and Camilla.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
@@ -795,11 +795,11 @@ var data = {
 			// Redkite | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/yq9c3a63z64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzb3aq4.png",
-			title: "TBD",
+			title: "Dance of the Álfar",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1802505233974927861",
-			desc: "TBD",
+			desc: "Eirika—a proud servant of Ljósálfheimr—knows better than to consort with nightmares – yet the subtle depths and unspoken pain beneath Camilla's allure and temptations lead her, one dream at a time, to open her heart...",
 			date_str: "Jun 2024",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
@@ -821,11 +821,11 @@ var data = {
 			// Redkite | Camilla and Eirika + Girls
 			src: ["https://cdn.imgchest.com/files/739cx53xpj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lbwao4.png",
-			title: "TBD",
+			title: "Service With a Smile",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1707168289150119995",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "As Eirika knows too well, Camilla's moments of mischief have a habit of involving others...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Sep 2023",
 			tags: ["sfw", "camilla", "eirika", "other", "collab"],
 			hidden: false
@@ -847,11 +847,11 @@ var data = {
 			// Redkite | Caeda and Eeby
 			src: ["https://cdn.imgchest.com/files/y8xcngk55d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvjboy.png",
-			title: "TBD",
+			title: "New Look",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1667878379000066048",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
+			desc: "Caeda applies her eye for fashion to a less than fashionable friend.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "caeda", "eeby", "collab"],
 			hidden: false
@@ -912,11 +912,11 @@ var data = {
 			// Sethkiel | Caeda and Norne
 			src: ["https://cdn.imgchest.com/files/49zc2kb3evy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3aelga4.png",
-			title: "TBD",
+			title: "Words of Wisdom",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1804651052383539711",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Caeda, of all people, knows love when she sees it.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "caeda", "other", "collab"],
 			hidden: false
@@ -935,14 +935,14 @@ var data = {
 			hidden: false
 		},
 		{
-			// shan | Edelcaiah
+			// shan | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yrgcn56n894.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx53gv57.png",
-			title: "TBD",
+			title: "Fondness",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
-			desc: "TBD",
+			desc: "Camilla never misses a chance to show Eirika her affection – and a peaceful summer's evening, far removed from war, offers all the chances she could need.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
@@ -964,11 +964,11 @@ var data = {
 			// ShiroFont | Eeby Birthday
 			src: ["https://cdn.imgchest.com/files/yrgcn5zjjj4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvj26y.png",
-			title: "TBD",
+			title: "A Sweet Surprise",
 			artist: "ShiroFont",
 			artist_url: "https://x.com/ShiroFont",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "From fluttering wings to fluttering hearts, the morning of the summoner's birthday is rife with anticipation – but her smile says it all.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "eeby", "caeda", "mirabilis", "gifts_received"],
 			hidden: false
@@ -977,11 +977,11 @@ var data = {
 			// SilverCandyGum | Caeda
 			src: ["https://cdn.imgchest.com/files/7pjcqmw2b37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nv3lly.png",
-			title: "TBD",
+			title: "On Golden Wings",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/108042015",
-			desc: "TBD",
+			desc: "Caeda, dressed for the road – and with room for one more.",
 			date_str: "May 2023",
 			tags: ["sfw", "caeda"],
 			hidden: false
@@ -990,11 +990,11 @@ var data = {
 			// SilverCandyGum | Caeda
 			src: ["https://cdn.imgchest.com/files/4z9cv3wzz27.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rnqq4.png",
-			title: "TBD",
+			title: "Empress, Lovers, Fool and Fortune",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/119141252",
-			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "As track team captain of Gekkoukan High and a top ten student, Kris is used to the attention of her peers. But the arrival of a mysterious transfer student into her class—irrepressibly flirty, and unmistakably interested—sparks a fierce contest for her attention and affection – and Kris quickly discovers just how popular she really is...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "May 2023",
 			tags: ["sfw", "caeda", "other", "gifts_given"],
 			hidden: false
@@ -1059,7 +1059,7 @@ var data = {
 			artist: "Urby",
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Eirika appreciates the fullness and roundness of Camilla's love.",
 			date_str: "July 2023",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
