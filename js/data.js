@@ -234,6 +234,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dotty | Cordelia and Severa
+			src: ["https://cdn.imgchest.com/files/yxkczxkw6z7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv3kbjk7.png",
+			title: "TBD",
+			artist: "Dotty",
+			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
+			art_url: "https://x.com/dotted__clouds/status/1624661188339724288",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "severa", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Dotty | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4jdcvznv2v4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kwawgy.png",
@@ -740,6 +753,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Severa
+			src: ["https://cdn.imgchest.com/files/4nec8onqpe4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zpg4.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1785791657847476730",
+			desc: "TBD",
+			date_str: "May 2024",
+			tags: ["sfw", "severa"],
+			hidden: false
+		},
+		{
 			// Mr.Takealook | Edelgard
 			src: ["https://cdn.imgchest.com/files/yq9c3anq5o4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxo9zq7.png",
@@ -967,7 +993,7 @@ var data = {
 			title: "Fondness",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
-			art_url: null,
+			art_url: "https://x.com/shan0732/status/1546785638971998209",
 			desc: "Camilla never misses a chance to show Eirika her affection – and a peaceful summer's evening, far removed from war, offers all the chances she could need.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "camilla", "eirika"],
@@ -980,10 +1006,23 @@ var data = {
 			title: "A Little Chaos",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
-			art_url: null,
+			art_url: "https://x.com/shan0732/status/1538091934245191680",
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// shan | Severa and Euine
+			src: ["https://cdn.imgchest.com/files/y2pckadegn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckadgvm7.png",
+			title: "TBD",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1575352662861565952",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Sep 2022",
+			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1052,6 +1091,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SirKnightbot | Cordelia and Severa
+			src: ["https://cdn.imgchest.com/files/4z9cv3kzbl7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3g88n4.png",
+			title: "Her Legacy",
+			artist: "SirKnightbot",
+			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
+			art_url: "https://bsky.app/profile/sirknightbot.bsky.social/post/3kfrl37y2q22x",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "July 2023",
+			tags: ["nsfw", "severa", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Siren | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2o3npp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
@@ -1106,7 +1158,7 @@ var data = {
 		{
 			// TimboCactus | Severa and Mercs
 			src: ["https://cdn.imgchest.com/files/7kzca8wkjo7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cv3k6m97.png",
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmqr357.png",
 			title: "TBD",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
