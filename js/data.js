@@ -610,6 +610,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Loutani | Summoners, Loki and Aversa
+			src: ["https://cdn.imgchest.com/files/yvdcw9ggdjy.png", "https://cdn.imgchest.com/files/46acqv33b27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbpw68oy.png",
+			title: "TBD",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613666819172356097",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			date_str: "Jan 2023",
+			tags: ["nsfw", "eeby", "loki", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Peach | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yxkczxvg5z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjx6gd7.png",
@@ -737,6 +750,19 @@ var data = {
 			desc: "Wreathed in her beloved's cloak, Edelgard makes her desires known.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Nessu | Loki and Eeby
+			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8onqle4.png",
+			title: "TBD",
+			artist: "Nessu",
+			artist_url: "https://x.com/NessuDraws",
+			art_url: "https://x.com/NessuDraws/status/1531289335793799168",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
 			hidden: false
 		},
 		{
@@ -1088,6 +1114,32 @@ var data = {
 			desc: "Return to small.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Yashuring | Loki
+			src: ["https://cdn.imgchest.com/files/45xcvmqq9q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nz3n2y.png",
+			title: "Trickster God",
+			artist: "yashuring",
+			artist_url: "https://x.com/yashuring",
+			art_url: "https://x.com/yashuring2/status/1893917217793646766",
+			desc: "Loki of Ásgarðr, in a guise of sincerity.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "loki", "gifts_given"],
+			hidden: false
+		},
+		{
+			// ZeroA | Severa
+			src: ["https://cdn.imgchest.com/files/7lxcp3r5qn7.png", "https://cdn.imgchest.com/files/4jdcvz3el84.png", "https://cdn.imgchest.com/files/yq9c3a2lwl4.png", "https://cdn.imgchest.com/files/yrgcn5ajpz4.png", "https://cdn.imgchest.com/files/yq9c3a2lwn4.png", "https://cdn.imgchest.com/files/7lxcp3r5qx7.png", "https://cdn.imgchest.com/files/yd5ce3ga8b4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5ajle4.png",
+			title: "Severa's Service",
+			artist: "ZeroA",
+			artist_url: "https://www.pixiv.net/en/users/62272954",
+			art_url: "https://www.pixiv.net/en/artworks/127426098",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>."
+			date_str: "Oct 2024",
+			tags: ["nsfw", "severa", "lucina", "tiki", "other", "collab"],
 			hidden: false
 		},
 		{
