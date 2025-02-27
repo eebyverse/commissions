@@ -755,7 +755,7 @@ var data = {
 		{
 			// Nessu | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4nec8onqle4.png",
+			thumbnail: "https://cdn.imgchest.com/files/46acqv32og7.png",
 			title: "TBD",
 			artist: "Nessu",
 			artist_url: "https://x.com/NessuDraws",
@@ -1000,6 +1000,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// ShiroFont | Sev and Maids 1
+			src: ["https://cdn.imgchest.com/files/46acqv3ppm7.png", "https://cdn.imgchest.com/files/yvdcw9gk5xy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3a2wdd4.png",
+			title: "TBD",
+			artist: "ShiroFont",
+			artist_url: "https://x.com/ShiroFont",
+			art_url: "https://x.com/ShiroFont/status/1620789509393891328",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
+			// ShiroFont | Sev and Maids 2
+			src: ["https://cdn.imgchest.com/files/7pjcqmd23x7.jpg", "https://cdn.imgchest.com/files/7ogcbpw6mry.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9o62e4.png",
+			title: "TBD",
+			artist: "ShiroFont",
+			artist_url: "https://x.com/ShiroFont",
+			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "May 2023",
+			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
 			// SilverCandyGum | Caeda
 			src: ["https://cdn.imgchest.com/files/7pjcqmw2b37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nv3lly.png",
@@ -1075,6 +1101,19 @@ var data = {
 			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
 			date_str: "Jan 2024 – Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Severa and Mercs
+			src: ["https://cdn.imgchest.com/files/7kzca8wkjo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv3k6m97.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1711795711589695668",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["nsfw", "severa", "other", "collab"],
 			hidden: false
 		},
 		{
