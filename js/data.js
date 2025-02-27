@@ -1137,7 +1137,7 @@ var data = {
 			artist: "ZeroA",
 			artist_url: "https://www.pixiv.net/en/users/62272954",
 			art_url: "https://www.pixiv.net/en/artworks/127426098",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>."
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Oct 2024",
 			tags: ["nsfw", "severa", "lucina", "tiki", "other", "collab"],
 			hidden: false
