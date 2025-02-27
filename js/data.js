@@ -376,6 +376,18 @@ var data = {
 			tags: ["sfw", "micaiah", "edelgard", "other"],
 			hidden: false
 		},
+		{	// Fusenryo | Catriagrid
+			src: ["https://cdn.imgchest.com/files/7mmc9g32bo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8onxrd4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift to <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "October 2024",
+			tags: ["sfw", "catria", "ingrid", "gifts_given"],
+			hidden: false
+		},
 		{	// Fusenryo | Edelgard and Flayn
 			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
@@ -1067,7 +1079,7 @@ var data = {
 		{
 			// SilverCandyGum | Caeda
 			src: ["https://cdn.imgchest.com/files/7pjcqmw2b37.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7w6c2nv3lly.png",
+			thumbnail: "https://cdn.imgchest.com/files/46acqv3rl67.png",
 			title: "On Golden Wings",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
@@ -1078,7 +1090,33 @@ var data = {
 			hidden: false
 		},
 		{
-			// SilverCandyGum | Caeda
+			// SilverCandyGum | Catria
+			src: ["https://cdn.imgchest.com/files/yrgcn5amqn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxk5l57.png",
+			title: "TBD",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/98536499",
+			desc: "TBD.",
+			date_str: "May 2022",
+			tags: ["sfw", "catria"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Merrin and Chloe
+			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxk5l57.png",
+			title: "TBD",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/110627117",
+			desc: "TBD. Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "August 2023",
+			tags: ["sfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Kris
 			src: ["https://cdn.imgchest.com/files/4z9cv3wzz27.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rnqq4.png",
 			title: "Empress, Lovers, Fool and Fortune",
