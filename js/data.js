@@ -570,6 +570,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kalycoris | Camilla
+			src: ["https://cdn.imgchest.com/files/739cx5gaqp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca8km3m7.png",
+			title: "Good Cop",
+			artist: "Kalycoris",
+			artist_url: "https://bsky.app/profile/kkalycoris.bsky.social",
+			art_url: null,
+			desc: "Far from unsettling their relationship, the discovery of the Whitewings' true identities only brings Ingrid and Catria closer together in shared confidence and secrecy – even as Ingrid grapples with her duties to the law, and as Catria delights in teasing the 'good officer' on the job.",
+			date_str: "Dec 2021",
+			tags: ["sfw", "catria", "ingrid"],
+			hidden: false
+		},
+		{
 			// kayksyla | Camilla
 			src: ["https://cdn.imgchest.com/files/49zc2kz2aay.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568xl4.png",
@@ -596,6 +609,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kisi | Ingrid
+			src: ["https://cdn.imgchest.com/files/49zc2k9rljy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckae85q7.png",
+			title: "TBD",
+			artist: "kisi0024",
+			artist_url: "https://skeb.jp/@kisi0024",
+			art_url: null,
+			desc: "tbd.",
+			date_str: "Aug 2024",
+			tags: ["sfw", "ingrid", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Kitty | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/y8xcng86l94.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8w54.png",
@@ -606,6 +632,19 @@ var data = {
 			desc: "Edelgard's first time accompanying Micaiah to the Hoshidan summer festival ends on a high note.",
 			date_str: "Dec 2023",
 			tags: ["nsfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Catria
+			src: ["https://cdn.imgchest.com/files/4z9cv3kbgj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9janr4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "catria"],
 			hidden: false
 		},
 		{
@@ -723,6 +762,19 @@ var data = {
 			desc: "Micaiah is ever at the ready to serve her dearest friends.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// MinaCream | Catriagrid
+			src: ["https://cdn.imgchest.com/files/yq9c3a2x9a4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ce3aden4.png",
+			title: "TBD",
+			artist: "Mina Cream",
+			artist_url: "https://bsky.app/profile/minacream.bsky.social",
+			art_url: null,
+			desc: "Micaiah is ever at the ready to serve her dearest friends<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "catria", "ingrid", "collab"],
 			hidden: false
 		},
 		{
@@ -1139,6 +1191,19 @@ var data = {
 			desc: "As track team captain of Gekkoukan High and a top ten student, Kris is used to the attention of her peers. But the arrival of a mysterious transfer student into her class—irrepressibly flirty, and unmistakably interested—sparks a fierce contest for her attention and affection – and Kris quickly discovers just how popular she really is...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "May 2023",
 			tags: ["sfw", "caeda", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// SirKnightbot | Catria and Ingrid
+			src: ["https://cdn.imgchest.com/files/7w6c2nzjkny.png", "https://cdn.imgchest.com/files/ye3c2o8zep4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx5jd3o7.png",
+			title: "High Horsepower",
+			artist: "SirKnightbot",
+			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
+			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "April 2023",
+			tags: ["sfw", "catria", "ingrid", "collab"],
 			hidden: false
 		},
 		{
