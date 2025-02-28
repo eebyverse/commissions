@@ -241,7 +241,7 @@ var data = {
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
 			art_url: "https://x.com/dotted__clouds/status/1624661188339724288",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "Mother and daughter enjoy the Day of Devotion together.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
@@ -383,7 +383,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "October 2024",
 			tags: ["sfw", "catria", "ingrid", "gifts_given"],
 			hidden: false
@@ -460,7 +460,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
+			desc: "Seliph of Chalphy and Larcei of Isaach – a bond of unbreakable love and trust, forged in war and sealed through Jugdral's liberation.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -651,11 +651,11 @@ var data = {
 			// Loutani | Summoners, Loki and Aversa
 			src: ["https://cdn.imgchest.com/files/yvdcw9ggdjy.png", "https://cdn.imgchest.com/files/46acqv33b27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpw68oy.png",
-			title: "TBD",
+			title: "Competition",
 			artist: "Loutani",
 			artist_url: "https://x.com/loutaniart",
 			art_url: "https://x.com/loutaniart/status/1613666819172356097",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			desc: "With such lovely summoners in their thrall, Loki and Aversa can't help but compare their conquests.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["nsfw", "eeby", "loki", "other", "collab"],
 			hidden: false
@@ -781,11 +781,11 @@ var data = {
 			// Mnejing | Severa
 			src: ["https://cdn.imgchest.com/files/4nec8onqpe4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zpg4.png",
-			title: "TBD",
+			title: "Who's the Boss",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1785791657847476730",
-			desc: "TBD",
+			desc: "Severa knows a good outfit when she sees one – especially when it's up for grabs.",
 			date_str: "May 2024",
 			tags: ["sfw", "severa"],
 			hidden: false
@@ -811,7 +811,7 @@ var data = {
 			artist: "Nessu",
 			artist_url: "https://x.com/NessuDraws",
 			art_url: "https://x.com/NessuDraws/status/1531289335793799168",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "A shapeshifter can have anyone wear anything, even in defiance of all logic and reason: a fact which Loki, in snaring her summoner and dragging her ever deeper into dependency, relishes making the most of.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
 			hidden: false
@@ -1038,14 +1038,14 @@ var data = {
 			hidden: false
 		},
 		{
-			// shan | Severa and Euine
+			// shan | Severa and Eunie
 			src: ["https://cdn.imgchest.com/files/y2pckadegn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckadgvm7.png",
-			title: "TBD",
+			title: "A Spark Between Us",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: "https://x.com/shan0732/status/1575352662861565952",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "Severa meets a kindred spirit.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Sep 2022",
 			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
@@ -1067,11 +1067,11 @@ var data = {
 			// ShiroFont | Sev and Maids 1
 			src: ["https://cdn.imgchest.com/files/46acqv3ppm7.png", "https://cdn.imgchest.com/files/yvdcw9gk5xy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3a2wdd4.png",
-			title: "TBD",
+			title: "Maid Service",
 			artist: "ShiroFont",
 			artist_url: "https://x.com/ShiroFont",
 			art_url: "https://x.com/ShiroFont/status/1620789509393891328",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "When Selena accompanies her princess on a visit to the Northern Fortress, Camilla—valuing her private time with Corrin too deeply to share—decides to instead treat her darling retainer to the fortress's dutiful staff...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
 			hidden: false
@@ -1080,11 +1080,11 @@ var data = {
 			// ShiroFont | Sev and Maids 2
 			src: ["https://cdn.imgchest.com/files/7pjcqmd23x7.jpg", "https://cdn.imgchest.com/files/7ogcbpw6mry.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9o62e4.png",
-			title: "TBD",
+			title: "Perfect Picnic",
 			artist: "ShiroFont",
 			artist_url: "https://x.com/ShiroFont",
 			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "Through her experiences in the Northern Fortress, Selena finds herself on unexpectedly fond terms with both maids in Corrin's service – and when, one day, the sisters invite her out to a picnic, she knows full well what to expect...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
 			hidden: false
@@ -1106,11 +1106,11 @@ var data = {
 			// SilverCandyGum | Catria
 			src: ["https://cdn.imgchest.com/files/yrgcn5amqn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxk5l57.png",
-			title: "TBD",
+			title: "Blue Whitewing",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/98536499",
-			desc: "TBD.",
+			desc: "Cartria White, known to authorities only as the Blue Whitewing. Though a mild-mannered university student by day, she takes to the streets at night alongside her sisters to mete out vigilante justice against Zenith City's criminal underworld – all the while balancing her romance with Ingrid, the very officer tasked with pursuing her night after night.",
 			date_str: "May 2022",
 			tags: ["sfw", "catria"],
 			hidden: false
@@ -1119,11 +1119,11 @@ var data = {
 			// SilverCandyGum | Merrin and Chloe
 			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zm64.png",
-			title: "TBD",
+			title: "Beauty and Beast",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/110627117",
-			desc: "TBD. Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "August 2023",
 			tags: ["sfw", "other", "collab"],
 			hidden: false
@@ -1149,7 +1149,7 @@ var data = {
 			artist: "SirKnightbot",
 			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
 			art_url: "https://bsky.app/profile/sirknightbot.bsky.social/post/3kfrl37y2q22x",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "The weight of the past, and the legacy of those who came before, is a crushing burden to bear – as Severa knows all too well.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "July 2023",
 			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
@@ -1210,11 +1210,11 @@ var data = {
 			// TimboCactus | Severa and Mercs
 			src: ["https://cdn.imgchest.com/files/7kzca8wkjo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmqr357.png",
-			title: "TBD",
+			title: "Something to Prove",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1711795711589695668",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "There are dozens upon dozens of mercenaries to be found in Askr – so it's just as well that Selena already knows she's the best of them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
 			hidden: false
@@ -1279,7 +1279,7 @@ var data = {
 			artist: "ZeroA",
 			artist_url: "https://www.pixiv.net/en/users/62272954",
 			art_url: "https://www.pixiv.net/en/artworks/127426098",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Severa puts her sharp tongue to a far more productive use around the Shepherds' camp – and soon comes to revel in her new role and purpose.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Oct 2024",
 			tags: ["nsfw", "severa", "lucina", "tiki", "other", "collab"],
 			hidden: false
