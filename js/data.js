@@ -1134,7 +1134,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjznvj7.png",
 			title: "TBD",
 			artist: "Ryumi",
-			artist_url: NULL,
+			artist_url: null,
 			art_url: null,
 			desc: "TBD",
 			date_str: "Jun 2022",
