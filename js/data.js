@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eeby", "eirika", "eleanor", "flayn", "ingrid", "laura", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "severa", "tiki", "other"],
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eeby", "eirika", "eleanor", "flayn", "ingrid", "laura", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea". "sayri", "severa", "tiki", "other"],
 			hidden: true
 		},
 		{
@@ -1087,6 +1087,19 @@ var data = {
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Redkite | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/49zc2kqkjny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5le2n84.png",
+			title: "Brave New Look",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1717596198025273491",
+			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "micaiah", "tiki", "rhea", "collab"],
 			hidden: false
 		},
 		{
