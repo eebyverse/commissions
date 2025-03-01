@@ -195,7 +195,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Darkness | Tiki and Rhea
+			// Darkness | Tiki and Lumera
 			src: ["https://cdn.imgchest.com/files/7ogcbpmpepy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv2maj7.png",
 			title: "TBD",
@@ -204,7 +204,7 @@ var data = {
 			art_url: null,
 			desc: "TBD",
 			date_str: "TBD",
-			tags: ["sfw", "tiki", "rhea"],
+			tags: ["sfw", "tiki", "lumera"],
 			hidden: false
 		},
 		{
