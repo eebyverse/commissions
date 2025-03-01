@@ -217,7 +217,7 @@ var data = {
 			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3ldsz2ony3c2n",
 			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
-			tags: ["sfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
+			tags: ["nsfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1099,7 +1099,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1717596198025273491",
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Oct 2023",
-			tags: ["sfw", "micaiah", "tiki", "rhea", "collab"],
+			tags: ["nsfw", "tiki", "rhea", "collab"],
 			hidden: false
 		},
 		{
