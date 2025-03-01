@@ -928,7 +928,7 @@ var data = {
 			artist: "minorudonguri",
 			artist_url: "https://skeb.jp/@minorudonguri",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "TBD<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "tiki", "rhea", "lumera", "other", "collab"],
 			hidden: false
