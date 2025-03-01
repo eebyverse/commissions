@@ -265,6 +265,7 @@ function translateWord(word) {
 		sayri: "👤 Say'ri",
 		rhea: "👤 Rhea",
 		lumera: "👤 Lumera",
+		kris: "👤 Kris",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
