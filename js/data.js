@@ -531,6 +531,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Eebeebi and  Vrhaka
+			src: ["https://cdn.imgchest.com/files/49zc2krmmxy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lj6zq4.png",
+			title: "Little Fruity",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lc6u6jsb722d",
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "eebeebi", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
@@ -1454,6 +1467,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Eebeebi
+			src: ["https://cdn.imgchest.com/files/7bwckjlaab7.png", "https://cdn.imgchest.com/files/4nec8oxggv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9kd224.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/sillysiren.bsky.social",
+			art_url: null,
+			desc: "A little creature says hello!",
+			date_str: "Sep 2024",
+			tags: ["sfw", "eebeebi"],
+			hidden: false
+		},
+		{
 			// Siren | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2o3npp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
@@ -1581,6 +1607,19 @@ var data = {
 			desc: "Loki of Ásgarðr, in a guise of sincerity.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "loki", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Yumi | Eebeebi
+			src: ["https://cdn.imgchest.com/files/7pjcqmvzzw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5mrgr4.png",
+			title: "TBD",
+			artist: "Ymilattea",
+			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2024",
+			tags: ["sfw", "eebeebi"],
 			hidden: false
 		},
 		{
