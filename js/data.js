@@ -171,7 +171,7 @@ var data = {
 		{
 			// Darkness | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/7pjcqm6qab7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9g53bz7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7kzca8jmql7.png",
 			title: "My Darling",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
