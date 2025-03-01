@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eeby", "eirika", "eleanor", "flayn", "ingrid", "laura", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "tiki", "other"],
+			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "tiki", "other"],
 			hidden: true
 		},
 		{
@@ -1047,7 +1047,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1707168289150119995",
 			desc: "As Eirika knows too well, Camilla's moments of mischief have a habit of involving others...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Sep 2023",
-			tags: ["sfw", "camilla", "eirika", "other", "collab"],
+			tags: ["sfw", "camilla", "eirika", "kris", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1125,7 +1125,7 @@ var data = {
 			art_url: null,
 			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
 			date_str: "May 2024",
-			tags: ["nsfw", "caeda", "other", "collab"],
+			tags: ["nsfw", "caeda", "kris", "collab"],
 			hidden: false
 		},
 		{
@@ -1333,7 +1333,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/119141252",
 			desc: "As track team captain of Gekkoukan High and a top ten student, Kris is used to the attention of her peers. But the arrival of a mysterious transfer student into her class—irrepressibly flirty, and unmistakably interested—sparks a fierce contest for her attention and affection – and Kris quickly discovers just how popular she really is...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "May 2023",
-			tags: ["sfw", "caeda", "other", "gifts_given"],
+			tags: ["sfw", "caeda", "kris", "other", "gifts_given"],
 			hidden: false
 		},
 		{
