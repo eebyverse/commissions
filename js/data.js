@@ -52,6 +52,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Argilla | Kris and Norne
+			src: ["https://cdn.imgchest.com/files/4gdcx9k38x4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5lj9gl4.png",
+			title: "TBD",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://x.com/babykatafan/status/1619803700742213633",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "kris", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Argilla | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/4jdcvzlzom4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qojn7.png",
@@ -208,6 +221,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Say'ri
+			src: ["https://cdn.imgchest.com/files/ye3c2ozvwz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmvn9o7.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "sayri"],
+			hidden: false
+		},
+		{
 			// Decox | Eeby and Dragons
 			src: ["https://cdn.imgchest.com/files/yxkczx6x597.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qozn7.png",
@@ -348,6 +374,19 @@ var data = {
 			desc: "While Edelgard initially declined to attend the Ninja Festival, Micaiah eventually persuaded her to step out of the shadows – flame shuriken in hand.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Say'ri and Flayn
+			src: ["https://cdn.imgchest.com/files/4gdcx9k3wq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqvjlka7.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "sayri", "flayn"],
 			hidden: false
 		},
 		{
@@ -739,6 +778,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Kris and Girls
+			src: ["https://cdn.imgchest.com/files/y8xcngba9e4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbpea5vy.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift to <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "kris", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
@@ -801,6 +853,19 @@ var data = {
 			desc: "Lucina and Caeda, bridging two-thousand years of Archanean history through the miracle of Askr.",
 			date_str: "Apr 2022",
 			tags: ["sfw", "caeda", "lucina"],
+			hidden: false
+		},
+		{
+			// Picnicic | New Year's
+			src: ["https://cdn.imgchest.com/files/y8xcngbavr4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca8zpwz7.png",
+			title: "TBD",
+			artist: "Picnicic",
+			artist_url: "https://x.com/picnicic",
+			art_url: "https://x.com/picnicic/status/1544287457449242624",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "sayri", "flayn", "tiki", "rhea", "edelgard", "micaiah", "eirika", "camilla", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -921,6 +986,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Say'ri
+			src: ["https://cdn.imgchest.com/files/4z9cv3bqjg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca8zpgb7.png",
+			title: "I'd Win",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1811557257051799846",
+			desc: "TBD.",
+			date_str: "Jul 2024",
+			tags: ["sfw", "sayri"],
+			hidden: false
+		},
+		{
 			// Mnejing | Severa
 			src: ["https://cdn.imgchest.com/files/4nec8onqpe4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zpg4.png",
@@ -931,6 +1009,19 @@ var data = {
 			desc: "Severa knows a good outfit when she sees one – especially when it's up for grabs.",
 			date_str: "May 2024",
 			tags: ["sfw", "severa"],
+			hidden: false
+		},
+		{
+			// Motoiwork | V'rhaka
+			src: ["https://cdn.imgchest.com/files/7pjcqmvn8b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nj9lwy.png",
+			title: "TBD",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "TB<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1373,6 +1464,19 @@ var data = {
 			desc: "When Micaiah hears of Sonya's love and kindness from Leanne, she and Edelgard agree to offer a rare invitation.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
 			date_str: "May 2024",
 			tags: ["nsfw", "micaiah", "edelgard", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Siren | Say'ri and Ena
+			src: ["https://cdn.imgchest.com/files/4apc5lj9q24.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckajqz57.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "April 2024",
+			tags: ["nsfw", "sayri", "other", "collab"],
 			hidden: false
 		},
 		{
