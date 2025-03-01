@@ -52,6 +52,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Argilla | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/4jdcvzlzom4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qojn7.png",
+			title: "TBD",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://vxtwitter.com/babykatafan/status/1675142090265710593?t=JKYsRn_esEUnsCl1Pnb6rA&s=19",
+			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "tiki", "rhea", "collab"],
+			hidden: false
+		},
+		{
 			// Asu | Miccy and Renne
 			src: ["https://cdn.imgchest.com/files/yrgcn5gkxm4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr2r7.png",
@@ -182,6 +195,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/7ogcbpmpepy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqv2maj7.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "tiki", "rhea"],
+			hidden: false
+		},
+		{
+			// Decox | Eeby and Dragons
+			src: ["https://cdn.imgchest.com/files/yxkczx6x597.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qozn7.png",
+			title: "TBD",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3ldsz2ony3c2n",
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
@@ -309,6 +348,19 @@ var data = {
 			desc: "While Edelgard initially declined to attend the Ninja Festival, Micaiah eventually persuaded her to step out of the shadows – flame shuriken in hand.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/7kzca8j8ze7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczx69j87.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
 		{
@@ -609,6 +661,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kinkymation | Say'riki
+			src: ["https://cdn.imgchest.com/files/46acqv2vj67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckag8nn7.png",
+			title: "TBD",
+			artist: "Kinkymation",
+			artist_url: "https://x.com/kinkymation",
+			art_url: "https://x.com/kinkymation/status/1604204956038221824",
+			desc: "tbd.",
+			date_str: "Dec 2022",
+			tags: ["nsfw", "tiki", "sayri"],
+			hidden: false
+		},
+		{
 			// Kisi | Ingrid
 			src: ["https://cdn.imgchest.com/files/49zc2k9rljy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckae85q7.png",
@@ -671,6 +736,19 @@ var data = {
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, in more casual attire. Though many of Daein Keep's servants dream of trying their luck with her, all agree—begrudgingly—that her heart already belongs to their queen.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
 		{
@@ -772,9 +850,22 @@ var data = {
 			artist: "Mina Cream",
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
-			desc: "Micaiah is ever at the ready to serve her dearest friends<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "catria", "ingrid", "collab"],
+			hidden: false
+		},
+		{
+			// minorudonguri | Ivy and Dragons
+			src: ["https://cdn.imgchest.com/files/yq9c3awaxg4.png", "https://cdn.imgchest.com/files/yd5ce383np4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmrjpo7.png",
+			title: "TBD",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "tiki", "rhea", "lumera", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1025,6 +1116,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Ryumi | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/4gdcx969k64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckjznvj7.png",
+			title: "TBD",
+			artist: "Ryumi",
+			artist_url: NULL,
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2022",
+			tags: ["nsfw", "tiki", "rhea"],
+			hidden: false
+		},
+		{
+			// Sakuremi | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/4apc5lelja4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqm3p8x7.png",
+			title: "TBD",
+			artist: "Sakuremi",
+			artist_url: "https://x.com/sakuuremi",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2024",
+			tags: ["nsfw", "tiki", "rhea"],
+			hidden: false
+		},
+		{
 			// ScruffyTurtles | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yd5ce3bekr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvzo5z7.png",
@@ -1100,6 +1217,19 @@ var data = {
 			desc: "Severa meets a kindred spirit.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Sep 2022",
 			tags: ["sfw", "severa", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// shan | Tiki and Rhea
+			src: ["https://cdn.imgchest.com/files/7lxcp3q3kw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca8jm9d7.png",
+			title: "TBD",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "TBD",
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
 		{
