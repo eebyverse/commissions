@@ -262,6 +262,9 @@ function translateWord(word) {
 		tiki: "👤 Tiki",
 		ingrid: "👤 Ingrid",
 		catria: "👤 Catria",
+		sayri: "👤 Say'ri",
+		rhea: "👤 Rhea",
+		lumera: "👤 Lumera",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
