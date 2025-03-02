@@ -268,6 +268,7 @@ function translateWord(word) {
 		kris: "👤 Kris",
 		eebeebi: "👤 Eebeebi",
 		sharena: "👤 Sharena",
+		veyle: "👤 Veyle",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
