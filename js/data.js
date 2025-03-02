@@ -475,7 +475,7 @@ var data = {
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
 			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
-			date_str: "October 2024",
+			date_str: "Oct 2024",
 			tags: ["sfw", "catria", "ingrid", "gifts_given"],
 			hidden: false
 		},
@@ -531,7 +531,20 @@ var data = {
 			hidden: false
 		},
 		{
-			// Fusenryo | Eebeebi and  Vrhaka
+			// Fusenryo | Eeby + Laura and Sharena
+			src: ["https://cdn.imgchest.com/files/45xcvmbjld7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckam8jv7.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "laura", "eeby", "sharena", "collab"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eebeebi and Vrhaka
 			src: ["https://cdn.imgchest.com/files/49zc2krmmxy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lj6zq4.png",
 			title: "Little Fruity",
@@ -606,6 +619,19 @@ var data = {
 			desc: "Knowing her own dreams lie in ruin, Edelgard resolves to keep Micaiah's alive – no matter the cost.",
 			date_str: "May 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Harunn | Laura and Rosado
+			src: ["https://cdn.imgchest.com/files/yxkczxe95g7.png", "https://cdn.imgchest.com/files/49zc2kj8rvy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2oe5m64.png",
+			title: "TBD",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "Sep 2024",
+			tags: ["sfw", "laura", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -749,6 +775,19 @@ var data = {
 			desc: "Edelgard's first time accompanying Micaiah to the Hoshidan summer festival ends on a high note.",
 			date_str: "Dec 2023",
 			tags: ["nsfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Kiwi | Sharena/Laura
+			src: ["https://cdn.imgchest.com/files/46acqvrmpe7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngzdrk4.png",
+			title: "TBD",
+			artist: "Kiwi",
+			artist_url: "https://bsky.app/profile/artistkiwi.bsky.social",
+			art_url: "https://x.com/Artist_Kiwi/status/1773077416593821930",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["nsfw", "laura", "sharena", "collab"],
 			hidden: false
 		},
 		{
@@ -986,6 +1025,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Laura
+			src: ["https://cdn.imgchest.com/files/46acqvrmje7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn5qeqn4.png",
+			title: "Cool Chicken",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1774217017480056958",
+			desc: "TBD",
+			date_str: "Mar 2024",
+			tags: ["sfw", "laura"],
+			hidden: false
+		},
+		{
 			// Mnejing | Miccy Manuela
 			src: ["https://cdn.imgchest.com/files/7mmc9gvgen7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr3r7.png",
@@ -1204,6 +1256,32 @@ var data = {
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "tiki", "rhea", "collab"],
+			hidden: false
+		},
+		{
+			// Roarke | Laura
+			src: ["https://cdn.imgchest.com/files/4nec8o96qn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmlppj7.png",
+			title: "TBD",
+			artist: "Roarke",
+			artist_url: "https://bsky.app/profile/roarke.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "laura"],
+			hidden: false
+		},
+		{
+			// Rotomdocs | PJ Laura
+			src: ["https://cdn.imgchest.com/files/yvdcw932j6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv3glgj7.png",
+			title: "TBD",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: "https://x.com/RotomDocs/status/1742736138144739408",
+			desc: "TBD",
+			date_str: "May 2024",
+			tags: ["sfw", "laura", "micaiah"],
 			hidden: false
 		},
 		{
@@ -1449,7 +1527,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
 			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
-			date_str: "April 2023",
+			date_str: "Apr 2023",
 			tags: ["sfw", "catria", "ingrid", "collab"],
 			hidden: false
 		},
@@ -1462,7 +1540,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
 			art_url: "https://bsky.app/profile/sirknightbot.bsky.social/post/3kfrl37y2q22x",
 			desc: "The weight of the past, and the legacy of those who came before, is a crushing burden to bear – as Severa knows all too well.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
-			date_str: "July 2023",
+			date_str: "Jul 2023",
 			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
 		},
@@ -1493,6 +1571,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Laura and Fiona
+			src: ["https://cdn.imgchest.com/files/yxkczxe9wg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmbj587.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2024",
+			tags: ["nsfw", "laura", "other"],
+			hidden: false
+		},
+		{
 			// Siren | Say'ri and Ena
 			src: ["https://cdn.imgchest.com/files/4apc5lj9q24.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckajqz57.png",
@@ -1501,7 +1592,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
 			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
-			date_str: "April 2024",
+			date_str: "Apr 2024",
 			tags: ["nsfw", "sayri", "other", "collab"],
 			hidden: false
 		},
@@ -1566,7 +1657,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
 			art_url: null,
 			desc: "Eirika appreciates the fullness and roundness of Camilla's love.",
-			date_str: "July 2023",
+			date_str: "Jul 2023",
 			tags: ["sfw", "camilla", "eirika"],
 			hidden: false
 		},
@@ -1579,7 +1670,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/urbydizzy.bsky.social",
 			art_url: null,
 			desc: "Just say mwah.",
-			date_str: "July 2023",
+			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
