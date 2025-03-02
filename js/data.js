@@ -1520,7 +1520,7 @@ var data = {
 		},
 		{
 			// SilverCandyGum | Veyle and Flayn
-			src: ["https://cdn.imgchest.com/files/46acqvxqgj7.png"],
+			src: ["https://cdn.imgchest.com/files/46acqvxqgj7.png", "https://cdn.imgchest.com/files/yd5ce36enx4.png", "https://cdn.imgchest.com/files/yrgcn52nmv4.png", "https://cdn.imgchest.com/files/7lxcp38pkn7.png", "https://cdn.imgchest.com/files/4jdcvz5vo84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngon524.png",
 			title: "Fly-Fishing Lasses",
 			artist: "SilverCandyGum",
