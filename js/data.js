@@ -759,7 +759,7 @@ var data = {
 			artist: "kisi0024",
 			artist_url: "https://skeb.jp/@kisi0024",
 			art_url: null,
-			desc: "tbd.",
+			desc: "tbd<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
 			tags: ["sfw", "ingrid", "gifts_given"],
 			hidden: false
