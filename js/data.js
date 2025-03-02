@@ -1526,7 +1526,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/113530684",
-			desc: "The duo of Flayn, student of Garreg Mach and sister of Seteth, and Veyle, the Fell Dragon Sombron's daughter, have teamed up to compete in the fishing tournament! Will these girls fish up the big catch they're angling for?.",
+			desc: "The duo of Flayn, student of Garreg Mach and sister of Seteth, and Veyle, the Fell Dragon Sombron's daughter, have teamed up to compete in the fishing tournament! Will these girls fish up the big catch they're angling for?",
 			date_str: "Nov 2023",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
