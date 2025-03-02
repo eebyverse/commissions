@@ -1519,6 +1519,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SilverCandyGum | Veyle and Flayn
+			src: ["https://cdn.imgchest.com/files/46acqvxqgj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcngon524.png",
+			title: "Fly-Fishing Lasses",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/113530684",
+			desc: "The duo of Flayn, student of Garreg Mach and sister of Seteth, and Veyle, the Fell Dragon Sombron's daughter, have teamed up to compete in the fishing tournament! Will these girls fish up the big catch they're angling for?.",
+			date_str: "Nov 2023",
+			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
 			// SirKnightbot | Catria and Ingrid
 			src: ["https://cdn.imgchest.com/files/7w6c2nzjkny.png", "https://cdn.imgchest.com/files/ye3c2o8zep4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx5jd3o7.png",
