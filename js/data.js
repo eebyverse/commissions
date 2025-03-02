@@ -247,6 +247,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/7bwckj5avm7.png", "https://cdn.imgchest.com/files/7w6c2nd283y.png", "https://cdn.imgchest.com/files/4gdcx9qxbg4.png", "https://cdn.imgchest.com/files/45xcvmxvoo7.png", "https://cdn.imgchest.com/files/yd5ce36evb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmgzvb7.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://vxtwitter.com/DeebyFeeby/status/1758971310380568731",
+			desc: "TBD",
+			date_str: "Feb 2024",
+			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
@@ -648,6 +661,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Irene | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/7mmc9gpz887.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmxz3l7.png",
+			title: "TBD",
+			artist: "Irène",
+			artist_url: "https://bsky.app/profile/enwbbs.bsky.social",
+			art_url: "https://x.com/enwbbs/status/1783668402650841181",
+			desc: "TBD",
+			date_str: "Apr 2024",
+			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
 			// JadeSnap | Camilla
 			src: ["https://cdn.imgchest.com/files/yxkczx2znb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczx2znb7.png",
@@ -684,6 +710,19 @@ var data = {
 			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jebbee | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/yd5ce36k934.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv35ajr7.png",
+			title: "TBD",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lgrqwmbk5c2t",
+			desc: "TBD.<br/><br/>Unpaid sketch request.",
+			date_str: "Aug 2023",
+			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -879,6 +918,19 @@ var data = {
 			desc: "With such lovely summoners in their thrall, Loki and Aversa can't help but compare their conquests.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["nsfw", "eeby", "loki", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Paulygon | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/4apc5laz6g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp389gp7.png",
+			title: "TBD",
+			artist: "Paulygon2",
+			artist_url: "https://bsky.app/profile/paulygon2.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Feb 2024",
+			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
 		},
 		{
@@ -1724,6 +1776,19 @@ var data = {
 			desc: "TBD",
 			date_str: "Dec 2024",
 			tags: ["sfw", "eebeebi"],
+			hidden: false
+		},
+		{
+			// Yumi | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/4nec8odekz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvz5gnr4.png",
+			title: "TBD",
+			artist: "Ymilattea",
+			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Nov 2024",
+			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
 		},
 		{
