@@ -189,7 +189,7 @@ var data = {
 			artist: "CunCyun",
 			artist_url: "https://www.deviantart.com/cuncyun",
 			art_url: null,
-			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time at all in making use of her.",
+			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time at all in making use of her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Dec 2024",
 			tags: ["extreme", "flayn", "other", "collab"],
 			hidden: false
@@ -941,9 +941,9 @@ var data = {
 			artist: "Lynarc",
 			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
 			art_url: "https://bsky.app/profile/lynarc.bsky.social/post/3ljhx7quygc2n",
-			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn. Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn. Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Mar 2025",
-			tags: ["sfw", "say'ri", "collab"],
+			tags: ["sfw", "sayri", "collab"],
 			hidden: false
 		},
 		{
