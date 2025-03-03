@@ -273,6 +273,7 @@ function translateWord(word) {
 		rhea: "👤 Rhea",
 		lumera: "👤 Lumera",
 		kris: "👤 Kris",
+		lianna: "👤 Lianna",
 		eebeebi: "👤 Eebeebi",
 		sharena: "👤 Sharena",
 		veyle: "👤 Veyle",
