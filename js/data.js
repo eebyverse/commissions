@@ -182,6 +182,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// CunCyun | Flayn and Kronya
+			src: ["https://cdn.imgchest.com/files/4nec88g9r24.jpg", "https://cdn.imgchest.com/files/7ogcbbg2zny.jpg", "https://cdn.imgchest.com/files/7kzcaad6ln7.jpg", "https://cdn.imgchest.com/files/y2pckk2mbo7.jpg", "https://cdn.imgchest.com/files/7lxcppevbx7.jpg", "https://cdn.imgchest.com/files/4jdcvvkap34.jpg", "https://cdn.imgchest.com/files/yq9c33djql4.jpg", "https://cdn.imgchest.com/files/yd5ceeqw284.jpg", "https://cdn.imgchest.com/files/7mmc99obxb7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmog967.png",
+			title: "Playing Innocent",
+			artist: "CunCyun",
+			artist_url: "https://www.deviantart.com/cuncyun",
+			art_url: null,
+			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time at all in making use of her.",
+			date_str: "Dec 2024",
+			tags: ["extreme", "flayn", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Darkness | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/7pjcqm6qab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8jmql7.png",
