@@ -765,19 +765,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Jebbee | Edelcaiah
-			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vx9vy.png",
-			title: "Thank You",
-			artist: "Jebbee",
-			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
-			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
-			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
-			date_str: "Aug 2023",
-			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
-			hidden: false
-		},
-		{
 			// Jebbee | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/yd5ce36k934.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv35ajr7.png",
@@ -788,6 +775,19 @@ var data = {
 			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jebbee | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/45xcvmp9ro7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vx9vy.png",
+			title: "Thank You",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
+			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
+			date_str: "Aug 2023",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
