@@ -921,6 +921,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Lynarc | Say'ri
+			src: ["https://cdn.imgchest.com/files/yq9c3ar5vg4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmok9b7.png",
+			title: "Studied Blade",
+			artist: "Lynarc",
+			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
+			art_url: "https://bsky.app/profile/lynarc.bsky.social/post/3ljhx7quygc2n",
+			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn. Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "say'ri", "collab"],
+			hidden: false
+		},
+		{
 			// Paulygon | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/4apc5laz6g4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp389gp7.png",
@@ -1763,6 +1776,19 @@ var data = {
 			desc: "Loki of Ásgarðr, in a guise of sincerity.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "loki", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Witchi | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/7lxcp3mgxw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2k5gxjy.png",
+			title: "A Little Secret",
+			artist: "Witchi",
+			artist_url: "https://x.com/wwitchii_",
+			art_url: null,
+			desc: "Flayn offers Veyle a show of deepest trust.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
 		},
 		{
