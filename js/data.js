@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veyle", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veyle", "other"],
 			hidden: true
 		},
 		{
@@ -59,7 +59,7 @@ var data = {
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/babykatafan/status/1619803700742213633",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Though Kris's childhood memories of Norne come only in bits and pieces, Norne's own fondness for her has never once faded.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "kris", "other", "gifts_given"],
 			hidden: false
@@ -72,7 +72,7 @@ var data = {
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://vxtwitter.com/babykatafan/status/1675142090265710593?t=JKYsRn_esEUnsCl1Pnb6rA&s=19",
-			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Rhea, used to isolation, finds unexpected company and comfort in Askr from those who have known her pain.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "tiki", "rhea", "collab"],
 			hidden: false
@@ -211,12 +211,12 @@ var data = {
 			// Darkness | Tiki and Lumera
 			src: ["https://cdn.imgchest.com/files/7ogcbpmpepy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv2maj7.png",
-			title: "TBD",
+			title: "Sleepyhead",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
-			date_str: "TBD",
+			desc: "A mother's presence is something Tiki hasn't felt in far too long – and Lumera is more than happy to indulge her.",
+			date_str: "Nov 2023",
 			tags: ["sfw", "tiki", "lumera"],
 			hidden: false
 		},
@@ -224,12 +224,12 @@ var data = {
 			// Darkness | Say'ri
 			src: ["https://cdn.imgchest.com/files/ye3c2ozvwz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmvn9o7.png",
-			title: "TBD",
+			title: "Princess of Chon'sin",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
-			date_str: "TBD",
+			desc: "Say'ri of Chon'sin – resistance leader, heir to the throne, and heartthrob of women from Valm to Ylisse.",
+			date_str: "Oct 2024",
 			tags: ["sfw", "sayri"],
 			hidden: false
 		},
@@ -237,11 +237,11 @@ var data = {
 			// Decox | Eeby and Dragons
 			src: ["https://cdn.imgchest.com/files/yxkczx6x597.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qozn7.png",
-			title: "TBD",
+			title: "Under the Mistletoe",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3ldsz2ony3c2n",
-			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			desc: "At the Order's Winter Festival celebrations, the summoner finds herself in an inescapable situation.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
 			tags: ["nsfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
 			hidden: false
@@ -254,7 +254,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: "https://vxtwitter.com/DeebyFeeby/status/1758971310380568731",
-			desc: "TBD",
+			desc: "For Flayn, the greatest joy of fishing is in the spoils – and though she's never been one for spicy food, Veyle seems to be cooking up a scheme to bridge their culinary divide...",
 			date_str: "Feb 2024",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
@@ -315,11 +315,11 @@ var data = {
 			// Dotty | Cordelia and Severa
 			src: ["https://cdn.imgchest.com/files/yxkczxkw6z7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3kbjk7.png",
-			title: "TBD",
+			title: "Smile and Scowl",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
 			art_url: "https://x.com/dotted__clouds/status/1624661188339724288",
-			desc: "Mother and daughter enjoy the Day of Devotion together.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			desc: "Mother and daughter enjoy the Day of Devotion together – each as happy as the other.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "severa", "other", "gifts_given"],
 			hidden: false
@@ -345,7 +345,7 @@ var data = {
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "Eirika and Camilla dressed for Halloween – though it's hard to tell whether Eirika is hunter or hunted...",
+			desc: "Eirika and Camilla dressed for the Harvest Festival – though it's hard to tell whether Eirika is hunter or hunted...",
 			date_str: "Jul 2023",
 			tags: ["sfw", "eirika", "camilla"],
 			hidden: false
@@ -371,7 +371,7 @@ var data = {
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "Edelgard and Micaiah's costumes for Halloween cut a striking contrast – heron and husk, angel and devil.",
+			desc: "Edelgard and Micaiah's costumes for the Harvest Festival cut a striking contrast – heron and husk, angel and devil.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
@@ -393,11 +393,11 @@ var data = {
 			// Dux_Draws | Say'ri and Flayn
 			src: ["https://cdn.imgchest.com/files/4gdcx9k3wq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvjlka7.png",
-			title: "TBD",
+			title: "Artful Maidens",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Flayn and Say'ri, dressed up for the Harvest Festival. Though Say'ri is breaking the mold with a tricky kitsune, Flayn's choice of a mischievous priestess doesn't seem so unlike the real her...",
 			date_str: "Oct 2023",
 			tags: ["sfw", "sayri", "flayn"],
 			hidden: false
@@ -406,12 +406,12 @@ var data = {
 			// Dux_Draws | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/7kzca8j8ze7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczx69j87.png",
-			title: "TBD",
+			title: "Joys Long Lost",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD.",
-			date_str: "TBD",
+			desc: "Rhea and Tiki, dressed for the Festival of the Nabateans. Rhea's quiet joy at seeing Tiki enjoy the festival is matched only by the weight of nostalgia in her heart.",
+			date_str: "Apr 2023",
 			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
@@ -483,7 +483,7 @@ var data = {
 		{	// Fusenryo | Catriagrid
 			src: ["https://cdn.imgchest.com/files/7mmc9g32bo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8onxrd4.png",
-			title: "TBD",
+			title: "Somewhere Far Away",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
@@ -547,11 +547,11 @@ var data = {
 			// Fusenryo | Eeby + Laura and Sharena
 			src: ["https://cdn.imgchest.com/files/45xcvmbjld7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckam8jv7.png",
-			title: "TBD",
+			title: "Staying Dry",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "As Eeby tumbles headfirst into an unexpected circle of romance among friends old and new, Sharena is sure to capture the moment of two dear friends and partners getting fully acquainted – even if it means getting a little wet.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "laura", "eeby", "sharena", "collab"],
 			hidden: false
@@ -564,7 +564,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lc6u6jsb722d",
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Eebeebi and V'rhaka, two friends near and dear, spending a peaceful afternoon together.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "eebeebi", "other", "collab"],
 			hidden: false
@@ -586,7 +586,7 @@ var data = {
 			// Fusenryo | Larcei and Seliph
 			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
-			title: "TBD",
+			title: "Scions of Light",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
@@ -638,11 +638,11 @@ var data = {
 			// Harunn | Laura and Rosado
 			src: ["https://cdn.imgchest.com/files/yxkczxe95g7.png", "https://cdn.imgchest.com/files/49zc2kj8rvy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2oe5m64.png",
-			title: "TBD",
+			title: "Summer Drinks",
 			artist: "harunn2288",
 			artist_url: "https://x.com/harunn2288",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			desc: "Rosado and Laura enjoying a day under the sun, favourite drinks in hand.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Sep 2024",
 			tags: ["sfw", "laura", "other", "collab"],
 			hidden: false
@@ -664,11 +664,11 @@ var data = {
 			// Irene | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/7mmc9gpz887.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmxz3l7.png",
-			title: "TBD",
+			title: "Hold Still",
 			artist: "Irène",
 			artist_url: "https://bsky.app/profile/enwbbs.bsky.social",
 			art_url: "https://x.com/enwbbs/status/1783668402650841181",
-			desc: "TBD",
+			desc: "A life in hiding affords Flayn so few opportunities to try and look her best – but she's more than happy to lend centuries of experience to a friend.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
@@ -716,11 +716,11 @@ var data = {
 			// Jebbee | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/yd5ce36k934.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv35ajr7.png",
-			title: "TBD",
+			title: "Perfect Catch",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lgrqwmbk5c2t",
-			desc: "TBD.<br/><br/>Unpaid sketch request.",
+			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
@@ -781,11 +781,11 @@ var data = {
 			// Kinkymation | Say'riki
 			src: ["https://cdn.imgchest.com/files/46acqv2vj67.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckag8nn7.png",
-			title: "TBD",
+			title: "Hungry Dragon",
 			artist: "Kinkymation",
 			artist_url: "https://x.com/kinkymation",
 			art_url: "https://x.com/kinkymation/status/1604204956038221824",
-			desc: "tbd.",
+			desc: "Tiki shows Say'ri the difference between being eaten by a dragon and being <em>eaten</em> by a dragon.",
 			date_str: "Dec 2022",
 			tags: ["nsfw", "tiki", "sayri"],
 			hidden: false
@@ -820,11 +820,11 @@ var data = {
 			// Kiwi | Sharena/Laura
 			src: ["https://cdn.imgchest.com/files/46acqvrmpe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngzdrk4.png",
-			title: "TBD",
+			title: "The Warmest Welcome",
 			artist: "Kiwi",
 			artist_url: "https://bsky.app/profile/artistkiwi.bsky.social",
 			art_url: "https://x.com/Artist_Kiwi/status/1773077416593821930",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "Sharena makes sure that Laura, freshly summoned to Askr, is as comfortable as she can be.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["nsfw", "laura", "sharena", "collab"],
 			hidden: false
@@ -833,11 +833,11 @@ var data = {
 			// LazzleDazzler | Catria
 			src: ["https://cdn.imgchest.com/files/4z9cv3kbgj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9janr4.png",
-			title: "TBD",
+			title: "Student by Day",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Catria White – a humble university student in Zenith City with nothing to hide.",
 			date_str: "Jul 2022",
 			tags: ["sfw", "catria"],
 			hidden: false
@@ -885,12 +885,12 @@ var data = {
 			// LazzleDazzler | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
-			title: "TBD",
+			title: "Reaching Out",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD.",
-			date_str: "TBD",
+			desc: "Tiki knows too well what loneliness looks like – and so resolves to keep the distant Rhea company in Askr.",
+			date_str: "Oct 2022",
 			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
@@ -924,11 +924,11 @@ var data = {
 			// Paulygon | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/4apc5laz6g4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp389gp7.png",
-			title: "TBD",
+			title: "Hook and Line",
 			artist: "Paulygon2",
 			artist_url: "https://bsky.app/profile/paulygon2.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Flayn and Veyle prepare to reel in their catch.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
@@ -963,11 +963,11 @@ var data = {
 			// Picnicic | New Year's
 			src: ["https://cdn.imgchest.com/files/y8xcngbavr4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8zpwz7.png",
-			title: "TBD",
+			title: "A Night to Remember",
 			artist: "Picnicic",
 			artist_url: "https://x.com/picnicic",
 			art_url: "https://x.com/picnicic/status/1544287457449242624",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Together with her beloved Ena and Flayn, Say'ri joins Askr's many other couples in celebrating the Summer Festival.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Jul 2022",
 			tags: ["sfw", "sayri", "flayn", "tiki", "rhea", "edelgard", "micaiah", "eirika", "camilla", "other", "gifts_given"],
 			hidden: false
@@ -1015,11 +1015,11 @@ var data = {
 			// MinaCream | Catriagrid
 			src: ["https://cdn.imgchest.com/files/yq9c3a2x9a4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3aden4.png",
-			title: "TBD",
+			title: "Working It Off",
 			artist: "Mina Cream",
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "catria", "ingrid", "collab"],
 			hidden: false
@@ -1028,11 +1028,11 @@ var data = {
 			// minorudonguri | Ivy and Dragons
 			src: ["https://cdn.imgchest.com/files/yq9c3awaxg4.png", "https://cdn.imgchest.com/files/yd5ce383np4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmrjpo7.png",
-			title: "TBD",
+			title: "Mortal Morsel",
 			artist: "minorudonguri",
 			artist_url: "https://skeb.jp/@minorudonguri",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons precedes her...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "tiki", "rhea", "lumera", "other", "collab"],
 			hidden: false
@@ -1084,7 +1084,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1774217017480056958",
-			desc: "TBD",
+			desc: "There's no deeper meaning here.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "laura"],
 			hidden: false
@@ -1110,7 +1110,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1811557257051799846",
-			desc: "TBD.",
+			desc: "Trust her on this.",
 			date_str: "Jul 2024",
 			tags: ["sfw", "sayri"],
 			hidden: false
@@ -1136,7 +1136,7 @@ var data = {
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "TB<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1158,7 +1158,7 @@ var data = {
 			// Nessu | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv32og7.png",
-			title: "TBD",
+			title: "Dark Reflection",
 			artist: "Nessu",
 			artist_url: "https://x.com/NessuDraws",
 			art_url: "https://x.com/NessuDraws/status/1531289335793799168",
@@ -1314,11 +1314,11 @@ var data = {
 			// Roarke | Laura
 			src: ["https://cdn.imgchest.com/files/4nec8o96qn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmlppj7.png",
-			title: "TBD",
+			title: "Revealing All",
 			artist: "Roarke",
 			artist_url: "https://bsky.app/profile/roarke.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Until her path crossed with Micaiah, Laura had never identified openly as a girl – fearing she would need to keep it a secret for her whole life. The kindness and acceptance she received, both in the Dawn Brigade and beyond, would ultimately give her the confidence she needed to return home at the war's end and tell her family and friends the truth.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "laura"],
 			hidden: false
@@ -1327,11 +1327,11 @@ var data = {
 			// Rotomdocs | PJ Laura
 			src: ["https://cdn.imgchest.com/files/yvdcw932j6y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3glgj7.png",
-			title: "TBD",
+			title: "Little Maiden",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1742736138144739408",
-			desc: "TBD",
+			desc: "Laura always sleeps well knowing she has friends like Micaiah to support her.",
 			date_str: "May 2024",
 			tags: ["sfw", "laura", "micaiah"],
 			hidden: false
@@ -1370,7 +1370,7 @@ var data = {
 			artist: "Ryumi",
 			artist_url: null,
 			art_url: null,
-			desc: "TBD",
+			desc: "Whenever Rhea's long-buried passion boils to the surface, Tiki knows the only thing to do is embrace it.",
 			date_str: "Jun 2022",
 			tags: ["nsfw", "tiki", "rhea"],
 			hidden: false
@@ -1383,7 +1383,7 @@ var data = {
 			artist: "Sakuremi",
 			artist_url: "https://x.com/sakuuremi",
 			art_url: null,
-			desc: "TBD",
+			desc: "An invitation to hot springs deep in the Askran mountains leads to the last of Rhea's many barriers melting away – and her openness, in that moment, surprises even Tiki.",
 			date_str: "Jan 2024",
 			tags: ["nsfw", "tiki", "rhea"],
 			hidden: false
@@ -1473,9 +1473,9 @@ var data = {
 			title: "TBD",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
-			art_url: "TBD",
-			desc: "TBD",
-			date_str: "TBD",
+			art_url: "https://x.com/shan0732/status/1553951874659008512",
+			desc: "Tiki isn't usually one to insist – but when she does, even the calm and collected Rhea can't help but blush.",
+			date_str: "Aug 2022",
 			tags: ["sfw", "tiki", "rhea"],
 			hidden: false
 		},
@@ -1591,7 +1591,7 @@ var data = {
 			artist: "SirKnightbot",
 			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "catria", "ingrid", "collab"],
 			hidden: false
