@@ -78,6 +78,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Asu | Lianna and Sakura
+			src: ["https://cdn.imgchest.com/files/7lxcp3mzl87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9b8pw4.png",
+			title: "TBD",
+			artist: "Asu",
+			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "May 2024",
+			tags: ["sfw", "lianna", "other"],
+			hidden: false
+		},
+		{
 			// Asu | Miccy and Renne
 			src: ["https://cdn.imgchest.com/files/yrgcn5gkxm4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr2r7.png",
@@ -241,7 +254,7 @@ var data = {
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "Say'ri of Chon'sin – resistance leader, heir to the throne, and heartthrob of women from Valm to Ylisse.",
+			desc: "Say'ri of Chon'sin – resistance leader, heir to her throne, and heartthrob of women from Valm to Ylisse.",
 			date_str: "Oct 2024",
 			tags: ["sfw", "sayri"],
 			hidden: false
@@ -283,6 +296,32 @@ var data = {
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids. ",
 			date_str: "Jun 2023",
 			tags: ["sfw", "edelgard", "eleanor"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby |  Lianna
+			src: ["https://cdn.imgchest.com/files/yq9c3ar8mw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp3mzkp7.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://x.com/DeebyFeeby/status/1615729703712849920",
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "lianna"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Emblem Lianna
+			src: ["https://cdn.imgchest.com/files/4jdcvzdm8e4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczxld227.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://x.com/DeebyFeeby/status/1621207539319717890",
+			desc: "TBD",
+			date_str: "Feb 2023",
+			tags: ["sfw", "lianna"],
 			hidden: false
 		},
 		{
@@ -348,6 +387,19 @@ var data = {
 			desc: "Upon learning that Edelgard can only transform into the monstrous Hegemon Husk if isolated from her allies, Micaiah refuses to leave her side.",
 			date_str: "Apr 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Dotty | Lianna and Eir
+			src: ["https://cdn.imgchest.com/files/yrgcn5lv3q4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gkmr97.png",
+			title: "TBD",
+			artist: "Dotty",
+			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "lianna", "other"],
 			hidden: false
 		},
 		{
@@ -736,6 +788,19 @@ var data = {
 			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jebbee | Lianna and Sharena
+			src: ["https://cdn.imgchest.com/files/7lxcp3mzlr7.png", "https://cdn.imgchest.com/files/yq9c3ar8mq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmonen7.png",
+			title: "TBD",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://x.com/JebbeeSketches/status/1707346111265227136",
+			desc: "TBD.<br/><br/>Unpaid sketch request.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "lianna", "sharena", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1191,6 +1256,19 @@ var data = {
 			desc: "A shapeshifter can have anyone wear anything, even in defiance of all logic and reason: a fact which Loki, in snaring her summoner and dragging her ever deeper into dependency, relishes making the most of.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
+			hidden: false
+		},
+		{
+			// NaijMizuho | Lianna 
+			src: ["https://cdn.imgchest.com/files/yd5ce3vopn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3ar86q4.png",
+			title: "TBD",
+			artist: "NaijMizuho",
+			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Feb 2023",
+			tags: ["sfw", "lianna"],
 			hidden: false
 		},
 		{
@@ -1698,6 +1776,19 @@ var data = {
 			desc: "The perfect antidote to a hard, stressful day.",
 			date_str: "Jun 2024",
 			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// Sunny | Lianna and Sharena
+			src: ["https://cdn.imgchest.com/files/4jdcvzdm8d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8o32ml4.png",
+			title: "TBDS",
+			artist: "Sunny",
+			artist_url: "https://x.com/asterrales",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Oct 2024",
+			tags: ["sfw", "lianna", "sharena"],
 			hidden: false
 		},
 		{
