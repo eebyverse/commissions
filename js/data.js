@@ -165,7 +165,7 @@ var data = {
 			art_url: null,
 			desc: "Edelgard's deepest nightmares—her fears of what she might have to become, upon returning to Fódlan, and of the monster she might already secretly be in all but form—are no place for Micaiah. Yet when the Queen finds herself in one, under the most peculiar circumstances, she proves quick to reassure Edelgard that she loves her for who she is, no matter her form or the extent of her mistakes... just as she proves surprisingly eager to show it, in no uncertain terms.",
 			date_str: "Jul 2022",
-			tags: ["nsfw", "micaiah", "edelgard"],
+			tags: ["extreme", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
