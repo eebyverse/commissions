@@ -657,7 +657,7 @@ var data = {
 			art_url: "https://x.com/homuspicy/status/1795832946680906132/photo/1",
 			desc: "For Edelgard, the monstrous form of her most troubled nightmares is a constant reminder of a war waged in folly. For Micaiah... it has more practical uses.",
 			date_str: "May 2024",
-			tags: ["nsfw", "micaiah", "edelgard"],
+			tags: ["extreme", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
