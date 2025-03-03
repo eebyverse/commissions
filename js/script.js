@@ -29,10 +29,6 @@ $(document).ready(function() {
 
 	// Shows all images and resets the Filter
 	$("#show-all").click(function() {
-		var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
-		if (!nsfw_confirmation) {
-			return;
-		}
 		if (show_all_mode) {
 			// Toggle of show all mode which will revert to default images
 			show_all_mode = false;
@@ -42,6 +38,11 @@ $(document).ready(function() {
 		}
 		else {
 			show_all_mode = true;
+			var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+			if (!nsfw_confirmation) {
+				show_all_mode = false;
+				return;
+			}
 		}
 		// Handle when show all mode is turned on
 		// Reset filter and search bar and then show all images

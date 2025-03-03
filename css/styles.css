@@ -227,7 +227,7 @@ a:hover, a:active {
 .show-all-button {
 	float: left;
 	margin-left: 10px;
-	width: 105px;
+	width: 110px;
 	color: white;
 	border: none;
 	padding: 0.4375rem 0.75rem;
@@ -437,6 +437,9 @@ a:hover, a:active {
 	.sidebar-item-button {
 		font-size: 0.8rem;
 		display: inline-block;
+	}
+	.shuffle-button {
+		width: 45px;
 	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
