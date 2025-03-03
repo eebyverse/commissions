@@ -57,10 +57,7 @@ $(document).ready(function() {
 		for (var i = 0; i < images.length; i++) {
 			$("#img"+i).show();
 		}
-		// Hide tags that should only show when selected
-		// if (!tags_to_show["camilla"]) {
-		// 	$(".camilla").parent().hide();
-		// }
+		extremeTagCheck();
 		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
@@ -317,6 +314,17 @@ function createTagsDropdown(tags) {
 			}
 		}
 
+		// If the tag is "extreme" and is checked, then ask for extreme confirmation
+		if (tag == "extreme" && $(this).closest("input").prop("checked")) {
+			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
+			var extreme_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW and extreme images being displayed on your screen. Click Cancel if you are not.");
+			// Set the checkbox to unchecked if Cancel was selected instead of OK
+			if (!extreme_confirmation) {
+				$(this).closest("input").prop("checked", false);
+				return false;
+			}
+		}
+
 		// Mark the tag in the map to true if checked and false if unchecked
 		$(this).closest("li").toggleClass("active", this.checked);
 		if ($(this).closest("li").hasClass("active")) {
@@ -437,10 +445,7 @@ function showImagesThatMatch() {
 		$(".nsfw").parent().hide();
 	}
 
-	// Hide tags that should only show when selected
-	// if (!tags_to_show["camilla"]) {
-	// 	$(".camilla").parent().hide();
-	// }
+	extremeTagCheck();
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
@@ -489,5 +494,12 @@ function searchCheck(search_str, image_index, images) {
 		else {
 			$("#img"+image_index).hide();
 		}
+	}
+}
+
+// Hide extreme tags that should only show when selected
+function extremeTagCheck() {
+	if (!tags_to_show["extreme"]) {
+		$(".extreme").parent().hide();
 	}
 }
