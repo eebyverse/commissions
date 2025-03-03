@@ -189,7 +189,7 @@ var data = {
 			artist: "CunCyun",
 			artist_url: "https://www.deviantart.com/cuncyun",
 			art_url: null,
-			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time at all in making use of her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time in making use of her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Dec 2024",
 			tags: ["extreme", "flayn", "other", "collab"],
 			hidden: false
