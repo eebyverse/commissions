@@ -29,6 +29,10 @@ $(document).ready(function() {
 
 	// Shows all images and resets the Filter
 	$("#show-all").click(function() {
+		var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+		if (!nsfw_confirmation) {
+			return;
+		}
 		if (show_all_mode) {
 			// Toggle of show all mode which will revert to default images
 			show_all_mode = false;
@@ -53,6 +57,10 @@ $(document).ready(function() {
 		for (var i = 0; i < images.length; i++) {
 			$("#img"+i).show();
 		}
+		// Hide tags that should only show when selected
+		// if (!tags_to_show["camilla"]) {
+		// 	$(".camilla").parent().hide();
+		// }
 		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
@@ -424,7 +432,15 @@ function showImagesThatMatch() {
 			}
 		}
 	}
-	
+	// Hide NSFW entries unless selected
+	if (!tags_to_show["nsfw"]) {
+		$(".nsfw").parent().hide();
+	}
+
+	// Hide tags that should only show when selected
+	// if (!tags_to_show["camilla"]) {
+	// 	$(".camilla").parent().hide();
+	// }
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
