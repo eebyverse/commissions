@@ -443,7 +443,7 @@ function showImagesThatMatch() {
 		}
 	}
 	// Hide NSFW entries unless selected
-	if (!tags_to_show["nsfw"]) {
+	if (!tags_to_show["nsfw"] && !show_all_mode) {
 		$(".nsfw").parent().hide();
 	}
 
