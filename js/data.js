@@ -1125,7 +1125,7 @@ var data = {
 			art_url: null,
 			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons precedes her...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
-			tags: ["nsfw", "tiki", "rhea", "lumera", "other", "collab"],
+			tags: ["sfw", "tiki", "rhea", "lumera", "other", "collab"],
 			hidden: false
 		},
 		{
