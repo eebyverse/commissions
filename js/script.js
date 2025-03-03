@@ -246,6 +246,7 @@ function translateWord(word) {
 	var translations = {
 		sfw: "🟢 SFW",
 		nsfw: "🔴 NSFW",
+		extreme: "⚫ Extreme",
 		gifts_given: "🎁 Gifts (to others)",
 		gifts_received: "🎁 Gifts (from others)",
 		collab: "🤝 Collabs",
@@ -318,7 +319,7 @@ function createTagsDropdown(tags) {
 		// If the tag is "extreme" and is checked, then ask for extreme confirmation
 		if (tag == "extreme" && $(this).closest("input").prop("checked")) {
 			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
-			var extreme_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW and extreme images being displayed on your screen. Click Cancel if you are not.");
+			var extreme_confirmation = confirm("WARNING: This section contains commissions that are more thematically and/or graphically intense than most – for example through monster-like characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
 			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!extreme_confirmation) {
 				$(this).closest("input").prop("checked", false);
