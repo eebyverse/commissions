@@ -1753,19 +1753,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Siren | Alear and Rosado
-			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
-			title: "TBD",
-			artist: "Siren",
-			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
-			art_url: null,
-			desc: "TBD.",
-			date_str: "Aug 2024",
-			tags: ["nsfw", "other"],
-			hidden: false
-		},
-		{
 			// Siren | Eebeebi
 			src: ["https://cdn.imgchest.com/files/7bwckjlaab7.png", "https://cdn.imgchest.com/files/4nec8oxggv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9kd224.png",
@@ -1776,6 +1763,19 @@ var data = {
 			desc: "A little creature says hello!",
 			date_str: "Sep 2024",
 			tags: ["sfw", "eebeebi"],
+			hidden: false
+		},
+		{
+			// Siren | Alear and Rosado
+			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Aug 2024",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
