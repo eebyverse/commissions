@@ -55,7 +55,7 @@ var data = {
 			// Argilla | Kris and Norne
 			src: ["https://cdn.imgchest.com/files/4gdcx9k38x4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lj9gl4.png",
-			title: "TBD",
+			title: "Love Enduring",
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/babykatafan/status/1619803700742213633",
@@ -68,7 +68,7 @@ var data = {
 			// Argilla | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/4jdcvzlzom4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qojn7.png",
-			title: "TBD",
+			title: "Never Alone",
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://vxtwitter.com/babykatafan/status/1675142090265710593?t=JKYsRn_esEUnsCl1Pnb6rA&s=19",
@@ -81,11 +81,11 @@ var data = {
 			// Asu | Lianna and Sakura
 			src: ["https://cdn.imgchest.com/files/7lxcp3mzl87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9b8pw4.png",
-			title: "TBD",
+			title: "Gentle Hearts",
 			artist: "Asu",
 			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lianna and Sakura, two kindred spirits, make the most of a moment's peace and quiet.",
 			date_str: "May 2024",
 			tags: ["sfw", "lianna", "other"],
 			hidden: false
@@ -276,7 +276,7 @@ var data = {
 			// DeebyFeeby | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/7bwckj5avm7.png", "https://cdn.imgchest.com/files/7w6c2nd283y.png", "https://cdn.imgchest.com/files/4gdcx9qxbg4.png", "https://cdn.imgchest.com/files/45xcvmxvoo7.png", "https://cdn.imgchest.com/files/yd5ce36evb4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmgzvb7.png",
-			title: "TBD",
+			title: "Sharing is Caring",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: "https://vxtwitter.com/DeebyFeeby/status/1758971310380568731",
@@ -302,11 +302,11 @@ var data = {
 			// DeebyFeeby |  Lianna
 			src: ["https://cdn.imgchest.com/files/yq9c3ar8mw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3mzkp7.png",
-			title: "TBD",
+			title: "Princess of Aytolis",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: "https://x.com/DeebyFeeby/status/1615729703712849920",
-			desc: "TBD",
+			desc: "Princess Lianna of Aytolis – sister of Prince Rowan, and steadfast friend to Prince Darios.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "lianna"],
 			hidden: false
@@ -315,11 +315,11 @@ var data = {
 			// DeebyFeeby | Emblem Lianna
 			src: ["https://cdn.imgchest.com/files/4jdcvzdm8e4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxld227.png",
-			title: "TBD",
+			title: "Emblem of Warriors",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: "https://x.com/DeebyFeeby/status/1621207539319717890",
-			desc: "TBD",
+			desc: "Lianna, the Emblem of Warriors, lends both her talent for magic and knack for tactics to the Divine Dragon in their quest to save Elyos.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "lianna"],
 			hidden: false
@@ -393,11 +393,11 @@ var data = {
 			// Dotty | Lianna and Eir
 			src: ["https://cdn.imgchest.com/files/yrgcn5lv3q4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gkmr97.png",
-			title: "TBD",
+			title: "Sunnier Days",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Whenever a day in Askr threatens to be cold and lonely for Lianna, Eir's kindness offers a comfort and warmth unlike any other.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "lianna", "other"],
 			hidden: false
@@ -798,7 +798,7 @@ var data = {
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1707346111265227136",
-			desc: "TBD.<br/><br/>Unpaid sketch request.",
+			desc: "Few were surprised, given all they had in common, when Lianna and Sharena took to each other like lifelong friends.<br/><br/>Unpaid sketch request.",
 			date_str: "Sep 2023",
 			tags: ["sfw", "lianna", "sharena", "gifts_received"],
 			hidden: false
@@ -872,11 +872,11 @@ var data = {
 			// Kisi | Ingrid
 			src: ["https://cdn.imgchest.com/files/49zc2k9rljy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckae85q7.png",
-			title: "TBD",
+			title: "Jedi Knight",
 			artist: "kisi0024",
 			artist_url: "https://skeb.jp/@kisi0024",
 			art_url: null,
-			desc: "tbd<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/><strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
 			tags: ["sfw", "ingrid", "gifts_given"],
 			hidden: false
@@ -950,11 +950,11 @@ var data = {
 			// LazzleDazzler | Kris and Girls
 			src: ["https://cdn.imgchest.com/files/y8xcngba9e4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpea5vy.png",
-			title: "TBD",
+			title: "Truce",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift to <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "On occasion, Phina and Norne can put their differences aside to shower Kris with love.<br/><br/>Gift to <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "kris", "other", "gifts_given"],
 			hidden: false
@@ -1223,11 +1223,11 @@ var data = {
 			// Motoiwork | V'rhaka
 			src: ["https://cdn.imgchest.com/files/7pjcqmvn8b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nj9lwy.png",
-			title: "TBD",
+			title: "Playful Darkness",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "V'rhaka, Black Mage Extraordinaire, shrouded in a sinister outfit from another place and time...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
