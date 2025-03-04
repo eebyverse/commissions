@@ -177,8 +177,21 @@ var data = {
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
 			desc: "Edelgard's deepest nightmares—her fears of what she might have to become, upon returning to Fódlan, and of the monster she might already secretly be in all but form—are no place for Micaiah. Yet when the Queen finds herself in one, under the most peculiar circumstances, she proves quick to reassure Edelgard that she loves her for who she is, no matter her form or the extent of her mistakes... just as she proves surprisingly eager to show it, in no uncertain terms.",
-			date_str: "Jul 2022",
+			date_str: "Aug 2022",
 			tags: ["extreme", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// ClariAriKari | Morgan and Lilina
+			src: ["https://cdn.imgchest.com/files/7w6c2nwormy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng68q34.png",
+			title: "TBD",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: "https://x.com/clariarikari/status/1549009508902608902",
+			desc: " TBD",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -895,6 +908,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kitty | Kris and Girls
+			src: ["https://cdn.imgchest.com/files/yq9c3aqn6k4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nwovmy.png",
+			title: "TBD",
+			artist: "Kitty",
+			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Jan 2024",
+			tags: ["nsfw", "kris", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Kitty | Ninian and Azura
+			src: ["https://cdn.imgchest.com/files/yrgcn5dozr4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx9zr6p4.png",
+			title: "TBD",
+			artist: "Kitty",
+			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Kiwi | Sharena/Laura
 			src: ["https://cdn.imgchest.com/files/46acqvrmpe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngzdrk4.png",
@@ -954,7 +993,7 @@ var data = {
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "On occasion, Phina and Norne can put their differences aside to shower Kris with love.<br/><br/>Gift to <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "On occasion, Phina and Norne can put their differences aside to shower Kris with love.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "kris", "other", "gifts_given"],
 			hidden: false
@@ -1714,6 +1753,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Alear and Rosado
+			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Aug 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Siren | Eebeebi
 			src: ["https://cdn.imgchest.com/files/7bwckjlaab7.png", "https://cdn.imgchest.com/files/4nec8oxggv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9kd224.png",
@@ -1815,6 +1867,32 @@ var data = {
 			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
 			date_str: "Jan 2024 – Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Morgan and Lilina
+			src: ["https://cdn.imgchest.com/files/ye3c2on3bw4.png", "https://cdn.imgchest.com/files/yrgcn5do6r4.jpg", "https://cdn.imgchest.com/files/7mmc9gx85z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvm5w937.png",
+			title: "Heat of the Moment",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "Jan 2023",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Rosado
+			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
