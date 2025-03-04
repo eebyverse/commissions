@@ -1574,7 +1574,7 @@ var data = {
 			// shan | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/7lxcp3q3kw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8jm9d7.png",
-			title: "TBD",
+			title: "Don't Be Shy",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: "https://x.com/shan0732/status/1553951874659008512",
@@ -1717,7 +1717,7 @@ var data = {
 			// Siren | Eebeebi
 			src: ["https://cdn.imgchest.com/files/7bwckjlaab7.png", "https://cdn.imgchest.com/files/4nec8oxggv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9kd224.png",
-			title: "TBD",
+			title: "Hello, World",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/sillysiren.bsky.social",
 			art_url: null,
@@ -1743,11 +1743,11 @@ var data = {
 			// Siren | Laura and Fiona
 			src: ["https://cdn.imgchest.com/files/yxkczxe9wg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmbj587.png",
-			title: "TBD",
+			title: "Something Shared",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Laura is surprised to find others like her in the Dawn Brigade and Liberation Army – and finds an early, easy confidence in Fiona's company. ",
 			date_str: "Jun 2024",
 			tags: ["nsfw", "laura", "other"],
 			hidden: false
@@ -1756,11 +1756,11 @@ var data = {
 			// Siren | Say'ri and Ena
 			src: ["https://cdn.imgchest.com/files/4apc5lj9q24.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckajqz57.png",
-			title: "TBD",
+			title: "The Proper Way to Serve a Dragon",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Through both gentle affection and tireless devotion, Say'ri shows Ena that even an aching heart can learn to love again.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "sayri", "other", "collab"],
 			hidden: false
@@ -1782,11 +1782,11 @@ var data = {
 			// Sunny | Lianna and Sharena
 			src: ["https://cdn.imgchest.com/files/4jdcvzdm8d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8o32ml4.png",
-			title: "TBDS",
+			title: "Fast Friends",
 			artist: "Sunny",
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
-			desc: "TBD.",
+			desc: "With Lianna's arrival in Askr long overdue, Sharena  resolves to make up—and out—for all the lost time.",
 			date_str: "Oct 2024",
 			tags: ["sfw", "lianna", "sharena"],
 			hidden: false
@@ -1899,11 +1899,11 @@ var data = {
 			// Yumi | Eebeebi
 			src: ["https://cdn.imgchest.com/files/7pjcqmvzzw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn5mrgr4.png",
-			title: "TBD",
+			title: "Nothing but Love",
 			artist: "Ymilattea",
 			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Eebeebi Eebi of Ul'dah – an alchemist, botanist, and dubious scholar with few thoughts in her head but a world of love in her heart.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "eebeebi"],
 			hidden: false
@@ -1912,11 +1912,11 @@ var data = {
 			// Yumi | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/4nec8odekz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvz5gnr4.png",
-			title: "TBD",
+			title: "Honeyed Words",
 			artist: "Ymilattea",
 			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Flayn learns that temptation is sweetest when it comes from a familiar face.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
