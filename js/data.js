@@ -794,7 +794,7 @@ var data = {
 			// Jebbee | Lianna and Sharena
 			src: ["https://cdn.imgchest.com/files/7lxcp3mzlr7.png", "https://cdn.imgchest.com/files/yq9c3ar8mq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmonen7.png",
-			title: "TBD",
+			title: "Budding Bond",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1707346111265227136",
@@ -1262,11 +1262,11 @@ var data = {
 			// NaijMizuho | Lianna 
 			src: ["https://cdn.imgchest.com/files/yd5ce3vopn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3ar86q4.png",
-			title: "TBD",
+			title: "Aytolis Royalty",
 			artist: "NaijMizuho",
 			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Though Lianna has little desire to inherit the throne, her wisdom and sense of responsibility have won her many supporters in her kingdom.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "lianna"],
 			hidden: false
@@ -1470,11 +1470,11 @@ var data = {
 			// Ryumi | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/4gdcx969k64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckjznvj7.png",
-			title: "TBD",
+			title: "Stifled Heat",
 			artist: "Ryumi",
 			artist_url: null,
 			art_url: null,
-			desc: "Whenever Rhea's long-buried passion boils to the surface, Tiki knows the only thing to do is embrace it.",
+			desc: "Even Tiki isn't immune to the natural urges and needs that occasionally come with her draconic nature... and so counts her blessings that Rhea is always prepared to lend a helping hand.",
 			date_str: "Jun 2022",
 			tags: ["nsfw", "tiki", "rhea"],
 			hidden: false
@@ -1483,7 +1483,7 @@ var data = {
 			// Sakuremi | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/4apc5lelja4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqm3p8x7.png",
-			title: "TBD",
+			title: "Daughters of the Divine",
 			artist: "Sakuremi",
 			artist_url: "https://x.com/sakuuremi",
 			art_url: null,
