@@ -1448,7 +1448,7 @@ var data = {
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1717596198025273491",
-			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Tiki's Brave attire leaves precious little to Rhea's imagination.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "tiki", "rhea", "collab"],
 			hidden: false
