@@ -267,7 +267,7 @@ var data = {
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "Say'ri of Chon'sin – resistance leader, heir to her throne, and heartthrob of women from Valm to Ylisse.",
+			desc: "Say'ri of Chon'sin – resistance leader, sole-surviving heir, and heartthrob of women from Valm to Ylisse.",
 			date_str: "Oct 2024",
 			tags: ["sfw", "sayri"],
 			hidden: false
