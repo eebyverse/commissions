@@ -247,6 +247,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Soleil and Lute
+			src: ["https://cdn.imgchest.com/files/45xcvkvb2q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqxzz5e7.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Darkness | Tiki and Lumera
 			src: ["https://cdn.imgchest.com/files/7ogcbpmpepy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv2maj7.png",
@@ -429,6 +442,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DreamSnydd | Lissa and Tharja
+			src: ["https://cdn.imgchest.com/files/yq9c353jv54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpgpoee7.png",
+			title: "TBD",
+			artist: "DreamSnydd",
+			artist_url: "https://bsky.app/profile/dreamsynddart.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2024",
+			tags: ["sfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Dux_Draws | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/7lxcp36p9l7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9nog84.png",
@@ -520,6 +546,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Ebinku | Thrasir
+			src: ["https://cdn.imgchest.com/files/y8xcnlnz2q4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck9k8nr7.png",
+			title: "TBD",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://www.pixiv.net/en/artworks/104277602",
+			desc: "TBD",
+			date_str: "Dec 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Evo | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/4jdcvzjerp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9d3zwy.png",
@@ -567,8 +606,21 @@ var data = {
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
-			date_str: "Dec 2024",
+			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "other"],
+			hidden: false
+		},
+		{
+			// Fubbz | Soleil and Niime
+			src: ["https://cdn.imgchest.com/files/7mmc9w9bnm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvxad64.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Oct 2023",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{	// Fusenryo | Catriagrid
@@ -960,6 +1012,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// KTG | Lute
+			src: ["https://cdn.imgchest.com/files/yrgcnknqjw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkneqr4.png",
+			title: "TBD",
+			artist: "KTG",
+			artist_url: "https://bsky.app/profile/ktgromwell.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Catria
 			src: ["https://cdn.imgchest.com/files/4z9cv3kbgj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9janr4.png",
@@ -1126,6 +1191,19 @@ var data = {
 			desc: "Micaiah Kirsch, a doctor in training and current postgrad at Zenith University – seeming to come from wealth, yet with some reluctance and even shame. Though kind at heart, her sweet smile hides a certain mischief known only to her closest friends...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "collab"],
+			hidden: false
+		},
+		{
+			// Mason | Aizawa and Aurash
+			src: ["https://cdn.imgchest.com/files/7lxcpgpvx97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqaq62a7.png",
+			title: "TBD",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: Null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1506,6 +1584,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Rotomdocs | Meg
+			src: ["https://cdn.imgchest.com/files/49zc2g2jz9y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceze6gx4.png",
+			title: "TBD",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: "https://x.com/RotomDocs/status/1754893237008134580",
+			desc: "",
+			date_str: "Feb 2024",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Roychan | Caeda and Kris
 			src: ["https://cdn.imgchest.com/files/yq9c3aelbo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbz37.png",
@@ -1701,6 +1792,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SilverCandyGum | Est
+			src: ["https://cdn.imgchest.com/files/739cxnxq657.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8w83bx4.png",
+			title: "Pink Whitewing",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/99945635",
+			desc: "TBD.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// SilverCandyGum | Merrin and Chloe
 			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zm64.png",
@@ -1852,8 +1956,21 @@ var data = {
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
 			desc: "With Lianna's arrival in Askr long overdue, Sharena  resolves to make up—and out—for all the lost time.",
-			date_str: "Oct 2024",
+			date_str: "Oct 2023",
 			tags: ["sfw", "lianna", "sharena"],
+			hidden: false
+		},
+		{
+			// Sunny | Lyn and Azura
+			src: ["https://cdn.imgchest.com/files/ye3c2p2eg34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqaqmn67.png",
+			title: "Lady of the Plains, Lady of the Lake",
+			artist: "Sunny",
+			artist_url: "https://x.com/asterrales",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Oct 2022",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
