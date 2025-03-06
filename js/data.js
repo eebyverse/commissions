@@ -185,11 +185,11 @@ var data = {
 			// ClariAriKari | Morgan and Lilina
 			src: ["https://cdn.imgchest.com/files/7w6c2nwormy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcng68q34.png",
-			title: "TBD",
+			title: "Blooming Bride's Vow",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: "https://x.com/clariarikari/status/1549009508902608902",
-			desc: " TBD",
+			desc: "Seeing Lilina all dressed up for the Bridal Festival, Morgan just can't help himself... and fortunately, neither can she.",
 			date_str: "Jul 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -257,6 +257,19 @@ var data = {
 			desc: "A mother's presence is something Tiki hasn't felt in far too long – and Lumera is more than happy to indulge her.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "tiki", "lumera"],
+			hidden: false
+		},
+		{
+			// Darkness | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/7pjcqxqv667.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgklbo7.png",
+			title: "Easy Prey",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "Cats have been known, on rare occasions, to view small, vulnerable rabbits as prey...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
 		},
 		{
@@ -911,11 +924,11 @@ var data = {
 			// Kitty | Kris and Girls
 			src: ["https://cdn.imgchest.com/files/yq9c3aqn6k4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nwovmy.png",
-			title: "TBD",
+			title: "Together as One",
 			artist: "Kitty",
 			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Sometimes, when the stars align, even Norne and Phina can agree to share.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jan 2024",
 			tags: ["nsfw", "kris", "other", "gifts_given"],
 			hidden: false
@@ -924,11 +937,11 @@ var data = {
 			// Kitty | Ninian and Azura
 			src: ["https://cdn.imgchest.com/files/yrgcn5dozr4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9zr6p4.png",
-			title: "TBD",
+			title: "A New Song and Dance",
 			artist: "Kitty",
 			artist_url: "https://bsky.app/profile/nekokagegirl.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "When Ninian and Azura each discover they have something very special in common, reservation quickly gives way to interest – and interest, soon after, to passion.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "other", "gifts_given"],
 			hidden: false
@@ -1769,11 +1782,11 @@ var data = {
 			// Siren | Alear and Rosado
 			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
-			title: "TBD",
+			title: "Love Bite",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Rosado is quick to discover just how eager a dragon can be.",
 			date_str: "Aug 2024",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -1877,7 +1890,7 @@ var data = {
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			desc: "Against their better judgement, Lilina and Morgan indulge in a dangerous moment of passion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
@@ -1886,11 +1899,11 @@ var data = {
 			// TimboCactus | Rosado
 			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
-			title: "TBD",
+			title: "Your Favourite Elusian Retainer",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			desc: "For his friends, Rosado always offers service with a smile. <br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
