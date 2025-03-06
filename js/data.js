@@ -1021,7 +1021,7 @@ var data = {
 			art_url: null,
 			desc: "TBD",
 			date_str: "Jan 2024",
-			tags: ["nsfw", "other"],
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
