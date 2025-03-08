@@ -2256,7 +2256,7 @@ var data = {
 			art_url: null,
 			desc: "Against their better judgement, Lilina and Morgan indulge in a dangerous moment of passion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Jan 2023",
-			tags: ["nsfw", "other", "collab"],
+			tags: ["nsfw", "eeby", "lysithea", "other", "collab"],
 			hidden: false
 		},
 		{
