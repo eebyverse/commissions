@@ -156,6 +156,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ClariAriKari | Annette
+			src: ["https://cdn.imgchest.com/files/yxkczjna5v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2px3na4.png",
+			title: "TBD",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Unpaid stream request.",
+			date_str: "Aug 2022",
+			tags: ["sfw", "annette", "gifts_received"],
+			hidden: false
+		},
+		{
 			// ClariAriKari | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/yq9c3aelpo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx56qbj7.png",
@@ -205,6 +218,19 @@ var data = {
 			desc: "Even through the chilly winter months, Caeda knows how to stay stylish.",
 			date_str: "Mar 2022",
 			tags: ["sfw", "caeda"],
+			hidden: false
+		},
+		{
+			// crazzeffect | Annette and Lysithea
+			src: ["https://cdn.imgchest.com/files/ye3c2px69n4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcaev3xb7.png",
+			title: "TBD",
+			artist: "crazzeffect",
+			artist_url: "https://www.pixiv.net/en/users/5251875",
+			art_url: null,
+			desc: "TBD",
+			date_str: "June 2022",
+			tags: ["nsfw", "annette"],
 			hidden: false
 		},
 		{
@@ -309,6 +335,19 @@ var data = {
 			desc: "At the Order's Winter Festival celebrations, the summoner finds herself in an inescapable situation.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
 			tags: ["nsfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Annette and Mercedes
+			src: ["https://cdn.imgchest.com/files/yvdcwbrpjby.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35znrq4.png",
+			title: "Partners in Crime",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
+			date_str: "May 2022",
+			tags: ["sfw", "annette", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -895,6 +934,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Jwolf | Anna and Annette
+			src: ["https://cdn.imgchest.com/files/4nec8okwze4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2meo8ey.png",
+			title: "TBD",
+			artist: "JWolf",
+			artist_url: "https://x.com/JosephwolfNSFW",
+			art_url: "https://x.com/ImpulseXeno/status/1537281329737662464",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "anna", "annette", "collab"],
+			hidden: false
+		},
+		{
 			// Kalycoris | Camilla
 			src: ["https://cdn.imgchest.com/files/739cx5gaqp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8km3m7.png",
@@ -1025,6 +1077,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Laurencin | Annette
+			src: ["https://cdn.imgchest.com/files/4z9cv8ar6l7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dzowl4.png",
+			title: "TBD",
+			artist: "Laurencin",
+			artist_url: "https://bsky.app/profile/laurencin.bsky.social",
+			art_url: "https://x.com/Iaurencin/status/1701259302722253242",
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Catria
 			src: ["https://cdn.imgchest.com/files/4z9cv3kbgj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9janr4.png",
@@ -1087,6 +1152,32 @@ var data = {
 			desc: "Tiki knows too well what loneliness looks like – and so resolves to keep the distant Rhea company in Askr.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "tiki", "rhea"],
+			hidden: false
+		},
+		{
+			// LiaLiar | Annette Portrait
+			src: ["https://cdn.imgchest.com/files/4gdcxv2ek34.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35znlw4.png",
+			title: "TBD",
+			artist: "LiaLiar",
+			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
+			art_url: "https://x.com/LiaLiar1/status/1526608018309361664",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2022",
+			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// LiaLiar | Annette
+			src: ["https://cdn.imgchest.com/files/y8xcnlxmbn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxv2rqw4.png",
+			title: "TBD",
+			artist: "LiaLiar",
+			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
+			art_url: "https://x.com/LiaLiar1/status/1615805408907563024",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "annette", "collab"],
 			hidden: false
 		},
 		{
@@ -1389,6 +1480,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// NaijMizuho | Annette 
+			src: ["https://cdn.imgchest.com/files/45xcvkz3l67.webp"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkmgmp7.png",
+			title: "TBD",
+			artist: "NaijMizuho",
+			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "May 2022",
+			tags: ["sfw", "annette"],
+			hidden: false
+		},
+		{
 			// NaijMizuho | Lianna 
 			src: ["https://cdn.imgchest.com/files/yd5ce3vopn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3ar86q4.png",
@@ -1633,6 +1737,19 @@ var data = {
 			desc: "An invitation to hot springs deep in the Askran mountains leads to the last of Rhea's many barriers melting away – and her openness, in that moment, surprises even Tiki.",
 			date_str: "Jan 2024",
 			tags: ["nsfw", "tiki", "rhea"],
+			hidden: false
+		},
+		{
+			// ScruffyTurtles | Annette
+			src: ["https://cdn.imgchest.com/files/4apc5dzxjz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gaodby.png",
+			title: "TBD",
+			artist: "ScruffyTurtles",
+			artist_url: "https://bsky.app/profile/scruffyturtles.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "annette", "collab"],
 			hidden: false
 		},
 		{
