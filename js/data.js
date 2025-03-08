@@ -241,9 +241,9 @@ var data = {
 			artist: "crazzeffect",
 			artist_url: "https://www.pixiv.net/en/users/5251875",
 			art_url: null,
-			desc: "TBD",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
 			date_str: "June 2022",
-			tags: ["nsfw", "annette"],
+			tags: ["nsfw", "annette", "collab"],
 			hidden: false
 		},
 		{
