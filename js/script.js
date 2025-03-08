@@ -280,6 +280,8 @@ function translateWord(word) {
 		eebeebi: "👤 Eebeebi",
 		sharena: "👤 Sharena",
 		veyle: "👤 Veyle",
+		annette: "👤 Annette",
+		anna: "👤 Anna",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
