@@ -104,6 +104,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Bad Frog | Io
+			src: ["https://cdn.imgchest.com/files/46acqav99r7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvwzm3e4.png",
+			title: "TBD",
+			artist: "Bad Frog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Bad Frog | Micaiah Birthday
 			src: ["https://cdn.imgchest.com/files/yq9c3agaon4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx5w6k97.png",
@@ -546,6 +559,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dux_Draws | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/45xcvkmngr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae8gbg7.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "July 2022",
+			tags: ["sfw", "lysithea", "other"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Patty
+			src: ["https://cdn.imgchest.com/files/7ogcb8pjqgy.png", "https://cdn.imgchest.com/files/7kzcae8gov7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2mnpoay.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Aug 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Dux_Draws | Say'ri and Flayn
 			src: ["https://cdn.imgchest.com/files/4gdcx9k3wq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvjlka7.png",
@@ -647,6 +686,19 @@ var data = {
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "other"],
+			hidden: false
+		},
+		{
+			// Fubbz | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/yvdcwb98emy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgj82g7.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Aug 2023",
+			tags: ["sfw", "lysithea", "other"],
 			hidden: false
 		},
 		{
@@ -778,6 +830,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Petrine and Leanne
+			src: ["https://cdn.imgchest.com/files/y2pck9anxa7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2polbz4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3naed7.png",
@@ -830,6 +895,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Harunn | Lysithea
+			src: ["https://cdn.imgchest.com/files/4apc5dlnl34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpg3zk87.png",
+			title: "TBD",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "June 2022",
+			tags: ["sfw", "lysithea", "collab"],
+			hidden: false
+		},
+		{
 			// Homugabs | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/739cx5mrnp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3ld394.png",
@@ -879,6 +957,19 @@ var data = {
 			desc: "Little by little, one day at a time, Edelgard comes to find comfort in the dawn.",
 			date_str: "Aug 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// JadeSnap | L'Arachel and Ophelia
+			src: ["https://cdn.imgchest.com/files/yvdcwb988my.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck9ane57.png",
+			title: "TBD",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: "https://x.com/JadesnapArt/status/1581676346576719872",
+			desc: "TBD.",
+			date_str: "May 2022",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -1074,6 +1165,19 @@ var data = {
 			desc: "TBD",
 			date_str: "Jan 2024",
 			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Kyra | Rosalin
+			src: ["https://cdn.imgchest.com/files/7pjcqxm98q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv83mo97.png",
+			title: "TBD",
+			artist: "Kyra",
+			artist_url: "https://vgen.co/valda_arts",
+			art_url: null,
+			desc: "TBD<br/><br/>Unpaid r/characterdrawing request.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1363,6 +1467,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Celine
+			src: ["https://cdn.imgchest.com/files/7mmc9gvgen7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr3r7.png",
+			title: "Keep Calm and Carry On",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1828232442739839101",
+			desc: "TBD",
+			date_str: "Aug 2024",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Mnejing | Edelgard Tea
 			src: ["https://cdn.imgchest.com/files/49zc2kw2gqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gv98j7.png",
@@ -1412,6 +1529,19 @@ var data = {
 			desc: "For reasons beyond her, Micaiah often finds Heroes from Fódlan mistaking her voice for Professor Manuela's...",
 			date_str: "Jun 2024",
 			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// Mnejing | Reginn
+			src: ["https://cdn.imgchest.com/files/7lxcpg3zwg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgj8dg7.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1887985083090616457",
+			desc: "TBD.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
