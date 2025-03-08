@@ -1228,7 +1228,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, in more casual attire. Though many of Daein Keep's servants dream of trying their luck with her, all agree—begrudgingly—that her heart already belongs to their queen.",
-			date_str: "Jun 2023",
+			date_str: "Jan 2024",
 			tags: ["sfw", "edelgard", "eleanor"],
 			hidden: false
 		},
@@ -1709,7 +1709,7 @@ var data = {
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1646777725603155968",
 			desc: "A very, <em>very</em> soft place.",
-			date_str: "Apr 2024",
+			date_str: "Apr 2023",
 			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
 		},
@@ -1800,7 +1800,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1742736138144739408",
 			desc: "Laura always sleeps well knowing she has friends like Micaiah to support her.",
-			date_str: "May 2024",
+			date_str: "Jan 2024",
 			tags: ["sfw", "laura", "micaiah"],
 			hidden: false
 		},
@@ -1839,7 +1839,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/49077664/artworks",
 			art_url: null,
 			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
-			date_str: "May 2024",
+			date_str: "Nov 2022",
 			tags: ["nsfw", "caeda", "kris", "collab"],
 			hidden: false
 		},
@@ -2073,7 +2073,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/119141252",
 			desc: "As track team captain of Gekkoukan High and a top ten student, Kris is used to the attention of her peers. But the arrival of a mysterious transfer student into her class—irrepressibly flirty, and unmistakably interested—sparks a fierce contest for her attention and affection – and Kris quickly discovers just how popular she really is...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
-			date_str: "May 2023",
+			date_str: "May 2024",
 			tags: ["sfw", "caeda", "kris", "other", "gifts_given"],
 			hidden: false
 		},
