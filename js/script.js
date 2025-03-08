@@ -39,7 +39,7 @@ $(document).ready(function() {
 		}
 		else {
 			show_all_mode = true;
-			var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+			var nsfw_confirmation = nsfwVerification();
 			if (!nsfw_confirmation) {
 				show_all_mode = false;
 				return;
@@ -343,7 +343,7 @@ function createTagsDropdown(tags) {
 		// If the tag is "nsfw" and is checked, then ask for 18+ confirmation
 		if (tag == "nsfw" && $(this).closest("input").prop("checked")) {
 			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
-			var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+			var nsfw_confirmation = nsfwVerification();
 			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!nsfw_confirmation) {
 				$(this).closest("input").prop("checked", false);
@@ -354,7 +354,7 @@ function createTagsDropdown(tags) {
 		// If the tag is "extreme" and is checked, then ask for extreme confirmation
 		if (tag == "extreme" && $(this).closest("input").prop("checked")) {
 			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
-			var extreme_confirmation = confirm("WARNING: This section contains commissions that are more intense than most – for example through monster-like characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
+			var extreme_confirmation = extremeVerification();
 			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!extreme_confirmation) {
 				$(this).closest("input").prop("checked", false);
@@ -383,6 +383,36 @@ function createTagsDropdown(tags) {
 		// When the search bar is updated, update the filters
 		showImagesThatMatch();
 	});
+}
+
+function nsfwVerification() {
+	if (localStorage.getItem("nsfwVerified") && localStorage.getItem("nsfwVerified") == "verified") {
+		return true;
+	}
+	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+	if (!nsfw_confirmation) {
+		localStorage.setItem("nsfwVerified", "notVerified")
+		return false;
+	}
+	else {
+		localStorage.setItem("nsfwVerified", "verified")
+		return true;
+	}
+}
+
+function extremeVerification() {
+	if (localStorage.getItem("extremeVerified") && localStorage.getItem("extremeVerified") == "verified") {
+		return true;
+	}
+	var extreme_confirmation = confirm("WARNING: This section contains commissions that are more intense than most – for example through monster-like characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
+	if (!extreme_confirmation) {
+		localStorage.setItem("extremeVerified", "notVerified")
+		return false;
+	}
+	else {
+		localStorage.setItem("extremeVerified", "verified")
+		return true;
+	}
 }
 
 // When a series link is clicked, then it closes the modal and changes the content and re-opens it with the new image
