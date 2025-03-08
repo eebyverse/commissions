@@ -2112,7 +2112,7 @@ var data = {
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
 			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
-			date_str: "Jan 2024 – Mar 2025",
+			date_str: "Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
 			hidden: false
 		},
