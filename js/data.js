@@ -1079,7 +1079,7 @@ var data = {
 		{
 			// Laurencin | Annette
 			src: ["https://cdn.imgchest.com/files/4z9cv8ar6l7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4apc5dzowl4.png",
+			thumbnail: "https://cdn.imgchest.com/files/46acqav5rv7.png",
 			title: "TBD",
 			artist: "Laurencin",
 			artist_url: "https://bsky.app/profile/laurencin.bsky.social",
