@@ -981,7 +981,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lgrqwmbk5c2t",
 			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
-			date_str: "Aug 2023",
+			date_str: "Jan 2025",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
 		},
