@@ -404,7 +404,7 @@ function extremeVerification() {
 	if (localStorage.getItem("extremeVerified") && localStorage.getItem("extremeVerified") == "verified") {
 		return true;
 	}
-	var extreme_confirmation = confirm("WARNING: This section contains commissions that are more intense than most – for example through monster-like characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
+	var extreme_confirmation = confirm("WARNING: This section contains commissions that are more intense than most – for example through inhuman characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
 	if (!extreme_confirmation) {
 		localStorage.setItem("extremeVerified", "notVerified")
 		return false;
