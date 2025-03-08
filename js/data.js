@@ -1743,7 +1743,7 @@ var data = {
 			// Redkite | Caeda and Eeby
 			src: ["https://cdn.imgchest.com/files/y8xcngk55d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvjboy.png",
-			title: "New Look",
+			title: "Forward Thinking",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1667878379000066048",
