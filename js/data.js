@@ -164,7 +164,7 @@ var data = {
 			artist_url: "https://x.com/chikaretsu",
 			art_url: "https://x.com/chikaretsu/status/1602271122841432064",
 			desc: "Two summoners learn, too late, that even lofty power has its limits.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
-			date_str: "May 2022",
+			date_str: "Dec 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "other", "collab"],
 			hidden: false
 		},
@@ -229,7 +229,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
 			art_url: null,
 			desc: "Even through the chilly winter months, Caeda knows how to stay stylish.",
-			date_str: "Mar 2022",
+			date_str: "Mar 2023",
 			tags: ["sfw", "caeda"],
 			hidden: false
 		},
@@ -2211,7 +2211,7 @@ var data = {
 			// Sunny | Lyn and Azura
 			src: ["https://cdn.imgchest.com/files/ye3c2p2eg34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaqmn67.png",
-			title: "Lady of the Plains, Lady of the Lake",
+			title: "Lady of the Plains,  Lady of the Lake",
 			artist: "Sunny",
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
