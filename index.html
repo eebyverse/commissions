@@ -52,13 +52,27 @@
 			</div>
 			<div class="col-lg-10" id="gallery-container">
 				<div class="row" id="gallery-header">
-					<div class="col-lg-7">
+					<div class="col-lg-4">
 						<h2><strong>Gallery</strong></h2>
 						<p>Showing <span id="count"></span> of my commissions</p>
 					</div>
-					<div class="col-lg-5">
+					<div class="col-lg-8">
 						<input type="search" class="form-control" id="search-bar" placeholder="Search text...">
 						<div class="gallery-buttons-container">
+							<div class="dropdown tag-dropdown-button">
+ 								<a class="btn dropdown-toggle" href="#" role="button" id="datepicker" data-bs-toggle="dropdown" aria-expanded="false">
+ 								<strong>Date Picker:</strong>
+ 								</a>
+ 								<ul class="dropdown-menu checkbox-menu allow-focus" aria-labelledby="datepicker" id="datepicker-dropdown">
+ 									<label for="year" id="year-label">Year:</label>
+ 									<select name="year" id="year" class="datepicker-option"></select>
+ 									<br/>
+ 									<label for="month" id="month-label">Month:</label>
+ 									<select name="month" id="month" class="datepicker-option"></select>
+ 									<br/>
+ 									<button id="datepicker-reset" class="btn">Clear</button>
+ 								</ul>
+ 							</div>
 							<div class="dropdown tag-dropdown-button">
 								<a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
 								<strong>Select Tags:</strong>

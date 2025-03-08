@@ -13,6 +13,7 @@ $(document).ready(function() {
 	// Set of tags collected from the images
 	const tags = new Set();
 	setUpGallery(images, tags, false);
+	createDatePickerDropdown();
 	createTagsDropdown(tags);
 	showDefaultImages();
 	updateImageCountLabel();
@@ -53,6 +54,8 @@ $(document).ready(function() {
 			}
 		});
 		document.getElementById("search-bar").value = "";
+		$("#year").val("None");
+		$("#month").val("None");
 		var images = data.images;
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
 		for (var i = 0; i < images.length; i++) {
@@ -287,6 +290,37 @@ function translateWord(word) {
 	}
 }
 
+// Create date picker dropdown
+function createDatePickerDropdown() {
+	// Start the counter at 2021
+	var year_dropdown_HTML = "<option selected value='None'>None</option>";
+	for (var i = 2021; i <= new Date().getFullYear(); i += 1) {
+		year_dropdown_HTML += "<option value='"+i+"'>"+i+"</option>";
+	}
+	$("#year").html(year_dropdown_HTML);
+
+	var month_dropdown_HTML = "<option selected value='None'>None</option>";
+	var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+	for (var i = 0; i < months.length; i += 1) {
+		month_dropdown_HTML += "<option value='"+months[i]+"'>"+months[i]+"</option>";
+	}
+	$("#month").html(month_dropdown_HTML);
+
+	$(".datepicker-option").on("change", function() {
+		var year = $("#year").val();
+		var month = $("#month").val();
+		show_all_mode = false;
+		$("#show-all").removeClass("show-all-button-active");
+		showImagesThatMatch();
+	});
+
+	$("#datepicker-reset").click(function() {
+		$("#year").val("None");
+		$("#month").val("None");
+		showImagesThatMatch();
+	});
+}
+
 // Create the tags dropdown menu
 function createTagsDropdown(tags) {
 	// Delete the empty string tag
@@ -414,8 +448,12 @@ function showImagesThatMatch() {
 		}
 	}
 
+	var year = $("#year").val();
+	var month = $("#month").val();
+	var date_picked = year != "None" && month != "None";
+
 	// Show default images if tags have not been selected in the Filter
-	if (visible_tags.length == 0 && !show_all_mode) {
+	if (visible_tags.length == 0 && !show_all_mode && !date_picked) {
 		showDefaultImages();
 		return;
 	}
@@ -484,15 +522,36 @@ function intersect(a, b) {
 }
 
 function searchCheck(search_str, image_index, images) {
+	var year = $("#year").val();
+	var month = $("#month").val();
+	var date_picked = year != "None" && month != "None";
+	var date_matched = images[image_index].date_str && images[image_index].date_str.includes(year) && images[image_index].date_str.includes(month);
+
 	if (search_str == "") {
-		$("#img"+image_index).show();
+		if (date_picked && date_matched) {
+			$("#img"+image_index).show();
+		}
+		else if (date_picked && !date_matched) {
+			$("#img"+image_index).hide();
+		}
+		else {
+			$("#img"+image_index).show();
+		}
 	}
 	else {
 		// The search bar is not empty, so check the data fields for matches
 		if (images[image_index].title.toLowerCase().includes(search_str)
 			|| images[image_index].desc.toLowerCase().includes(search_str)
 			|| images[image_index].artist.toLowerCase().includes(search_str)) {
-			$("#img"+image_index).show();
+			if (date_picked && date_matched) {
+				$("#img"+image_index).show();
+			}
+			else if (date_picked && !date_matched) {
+				$("#img"+image_index).hide();
+			}
+			else {
+				$("#img"+image_index).show();
+			}
 		}
 		else {
 			$("#img"+image_index).hide();
