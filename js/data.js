@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veyle", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veyle", "other"],
 			hidden: true
 		},
 		{
@@ -74,7 +74,7 @@ var data = {
 			art_url: "https://vxtwitter.com/babykatafan/status/1675142090265710593?t=JKYsRn_esEUnsCl1Pnb6rA&s=19",
 			desc: "Rhea, used to isolation, finds unexpected company and comfort in Askr from those who have known her pain.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Jul 2023",
-			tags: ["sfw", "tiki", "rhea", "collab"],
+			tags: ["sfw", "tiki", "rhea", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -308,7 +308,7 @@ var data = {
 			art_url: null,
 			desc: "A mother's presence is something Tiki hasn't felt in far too long – and Lumera is more than happy to indulge her.",
 			date_str: "Nov 2023",
-			tags: ["sfw", "tiki", "lumera"],
+			tags: ["sfw", "tiki", "other"],
 			hidden: false
 		},
 		{
@@ -347,7 +347,7 @@ var data = {
 			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3ldsz2ony3c2n",
 			desc: "At the Order's Winter Festival celebrations, the summoner finds herself in an inescapable situation.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
-			tags: ["nsfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
+			tags: ["nsfw", "eeby", "tiki", "rhea", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1450,7 +1450,7 @@ var data = {
 			art_url: null,
 			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons precedes her...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
-			tags: ["sfw", "tiki", "rhea", "lumera", "other", "collab"],
+			tags: ["sfw", "tiki", "rhea", "other", "collab"],
 			hidden: false
 		},
 		{
