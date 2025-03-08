@@ -240,7 +240,7 @@ a:hover, a:active {
 	width: 50px;
 	color: white;
 	border: none;
-	padding: 0.4375rem 0.75rem;
+	padding: 0.4375rem 0.25rem;
 	border-radius: 0.25rem;
 	background-color: #c97447;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
