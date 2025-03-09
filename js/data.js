@@ -1468,8 +1468,8 @@ var data = {
 		},
 		{
 			// Mnejing | Celine
-			src: ["https://cdn.imgchest.com/files/7mmc9gvgen7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9gjr3r7.png",
+			src: ["https://cdn.imgchest.com/files/4apc5dlnnj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8pjwvy.png",
 			title: "Keep Calm and Carry On",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
