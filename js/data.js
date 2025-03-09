@@ -78,6 +78,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// arikindows10 | Citrinne, Nanna, and Priscilla
+			src: ["https://cdn.imgchest.com/files/yd5cez9z3a4.png", "https://cdn.imgchest.com/files/yq9c35b5a24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvlva4.png",
+			title: "TBD",
+			artist: "arikindows10",
+			artist_url: "https://www.pixiv.net/en/users/658220",
+			art_url: "https://www.pixiv.net/en/artworks/105226872",
+			desc: "TBD",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Asu | Lianna and Sakura
 			src: ["https://cdn.imgchest.com/files/7lxcp3mzl87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9b8pw4.png",
@@ -1116,6 +1129,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kinkymation | Agnes and Edea
+			src: ["https://cdn.imgchest.com/files/7ogcb8r8pdy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35b5524.png",
+			title: "TBD",
+			artist: "Kinkymation",
+			artist_url: "https://x.com/kinkymation",
+			art_url: "https://x.com/kinkymation/status/1550918604425666563",
+			desc: "TBD",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Kinkymation | Say'riki
 			src: ["https://cdn.imgchest.com/files/46acqv2vj67.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckag8nn7.png",
@@ -1792,6 +1818,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Ratpark | Fee and Hermina
+			src: ["https://cdn.imgchest.com/files/yvdcwbzbb9y.jpg", "https://cdn.imgchest.com/files/49zc2geggey.jpg", "https://cdn.imgchest.com/files/yxkczjvjjj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8j8jp7.png",
+			title: "TBD",
+			artist: "RatPark",
+			artist_url: "https://www.pixiv.net/en/users/133613",
+			art_url: "https://www.pixiv.net/en/artworks/100330819",
+			desc: "TBD.",
+			date_str: "Aug 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// Ratpark | Nanna and Jeanne
+			src: ["https://cdn.imgchest.com/files/7ogcb8r88dy.jpg", "https://cdn.imgchest.com/files/7pjcqxbxx57.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wbwjj4.png",
+			title: "TBD",
+			artist: "RatPark",
+			artist_url: "https://www.pixiv.net/en/users/133613",
+			art_url: "https://www.pixiv.net/en/artworks/97773309",
+			desc: "TBD.",
+			date_str: "Apr 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Redkite | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/yq9c3a63z64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzb3aq4.png",
@@ -2218,6 +2270,19 @@ var data = {
 			desc: "The duo of Flayn, student of Garreg Mach and sister of Seteth, and Veyle, the Fell Dragon Sombron's daughter, have teamed up to compete in the fishing tournament! Will these girls fish up the big catch they're angling for?",
 			date_str: "Nov 2023",
 			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
+			// SINccubi | Azelle and Tailtiu
+			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
+			title: "TBD",
+			artist: "SINccubi",
+			artist_url: "https://x.com/SINccubi/status/1577381176158916614",
+			art_url: "https://x.com/SINccubi",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
