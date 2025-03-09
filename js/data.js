@@ -702,6 +702,58 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fraudulent Taco | Eeby 1
+			src: ["https://cdn.imgchest.com/files/7bwckg33g27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvvm84.png",
+			title: "TBD",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1621252611889569792",
+			desc: "TBD.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 2
+			src: ["https://cdn.imgchest.com/files/7ogcb8rr86y.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8rrd9y.png",
+			title: "TBD",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1627420739686252546",
+			desc: "TBD.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 3
+			src: ["https://cdn.imgchest.com/files/7lxcpgjjgv7.jpg", "https://cdn.imgchest.com/files/y2pck9339j7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqa88eg7.png",
+			title: "TBD",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1632328311614603264",
+			desc: "TBD.",
+			date_str: "Mar 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 4
+			src: ["https://cdn.imgchest.com/files/7pjcqxbbxd7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck933l87.png",
+			title: "TBD",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1654014027964760065",
+			desc: "TBD.",
+			date_str: "May 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
 			// Fraudulent Taco | Loki
 			src: ["https://cdn.imgchest.com/files/y8xcngk59k4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw25j7.png",
@@ -2377,6 +2429,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Stupjam | Eeby
+			src: ["https://cdn.imgchest.com/files/46acqa888k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez99bk4.png",
+			title: "TBD",
+			artist: "Stupjam",
+			artist_url: "https://x.com/stupjam",
+			art_url: "https://x.com/stupjam/status/1603431586854150145",
+			desc: "TBD<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Sugarwurm | Edelgard Cosy
 			src: ["https://cdn.imgchest.com/files/4nec8ok8wx4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2oa23d4.png",
@@ -2441,7 +2506,7 @@ var data = {
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
-	{
+		{
 			// TimboCactus | Azelle 2
 			src: ["https://cdn.imgchest.com/files/49zc2geanby.png", "https://cdn.imgchest.com/files/4nec8wbezl4.png", "https://cdn.imgchest.com/files/yxkczjvnp27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvkpzm97.png",
@@ -2517,6 +2582,19 @@ var data = {
 			desc: "There are dozens upon dozens of mercenaries to be found in Askr – so it's just as well that Selena already knows she's the best of them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Trujek | Eeby
+			src: ["https://cdn.imgchest.com/files/yvdcwbzzzpy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bbep4.png",
+			title: "TBD",
+			artist: "Trujek",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
