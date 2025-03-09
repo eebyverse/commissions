@@ -2211,7 +2211,7 @@ var data = {
 			// Sunny | Lyn and Azura
 			src: ["https://cdn.imgchest.com/files/ye3c2p2eg34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaqmn67.png",
-			title: "The Lady of the Plains, the Lady of the Lake",
+			title: "Lady of the Plains, Lady of the Lake",
 			artist: "Sunny",
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
