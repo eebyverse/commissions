@@ -497,11 +497,11 @@ var data = {
 			// DreamSnydd | Lissa and Tharja
 			src: ["https://cdn.imgchest.com/files/yq9c353jv54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpgpoee7.png",
-			title: "TBD",
+			title: "Sugar and Spice",
 			artist: "DreamSnydd",
 			artist_url: "https://bsky.app/profile/dreamsynddart.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "For all the bitter history between Ylisse and Plegia, Lissa's cheer and charisma—coupled with some persistence—reaches even Tharja's distant and guarded heart.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "other", "collab"],
 			hidden: false
@@ -562,11 +562,11 @@ var data = {
 			// Dux_Draws | Lysithea and Gaius
 			src: ["https://cdn.imgchest.com/files/45xcvkmngr7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcae8gbg7.png",
-			title: "TBD",
+			title: "Pastry Picnickers",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Gaius and Lysithea are all ready for a sugary-sweet picnic out in the country... even though Lysithea, in her enthusiasm, might just have overpacked.",
 			date_str: "July 2022",
 			tags: ["sfw", "lysithea", "other"],
 			hidden: false
@@ -575,11 +575,11 @@ var data = {
 			// Dux_Draws | Patty
 			src: ["https://cdn.imgchest.com/files/7ogcb8pjqgy.png", "https://cdn.imgchest.com/files/7kzcae8gov7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2mnpoay.png",
-			title: "TBD",
+			title: "Folk Hero",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Patty of Yngvi, all set for the Thieves' Festival – embodying the hero-thieves of tales told to, and by, children across countless worlds.",
 			date_str: "Aug 2022",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -898,11 +898,11 @@ var data = {
 			// Harunn | Lysithea
 			src: ["https://cdn.imgchest.com/files/4apc5dlnl34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpg3zk87.png",
-			title: "TBD",
+			title: "Twin-Crest Cruelty",
 			artist: "harunn2288",
 			artist_url: "https://x.com/harunn2288",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "In one timeline, Agartha's experiments on the heir to House Ordelia served to twist her into the perfect servant – a force of destruction that, having already lost everything, took a sadistic glee in sharing and spreading her pain across Fódlan and beyond.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "June 2022",
 			tags: ["sfw", "lysithea", "collab"],
 			hidden: false
@@ -1158,11 +1158,11 @@ var data = {
 			// KTG | Lute
 			src: ["https://cdn.imgchest.com/files/yrgcnknqjw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkneqr4.png",
-			title: "TBD",
+			title: "Sheikah Superiority",
 			artist: "KTG",
 			artist_url: "https://bsky.app/profile/ktgromwell.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lute, mage prodigy, dressed up as a genius from another place and time.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1392,11 +1392,11 @@ var data = {
 			// Mason | Aizawa and Aurash
 			src: ["https://cdn.imgchest.com/files/7lxcpgpvx97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaq62a7.png",
-			title: "TBD",
+			title: "The Big Guns",
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "Aurash and Aizawa, both proudly showing off.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1474,7 +1474,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1828232442739839101",
-			desc: "TBD",
+			desc: "What else can one do, in her position?",
 			date_str: "Aug 2024",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1873,11 +1873,11 @@ var data = {
 			// ScruffyTurtles | Annette
 			src: ["https://cdn.imgchest.com/files/4apc5dzxjz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2gaodby.png",
-			title: "TBD",
+			title: "An Invaluable Asset",
 			artist: "ScruffyTurtles",
 			artist_url: "https://bsky.app/profile/scruffyturtles.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Keep staring, if you like. You'll only fall deeper under her spell...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "annette", "collab"],
 			hidden: false
