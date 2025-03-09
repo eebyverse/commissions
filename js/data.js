@@ -1806,13 +1806,13 @@ var data = {
 		},
 		{
 			// Redkite | Eeby and Mitama
-			src: ["https://cdn.imgchest.com/files/7pjcqxxplj7.jpg", "https://cdn.imgchest.com/files/4nec8ww69d4.jpg"],
+			src: ["https://cdn.imgchest.com/files/7pjcqxxplj7.jpg", "https://cdn.imgchest.com/files/4z9cv8jex97.png", "https://cdn.imgchest.com/files/4nec8ww69d4.jpg", "https://cdn.imgchest.com/files/45xcvkp6wr7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcae9pv27.png",
 			title: "TBD",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dustdustdust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>",
 			date_str: "Feb 2023",
 			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
