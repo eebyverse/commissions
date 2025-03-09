@@ -1762,7 +1762,7 @@ var data = {
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
 			desc: "Queen Camilla of Nohr, ostensibly ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
-			tags: ["sfw", "camilla", "gifts_given"],
+			tags: ["sfw", "nsfw", "camilla", "gifts_given"],
 			hidden: false
 		},
 		{
