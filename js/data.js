@@ -286,6 +286,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DaigoDoggyma | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/49zc2gexgmy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkp3p67.png",
+			title: "TBD",
+			artist: "DaigoDoggyma",
+			artist_url: "https://x.com/daigodoggyma",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "April 2024",
+			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica", "other", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Darkness | Camilla and Eirika
 			src: ["https://cdn.imgchest.com/files/7pjcqm6qab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8jmql7.png",
@@ -335,6 +348,19 @@ var data = {
 			desc: "A mother's presence is something Tiki hasn't felt in far too long – and Lumera is more than happy to indulge her.",
 			date_str: "Nov 2023",
 			tags: ["sfw", "tiki", "other"],
+			hidden: false
+		},
+		{
+			// Darkness | Thrasir and Veronica
+			src: ["https://cdn.imgchest.com/files/739cxnb9dw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvma24.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Feb 2023",
+			tags: ["sfw", "veronica", "thrasir", "other"],
 			hidden: false
 		},
 		{
@@ -841,6 +867,19 @@ var data = {
 			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "anna", "sharena", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Fubbz | Veronica
+			src: ["https://cdn.imgchest.com/files/yd5cez9jdx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzv23y.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "veronica", "ylgr", "thrasir", "sharena", "other"],
 			hidden: false
 		},
 		{	// Fusenryo | Catriagrid
