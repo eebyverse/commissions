@@ -172,11 +172,11 @@ var data = {
 			// ClariAriKari | Annette
 			src: ["https://cdn.imgchest.com/files/yxkczjna5v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2px3na4.png",
-			title: "TBD",
+			title: "Without Restraint",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Unpaid stream request.",
+			desc: "More than anything else, Annette appreciates the freedom her new uniform offers her over the stifling restraints of a dress.<br/><br/>Unpaid stream request.",
 			date_str: "Aug 2022",
 			tags: ["sfw", "annette", "gifts_received"],
 			hidden: false
@@ -354,11 +354,11 @@ var data = {
 			// DeebyFeeby | Annette and Mercedes
 			src: ["https://cdn.imgchest.com/files/yvdcwbrpjby.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35znrq4.png",
-			title: "Partners in Crime",
+			title: "A Change of Faith",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
+			desc: "Annette has always valued Mercedes' friendship and guidance – and so takes steps to ensure that, despite her new mission and cause, nothing will ever change between them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
 			date_str: "May 2022",
 			tags: ["sfw", "annette", "other", "collab"],
 			hidden: false
@@ -1184,11 +1184,11 @@ var data = {
 			// Laurencin | Annette
 			src: ["https://cdn.imgchest.com/files/4z9cv8ar6l7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqav5rv7.png",
-			title: "TBD",
+			title: "New World Order",
 			artist: "Laurencin",
 			artist_url: "https://bsky.app/profile/laurencin.bsky.social",
 			art_url: "https://x.com/Iaurencin/status/1701259302722253242",
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Annette's return to Garreg Mach, five years after Adrestia declares war on the is accompanied by a marked shift in her confidence and demeanour... along with a determination, at every step, to 'restore order' to Fódlan.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Sep 2023",
 			tags: ["sfw", "annette", "collab"],
 			hidden: false
@@ -1262,11 +1262,11 @@ var data = {
 			// LiaLiar | Annette Portrait
 			src: ["https://cdn.imgchest.com/files/4gdcxv2ek34.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35znlw4.png",
-			title: "TBD",
+			title: "Agent of Agartha",
 			artist: "LiaLiar",
 			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
 			art_url: "https://x.com/LiaLiar1/status/1526608018309361664",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Annette's pursuit of dark magic while back home in Faerghus is born of good intentions; of helping her protect friends and family, and of knowing her new enemies. Such good intentions, however, lead her to stumble blindly into Cornelia's clutches, lured by the promise of an experienced tutor... who soon sets to work assigning her a new role and directive.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2022",
 			tags: ["sfw", "annette", "collab"],
 			hidden: false
@@ -1275,11 +1275,11 @@ var data = {
 			// LiaLiar | Annette
 			src: ["https://cdn.imgchest.com/files/y8xcnlxmbn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxv2rqw4.png",
-			title: "TBD",
+			title: "Lady Dominic",
 			artist: "LiaLiar",
 			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
 			art_url: "https://x.com/LiaLiar1/status/1615805408907563024",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "In subverting Annette, Cornelia's greatest mistake was a failure to instil her with loyalty to any cause save her mission – for Annette's new confidence quickly blooms into ambition, and a resolve to bring <em>all</em> disorderly elements under her heel, Agartha included.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "annette", "collab"],
 			hidden: false
@@ -2046,7 +2046,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/99945635",
-			desc: "TBD.",
+			desc: "Est White, known to authorities only as the Pink Whitewing. Still a student at St. Macedon's, she often feels a world apart from her older sisters, and struggles to be taken seriously as their equal – even as, through it all, she masks her insecurities with a smile.",
 			date_str: "Jul 2022",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -2211,11 +2211,11 @@ var data = {
 			// Sunny | Lyn and Azura
 			src: ["https://cdn.imgchest.com/files/ye3c2p2eg34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaqmn67.png",
-			title: "Lady of the Plains,  Lady of the Lake",
+			title: "The Lady of the Plains, the Lady of the Lake",
 			artist: "Sunny",
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lyn, faced with the gruelling prospect of attending ballroom parties as the soon-to-be heir to Caelin, turns to an expert to brush up on her dancing...",
 			date_str: "Oct 2022",
 			tags: ["sfw", "other"],
 			hidden: false
