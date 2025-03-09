@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -685,7 +685,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/104277602",
 			desc: "TBD",
 			date_str: "Dec 2022",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "thrasir"],
 			hidden: false
 		},
 		{
@@ -802,7 +802,7 @@ var data = {
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "other"],
+			tags: ["sfw", "micaiah", "edelgard", "thrasir", "other"],
 			hidden: false
 		},
 		{
@@ -1488,7 +1488,7 @@ var data = {
 			art_url: "https://x.com/loutaniart/status/1613665825533091840",
 			desc: "TBD.",
 			date_str: "Oct 2022",
-			tags: ["nsfw", "other"],
+			tags: ["nsfw", "thrasir", "other"],
 			hidden: false
 		},
 		{
