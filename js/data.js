@@ -692,11 +692,11 @@ var data = {
 			// Fubbz | Lysithea and Gaius
 			src: ["https://cdn.imgchest.com/files/yvdcwb98emy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgj82g7.png",
-			title: "TBD",
+			title: "Bad Habits",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Even at the best of times, Gaius and Lysithea just can't help themselves.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "lysithea", "other"],
 			hidden: false
@@ -705,11 +705,11 @@ var data = {
 			// Fubbz | Soleil and Niime
 			src: ["https://cdn.imgchest.com/files/7mmc9w9bnm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvxad64.png",
-			title: "TBD",
+			title: "Cuties and Beauties",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "When it comes to cute girls, Soleil isn’t one to make exceptions.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -833,11 +833,11 @@ var data = {
 			// Fusenryo | Petrine and Leanne
 			src: ["https://cdn.imgchest.com/files/y2pck9anxa7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2polbz4.png",
-			title: "TBD",
+			title: "To Leave it All Behind",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			desc: "With the weight of Leanne's wing wrapped so tightly around her, Petrine wonders who's really comforting who.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -963,11 +963,11 @@ var data = {
 			// JadeSnap | L'Arachel and Ophelia
 			src: ["https://cdn.imgchest.com/files/yvdcwb988my.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck9ane57.png",
-			title: "TBD",
+			title: "Maidens of Light and Dark",
 			artist: "JadesnapArt",
 			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
 			art_url: "https://x.com/JadesnapArt/status/1581676346576719872",
-			desc: "TBD.",
+			desc: "Through brightest day and darkest night, the dynamic duo of L'Arachel and Ophelia stand ever ready to face the forces of evil.",
 			date_str: "May 2022",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1171,11 +1171,11 @@ var data = {
 			// Kyra | Rosalin
 			src: ["https://cdn.imgchest.com/files/7pjcqxm98q7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv83mo97.png",
-			title: "TBD",
+			title: "The Witch Doctor",
 			artist: "Kyra",
 			artist_url: "https://vgen.co/valda_arts",
 			art_url: null,
-			desc: "TBD<br/><br/>Unpaid r/characterdrawing request.",
+			desc: "Rosalin Glass – daughter to a rare friendly hag known affectionately by the locals of neighbouring Greenburrow as Mama Glass, and a fledgling herbalist and healer who knows how to work ancient remedies in ways that rival even the latest and greatest modern medicines. Her constant companion, Mr Froggy, was animated by her mother out of the pages of her favourite childhood storybook – and though his coarse manner and tendency to nag and fret sometimes put them at odds, his care and concern for her has never once been in doubt.<br/><br/>Unpaid r/characterdrawing request.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
