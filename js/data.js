@@ -325,6 +325,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4gdcxvwrew4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlv8pp4.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "July 2023",
+			tags: ["sfw", "grima", "other"],
+			hidden: false
+		},
+		{
 			// Darkness | Soleil and Lute
 			src: ["https://cdn.imgchest.com/files/45xcvkvb2q7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqxzz5e7.png",
@@ -712,6 +725,19 @@ var data = {
 			desc: "TBD",
 			date_str: "Dec 2022",
 			tags: ["sfw", "thrasir"],
+			hidden: false
+		},
+		{
+			// Evo | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/45xcvkpw3n7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckg3ob57.png",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jul 2023",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -1453,6 +1479,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4apc5dqoxg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dqo3v4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Mar 2022",
+			tags: ["sfw", "grima", "other"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Kris and Girls
 			src: ["https://cdn.imgchest.com/files/y8xcngba9e4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpea5vy.png",
@@ -1723,6 +1762,19 @@ var data = {
 			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "catria", "ingrid", "collab"],
+			hidden: false
+		},
+		{
+			// minorudonguri | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/46acqa8eww7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wbvm94.png",
+			title: "TBD",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Sep 2024",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -2334,6 +2386,19 @@ var data = {
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// shan | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4z9cv8jxr87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqa8ee37.png",
+			title: "TBD",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: null,
+			desc: "TBD",
+			date_str: "July 2022",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
