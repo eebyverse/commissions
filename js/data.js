@@ -1788,14 +1788,14 @@ var data = {
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
 			desc: "Queen Camilla of Nohr, ostensibly ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
-			tags: ["sfw", "nsfw", "camilla", "gifts_given"],
+			tags: ["sfw", "camilla", "gifts_given"],
 			hidden: false
 		},
 		{
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568664.png",
-			title: "Bewitching Beauty",
+			title: "Bewitching Bosom",
 			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
