@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -1670,7 +1670,7 @@ var data = {
 			art_url: null,
 			desc: "TBD",
 			date_str: "Dec 2022",
-			tags: ["nsfw", "other"],
+			tags: ["nsfw", "shamir", "other"],
 			hidden: false
 		},
 		{
