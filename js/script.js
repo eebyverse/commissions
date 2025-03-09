@@ -284,6 +284,7 @@ function translateWord(word) {
 		anna: "👤 Anna",
 		veronica: "👤 Veronica",
 		ylgr: "👤 Ylgr",
+		shamir: "👤 Shamir",
 		grima: "👤 Grima",
 		other: "👤 Other/Misc"
 	};
