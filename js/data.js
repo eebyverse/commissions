@@ -546,6 +546,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dux_Draws | Anna and Henriette
+			src: ["https://cdn.imgchest.com/files/yrgcnkbw9a4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvwlob4.png",
+			title: "TBD",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jul 2022",
+			tags: ["sfw", "anna", "other"],
+			hidden: false
+		},
+		{
 			// Dux_Draws | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/7lxcp36p9l7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9nog84.png",
@@ -767,6 +780,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Annas and Henriette
+			src: ["https://cdn.imgchest.com/files/739cxnbok27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bp9x4.png",
+			title: "Family Resemblance",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "anna", "other"],
+			hidden: false
+		},
+		{
 			// Fubbz | Edelcaiah and Lifthrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png", "https://cdn.imgchest.com/files/ye3c2owdz94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3agkg34.png",
@@ -803,6 +829,18 @@ var data = {
 			desc: "When it comes to cute girls, Soleil isn’t one to make exceptions.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{	// Fusenryo | Annas and Sharena
+			src: ["https://cdn.imgchest.com/files/yq9c35bpve4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez9xgm4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "anna", "sharena", "gifts_given"],
 			hidden: false
 		},
 		{	// Fusenryo | Catriagrid
@@ -1022,6 +1060,19 @@ var data = {
 			desc: "A life in hiding affords Flayn so few opportunities to try and look her best – but she's more than happy to lend centuries of experience to a friend.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
+			// JadeSnap | Anna
+			src: ["https://cdn.imgchest.com/files/7w6c2m6gqjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbolr7.png",
+			title: "TBD",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "July 2023",
+			tags: ["sfw", "anna"],
 			hidden: false
 		},
 		{
@@ -1308,6 +1359,19 @@ var data = {
 			desc: "Annette's return to Garreg Mach, five years after Adrestia declares war on the is accompanied by a marked shift in her confidence and demeanour... along with a determination, at every step, to 'restore order' to Fódlan.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Sep 2023",
 			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Anna
+			src: ["https://cdn.imgchest.com/files/7mmc9wqln67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw2reb4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Apr 2022",
+			tags: ["sfw", "anna", "other"],
 			hidden: false
 		},
 		{
@@ -1750,6 +1814,19 @@ var data = {
 			desc: "Severa knows a good outfit when she sees one – especially when it's up for grabs.",
 			date_str: "May 2024",
 			tags: ["sfw", "severa"],
+			hidden: false
+		},
+		{
+			// Moja | Anna
+			src: ["https://cdn.imgchest.com/files/739cxnbodp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqxb95a7.png",
+			title: "Little Princess",
+			artist: "Moja",
+			artist_url: "https://x.com/moquackja",
+			art_url: "https://x.com/moquackja/status/1646195999524765704",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "other", "collab"],
 			hidden: false
 		},
 		{
