@@ -282,6 +282,9 @@ function translateWord(word) {
 		veyle: "👤 Veyle",
 		annette: "👤 Annette",
 		anna: "👤 Anna",
+		veronica: "👤 Veronica",
+		ylgr: "👤 Ylgr",
+		grima: "👤 Grima",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
