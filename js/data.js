@@ -282,7 +282,7 @@ var data = {
 			art_url: null,
 			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time in making use of her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Dec 2024",
-			tags: ["extreme", "flayn", "other", "collab"],
+			tags: ["extreme", "flayn", "edelgard", "other", "collab"],
 			hidden: false
 		},
 		{
