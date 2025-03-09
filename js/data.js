@@ -1324,6 +1324,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Loutani | Lif and Thrasir
+			src: ["https://cdn.imgchest.com/files/45xcvkp6bz7.png", "https://cdn.imgchest.com/files/46acqa8nra7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae9dqb7.png",
+			title: "TBD",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613665825533091840",
+			desc: "TBD.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// Loutani | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/4apc5dq6el4.png", "https://cdn.imgchest.com/files/45xcvkp6rz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wqo6p7.png",
+			title: "Sugarplum Fairy",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613665337375084552",
+			desc: "TBD.",
+			date_str: "Nov 2022",
+			tags: ["nsfw", "lysithea", "other"],
+			hidden: false
+		},
+		{
 			// Loutani | Summoners, Loki and Aversa
 			src: ["https://cdn.imgchest.com/files/yvdcw9ggdjy.png", "https://cdn.imgchest.com/files/46acqv33b27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpw68oy.png",
@@ -1438,6 +1464,19 @@ var data = {
 			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Magnifire | Shamir and Kiria
+			src: ["https://cdn.imgchest.com/files/y2pck9326a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bd6p4.png",
+			title: "TBD",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -2309,6 +2348,32 @@ var data = {
 			desc: "Through Askr, Caeda and Camilla find countless opportunities to grow closer.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/gvsleepi.bsky.social'>GVSleepi</a></strong>.",
 			date_str: "Sep 2024",
 			tags: ["nsfw", "camilla", "caeda", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Azelle 1
+			src: ["https://cdn.imgchest.com/files/yrgcnkb8nk4.png", "https://cdn.imgchest.com/files/7mmc9wqz9q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8ja3r7.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+	{
+			// TimboCactus | Azelle 2
+			src: ["https://cdn.imgchest.com/files/49zc2geanby.png", "https://cdn.imgchest.com/files/4nec8wbezl4.png", "https://cdn.imgchest.com/files/yxkczjvnp27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkpzm97.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
