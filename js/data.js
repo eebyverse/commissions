@@ -221,6 +221,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ClariAriKari | Corrin and Sharena
+			src: ["https://cdn.imgchest.com/files/7bwckg39po7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck93ped7.png",
+			title: "TBD",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2022",
+			tags: ["extreme", "sharena", "other"],
+			hidden: false
+		},
+		{
 			// CountGalatea | Caeda
 			src: ["https://cdn.imgchest.com/files/4nec8omqbn4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rajz4.png",
@@ -2400,6 +2413,19 @@ var data = {
 			desc: "Against their better judgement, Lilina and Morgan indulge in a dangerous moment of passion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Jan 2023",
 			tags: ["nsfw", "eeby", "lysithea", "other", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Nanna and Jeanne
+			src: ["https://cdn.imgchest.com/files/739cxnbp927.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkb8ga4.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
+			desc: "TBD",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
