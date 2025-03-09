@@ -1882,6 +1882,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Moursho | Tana
+			src: ["https://cdn.imgchest.com/files/7lxcpgjlxa7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzowwy.png",
+			title: "TBD",
+			artist: "Moursho",
+			artist_url: "https://x.com/Moursho",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2021",
+			tags: ["nsfw", "other", "shamir"],
+			hidden: false
+		},
+		{
 			// Mr.Takealook | Edelgard
 			src: ["https://cdn.imgchest.com/files/yq9c3anq5o4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxo9zq7.png",
@@ -1944,6 +1957,32 @@ var data = {
 			desc: "Loki takes special measures to secure her new identity.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "caeda", "loki", "collab"],
+			hidden: false
+		},
+		{
+			// PervySeby | Tana and Shamir 1
+			src: ["https://cdn.imgchest.com/files/7w6c2m65qgy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez9p8k4.png",
+			title: "TBD",
+			artist: "PervySeby",
+			artist_url: "https://x.com/PervySeby",
+			art_url: "https://x.com/PervySeby/status/1547503315193315328",
+			desc: "TBD",
+			date_str: "June 2022",
+			tags: ["nsfw", "shamir", "other"],
+			hidden: false
+		},
+		{
+			// PervySeby | Tana and Shamir 2
+			src: ["https://cdn.imgchest.com/files/yrgcnkb3954.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bmq64.png",
+			title: "TBD",
+			artist: "PervySeby",
+			artist_url: "https://x.com/PervySeby",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "shamir", "other"],
 			hidden: false
 		},
 		{
@@ -2100,6 +2139,19 @@ var data = {
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Redkite | Shamir and Kiria
+			src: ["https://cdn.imgchest.com/files/7bwckg3wb27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjva2o7.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1772848667973849271",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["sfw", "shamir", "other", "collab"],
 			hidden: false
 		},
 		{
