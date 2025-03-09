@@ -338,6 +338,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Eeby and Anna
+			src: ["https://cdn.imgchest.com/files/yxkczjj9e57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2genmgy.png",
+			title: "TBD",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["nsfw", "eeby", "anna", "collab"],
+			hidden: false
+		},
+		{
 			// Decox | Eeby and Dragons
 			src: ["https://cdn.imgchest.com/files/yxkczx6x597.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qozn7.png",
@@ -1037,6 +1050,19 @@ var data = {
 			tags: ["nsfw", "anna", "annette", "collab"],
 			hidden: false
 		},
+	{
+			// Jwolf | Eeby and Merrin
+			src: ["https://cdn.imgchest.com/files/49zc2gg8jjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbzea7.png",
+			title: "TBD",
+			artist: "JWolf",
+			artist_url: "https://x.com/JosephwolfNSFW",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			date_str: "March 2024",
+			tags: ["nsfw", "eeby", "other", "collab"],
+			hidden: false
+		},
 		{
 			// Kalycoris | Camilla
 			src: ["https://cdn.imgchest.com/files/739cx5gaqp7.png"],
@@ -1386,6 +1412,32 @@ var data = {
 			desc: "Micaiah Kirsch, a doctor in training and current postgrad at Zenith University – seeming to come from wealth, yet with some reluctance and even shame. Though kind at heart, her sweet smile hides a certain mischief known only to her closest friends...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "collab"],
+			hidden: false
+		},
+		{
+			// Magnifire | Eeby 1
+			src: ["https://cdn.imgchest.com/files/4apc5dd2rw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkeeo4.png",
+			title: "TBD",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong> and <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Magnifire | Eeby 1
+			src: ["https://cdn.imgchest.com/files/46acqaamrp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvaab4.png",
+			title: "TBD",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1753,6 +1805,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Redkite | Eeby and Mitama
+			src: ["https://cdn.imgchest.com/files/7pjcqxxplj7.jpg", "https://cdn.imgchest.com/files/4nec8ww69d4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae9pv27.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dustdustdust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "eeby", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Redkite | Edelcaiah and Jokercina
 			src: ["https://cdn.imgchest.com/files/739cx5b6ag7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lg9nb4.png",
@@ -1984,6 +2049,19 @@ var data = {
 			desc: "From fluttering wings to fluttering hearts, the morning of the summoner's birthday is rife with anticipation – but her smile says it all.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "eeby", "caeda", "mirabilis", "gifts_received"],
+			hidden: false
+		},
+		{
+			// ShiroFont | Eeby and Jokercina
+			src: ["https://cdn.imgchest.com/files/45xcvkkjb87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkedo4.png",
+			title: "TBD",
+			artist: "ShiroFont",
+			artist_url: "https://x.com/ShiroFont",
+			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "Aug 2023",
+			tags: ["nsfw", "eeby", "lucina", "other", "collab"],
 			hidden: false
 		},
 		{
