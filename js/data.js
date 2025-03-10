@@ -2262,11 +2262,11 @@ var data = {
 			// Rotomdocs | Meg
 			src: ["https://cdn.imgchest.com/files/49zc2g2jz9y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ceze6gx4.png",
-			title: "TBD",
+			title: "Fighting Fit",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1754893237008134580",
-			desc: "",
+			desc: "As Meg knows well, fitness is more than just appearances.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -2665,11 +2665,11 @@ var data = {
 			// Stupjam | Eeby
 			src: ["https://cdn.imgchest.com/files/46acqa888k7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cez99bk4.png",
-			title: "TBD",
+			title: "Fit for a Queen",
 			artist: "Stupjam",
 			artist_url: "https://x.com/stupjam",
 			art_url: "https://x.com/stupjam/status/1603431586854150145",
-			desc: "TBD<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			desc: "In one version of Askr, the summoner's power and influence comes to far outstrip her humble beginnings...<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
