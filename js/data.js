@@ -1677,11 +1677,11 @@ var data = {
 			// Magnifire | Eeby 1
 			src: ["https://cdn.imgchest.com/files/4apc5dd2rw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkeeo4.png",
-			title: "TBD",
+			title: "Fun Between Friends",
 			artist: "Magnifire",
 			artist_url: "http://x.com/mf021405",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong> and <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			desc: "A summoners' conference comes to a mutually beneficial conclusion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong> and <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
@@ -1690,11 +1690,11 @@ var data = {
 			// Magnifire | Eeby 1
 			src: ["https://cdn.imgchest.com/files/46acqaamrp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvaab4.png",
-			title: "TBD",
+			title: "On a Tight Leash",
 			artist: "Magnifire",
 			artist_url: "http://x.com/mf021405",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "Even a summoner can't always be in control...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
@@ -2561,11 +2561,11 @@ var data = {
 			// SINccubi | Azelle and Tailtiu
 			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
-			title: "TBD",
+			title: "Quick as Thunder, Hot as Fire",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi/status/1577381176158916614",
 			art_url: "https://x.com/SINccubi",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			desc: "Azelle has never quite learned how to keep up with Tailtiu's boundless, boisterous energy...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
