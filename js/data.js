@@ -1300,11 +1300,11 @@ var data = {
 			// Kinkymation | Agnes and Edea
 			src: ["https://cdn.imgchest.com/files/7ogcb8r8pdy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35b5524.png",
-			title: "TBD",
+			title: "Reverence",
 			artist: "Kinkymation",
 			artist_url: "https://x.com/kinkymation",
 			art_url: "https://x.com/kinkymation/status/1550918604425666563",
-			desc: "TBD",
+			desc: "For Agnès, Edea will believe in anything.",
 			date_str: "Jul 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
