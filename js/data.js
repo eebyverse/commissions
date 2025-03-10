@@ -120,11 +120,11 @@ var data = {
 			// Bad Frog | Io
 			src: ["https://cdn.imgchest.com/files/46acqav99r7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvwzm3e4.png",
-			title: "TBD",
+			title: "Jewellery Enchantress",
 			artist: "Bad Frog",
 			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			desc: "Io, admiring her handiwork.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -887,7 +887,7 @@ var data = {
 			// Fubbz | Veronica
 			src: ["https://cdn.imgchest.com/files/yd5cez9jdx4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzv23y.png",
-			title: "TBD",
+			title: "Among Friends",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
@@ -2080,11 +2080,11 @@ var data = {
 			// Ratpark | Fee and Hermina
 			src: ["https://cdn.imgchest.com/files/yvdcwbzbb9y.jpg", "https://cdn.imgchest.com/files/49zc2geggey.jpg", "https://cdn.imgchest.com/files/yxkczjvjjj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv8j8jp7.png",
-			title: "TBD",
+			title: "Spreading Our Wings",
 			artist: "RatPark",
 			artist_url: "https://www.pixiv.net/en/users/133613",
 			art_url: "https://www.pixiv.net/en/artworks/100330819",
-			desc: "TBD.",
+			desc: "In Hermina, a humble soldier of Silesse, Princess Fee finds her escape.",
 			date_str: "Aug 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -2093,11 +2093,11 @@ var data = {
 			// Ratpark | Nanna and Jeanne
 			src: ["https://cdn.imgchest.com/files/7ogcb8r88dy.jpg", "https://cdn.imgchest.com/files/7pjcqxbxx57.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8wbwjj4.png",
-			title: "TBD",
+			title: "The Nordion Way",
 			artist: "RatPark",
 			artist_url: "https://www.pixiv.net/en/users/133613",
 			art_url: "https://www.pixiv.net/en/artworks/97773309",
-			desc: "TBD.",
+			desc: "Even in exile, Nanna has never been one to forsake her duties.",
 			date_str: "Apr 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -2444,11 +2444,11 @@ var data = {
 			// ShiroFont | Eeby and Jokercina
 			src: ["https://cdn.imgchest.com/files/45xcvkkjb87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkedo4.png",
-			title: "TBD",
+			title: "A Real Devil",
 			artist: "ShiroFont",
 			artist_url: "https://x.com/ShiroFont",
 			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			desc: "When a mysterious thief arrives in Askr and instantly steals a certain Hero’s heart, the summoner has no choice but to investigate...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Aug 2023",
 			tags: ["nsfw", "eeby", "lucina", "other", "collab"],
 			hidden: false
