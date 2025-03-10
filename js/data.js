@@ -2561,7 +2561,7 @@ var data = {
 			// SINccubi | Azelle and Tailtiu
 			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
-			title: "Quick as Thunder, Hot as Fire",
+			title: "Electric Passion",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi/status/1577381176158916614",
 			art_url: "https://x.com/SINccubi",
