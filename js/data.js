@@ -292,7 +292,7 @@ var data = {
 			title: "Joys of Spring",
 			artist: "DaigoDoggyma",
 			artist_url: "https://x.com/daigodoggyma",
-			art_url: null,.
+			art_url: null,
 			desc: "For the Spring Festival, even an often-distant summoner can be coaxed out of her shell – and into the company of friends.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "April 2024",
 			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica", "other", "gifts_received"],
@@ -1244,7 +1244,7 @@ var data = {
 			tags: ["nsfw", "anna", "annette", "collab"],
 			hidden: false
 		},
-	{
+		{
 			// Jwolf | Eeby and Merrin
 			src: ["https://cdn.imgchest.com/files/49zc2gg8jjy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnbzea7.png",
