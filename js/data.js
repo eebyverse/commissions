@@ -731,11 +731,11 @@ var data = {
 			// Evo | Grima and Laevatein
 			src: ["https://cdn.imgchest.com/files/45xcvkpw3n7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckg3ob57.png",
-			title: "TBD",
+			title: "Hearts of Our Own",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Grima and Laevatein, both born and raised to be unthinking tools of destruction, discover a greater purpose in each other's company.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
@@ -1235,11 +1235,11 @@ var data = {
 			// Jwolf | Anna and Annette
 			src: ["https://cdn.imgchest.com/files/46acqaowjv7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2meo8ey.png",
-			title: "TBD",
+			title: "Customer Satisfaction",
 			artist: "JWolf",
 			artist_url: "https://x.com/JosephwolfNSFW",
 			art_url: "https://x.com/ImpulseXeno/status/1537281329737662464",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			desc: "Even a world of perfect order, Annette supposes, can still have room for silver-tongued merchants...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "anna", "annette", "collab"],
 			hidden: false
@@ -1248,11 +1248,11 @@ var data = {
 			// Jwolf | Eeby and Merrin
 			src: ["https://cdn.imgchest.com/files/49zc2gg8jjy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnbzea7.png",
-			title: "TBD",
+			title: "United Purpose",
 			artist: "JWolf",
 			artist_url: "https://x.com/JosephwolfNSFW",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			desc: "As her Heroes serve her, so too does a summoner serve her Heroes in turn.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
 			date_str: "March 2024",
 			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
@@ -2171,11 +2171,11 @@ var data = {
 			// Redkite | Eeby and Mitama
 			src: ["https://cdn.imgchest.com/files/7pjcqxxplj7.jpg", "https://cdn.imgchest.com/files/4z9cv8jex97.png", "https://cdn.imgchest.com/files/4nec8ww69d4.jpg", "https://cdn.imgchest.com/files/45xcvkp6wr7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcae9pv27.png",
-			title: "TBD",
+			title: "Bountiful Fruit",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>.",
+			desc: "From out of the blue,<br/>a most unexpected guest<br/>comes to taste a peach.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
@@ -2782,7 +2782,7 @@ var data = {
 			// TimboCactus | Nanna and Jeanne
 			src: ["https://cdn.imgchest.com/files/739cxnbp927.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkb8ga4.png",
-			title: "Desert Dalliance",
+			title: "Desert Dalliances",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
