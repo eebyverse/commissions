@@ -237,11 +237,11 @@ var data = {
 			// ClariAriKari | Corrin and Sharena
 			src: ["https://cdn.imgchest.com/files/7bwckg39po7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck93ped7.png",
-			title: "TBD",
+			title: "Draconic Discoveries",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Sharena finds a new reason to like Corrin's dragon form.",
 			date_str: "Jun 2022",
 			tags: ["extreme", "sharena", "other"],
 			hidden: false
@@ -1482,11 +1482,11 @@ var data = {
 			// LazzleDazzler | Grima and Laevatein
 			src: ["https://cdn.imgchest.com/files/4apc5dqoxg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5dqo3v4.png",
-			title: "Your Choice",
+			title: "Choice",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "For as fond of Laevatein as she is, Grima often encourages her to think, choose, and feel for herself – determined to help her see that, even as a devoted servant, she's more than the emotionless weapon she was raised to be.",
+			desc: "Fond of Laevatein as she is, Grima often encourages her to think, choose, and feel for herself – determined to help her see that, even as a devoted servant, she's more than the emotionless weapon she was raised to be.",
 			date_str: "Mar 2022",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
@@ -2782,7 +2782,7 @@ var data = {
 			// TimboCactus | Nanna and Jeanne
 			src: ["https://cdn.imgchest.com/files/739cxnbp927.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkb8ga4.png",
-			title: "TBD",
+			title: "Desert Dalliance",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
@@ -2795,7 +2795,7 @@ var data = {
 			// TimboCactus | Rosado
 			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
-			title: "Your Favourite Elusian Retainer",
+			title: "Your Favourite Retainer",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
