@@ -1785,7 +1785,7 @@ var data = {
 			artist: "minorudonguri",
 			artist_url: "https://skeb.jp/@minorudonguri",
 			art_url: null,
-			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons precedes her...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons is more than well known...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "tiki", "rhea", "other", "collab"],
 			hidden: false
@@ -1872,11 +1872,11 @@ var data = {
 			// Mnejing | Reginn
 			src: ["https://cdn.imgchest.com/files/7lxcpg3zwg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgj8dg7.png",
-			title: "TBD",
+			title: "We Can Do It",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1887985083090616457",
-			desc: "TBD.",
+			desc: "There's no problem an engineer can't solve by rolling up her sleeves and getting to work.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1937,11 +1937,11 @@ var data = {
 			// Moursho | Tana
 			src: ["https://cdn.imgchest.com/files/7lxcpgjlxa7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzowwy.png",
-			title: "TBD",
+			title: "Finders Keepers",
 			artist: "Moursho",
 			artist_url: "https://x.com/Moursho",
 			art_url: null,
-			desc: "TBD",
+			desc: "Tana, dressed in the clothes of someone who'll have no more need for them until dawn.",
 			date_str: "Dec 2021",
 			tags: ["nsfw", "other", "shamir"],
 			hidden: false
@@ -2730,11 +2730,11 @@ var data = {
 			// TimboCactus | Azelle 1
 			src: ["https://cdn.imgchest.com/files/yrgcnkb8nk4.png", "https://cdn.imgchest.com/files/7mmc9wqz9q7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv8ja3r7.png",
-			title: "TBD",
+			title: "A Prince's Prize",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			desc: "Azelle's hard work on the battlefield doesn't go unnoticed – nor unrewarded.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
@@ -2743,11 +2743,11 @@ var data = {
 			// TimboCactus | Azelle 2
 			src: ["https://cdn.imgchest.com/files/49zc2geanby.png", "https://cdn.imgchest.com/files/4nec8wbezl4.png", "https://cdn.imgchest.com/files/yxkczjvnp27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvkpzm97.png",
-			title: "TBD",
+			title: "A Prince's Purpose",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			desc: "Before long, Azelle's reputation starts to precede him...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
