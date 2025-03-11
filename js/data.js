@@ -1482,11 +1482,11 @@ var data = {
 			// LazzleDazzler | Grima and Laevatein
 			src: ["https://cdn.imgchest.com/files/4apc5dqoxg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5dqo3v4.png",
-			title: "TBD",
+			title: "Your Choice",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD.",
+			desc: "For as fond of Laevatein as she is, Grima often encourages her to think, choose, and feel for herself – determined to help her see that, even as a devoted servant, she's more than the emotionless weapon she was raised to be.",
 			date_str: "Mar 2022",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
@@ -1976,11 +1976,11 @@ var data = {
 			// NaijMizuho | Annette 
 			src: ["https://cdn.imgchest.com/files/45xcvkz3l67.webp"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvkmgmp7.png",
-			title: "TBD",
+			title: "Sinister Smile",
 			artist: "NaijMizuho",
 			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Even those who notice the change in Annette, after five long years away from Garreg Mach, can't possibly imagine just how deep it runs...",
 			date_str: "May 2022",
 			tags: ["sfw", "annette"],
 			hidden: false
@@ -2392,11 +2392,11 @@ var data = {
 			// shan | Grima and Laevatein
 			src: ["https://cdn.imgchest.com/files/4z9cv8jxr87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqa8ee37.png",
-			title: "TBD",
+			title: "Fell Protection",
 			artist: "shan0732",
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
-			desc: "TBD",
+			desc: "Grima's most faithful servant is hers and hers alone.",
 			date_str: "July 2022",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
@@ -2786,7 +2786,7 @@ var data = {
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
-			desc: "TBD",
+			desc: "Worn out from their journey across the Aed Desert, Nanna and Jeanne take time to recuperate in Dahna...",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
