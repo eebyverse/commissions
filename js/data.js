@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -1644,7 +1644,7 @@ var data = {
 			art_url: "https://x.com/picnicic/status/1518183995695005696",
 			desc: "Lucina and Caeda, bridging two-thousand years of Archanean history through the miracle of Askr.",
 			date_str: "Apr 2022",
-			tags: ["sfw", "caeda", "lucina"],
+			tags: ["sfw", "caeda", "other"],
 			hidden: false
 		},
 		{
@@ -2190,7 +2190,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1730733967702430189",
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			tags: ["sfw", "micaiah", "edelgard", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -2450,7 +2450,7 @@ var data = {
 			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
 			desc: "When a mysterious thief arrives in Askr and instantly steals a certain Hero’s heart, the summoner has no choice but to investigate...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Aug 2023",
-			tags: ["nsfw", "eeby", "lucina", "other", "collab"],
+			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -2931,7 +2931,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/127426098",
 			desc: "Severa puts her sharp tongue to a far more productive use around the Shepherds' camp – and soon comes to revel in her new role and purpose.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Oct 2024",
-			tags: ["nsfw", "severa", "lucina", "tiki", "other", "collab"],
+			tags: ["nsfw", "severa", "tiki", "other", "collab"],
 			hidden: false
 		},
 		{
