@@ -2015,7 +2015,7 @@ var data = {
 			// PervySeby | Tana and Shamir 1
 			src: ["https://cdn.imgchest.com/files/7w6c2m65qgy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cez9p8k4.png",
-			title: "Princess's Punishment",
+			title: "Punishment",
 			artist: "PervySeby",
 			artist_url: "https://x.com/PervySeby",
 			art_url: "https://x.com/PervySeby/status/1547503315193315328",
@@ -2028,7 +2028,7 @@ var data = {
 			// PervySeby | Tana and Shamir 2
 			src: ["https://cdn.imgchest.com/files/yrgcnkb3954.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35bmq64.png",
-			title: "Princess's Payback ",
+			title: "Payback",
 			artist: "PervySeby",
 			artist_url: "https://x.com/PervySeby",
 			art_url: null,
