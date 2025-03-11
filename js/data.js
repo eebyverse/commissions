@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lucina", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -48,7 +48,7 @@ var data = {
 			art_url: null,
 			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2024",
-			tags: ["sfw", "laura", "edelgard", "eleanor", "gifts_received"],
+			tags: ["sfw", "laura", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: "Impatient for the working day to end, Micaiah steals a midday kiss from her devoted head of staff. No-one will notice a few moments' absence...",
 			date_str: "Apr 2023",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -464,7 +464,7 @@ var data = {
 			art_url: null,
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids. ",
 			date_str: "Jun 2023",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "edelgard"],
 			hidden: false
 		},
 		{
@@ -917,7 +917,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2024",
-			tags: ["sfw", "catria", "ingrid", "gifts_given"],
+			tags: ["sfw", "catria", "other", "gifts_given"],
 			hidden: false
 		},
 		{	// Fusenryo | Edelgard and Flayn
@@ -955,7 +955,7 @@ var data = {
 			art_url: null,
 			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
 			date_str: "Nov 2024",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -1267,7 +1267,7 @@ var data = {
 			art_url: null,
 			desc: "Far from unsettling their relationship, the discovery of the Whitewings' true identities only brings Ingrid and Catria closer together in shared confidence and secrecy – even as Ingrid grapples with her duties to the law, and as Catria delights in teasing the 'good officer' on the job.",
 			date_str: "Dec 2021",
-			tags: ["sfw", "catria", "ingrid"],
+			tags: ["sfw", "catria", "other"],
 			hidden: false
 		},
 		{
@@ -1293,7 +1293,7 @@ var data = {
 			art_url: null,
 			desc: "Queen Micaiah, fifteenth ruler of Daein, alongside her trusted head of staff. But, as so many nobles have wondered, both privately and openly... just who is this mysterious young woman, to command such authority and receive such unconditional trust from the Queen?",
 			date_str: "Aug 2023",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -1332,7 +1332,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/><strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
-			tags: ["sfw", "ingrid", "gifts_given"],
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1475,7 +1475,7 @@ var data = {
 			art_url: null,
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, in more casual attire. Though many of Daein Keep's servants dream of trying their luck with her, all agree—begrudgingly—that her heart already belongs to their queen.",
 			date_str: "Jan 2024",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "edelgard"],
 			hidden: false
 		},
 		{
@@ -1761,7 +1761,7 @@ var data = {
 			art_url: null,
 			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2022",
-			tags: ["nsfw", "catria", "ingrid", "collab"],
+			tags: ["nsfw", "catria", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1839,7 +1839,7 @@ var data = {
 			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
 			desc: "A crown doesn't need to be worn for its weight to remain.",
 			date_str: "Nov 2023",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "edelgard"],
 			hidden: false
 		},
 		{
@@ -2580,7 +2580,7 @@ var data = {
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
 			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Apr 2023",
-			tags: ["sfw", "catria", "ingrid", "collab"],
+			tags: ["sfw", "catria", "other", "collab"],
 			hidden: false
 		},
 		{
