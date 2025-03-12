@@ -208,6 +208,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ClariAriKari | Lyn and Azura
+			src: ["https://cdn.imgchest.com/files/yrgcnk3knj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvev2z4.png",
+			title: "TBD",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// ClariAriKari | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/4nec8ovrwn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2o35o34.png",
@@ -442,6 +455,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Soleil and Lute
+			src: ["https://cdn.imgchest.com/files/4jdcvw8wvj4.png", "https://cdn.imgchest.com/files/yd5cezpzeg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2m5meky.png",
+			title: "TBD",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Agnes
 			src: ["https://cdn.imgchest.com/files/yq9c35mzbp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcb8dldqy.png",
@@ -509,7 +535,7 @@ var data = {
 		{
 			// DeebyFeeby | Mirabilis 1
 			src: ["https://cdn.imgchest.com/files/739cxnw5n27.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/45xcvk3mkj7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wjgk57.png",
 			title: "TBD",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
@@ -522,7 +548,7 @@ var data = {
 		{
 			// DeebyFeeby | Mirabilis 2
 			src: ["https://cdn.imgchest.com/files/7w6c2m5nmjy.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yvdcwbp9zay.png",
+			thumbnail: "https://cdn.imgchest.com/files/739cxnw5l67.png",
 			title: "TBD",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
@@ -920,6 +946,19 @@ var data = {
 			desc: "The way to the summoner's heart, so Loki discovers, is between her legs.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Nov 2021",
 			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Evo | Mirabilis
+			src: ["https://cdn.imgchest.com/files/4jdcvw8wvm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnwnxa7.png",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "TBD",
+			tags: ["nsfw", "mirabilis", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1557,6 +1596,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kiwi | Kronya and Reginn
+			src: ["https://cdn.imgchest.com/files/7lxcpglgp67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wjwzd7.png",
+			title: "TBD",
+			artist: "Kiwi",
+			artist_url: "https://bsky.app/profile/artistkiwi.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Kiwi | Sharena/Laura
 			src: ["https://cdn.imgchest.com/files/46acqvrmpe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngzdrk4.png",
@@ -1947,6 +1999,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Meqqey | Mira
+			src: ["https://cdn.imgchest.com/files/yvdcwbp9qqy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wawz84.png",
+			title: "TBD",
+			artist: "Meqqey",
+			artist_url: "https://ko-fi.com/meqqey",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
 			// micaiah_mrmm | Micaiah
 			src: ["https://cdn.imgchest.com/files/49zc2kolgvy.png","https://cdn.imgchest.com/files/yvdcw9oqb6y.png","https://cdn.imgchest.com/files/4apc5lo8dx4.png","https://cdn.imgchest.com/files/46acqvedae7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nowd9y.png",
@@ -2116,6 +2181,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Roy
+			src: ["https://cdn.imgchest.com/files/46acqawvd67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxve9a64.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Mnejing | Say'ri
 			src: ["https://cdn.imgchest.com/files/4z9cv3bqjg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8zpgb7.png",
@@ -2139,6 +2217,19 @@ var data = {
 			desc: "Severa knows a good outfit when she sees one – especially when it's up for grabs.",
 			date_str: "May 2024",
 			tags: ["sfw", "severa"],
+			hidden: false
+		},
+		{
+			// Mnejing | Yunaka
+			src: ["https://cdn.imgchest.com/files/7bwckgwjna7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw8wxm4.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -2191,6 +2282,19 @@ var data = {
 			desc: "Wreathed in her beloved's cloak, Edelgard makes her desires known.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jan 2022",
 			tags: ["nsfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Muff | Catherinel
+			src: ["https://cdn.imgchest.com/files/yrgcnk3kno4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpglge67.png",
+			title: "TBD",
+			artist: "Muff17",
+			artist_url: "https://x.com/muff171",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -2597,6 +2701,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SerennesArt | Mirabilis
+			src: ["https://cdn.imgchest.com/files/yxkczjax397.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8d8apy.png",
+			title: "Flower Crown",
+			artist: "SerennesArt",
+			artist_url: "https://bsky.app/profile/serennesart.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
 			// Sethkiel | Caeda and Norne
 			src: ["https://cdn.imgchest.com/files/49zc2kb3evy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3aelga4.png",
@@ -2896,6 +3013,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Agnes and Edea
+			src: ["https://cdn.imgchest.com/files/yq9c35m53g4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvevxz4.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Siren | Alear and Rosado
 			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
@@ -2945,6 +3075,19 @@ var data = {
 			desc: "Through both gentle affection and tireless devotion, Say'ri shows Ena that even an aching heart can learn to love again.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["nsfw", "sayri", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Siren | Ybele and Arc
+			src: ["https://cdn.imgchest.com/files/yd5cezpzep4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gxgmgy.png",
+			title: "TBD",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "TBD",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
