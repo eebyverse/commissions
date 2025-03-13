@@ -287,7 +287,7 @@ var data = {
 		},
 		{
 			// Croby | Eeby
-			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.mp4"],
+			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xaxm7.png",
 			title: "TBD",
 			artist: "Croby",
