@@ -281,8 +281,21 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/5251875",
 			art_url: null,
 			desc: "If you can't look away, it's already too late.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
-			date_str: "June 2022",
+			date_str: "Jun 2022",
 			tags: ["nsfw", "annette", "lysithea", "collab"],
+			hidden: false
+		},
+		{
+			// Croby | Eeby
+			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.mp4"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xaxm7.png",
+			title: "TBD",
+			artist: "Croby",
+			artist_url: "https://x.com/croby8112",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -585,6 +598,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Eeby
+			src: ["https://cdn.imgchest.com/files/yq9c35nzg34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpg29x37.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
@@ -686,6 +712,58 @@ var data = {
 			desc: "Micaiah's fondness for hugs is quick to rub off on others – even the restrained and reserved Emperor of Adrestia.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Eeby
+			src: ["https://cdn.imgchest.com/files/yd5cezlkjq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cezlkjq4.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Embla
+			src: ["https://cdn.imgchest.com/files/7mmc9w8zvg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9w8zvg7.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Veronica
+			src: ["https://cdn.imgchest.com/files/y8xcnl8x3m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnl8x3m4.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "veronica"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Ylgr
+			src: ["https://cdn.imgchest.com/files/y2pck9rpnb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck9rpnb7.png",
+			title: "TBD",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2023",
+			tags: ["sfw", "ylgr"],
 			hidden: false
 		},
 		{
@@ -920,6 +998,19 @@ var data = {
 			desc: "Thrasir, dressed as a handmaid of Hel.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "thrasir"],
+			hidden: false
+		},
+		{
+			// Estdale | Mirabilis
+			src: ["https://cdn.imgchest.com/files/y8xcnlnz2q4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjonk87.png",
+			title: "TBD",
+			artist: "Estdale",
+			artist_url: null,
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "TBD",
+			tags: ["sfw", "mirabilis", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1437,6 +1528,19 @@ var data = {
 			desc: "Through serving Micaiah, Fiona's loyalty to her country takes on new form and life.<br/><br/>Unpaid sketch request.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jebbee | Olivia and Mozu
+			src: ["https://cdn.imgchest.com/files/ye3c2p3xaj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xakw7.png",
+			title: "TBD",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Unpaid sketch request.",
+			date_str: "TBD",
+			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2009,6 +2113,19 @@ var data = {
 			desc: "TBD.",
 			date_str: "TBD",
 			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
+			// Meqqey | Veronica
+			src: ["https://cdn.imgchest.com/files/4gdcxvr2554.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35nzn34.png",
+			title: "TBD",
+			artist: "Meqqey",
+			artist_url: "https://ko-fi.com/meqqey",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "TBD",
+			tags: ["sfw", "veronica"],
 			hidden: false
 		},
 		{
@@ -3387,6 +3504,32 @@ var data = {
 			desc: "TBD.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// Zedora | Laura
+			src: ["https://cdn.imgchest.com/files/739cxnmp9n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae3vjo7.png",
+			title: "TBD",
+			artist: "Zedora",
+			artist_url: "https://x.com/ZedoraArt",
+			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "laura", "collab"],
+			hidden: false
+		},
+		{
+			// Zedora | Sharena
+			src: ["https://cdn.imgchest.com/files/4z9cv8xaom7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgo9zj7.png",
+			title: "TBD",
+			artist: "Zedora",
+			artist_url: "https://x.com/ZedoraArt",
+			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "sharena", "collab"],
 			hidden: false
 		},
 		{
