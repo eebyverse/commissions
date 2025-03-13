@@ -288,7 +288,7 @@ var data = {
 		{
 			// Croby | Eeby
 			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.gif"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xaxm7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8np2vy.png",
 			title: "TBD",
 			artist: "Croby",
 			artist_url: "https://x.com/croby8112",
@@ -320,7 +320,7 @@ var data = {
 			artist_url: "https://x.com/daigodoggyma",
 			art_url: null,
 			desc: "For the Spring Festival, even an often-distant summoner can be coaxed out of her shell – and into the company of friends.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
-			date_str: "April 2024",
+			date_str: "Apr 2024",
 			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica", "other", "gifts_received"],
 			hidden: false
 		},
@@ -476,7 +476,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Aug 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
 		},
@@ -484,12 +484,12 @@ var data = {
 			// DeebyFeeby | Agnes
 			src: ["https://cdn.imgchest.com/files/yq9c35mzbp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcb8dldqy.png",
-			title: "TBD",
+			title: "Wind Vestal",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Mar 2023",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
@@ -497,12 +497,12 @@ var data = {
 			// DeebyFeeby | Anna 1
 			src: ["https://cdn.imgchest.com/files/4z9cv8raj97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnwpwj7.png",
-			title: "TBD",
+			title: "Charming Merchant",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Oct 2022",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
@@ -510,12 +510,12 @@ var data = {
 			// DeebyFeeby | Anna 2
 			src: ["https://cdn.imgchest.com/files/7w6c2m5e6ry.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35mznw4.png",
-			title: "TBD",
+			title: "Cheery Merchant",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Apr 2023",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
@@ -523,12 +523,12 @@ var data = {
 			// DeebyFeeby | Eeby 1
 			src: ["https://cdn.imgchest.com/files/7lxcpgl9zl7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8waemk4.png",
-			title: "TBD",
+			title: "Faraway Summoner",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Aug 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
 		},
@@ -536,12 +536,12 @@ var data = {
 			// DeebyFeeby | Eeby 2
 			src: ["https://cdn.imgchest.com/files/4jdcvw8gm94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cezpkrn4.png",
-			title: "TBD",
+			title: "Festive Summoner",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Dec 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
 		},
@@ -549,12 +549,12 @@ var data = {
 			// DeebyFeeby | Mirabilis 1
 			src: ["https://cdn.imgchest.com/files/739cxnw5n27.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9wjgk57.png",
-			title: "TBD",
+			title: "Sleeping Beauty",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Sep 2022",
 			tags: ["sfw", "mirabilis"],
 			hidden: false
 		},
@@ -562,12 +562,12 @@ var data = {
 			// DeebyFeeby | Mirabilis 2
 			src: ["https://cdn.imgchest.com/files/7w6c2m5nmjy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnw5l67.png",
-			title: "TBD",
+			title: "Sugarplum Beauty",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Dec 2022",
 			tags: ["sfw", "mirabilis"],
 			hidden: false
 		},
@@ -601,12 +601,12 @@ var data = {
 			// DeebyFeeby | Eeby
 			src: ["https://cdn.imgchest.com/files/yq9c35nzg34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpg29x37.png",
-			title: "TBD",
+			title: "Bookworm",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "May 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
 		},
@@ -669,9 +669,9 @@ var data = {
 			title: "TBD",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
-			art_url: null,
+			art_url: "https://x.com/DeebyFeeby/status/1712122009549729858",
 			desc: "TBD.",
-			date_str: "TBD",
+			date_str: "Oct 2023",
 			tags: ["sfw", "anna", "other"],
 			hidden: false
 		},
@@ -918,7 +918,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
 			desc: "Gaius and Lysithea are all ready for a sugary-sweet picnic out in the country... even though Lysithea, in her enthusiasm, might just have overpacked.",
-			date_str: "July 2022",
+			date_str: "Jul 2022",
 			tags: ["sfw", "lysithea", "other"],
 			hidden: false
 		},
@@ -970,7 +970,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
 			desc: "TBD.",
-			date_str: "TBD",
+			date_str: "Feb 2022",
 			tags: ["sfw", "ylgr"],
 			hidden: false
 		},
@@ -1396,7 +1396,7 @@ var data = {
 			artist_url: "https://x.com/harunn2288",
 			art_url: null,
 			desc: "In one timeline, Agartha's experiments on the heir to House Ordelia served to twist her into the perfect servant – a force of destruction that, having already lost everything, took a sadistic glee in sharing and spreading her pain across Fódlan and beyond.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "June 2022",
+			date_str: "Jun 2022",
 			tags: ["sfw", "lysithea", "collab"],
 			hidden: false
 		},
@@ -1435,7 +1435,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
 			art_url: null,
 			desc: "Commander Anna with her adoptive daughter, Princess Anna – both ready and raring for battle.",
-			date_str: "July 2023",
+			date_str: "Jul 2023",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
@@ -1565,7 +1565,7 @@ var data = {
 			artist_url: "https://x.com/JosephwolfNSFW",
 			art_url: null,
 			desc: "As her Heroes serve her, so too does a summoner serve her Heroes in turn.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
-			date_str: "March 2024",
+			date_str: "Mar 2024",
 			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
 		},
@@ -2488,7 +2488,7 @@ var data = {
 			artist_url: "https://x.com/PervySeby",
 			art_url: "https://x.com/PervySeby/status/1547503315193315328",
 			desc: "Tana, like most nobles, secretly delights in being reduced to nothing, stripped of all titles and responsibilities – and Shamir, no stranger to loving roughly, is happy to oblige.",
-			date_str: "June 2022",
+			date_str: "Jun 2022",
 			tags: ["nsfw", "shamir", "other"],
 			hidden: false
 		},
@@ -3060,7 +3060,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/110627117",
 			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
-			date_str: "August 2023",
+			date_str: "Aug 2023",
 			tags: ["sfw", "other", "collab"],
 			hidden: false
 		},
@@ -3151,7 +3151,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Sep 2021",
 			tags: ["nsfw", "other"],
 			hidden: false
 		},
