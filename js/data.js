@@ -1895,6 +1895,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Lightdasher | Eeby
+			src: ["https://cdn.imgchest.com/files/yrgcnko8g84.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8npxqy.png",
+			title: "TBD",
+			artist: "Lightdasher",
+			artist_url: null,
+			art_url: null,
+			desc: "TBD",
+			date_str: "TBD",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
 			// LouiseArina | Anna
 			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cezpkgn4.png",
