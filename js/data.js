@@ -3146,11 +3146,11 @@ var data = {
 			// Siren | Agnes and Edea
 			src: ["https://cdn.imgchest.com/files/yq9c35m53g4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvevxz4.png",
-			title: "TBD",
+			title: "Lip Service",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "After several close encounters with the Eternian Empire, Edea clears up any lingering doubts about her loyalties.",
 			date_str: "Sep 2021",
 			tags: ["nsfw", "other"],
 			hidden: false
