@@ -2223,7 +2223,7 @@ var data = {
 			// Mnejing | Eeby
 			src: ["https://cdn.imgchest.com/files/yq9c35mz864.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqxrav27.png",
-			title: "TBD",
+			title: "New Perspective",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1853589597369856234",
