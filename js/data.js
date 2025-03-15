@@ -289,11 +289,11 @@ var data = {
 			// Croby | Eeby
 			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcb8np2vy.png",
-			title: "TBD",
+			title: "Next Battle",
 			artist: "Croby",
 			artist_url: "https://x.com/croby8112",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "A new challenger approaches...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
@@ -744,13 +744,13 @@ var data = {
 			// DeliiChan | Veronica
 			src: ["https://cdn.imgchest.com/files/y8xcnl8x3m4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5d3gbm4.png",
-			title: "TBD",
+			title: "Precious Penpal",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "Even when far away from Ylgr, Veronica rarely feels apart from her.",
 			date_str: "Jan 2023",
-			tags: ["sfw", "veronica"],
+			tags: ["sfw", "veronica", "ylgr"],
 			hidden: false
 		},
 		{
@@ -1590,8 +1590,8 @@ var data = {
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
 			art_url: null,
-			desc: "",
-			date_str: "TBD",
+			desc: "TBD",
+			date_str: "July 2023",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
@@ -1864,7 +1864,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
 			desc: "Veronica enjoys her time with Ylgr... even as she sometimes struggles to keep up.",
-			date_str: "TBD",
+			date_str: "Jan 2022",
 			tags: ["sfw", "veronica", "ylgr"],
 			hidden: false
 		},
@@ -1911,12 +1911,12 @@ var data = {
 			// LouiseArina | Anna
 			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkzgvr4.png",
-			title: "TBD",
+			title: "Golden Goose",
 			artist: "LouiseArina",
 			artist_url: "https://vgen.co/Louisearina",
 			art_url: null,
-			desc: "TBD.",
-			date_str: "TBD",
+			desc: "For little Anna, only the goldest eggs will do.",
+			date_str: "Apr 2023",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
@@ -2418,12 +2418,12 @@ var data = {
 			// Muff | Catherinel
 			src: ["https://cdn.imgchest.com/files/yrgcnk3kno4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpglge67.png",
-			title: "TBD",
+			title: "Dragonslayer",
 			artist: "Muff17",
 			artist_url: "https://x.com/muff171",
 			art_url: null,
-			desc: "TBD",
-			date_str: "TBD",
+			desc: "For a mere human, Nel can only admire how easily Catherine takes control...",
+			date_str: "Sep 2024",
 			tags: ["nsfw", "other"],
 			hidden: false
 		},
@@ -3437,7 +3437,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/whimsycottt.bsky.social",
 			art_url: null,
 			desc: "Having travelled to Askr through Anna-family magic, little Princess Anna isn't bound by the contracts of a summoned Hero – letting her do as she pleases, when she pleases.",
-			date_str: "Jul 2024",
+			date_str: "Jul 2023",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
