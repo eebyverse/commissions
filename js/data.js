@@ -1534,11 +1534,11 @@ var data = {
 			// Jebbee | Olivia and Mozu
 			src: ["https://cdn.imgchest.com/files/ye3c2p3xaj4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xakw7.png",
-			title: "TBD",
+			title: "Jam Session",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://x.com/JebbeeSketches/status/1779923272702079265",
-			desc: "A very lucky fan gets the chance to perform alongside Olivia. <br/><br/>Unpaid sketch request.",
+			desc: "A very lucky fan gets the chance to perform alongside Olivia.<br/><br/>Unpaid sketch request.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
