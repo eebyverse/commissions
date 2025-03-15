@@ -435,7 +435,7 @@ var data = {
 			title: "Ambassador to Embla",
 			artist: "Dash",
 			artist_url: "https://bsky.app/profile/missdash.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/missdash.bsky.social/post/3lcq7uogmgs2l",
 			desc: "As the years pass, Ylgr's heart drifts ever closer to Embla – and to her dearest friend.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "ylgr"],
@@ -809,12 +809,12 @@ var data = {
 			// Dotty | Eir and Fjorm
 			src: ["https://cdn.imgchest.com/files/7pjcqxra9b7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c35mzwq4.png",
-			title: "TBD",
+			title: "Brush With Death",
 			artist: "Dotty",
 			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
-			art_url: null,
-			desc: "TBD.",
-			date_str: "TBD",
+			art_url: "https://x.com/dotted__clouds/status/1649117500892905472 ",
+			desc: "For Fjorm, death is a familiar friend.",
+			date_str: "Apr 2023",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
@@ -1002,7 +1002,7 @@ var data = {
 		},
 		{
 			// Estdale | Mirabilis
-			src: ["https://cdn.imgchest.com/files/y8xcnlnz2q4.png"],
+			src: ["https://cdn.imgchest.com/files/yxkczjgj8k7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczjonk87.png",
 			title: "TBD",
 			artist: "Estdale",
