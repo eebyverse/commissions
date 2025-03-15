@@ -211,11 +211,11 @@ var data = {
 			// ClariAriKari | Lyn and Azura
 			src: ["https://cdn.imgchest.com/files/yrgcnk3knj4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvev2z4.png",
-			title: "TBD",
+			title: "Sing With Me a Song",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lyn helps Azura reach the high notes. ",
 			date_str: "Jun 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -432,11 +432,11 @@ var data = {
 			// Dash | Ylgr
 			src: ["https://cdn.imgchest.com/files/45xcvk3zn57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2p6x5a4.png",
-			title: "TBD",
+			title: "Ambassador to Embla",
 			artist: "Dash",
 			artist_url: "https://bsky.app/profile/missdash.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "As the years pass, Ylgr's heart drifts ever closer to Embla – and to her dearest friend.",
 			date_str: "Dec 2024",
 			tags: ["sfw", "ylgr"],
 			hidden: false
@@ -471,11 +471,11 @@ var data = {
 			// Decox | Soleil and Lute
 			src: ["https://cdn.imgchest.com/files/4jdcvw8wvj4.png", "https://cdn.imgchest.com/files/yd5cezpzeg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2m5meky.png",
-			title: "TBD",
+			title: "Practical Studies",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Soleil offers Lute a hands-on demonstration of love's... deeper aspects.",
 			date_str: "Aug 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -488,7 +488,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Agnès Oblige of Ancheim, the displaced vestal who would learn, through time and betrayal, to trust in the wind's own course.",
 			date_str: "Mar 2023",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -501,7 +501,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Anna of Aytolis, both fashionable and worldly.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "anna"],
 			hidden: false
@@ -514,7 +514,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Anna of Elyos, the little merchant who could.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "anna"],
 			hidden: false
@@ -527,7 +527,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Askr's summoner, stranded so far from home.",
 			date_str: "Aug 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
@@ -540,7 +540,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Askr's summoner, finding comfort in winter traditions.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
@@ -553,7 +553,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Mirabilis of Ljósálfarheimr, who long ago sought solace in dreams.",
 			date_str: "Sep 2022",
 			tags: ["sfw", "mirabilis"],
 			hidden: false
@@ -566,7 +566,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Mirabilis of Ljósálfarheimr, doing her best to participate in the Winter Festival.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "mirabilis"],
 			hidden: false
@@ -605,7 +605,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Askr's summoner always keeps her books especially close to hand.",
 			date_str: "May 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
@@ -653,11 +653,11 @@ var data = {
 			// DeebyFeeby | Europa
 			src: ["https://cdn.imgchest.com/files/4gdcxve28q4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5dxzmv4.png",
-			title: "TBD",
+			title: "The Pegasus Knight",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			desc: "Europa of Edessa, ready to take flight.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -718,11 +718,11 @@ var data = {
 			// DeliiChan | Eeby
 			src: ["https://cdn.imgchest.com/files/yd5cezlkjq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cezlkjq4.png",
-			title: "TBD",
+			title: "Close Eye",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "For all her apparent detachment, the summoner's attention rarely leaves her Heroes for long...",
 			date_str: "Jan 2023",
 			tags: ["sfw", "eeby"],
 			hidden: false
