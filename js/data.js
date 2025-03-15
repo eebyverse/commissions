@@ -359,7 +359,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
 			desc: "For a servant as devoted as Laevatein, Grima can allow a few... indulgences.",
-			date_str: "July 2023",
+			date_str: "Jul 2023",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
@@ -965,11 +965,11 @@ var data = {
 			// Dux_Draws | Ylgr
 			src: ["https://cdn.imgchest.com/files/4apc5dxzn24.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxve2ar4.png",
-			title: "TBD",
+			title: "Enduring Princess",
 			artist: "Dux",
 			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Ylgr from another time – still standing strong, and as determined as ever to guide her people to a brighter future.",
 			date_str: "Feb 2022",
 			tags: ["sfw", "ylgr"],
 			hidden: false
@@ -1043,12 +1043,12 @@ var data = {
 			// Evo | Mirabilis
 			src: ["https://cdn.imgchest.com/files/4jdcvw8wvm4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnwnxa7.png",
-			title: "TBD",
+			title: "Rude Awakening",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
-			date_str: "TBD",
+			desc: "Don't you worry, now – she'll be back asleep in minutes.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "Jul 2021",
 			tags: ["nsfw", "mirabilis", "gifts_received"],
 			hidden: false
 		},
@@ -1537,9 +1537,9 @@ var data = {
 			title: "TBD",
 			artist: "Jebbee",
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
-			art_url: null,
-			desc: "TBD<br/><br/>Unpaid sketch request.",
-			date_str: "TBD",
+			art_url: "https://x.com/JebbeeSketches/status/1779923272702079265",
+			desc: "A very lucky fan gets the chance to perform alongside Olivia. <br/><br/>Unpaid sketch request.",
+			date_str: "Apr 2024",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
 		},
@@ -1903,7 +1903,7 @@ var data = {
 			artist_url: null,
 			art_url: null,
 			desc: "TBD",
-			date_str: "TBD",
+			date_str: "Oct 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
 		},
@@ -2930,7 +2930,7 @@ var data = {
 			artist_url: "https://x.com/shan0732",
 			art_url: null,
 			desc: "Grima's most faithful servant is hers and hers alone.",
-			date_str: "July 2022",
+			date_str: "Jul 2022",
 			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
