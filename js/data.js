@@ -678,7 +678,7 @@ var data = {
 		{
 			// DeliiChan | Caeda
 			src: ["https://cdn.imgchest.com/files/yvdcw9dk85y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dk85y.png",
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8wood7.png",
 			title: "Friendly Face",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -691,7 +691,7 @@ var data = {
 		{
 			// DeliiChan | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/y2pcka6kpz7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y2pcka6kpz7.png",
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk9ddq7.png",
 			title: "Dusk's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -704,7 +704,7 @@ var data = {
 		{
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw3ek7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgdxwq7.png",
 			title: "Dawn's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -717,7 +717,7 @@ var data = {
 		{
 			// DeliiChan | Eeby
 			src: ["https://cdn.imgchest.com/files/yd5cezlkjq4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5cezlkjq4.png",
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wmkng4.png",
 			title: "Close Eye",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -730,7 +730,7 @@ var data = {
 		{
 			// DeliiChan | Embla
 			src: ["https://cdn.imgchest.com/files/7mmc9w8zvg7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7mmc9w8zvg7.png",
+			thumbnail: "https://cdn.imgchest.com/files/yd5cezrjbl4.png",
 			title: "TBD",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -743,7 +743,7 @@ var data = {
 		{
 			// DeliiChan | Veronica
 			src: ["https://cdn.imgchest.com/files/y8xcnl8x3m4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcnl8x3m4.png",
+			thumbnail: "https://cdn.imgchest.com/files/4apc5d3gbm4.png",
 			title: "TBD",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -756,7 +756,7 @@ var data = {
 		{
 			// DeliiChan | Ylgr
 			src: ["https://cdn.imgchest.com/files/y2pck9rpnb7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y2pck9rpnb7.png",
+			thumbnail: "https://cdn.imgchest.com/files/739cxn696k7.png",
 			title: "TBD",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -1910,7 +1910,7 @@ var data = {
 		{
 			// LouiseArina | Anna
 			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5cezpkgn4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkzgvr4.png",
 			title: "TBD",
 			artist: "LouiseArina",
 			artist_url: "https://vgen.co/Louisearina",
@@ -3236,7 +3236,7 @@ var data = {
 		{
 			// Sugarwurm | Edelgard Cosy
 			src: ["https://cdn.imgchest.com/files/4nec8ok8wx4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2oa23d4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjgrde7.png",
 			title: "Comfy Cosy",
 			artist: "Shelby",
 			artist_url: "https://x.com/sugarwurm",
