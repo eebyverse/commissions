@@ -731,11 +731,11 @@ var data = {
 			// DeliiChan | Embla
 			src: ["https://cdn.imgchest.com/files/7mmc9w8zvg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cezrjbl4.png",
-			title: "TBD",
+			title: "Unwanted Kindness",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
 			art_url: null,
-			desc: "TBD",
+			desc: "Embla has never once understood Askr's fondness for her.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1004,12 +1004,12 @@ var data = {
 			// Estdale | Mirabilis
 			src: ["https://cdn.imgchest.com/files/yxkczjgj8k7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczjonk87.png",
-			title: "TBD",
+			title: "Sleepless Night",
 			artist: "Estdale",
 			artist_url: null,
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "TBD",
+			desc: "All work and no sleep makes Mirabilis a grumpy girl.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2023",
 			tags: ["sfw", "mirabilis", "gifts_received"],
 			hidden: false
 		},
@@ -1746,7 +1746,7 @@ var data = {
 			artist: "Kyra",
 			artist_url: "https://vgen.co/valda_arts",
 			art_url: null,
-			desc: "Rosalin Glass – daughter to a rare friendly hag known affectionately by the locals of neighbouring Greenburrow as Mama Glass, and a fledgling herbalist and healer who knows how to work ancient remedies in ways that rival even the latest and greatest modern medicines. Her constant companion, Mr Froggy, was animated by her mother out of the pages of her favourite childhood storybook – and though his coarse manner and tendency to nag and fret sometimes put them at odds, his care and concern for her has never once been in doubt.<br/><br/>Unpaid r/characterdrawing request.",
+			desc: "Rosalin Glass – daughter to a rare friendly hag known affectionately by the locals of neighbouring Greenburrow as Mama Glass, and a fledgling herbalist and healer who knows how to work ancient remedies in ways that rival even the latest and greatest modern medicines.<br/><br/>Her constant companion, Mr Froggy, was animated by her mother out of the pages of her favourite childhood storybook – and though his coarse manner and tendency to nag and fret sometimes put them at odds, his care and concern for her has never once been in doubt.<br/><br/>Unpaid r/characterdrawing request.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
@@ -1898,11 +1898,11 @@ var data = {
 			// Lightdasher | Eeby
 			src: ["https://cdn.imgchest.com/files/yrgcnko8g84.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcb8npxqy.png",
-			title: "TBD",
+			title: "Beeby",
 			artist: "Lightdasher",
-			artist_url: null,
+			artist_url: "https://bsky.app/profile/lightdasher.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Oh yeah, it's baby time.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "eeby"],
 			hidden: false
@@ -2314,11 +2314,11 @@ var data = {
 			// Mnejing | Roy
 			src: ["https://cdn.imgchest.com/files/46acqawvd67.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxve9a64.png",
-			title: "TBD",
+			title: "Study Break",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1762606346971893968",
-			desc: "TBD.",
+			desc: "Roy enjoys a well-deserved break... with a little help from his girlfriend.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -3432,12 +3432,12 @@ var data = {
 			// Whimsycott | Anna
 			src: ["https://cdn.imgchest.com/files/y8xcnlmxv54.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8waeql4.png",
-			title: "TBD",
+			title: "Happy Hustler",
 			artist: "Whimsycottt",
 			artist_url: "https://bsky.app/profile/whimsycottt.bsky.social",
 			art_url: null,
-			desc: "TBD",
-			date_str: "TBD",
+			desc: "Having travelled to Askr through Anna-family magic, little Princess Anna isn't bound by the contracts of a summoned Hero – letting her do as she pleases, when she pleases.",
+			date_str: "Jul 2024",
 			tags: ["sfw", "anna"],
 			hidden: false
 		},
