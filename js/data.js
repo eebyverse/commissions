@@ -280,7 +280,7 @@ var data = {
 			artist: "crazzeffect",
 			artist_url: "https://www.pixiv.net/en/users/5251875",
 			art_url: null,
-			desc: "If you can't look away, it's already too late.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
+			desc: "If you can't look away, it's already too late.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["nsfw", "annette", "lysithea", "collab"],
 			hidden: false
@@ -579,7 +579,7 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "Annette has always valued Mercedes' friendship and guidance – and so takes steps to ensure that, despite her new mission and cause, nothing will ever change between them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>",
+			desc: "Annette has always valued Mercedes' friendship and guidance – and so takes steps to ensure that, despite her new mission and cause, nothing will ever change between them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2022",
 			tags: ["sfw", "annette", "other", "collab"],
 			hidden: false
