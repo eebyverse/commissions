@@ -3345,7 +3345,7 @@ var data = {
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
-			desc: "Worn out from their journey across the Aed Desert, Nanna and Jeanne take time to recuperate in Dahna...",
+			desc: "Worn out from the defense of Leonster, Nanna and Jeanne take time to recuperate with their allies in neighbouring Dahna...",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "other"],
 			hidden: false
