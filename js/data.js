@@ -399,7 +399,7 @@ var data = {
 			art_url: null,
 			desc: "Veronica and Thrasir spend a quiet moment with Bolt, Veronica's very own—and very soft—courier rabbit from Nifl.",
 			date_str: "Feb 2023",
-			tags: ["sfw", "veronica", "thrasir", "other"],
+			tags: ["sfw", "veronica", "thrasir"],
 			hidden: false
 		},
 		{
