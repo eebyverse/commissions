@@ -1586,12 +1586,12 @@ var data = {
 			// kayksyla | Agnes
 			src: ["https://cdn.imgchest.com/files/yd5cezpk9o4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2p6xg54.png",
-			title: "TBD",
+			title: "Much Obliged",
 			artist: "kayksyla",
 			artist_url: "https://x.com/kayksyla_",
 			art_url: null,
-			desc: "TBD",
-			date_str: "July 2023",
+			desc: "For all its trials and turmoil, Agnès's journey gives her plenty of cause to smile.",
+			date_str: "Jul 2023",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
@@ -3211,12 +3211,12 @@ var data = {
 			// Siren | Ybele and Arc
 			src: ["https://cdn.imgchest.com/files/yd5cezpzep4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2gxgmgy.png",
-			title: "TBD",
+			title: "Love Like Lightning",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
-			date_str: "TBD",
+			desc: "A chance encounter in Solution Nine leads quickly to bigger and better things for Arc and Y'bele...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Oct 2024",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
@@ -3445,12 +3445,12 @@ var data = {
 			// WjdPablo | Eeby
 			src: ["https://cdn.imgchest.com/files/yd5cezpkor4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnwpqe7.png",
-			title: "TBD",
+			title: "Make a Wish",
 			artist: "WjdPablo",
 			artist_url: "https://x.com/wjdpablo",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
-			date_str: "TBD",
+			desc: "The summoner takes her first step towards unimaginable power... or simply a way home.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Dec 2022",
 			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
@@ -3523,11 +3523,11 @@ var data = {
 			// Zedora | Laura
 			src: ["https://cdn.imgchest.com/files/739cxnmp9n7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcae3vjo7.png",
-			title: "TBD",
+			title: "Mild No More",
 			artist: "Zedora",
 			artist_url: "https://x.com/ZedoraArt",
 			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			desc: "Laura's popularity in Askr takes her by surprise – but, with encouragement from her friends, she finds a new kind of confidence through it.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "laura", "collab"],
 			hidden: false
@@ -3536,11 +3536,11 @@ var data = {
 			// Zedora | Sharena
 			src: ["https://cdn.imgchest.com/files/4z9cv8xaom7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgo9zj7.png",
-			title: "TBD",
+			title: "Everybody's Friend",
 			artist: "Zedora",
 			artist_url: "https://x.com/ZedoraArt",
 			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "Sharena is always ready to help a friend in need.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "sharena", "collab"],
 			hidden: false
