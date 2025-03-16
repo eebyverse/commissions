@@ -3228,7 +3228,7 @@ var data = {
 			artist: "Stupjam",
 			artist_url: "https://x.com/stupjam",
 			art_url: "https://x.com/stupjam/status/1603431586854150145",
-			desc: "In one version of Askr, the summoner's power and influence comes to far outstrip her humble beginnings...<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			desc: "In one version of Askr, the summoner's power and influence come to far outstrip her humble beginnings...<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
