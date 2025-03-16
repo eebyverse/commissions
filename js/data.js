@@ -159,7 +159,7 @@ var data = {
 			// Betabetamaru | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
-			title: "A Moment's Repreive",
+			title: "A Moment's Reprieve",
 			artist: "Betabetamaru_77",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
