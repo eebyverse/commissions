@@ -26,6 +26,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// a_o_hi_to | Annette Birthday
+			src: ["https://cdn.imgchest.com/files/7ogcb8xxppy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvmm964.png",
+			title: "Third Try's the Charm",
+			artist: "a_o_hi_to",
+			artist_url: "https://skeb.jp/@a_o_hi_to",
+			art_url: "https://x.com/babykatafan/status/1782083946467008730",
+			desc: "Annette's birthday surprise for her summoner – just a little late, on account of one or three small mishaps in the kitchen...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:cbc7xtshkfwi7rxk64h62vmc'>Mute</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "annette", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Argilla | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7ogcbp5b89y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kw2oly.png",
