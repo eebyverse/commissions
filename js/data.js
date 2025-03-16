@@ -1980,7 +1980,7 @@ var data = {
 			artist: "Lynarc",
 			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
 			art_url: "https://bsky.app/profile/lynarc.bsky.social/post/3ljhx7quygc2n",
-			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn. Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn.<br/><br/>Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "sayri", "collab"],
 			hidden: false
