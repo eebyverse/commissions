@@ -1655,7 +1655,7 @@ var data = {
 			artist: "kisi0024",
 			artist_url: "https://skeb.jp/@kisi0024",
 			art_url: null,
-			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/><strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
