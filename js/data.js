@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "eleanor", "flayn", "ingrid", "kris", "laura", "lianna", "loki", "lucina", "lumera", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "sharena", "tiki", "veyle", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -23,6 +23,19 @@ var data = {
 			desc: "For the lonely summoner, a friend of many faces is a hard friend to refuse... not least of all when those faces are beyond her reach.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["sfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
+		{
+			// a_o_hi_to | Annette Birthday
+			src: ["https://cdn.imgchest.com/files/7ogcb8xxppy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvmm964.png",
+			title: "Third Try's the Charm",
+			artist: "a_o_hi_to",
+			artist_url: "https://skeb.jp/@a_o_hi_to",
+			art_url: "https://x.com/babykatafan/status/1782083946467008730",
+			desc: "Annette's birthday surprise for her summoner – just a little late, on account of one or three small mishaps in the kitchen...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:cbc7xtshkfwi7rxk64h62vmc'>Mute</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "annette", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -48,7 +61,7 @@ var data = {
 			art_url: null,
 			desc: "On Daein's very first Day of Devotion, Queen Micaiah's nearest and dearest prepare to present their gifts...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2024",
-			tags: ["sfw", "laura", "edelgard", "eleanor", "gifts_received"],
+			tags: ["sfw", "laura", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -74,7 +87,20 @@ var data = {
 			art_url: "https://vxtwitter.com/babykatafan/status/1675142090265710593?t=JKYsRn_esEUnsCl1Pnb6rA&s=19",
 			desc: "Rhea, used to isolation, finds unexpected company and comfort in Askr from those who have known her pain.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Jul 2023",
-			tags: ["sfw", "tiki", "rhea", "collab"],
+			tags: ["sfw", "tiki", "rhea", "other", "collab"],
+			hidden: false
+		},
+		{
+			// arikindows10 | Citrinne, Nanna, and Priscilla
+			src: ["https://cdn.imgchest.com/files/yd5cez9z3a4.png", "https://cdn.imgchest.com/files/yq9c35b5a24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvlva4.png",
+			title: "Girls of a Feather",
+			artist: "arikindows10",
+			artist_url: "https://www.pixiv.net/en/users/658220",
+			art_url: "https://www.pixiv.net/en/artworks/105226872",
+			desc: "Citrinne, Nanna and Priscilla discover something in common beyond their taste in accessories.",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -104,6 +130,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Bad Frog | Io
+			src: ["https://cdn.imgchest.com/files/46acqav99r7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvwzm3e4.png",
+			title: "Jewellery Enchantress",
+			artist: "Bad Frog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "Io, admiring her handiwork.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Bad Frog | Micaiah Birthday
 			src: ["https://cdn.imgchest.com/files/yq9c3agaon4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx5w6k97.png",
@@ -120,7 +159,7 @@ var data = {
 			// Betabetamaru | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
-			title: "A Moment's Repreive",
+			title: "A Moment's Reprieve",
 			artist: "Betabetamaru_77",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
@@ -151,8 +190,21 @@ var data = {
 			artist_url: "https://x.com/chikaretsu",
 			art_url: "https://x.com/chikaretsu/status/1602271122841432064",
 			desc: "Two summoners learn, too late, that even lofty power has its limits.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
-			date_str: "May 2022",
+			date_str: "Dec 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "other", "collab"],
+			hidden: false
+		},
+		{
+			// ClariAriKari | Annette
+			src: ["https://cdn.imgchest.com/files/yxkczjna5v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2px3na4.png",
+			title: "Without Restraint",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "More than anything else, Annette appreciates the freedom her new uniform offers her over the stifling restraints of a dress.<br/><br/>Unpaid stream request.",
+			date_str: "Aug 2022",
+			tags: ["sfw", "annette", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -166,6 +218,19 @@ var data = {
 			desc: "Loki's smile sits strangely on Caeda's lips – but her kisses, Eeby finds, taste all too sweet.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
+		{
+			// ClariAriKari | Lyn and Azura
+			src: ["https://cdn.imgchest.com/files/yrgcnk3knj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvev2z4.png",
+			title: "Sing With Me a Song",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "Lyn helps Azura reach the high notes. ",
+			date_str: "Jun 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -195,6 +260,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// ClariAriKari | Corrin and Sharena
+			src: ["https://cdn.imgchest.com/files/7bwckg39po7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck93ped7.png",
+			title: "Draconic Discoveries",
+			artist: "ClariAriKari",
+			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
+			art_url: null,
+			desc: "Sharena finds a new reason to like Corrin's dragon form.",
+			date_str: "Jun 2022",
+			tags: ["extreme", "sharena", "other"],
+			hidden: false
+		},
+		{
 			// CountGalatea | Caeda
 			src: ["https://cdn.imgchest.com/files/4nec8omqbn4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rajz4.png",
@@ -203,8 +281,34 @@ var data = {
 			artist_url: "https://bsky.app/profile/countgalatea.bsky.social",
 			art_url: null,
 			desc: "Even through the chilly winter months, Caeda knows how to stay stylish.",
-			date_str: "Mar 2022",
+			date_str: "Mar 2023",
 			tags: ["sfw", "caeda"],
+			hidden: false
+		},
+		{
+			// crazzeffect | Annette and Lysithea
+			src: ["https://cdn.imgchest.com/files/ye3c2px69n4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcaev3xb7.png",
+			title: "Beachside Distractions",
+			artist: "crazzeffect",
+			artist_url: "https://www.pixiv.net/en/users/5251875",
+			art_url: null,
+			desc: "If you can't look away, it's already too late.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2022",
+			tags: ["nsfw", "annette", "lysithea", "collab"],
+			hidden: false
+		},
+		{
+			// Croby | Eeby
+			src: ["https://cdn.imgchest.com/files/7lxcpg29zo7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8np2vy.png",
+			title: "Next Battle",
+			artist: "Croby",
+			artist_url: "https://x.com/croby8112",
+			art_url: null,
+			desc: "A new challenger approaches...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -217,7 +321,20 @@ var data = {
 			art_url: null,
 			desc: "With Saint Cethleann herself finally in their clutches, the Agarthans waste no time in making use of her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Dec 2024",
-			tags: ["extreme", "flayn", "other", "collab"],
+			tags: ["extreme", "flayn", "edelgard", "other", "collab"],
+			hidden: false
+		},
+		{
+			// DaigoDoggyma | Camilla and Eirika
+			src: ["https://cdn.imgchest.com/files/49zc2gexgmy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkp3p67.png",
+			title: "Joys of Spring",
+			artist: "DaigoDoggyma",
+			artist_url: "https://x.com/daigodoggyma",
+			art_url: null,
+			desc: "For the Spring Festival, even an often-distant summoner can be coaxed out of her shell – and into the company of friends.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica","gifts_received"],
 			hidden: false
 		},
 		{
@@ -243,18 +360,31 @@ var data = {
 			art_url: null,
 			desc: "Impatient for the working day to end, Micaiah steals a midday kiss from her devoted head of staff. No-one will notice a few moments' absence...",
 			date_str: "Apr 2023",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Darkness | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4gdcxvwrew4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlv8pp4.png",
+			title: "Sheltered in Shade",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "For a servant as devoted as Laevatein, Grima can allow a few... indulgences.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
 			// Darkness | Soleil and Lute
 			src: ["https://cdn.imgchest.com/files/45xcvkvb2q7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqxzz5e7.png",
-			title: "TBD",
+			title: "Cutie Lutie",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
+			desc: "A strictly academic study of love leads Lute to accept an offer of assistance from Soleil – only to discover, before long, that even a prodigy isn't immune to love's inescapable allure.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -269,7 +399,20 @@ var data = {
 			art_url: null,
 			desc: "A mother's presence is something Tiki hasn't felt in far too long – and Lumera is more than happy to indulge her.",
 			date_str: "Nov 2023",
-			tags: ["sfw", "tiki", "lumera"],
+			tags: ["sfw", "tiki", "other"],
+			hidden: false
+		},
+		{
+			// Darkness | Thrasir and Veronica
+			src: ["https://cdn.imgchest.com/files/739cxnb9dw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvma24.png",
+			title: "Courier Service",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "Veronica and Thrasir spend a quiet moment with Bolt, Veronica's very own—and very soft—courier rabbit from Nifl.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "veronica", "thrasir"],
 			hidden: false
 		},
 		{
@@ -299,6 +442,71 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Laegjarn and Gunnthra
+			src: ["https://cdn.imgchest.com/files/7kzcaexx8e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8xx8py.png",
+			title: "Fire and Ice",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "Gunnthrá and Laegjarn, united under the stars.<br/><br/>Git for <strong><a href='https://bsky.app/profile/did:plc:ixxazzanwi6xpm32hcxnbmoe'>Oricalle</a></strong>.",
+			date_str: "Jan 2025", 
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Darkness | Vanil and Muspell
+			src: ["https://cdn.imgchest.com/files/y2pck955a37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99ko4.png",
+			title: "Love Forged in Flame",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "Múspell had never conceived of finding love.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/vanil-la.bsky.social'>Vanil</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Darkness | Thrasir
+			src: ["https://cdn.imgchest.com/files/7w6c2mqqmqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlqqlb4.png",
+			title: "Omnicidal Bunny",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "The Spring Festival's newest celebrant seems to be taking things very seriously...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/urbydizzy.bsky.social'>Urby</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Dash | Ylgr
+			src: ["https://cdn.imgchest.com/files/45xcvk3zn57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2p6x5a4.png",
+			title: "Ambassador to Embla",
+			artist: "Dash",
+			artist_url: "https://bsky.app/profile/missdash.bsky.social",
+			art_url: "https://bsky.app/profile/missdash.bsky.social/post/3lcq7uogmgs2l",
+			desc: "As the years pass, Ylgr's heart drifts ever closer to Embla – and to her dearest friend.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// Decox | Eeby and Anna
+			src: ["https://cdn.imgchest.com/files/yxkczjj9e57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2genmgy.png",
+			title: "Wellness Check",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "Anna, concerned for an increasingly distant summoner's welfare, decides to check on her personally – and though treated oddly, and almost with suspicion, Anna soon finds a way back into her heart.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Oct 2023",
+			tags: ["nsfw", "eeby", "anna", "collab"],
+			hidden: false
+		},
+		{
 			// Decox | Eeby and Dragons
 			src: ["https://cdn.imgchest.com/files/yxkczx6x597.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3qozn7.png",
@@ -308,7 +516,124 @@ var data = {
 			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3ldsz2ony3c2n",
 			desc: "At the Order's Winter Festival celebrations, the summoner finds herself in an inescapable situation.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Dec 2024",
-			tags: ["nsfw", "eeby", "tiki", "rhea", "lumera", "gifts_received"],
+			tags: ["nsfw", "eeby", "tiki", "rhea", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Decox | Soleil and Lute
+			src: ["https://cdn.imgchest.com/files/4jdcvw8wvj4.png", "https://cdn.imgchest.com/files/yd5cezpzeg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2m5meky.png",
+			title: "Practical Studies",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "Soleil offers Lute a hands-on demonstration of love's... deeper aspects.",
+			date_str: "Aug 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Agnes
+			src: ["https://cdn.imgchest.com/files/yq9c35mzbp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8dldqy.png",
+			title: "Wind Vestal",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Agnès Oblige of Ancheim, the displaced vestal who would learn, through time and betrayal, to trust in the wind's own course.",
+			date_str: "Mar 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Anna 1
+			src: ["https://cdn.imgchest.com/files/4z9cv8raj97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnwpwj7.png",
+			title: "Charming Merchant",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Anna of Aytolis, both fashionable and worldly.",
+			date_str: "Oct 2022",
+			tags: ["sfw", "anna"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Anna 2
+			src: ["https://cdn.imgchest.com/files/7w6c2m5e6ry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35mznw4.png",
+			title: "Cheery Merchant",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Anna of Elyos, the little merchant who could.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "anna"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Eeby 1
+			src: ["https://cdn.imgchest.com/files/7lxcpgl9zl7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8waemk4.png",
+			title: "Faraway Summoner",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Askr's summoner, stranded so far from home.",
+			date_str: "Aug 2022",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Eeby 2
+			src: ["https://cdn.imgchest.com/files/4jdcvw8gm94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cezpkrn4.png",
+			title: "Festive Summoner",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Askr's summoner, finding comfort in winter traditions.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Mirabilis 1
+			src: ["https://cdn.imgchest.com/files/739cxnw5n27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wjgk57.png",
+			title: "Sleeping Beauty",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Mirabilis of Ljósálfarheimr, who long ago sought solace in dreams.",
+			date_str: "Sep 2022",
+			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Mirabilis 2
+			src: ["https://cdn.imgchest.com/files/7w6c2m5nmjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnw5l67.png",
+			title: "Sugarplum Beauty",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Mirabilis of Ljósálfarheimr, doing her best to participate in the Winter Festival.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Annette and Mercedes
+			src: ["https://cdn.imgchest.com/files/yvdcwbrpjby.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35znrq4.png",
+			title: "A Change of Faith",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Annette has always valued Mercedes' friendship and guidance – and so takes steps to ensure that, despite her new mission and cause, nothing will ever change between them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2022",
+			tags: ["sfw", "annette", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -325,6 +650,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Eeby
+			src: ["https://cdn.imgchest.com/files/yq9c35nzg34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpg29x37.png",
+			title: "Bookworm",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Askr's summoner always keeps her books especially close to hand.",
+			date_str: "May 2022",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Eleanor
 			src: ["https://cdn.imgchest.com/files/739cx59xbb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxrx2k7.png",
@@ -334,7 +672,7 @@ var data = {
 			art_url: null,
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids. ",
 			date_str: "Jun 2023",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "edelgard"],
 			hidden: false
 		},
 		{
@@ -364,9 +702,35 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Europa
+			src: ["https://cdn.imgchest.com/files/4gdcxve28q4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dxzmv4.png",
+			title: "The Pegasus Knight",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Europa of Edessa, ready to take flight.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Anna and Pokemon
+			src: ["https://cdn.imgchest.com/files/4jdcvw8g224.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgw9ze7.png",
+			title: "Ghoul and Gremlin",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://x.com/DeebyFeeby/status/1712122009549729858",
+			desc: "Anna finds herself the perfect business partner.",
+			date_str: "Oct 2023",
+			tags: ["sfw", "anna", "other"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Caeda
 			src: ["https://cdn.imgchest.com/files/yvdcw9dk85y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dk85y.png",
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8wood7.png",
 			title: "Friendly Face",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -379,7 +743,7 @@ var data = {
 		{
 			// DeliiChan | Eirika and Camilla
 			src: ["https://cdn.imgchest.com/files/y2pcka6kpz7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y2pcka6kpz7.png",
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk9ddq7.png",
 			title: "Dusk's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -392,7 +756,7 @@ var data = {
 		{
 			// DeliiChan | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3npja7.PNG"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqmw3ek7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgdxwq7.png",
 			title: "Dawn's Embrace",
 			artist: "DeliiChan",
 			artist_url: "https://x.com/DeliiChan023",
@@ -400,6 +764,71 @@ var data = {
 			desc: "Micaiah's fondness for hugs is quick to rub off on others – even the restrained and reserved Emperor of Adrestia.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Eeby
+			src: ["https://cdn.imgchest.com/files/yd5cezlkjq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wmkng4.png",
+			title: "Close Eye",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "For all her apparent detachment, the summoner's attention rarely leaves her Heroes for long...",
+			date_str: "Jan 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Embla
+			src: ["https://cdn.imgchest.com/files/7mmc9w8zvg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cezrjbl4.png",
+			title: "Unwanted Kindness",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "Embla has never once understood Askr's fondness for her.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Veronica
+			src: ["https://cdn.imgchest.com/files/y8xcnl8x3m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5d3gbm4.png",
+			title: "Precious Penpal",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "Even when far away from Ylgr, Veronica rarely feels apart from her.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "veronica", "ylgr"],
+			hidden: false
+		},
+		{
+			// DeliiChan | Ylgr
+			src: ["https://cdn.imgchest.com/files/y2pck9rpnb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxn696k7.png",
+			title: "New Best Friend",
+			artist: "DeliiChan",
+			artist_url: "https://x.com/DeliiChan023",
+			art_url: null,
+			desc: "Ylgr introduces Bolt – formerly one of Nifl's most industrious courier rabbits, now in Embla's service.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// Dotty | Eeby
+			src: ["https://cdn.imgchest.com/files/yrgcnk38v94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8rag87.png",
+			title: "With You Near",
+			artist: "Dotty",
+			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
+			art_url: "https://x.com/dotted__clouds/status/1564290507399827457",
+			desc: "Even a summoner, from time to time, can indulge in daydreams.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Aug 2022",
+			tags: ["sfw", "eeby", "mirabilis", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -429,6 +858,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dotty | Eir and Fjorm
+			src: ["https://cdn.imgchest.com/files/7pjcqxra9b7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35mzwq4.png",
+			title: "Brush With Death",
+			artist: "Dotty",
+			artist_url: "https://bsky.app/profile/dottedclouds.bsky.social",
+			art_url: "https://x.com/dotted__clouds/status/1649117500892905472 ",
+			desc: "For Fjorm, death is a familiar friend.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Dotty | Lianna and Eir
 			src: ["https://cdn.imgchest.com/files/yrgcn5lv3q4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gkmr97.png",
@@ -445,13 +887,26 @@ var data = {
 			// DreamSnydd | Lissa and Tharja
 			src: ["https://cdn.imgchest.com/files/yq9c353jv54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpgpoee7.png",
-			title: "TBD",
+			title: "Sugar and Spice",
 			artist: "DreamSnydd",
 			artist_url: "https://bsky.app/profile/dreamsynddart.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "For all the bitter history between Ylisse and Plegia, Lissa's cheer and charisma—coupled with some persistence—reaches even Tharja's distant and guarded heart.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Anna and Henriette
+			src: ["https://cdn.imgchest.com/files/yrgcnkbw9a4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvwlob4.png",
+			title: "Royal Escort",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "Queen and commander, linking arms at Askr's soirée. Though many assume their relationship is strictly professional, a select few—the prince and princess, most of all—know better.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "anna", "other"],
 			hidden: false
 		},
 		{
@@ -507,6 +962,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dux_Draws | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/45xcvkmngr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae8gbg7.png",
+			title: "Pastry Picnickers",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "Gaius and Lysithea are all ready for a sugary-sweet picnic out in the country... even though Lysithea, in her enthusiasm, might just have overpacked.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "lysithea", "other"],
+			hidden: false
+		},
+		{
+			// Dux_Draws | Patty
+			src: ["https://cdn.imgchest.com/files/7ogcb8pjqgy.png", "https://cdn.imgchest.com/files/7kzcae8gov7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2mnpoay.png",
+			title: "Folk Hero",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "Patty of Yngvi, all set for the Thieves' Festival – embodying the hero-thieves of tales told to, and by, children across countless worlds.",
+			date_str: "Aug 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Dux_Draws | Say'ri and Flayn
 			src: ["https://cdn.imgchest.com/files/4gdcx9k3wq4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvjlka7.png",
@@ -533,6 +1014,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Dux_Draws | Ylgr
+			src: ["https://cdn.imgchest.com/files/4apc5dxzn24.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxve2ar4.png",
+			title: "Enduring Princess",
+			artist: "Dux",
+			artist_url: "https://bsky.app/profile/dux-draws.bsky.social",
+			art_url: null,
+			desc: "Ylgr from another time – still standing strong, and as determined as ever to guide her people to a brighter future.",
+			date_str: "Feb 2022",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
 			// Ebinku | Eirimilla
 			src: ["https://cdn.imgchest.com/files/7w6c2nr2nay.png", "https://cdn.imgchest.com/files/4z9cv3dv3g7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dnggy.png",
@@ -549,13 +1043,39 @@ var data = {
 			// Ebinku | Thrasir
 			src: ["https://cdn.imgchest.com/files/y8xcnlnz2q4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck9k8nr7.png",
-			title: "TBD",
+			title: "Death's Attendant",
 			artist: "Ebinku",
 			artist_url: "https://x.com/ebinkuu",
 			art_url: "https://www.pixiv.net/en/artworks/104277602",
-			desc: "TBD",
+			desc: "Thrasir, dressed as a handmaid of Hel.",
 			date_str: "Dec 2022",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "thrasir"],
+			hidden: false
+		},
+		{
+			// Estdale | Mirabilis
+			src: ["https://cdn.imgchest.com/files/yxkczjgj8k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjonk87.png",
+			title: "Sleepless Night",
+			artist: "Estdale",
+			artist_url: null,
+			art_url: null,
+			desc: "All work and no sleep makes Mirabilis a grumpy girl.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2023",
+			tags: ["sfw", "mirabilis", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Evo | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/45xcvkpw3n7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckg3ob57.png",
+			title: "Hearts of Our Own",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Grima and Laevatein, both born and raised to be unthinking tools of destruction, discover a greater purpose in each other's company.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -572,6 +1092,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Mirabilis
+			src: ["https://cdn.imgchest.com/files/4jdcvw8wvm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnwnxa7.png",
+			title: "Rude Awakening",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Don't you worry, now – she'll be back asleep in minutes.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "Jul 2021",
+			tags: ["nsfw", "mirabilis", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Evo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
@@ -582,6 +1115,58 @@ var data = {
 			desc: "Mere days after their first meeting, mutual admiration between Edelgard and Micaiah boils over into passion and desire.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Sep 2021",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 1
+			src: ["https://cdn.imgchest.com/files/7bwckg33g27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvvm84.png",
+			title: "Masquerade",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1621252611889569792",
+			desc: "At Askr's soirée, the summoner wears many masks.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 2
+			src: ["https://cdn.imgchest.com/files/7ogcb8rr86y.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8rrd9y.png",
+			title: "Summer Summoner",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1627420739686252546",
+			desc: "Attendees of the Hoshidan Summer Festival noted how, at every turn, the summoner seemed to be accompanied by a different Hero – a sure sign, they so innocently believed, of her widespread popularity.",
+			date_str: "Feb 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 3
+			src: ["https://cdn.imgchest.com/files/7lxcpgjjgv7.jpg", "https://cdn.imgchest.com/files/y2pck9339j7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqa88eg7.png",
+			title: "Having a Hoot",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1632328311614603264",
+			desc: "The summoner quickly discovers that the service industry just isn't for her.",
+			date_str: "Mar 2023",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// Fraudulent Taco | Eeby 4
+			src: ["https://cdn.imgchest.com/files/7pjcqxbbxd7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck933l87.png",
+			title: "Eepy Sleepy",
+			artist: "Fraudulent Taco",
+			artist_url: "https://x.com/FraudulentTaco",
+			art_url: "https://x.com/FraudulentTaco/status/1654014027964760065",
+			desc: "Sleep comes only so rarely for a summoner – so she doesn't appreciate it being disturbed.",
+			date_str: "May 2023",
+			tags: ["sfw", "eeby", "mirabilis"],
 			hidden: false
 		},
 		{
@@ -598,6 +1183,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Annas and Henriette
+			src: ["https://cdn.imgchest.com/files/739cxnbok27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bp9x4.png",
+			title: "Family Resemblance",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "In a portrait marking the newest addition to the royal family, Henriette does her best to keep up with tradition.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "anna", "other"],
+			hidden: false
+		},
+		{
 			// Fubbz | Edelcaiah and Lifthrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png", "https://cdn.imgchest.com/files/ye3c2owdz94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3agkg34.png",
@@ -607,20 +1205,58 @@ var data = {
 			art_url: null,
 			desc: "On a lazy morning, two fellow cat owners pass the time with their companions.",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "other"],
+			tags: ["sfw", "micaiah", "edelgard", "thrasir", "other"],
+			hidden: false
+		},
+		{
+			// Fubbz | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/yvdcwb98emy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgj82g7.png",
+			title: "Bad Habits",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "Even at the best of times, Gaius and Lysithea just can't help themselves.",
+			date_str: "Aug 2023",
+			tags: ["sfw", "lysithea", "other"],
 			hidden: false
 		},
 		{
 			// Fubbz | Soleil and Niime
 			src: ["https://cdn.imgchest.com/files/7mmc9w9bnm7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvxad64.png",
-			title: "TBD",
+			title: "Cuties and Beauties",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "When it comes to cute girls, Soleil isn’t one to make exceptions.",
 			date_str: "Oct 2023",
 			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Fubbz | Veronica
+			src: ["https://cdn.imgchest.com/files/yd5cez9jdx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzv23y.png",
+			title: "Among Friends",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "Sometimes, Veronica can hardly believe all the friends she's made... and from the looks of it, neither can Bolt.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "veronica", "ylgr", "thrasir", "sharena"],
+			hidden: false
+		},
+		{	// Fusenryo | Annas and Sharena
+			src: ["https://cdn.imgchest.com/files/yq9c35bpve4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez9xgm4.png",
+			title: "As Family",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Princess Anna celebrates her very first Winter Festival with her new mother and sister.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "anna", "sharena", "gifts_given"],
 			hidden: false
 		},
 		{	// Fusenryo | Catriagrid
@@ -632,7 +1268,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2024",
-			tags: ["sfw", "catria", "ingrid", "gifts_given"],
+			tags: ["sfw", "catria", "other", "gifts_given"],
 			hidden: false
 		},
 		{	// Fusenryo | Edelgard and Flayn
@@ -670,7 +1306,7 @@ var data = {
 			art_url: null,
 			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
 			date_str: "Nov 2024",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
 		{
@@ -739,6 +1375,45 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Petrine and Leanne
+			src: ["https://cdn.imgchest.com/files/y2pck9anxa7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2polbz4.png",
+			title: "To Leave it All Behind",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "With the weight of Leanne's wing wrapped so tightly around her, Petrine wonders who's really comforting who.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Lyon and Xander
+			src: ["https://cdn.imgchest.com/files/7pjcqxkkba7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99bo4.png",
+			title: "Powerless",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "In Nohr’s crown prince, Lyon finds just the sort of strength and purpose he’s always admired.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eupha and Will
+			src: ["https://cdn.imgchest.com/files/4gdcxvmmv64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqagga67.png",
+			title: "Peace at Last",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "King Will and Queen Eupha of Euchronia, finding a moment's respite from royal obligations.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/bravelyagnes.bsky.social'>Agnes</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3naed7.png",
@@ -791,6 +1466,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Harunn | Lysithea
+			src: ["https://cdn.imgchest.com/files/4apc5dlnl34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpg3zk87.png",
+			title: "Twin-Crest Cruelty",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: null,
+			desc: "In one timeline, Agartha's experiments on the heir to House Ordelia served to twist her into the perfect servant – a force of destruction that, having already lost everything, took a sadistic glee in sharing and spreading her pain across Fódlan and beyond.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "lysithea", "collab"],
+			hidden: false
+		},
+		{
 			// Homugabs | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/739cx5mrnp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3ld394.png",
@@ -814,6 +1502,19 @@ var data = {
 			desc: "A life in hiding affords Flayn so few opportunities to try and look her best – but she's more than happy to lend centuries of experience to a friend.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
+			// JadeSnap | Annas
+			src: ["https://cdn.imgchest.com/files/7w6c2m6gqjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbolr7.png",
+			title: "Two Generations",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: null,
+			desc: "Commander Anna with her adoptive daughter, Princess Anna – both ready and raring for battle.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "anna"],
 			hidden: false
 		},
 		{
@@ -843,6 +1544,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// JadeSnap | L'Arachel and Ophelia
+			src: ["https://cdn.imgchest.com/files/yvdcwb988my.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck9ane57.png",
+			title: "Maidens of Light and Dark",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: "https://x.com/JadesnapArt/status/1581676346576719872",
+			desc: "Through brightest day and darkest night, the dynamic duo of L'Arachel and Ophelia stand ever ready to face the forces of evil.",
+			date_str: "May 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Jebbee | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/yd5ce36k934.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv35ajr7.png",
@@ -851,7 +1565,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
 			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lgrqwmbk5c2t",
 			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
-			date_str: "Aug 2023",
+			date_str: "Jan 2025",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
 		},
@@ -895,6 +1609,45 @@ var data = {
 			hidden: false
 		},
 		{
+			// Jebbee | Olivia and Mozu
+			src: ["https://cdn.imgchest.com/files/ye3c2p3xaj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8xakw7.png",
+			title: "Jam Session",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://x.com/JebbeeSketches/status/1779923272702079265",
+			desc: "A very lucky fan gets the chance to perform alongside Olivia.<br/><br/>Unpaid sketch request.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Jwolf | Anna and Annette
+			src: ["https://cdn.imgchest.com/files/46acqaowjv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2meo8ey.png",
+			title: "Customer Satisfaction",
+			artist: "JWolf",
+			artist_url: "https://x.com/JosephwolfNSFW",
+			art_url: "https://x.com/ImpulseXeno/status/1537281329737662464",
+			desc: "Even a world of perfect order, Annette supposes, can still have room for silver-tongued merchants...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "anna", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// Jwolf | Eeby and Merrin
+			src: ["https://cdn.imgchest.com/files/49zc2gg8jjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbzea7.png",
+			title: "United Purpose",
+			artist: "JWolf",
+			artist_url: "https://x.com/JosephwolfNSFW",
+			art_url: null,
+			desc: "As her Heroes serve her, so too does a summoner serve her Heroes in turn.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["nsfw", "eeby", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Kalycoris | Camilla
 			src: ["https://cdn.imgchest.com/files/739cx5gaqp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8km3m7.png",
@@ -904,7 +1657,20 @@ var data = {
 			art_url: null,
 			desc: "Far from unsettling their relationship, the discovery of the Whitewings' true identities only brings Ingrid and Catria closer together in shared confidence and secrecy – even as Ingrid grapples with her duties to the law, and as Catria delights in teasing the 'good officer' on the job.",
 			date_str: "Dec 2021",
-			tags: ["sfw", "catria", "ingrid"],
+			tags: ["sfw", "catria", "other"],
+			hidden: false
+		},
+		{
+			// kayksyla | Agnes
+			src: ["https://cdn.imgchest.com/files/yd5cezpk9o4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2p6xg54.png",
+			title: "Much Obliged",
+			artist: "kayksyla",
+			artist_url: "https://x.com/kayksyla_",
+			art_url: null,
+			desc: "For all its trials and turmoil, Agnès's journey gives her plenty of cause to smile.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -930,7 +1696,20 @@ var data = {
 			art_url: null,
 			desc: "Queen Micaiah, fifteenth ruler of Daein, alongside her trusted head of staff. But, as so many nobles have wondered, both privately and openly... just who is this mysterious young woman, to command such authority and receive such unconditional trust from the Queen?",
 			date_str: "Aug 2023",
-			tags: ["sfw", "micaiah", "edelgard", "eleanor"],
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Kinkymation | Agnes and Edea
+			src: ["https://cdn.imgchest.com/files/7ogcb8r8pdy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35b5524.png",
+			title: "Reverence",
+			artist: "Kinkymation",
+			artist_url: "https://x.com/kinkymation",
+			art_url: "https://x.com/kinkymation/status/1550918604425666563",
+			desc: "For Agnès, Edea will believe in anything.",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -954,9 +1733,9 @@ var data = {
 			artist: "kisi0024",
 			artist_url: "https://skeb.jp/@kisi0024",
 			art_url: null,
-			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/><strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
-			tags: ["sfw", "ingrid", "gifts_given"],
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -999,6 +1778,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kiwi | Kronya and Reginn
+			src: ["https://cdn.imgchest.com/files/7lxcpglgp67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wjwzd7.png",
+			title: "A Taste of Home",
+			artist: "Kiwi",
+			artist_url: "https://bsky.app/profile/artistkiwi.bsky.social",
+			art_url: "https://x.com/Artist_Kiwi/status/1722494867044213079",
+			desc: "A shared affinity for machines sparks something altogether more unexpected between Reginn and Kronya.",
+			date_str: "Nov 2023",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Kiwi | Sharena/Laura
 			src: ["https://cdn.imgchest.com/files/46acqvrmpe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcngzdrk4.png",
@@ -1015,13 +1807,52 @@ var data = {
 			// KTG | Lute
 			src: ["https://cdn.imgchest.com/files/yrgcnknqjw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkneqr4.png",
-			title: "TBD",
+			title: "Sheikah Superiority",
 			artist: "KTG",
 			artist_url: "https://bsky.app/profile/ktgromwell.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lute, mage prodigy, dressed up as a genius from another place and time.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Kyra | Rosalin
+			src: ["https://cdn.imgchest.com/files/7pjcqxm98q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv83mo97.png",
+			title: "The Witch Doctor",
+			artist: "Kyra",
+			artist_url: "https://vgen.co/valda_arts",
+			art_url: null,
+			desc: "Rosalin Glass – daughter to a rare friendly hag known affectionately by the locals of neighbouring Greenburrow as Mama Glass, and a fledgling herbalist and healer who knows how to work ancient remedies in ways that rival even the latest and greatest modern medicines.<br/><br/>Her constant companion, Mr Froggy, was animated by her mother out of the pages of her favourite childhood storybook – and though his coarse manner and tendency to nag and fret sometimes put them at odds, his care and concern for her has never once been in doubt.<br/><br/>Unpaid r/characterdrawing request.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Laurencin | Annette
+			src: ["https://cdn.imgchest.com/files/4z9cv8ar6l7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqav5rv7.png",
+			title: "New World Order",
+			artist: "Laurencin",
+			artist_url: "https://bsky.app/profile/laurencin.bsky.social",
+			art_url: "https://x.com/Iaurencin/status/1701259302722253242",
+			desc: "Annette's return to Garreg Mach, five years after Adrestia declares war on the is accompanied by a marked shift in her confidence and demeanour... along with a determination, at every step, to 'restore order' to Fódlan.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Anna and Henriette
+			src: ["https://cdn.imgchest.com/files/7mmc9wqln67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw2reb4.png",
+			title: "The Queen's Commander",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "In the painful months following her husband's death, Queen Henriette finds new strength and purpose in her closest confidant of ten years.",
+			date_str: "Apr 2022",
+			tags: ["sfw", "anna", "other"],
 			hidden: false
 		},
 		{
@@ -1059,8 +1890,21 @@ var data = {
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
 			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, in more casual attire. Though many of Daein Keep's servants dream of trying their luck with her, all agree—begrudgingly—that her heart already belongs to their queen.",
-			date_str: "Jun 2023",
-			tags: ["sfw", "edelgard", "eleanor"],
+			date_str: "Jan 2024",
+			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// LazzleDazzler | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4apc5dqoxg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dqo3v4.png",
+			title: "Choice",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "Fond of Laevatein as she is, Grima often encourages her to think, choose, and feel for herself – determined to help her see that, even as a devoted servant, she's more than the emotionless weapon she was raised to be.",
+			date_str: "Mar 2022",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -1077,6 +1921,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Tharja and Robin
+			src: ["https://cdn.imgchest.com/files/7bwckg223a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw662m4.png",
+			title: "Pleasant Surprise",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "Robin still knows just how to surprise her wife.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/ultzerostar.bsky.social'>UltZeroStar</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
@@ -1090,6 +1947,71 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Ylgr and Veronica
+			src: ["https://cdn.imgchest.com/files/y8xcnlmx9r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dxz8v4.png",
+			title: "Chatterbox",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "Veronica enjoys her time with Ylgr... even as she sometimes struggles to keep up.",
+			date_str: "Jan 2022",
+			tags: ["sfw", "veronica", "ylgr"],
+			hidden: false
+		},
+		{
+			// LiaLiar | Annette Portrait
+			src: ["https://cdn.imgchest.com/files/4gdcxv2ek34.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35znlw4.png",
+			title: "Agent of Agartha",
+			artist: "LiaLiar",
+			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
+			art_url: "https://x.com/LiaLiar1/status/1526608018309361664",
+			desc: "Annette's pursuit of dark magic while back home in Faerghus is born of good intentions; of helping her protect friends and family, and of knowing her new enemies. Such good intentions, however, lead her to stumble blindly into Cornelia's clutches, lured by the promise of an experienced tutor... who soon sets to work assigning her a new role and directive.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2022",
+			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// LiaLiar | Annette
+			src: ["https://cdn.imgchest.com/files/y8xcnlxmbn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxv2rqw4.png",
+			title: "Lady Dominic",
+			artist: "LiaLiar",
+			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
+			art_url: "https://x.com/LiaLiar1/status/1615805408907563024",
+			desc: "In subverting Annette, Cornelia's greatest mistake was a failure to instil her with loyalty to any cause save her mission – for Annette's new confidence quickly blooms into ambition, and a resolve to bring <em>all</em> disorderly elements under her heel, Agartha included.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jan 2023",
+			tags: ["sfw", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// Lightdasher | Eeby
+			src: ["https://cdn.imgchest.com/files/yrgcnko8g84.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8npxqy.png",
+			title: "Beeby",
+			artist: "Lightdasher",
+			artist_url: "https://bsky.app/profile/lightdasher.bsky.social",
+			art_url: null,
+			desc: "Oh yeah, it's baby time.",
+			date_str: "Oct 2022",
+			tags: ["sfw", "eeby"],
+			hidden: false
+		},
+		{
+			// LouiseArina | Anna
+			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkzgvr4.png",
+			title: "Golden Goose",
+			artist: "LouiseArina",
+			artist_url: "https://vgen.co/Louisearina",
+			art_url: null,
+			desc: "For little Anna, only the goldest eggs will do.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "anna"],
+			hidden: false
+		},
+		{
 			// LouiseArina | Caeda + Loki
 			src: ["https://cdn.imgchest.com/files/7bwckjdp3p7.png", "https://cdn.imgchest.com/files/45xcvm92n87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx56j987.png",
@@ -1100,6 +2022,32 @@ var data = {
 			desc: "A letter, offered on the Day of Devotion – but who is it really from...?<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2023",
 			tags: ["sfw", "caeda", "loki", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Loutani | Lif and Thrasir
+			src: ["https://cdn.imgchest.com/files/45xcvkp6bz7.png", "https://cdn.imgchest.com/files/46acqa8nra7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae9dqb7.png",
+			title: "In a Bind",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613665825533091840",
+			desc: "Thrasir makes the most of an exciting opportunity.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "thrasir", "other"],
+			hidden: false
+		},
+		{
+			// Loutani | Lysithea and Gaius
+			src: ["https://cdn.imgchest.com/files/4apc5dq6el4.png", "https://cdn.imgchest.com/files/45xcvkp6rz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9wqo6p7.png",
+			title: "Sugarplum Fairy",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613665337375084552",
+			desc: "A charming dökkálfr offers Gaius a wonderful dream...",
+			date_str: "Nov 2022",
+			tags: ["nsfw", "lysithea", "other"],
 			hidden: false
 		},
 		{
@@ -1123,7 +2071,7 @@ var data = {
 			artist: "Lynarc",
 			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
 			art_url: "https://bsky.app/profile/lynarc.bsky.social/post/3ljhx7quygc2n",
-			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn. Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Say'ri of distant Chon'sin, invited to Fódlan at the Archbishop's invitation and enrolled on condition of serving as bodyguard to the her second-in-command's sister, Flayn.<br/><br/>Her silver uniform distinguishes her as a personal guest of the Archbishop, but she comes to be keenly aware of its unofficial significance – marking outsiders who only have a place in Garreg Mach through the Church's benevolence.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "sayri", "collab"],
 			hidden: false
@@ -1164,7 +2112,7 @@ var data = {
 			art_url: "https://x.com/picnicic/status/1518183995695005696",
 			desc: "Lucina and Caeda, bridging two-thousand years of Archanean history through the miracle of Askr.",
 			date_str: "Apr 2022",
-			tags: ["sfw", "caeda", "lucina"],
+			tags: ["sfw", "caeda", "other"],
 			hidden: false
 		},
 		{
@@ -1194,14 +2142,66 @@ var data = {
 			hidden: false
 		},
 		{
+			// Magnifire | Eeby 1
+			src: ["https://cdn.imgchest.com/files/4apc5dd2rw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkeeo4.png",
+			title: "Fun Between Friends",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "A summoners' conference comes to a mutually beneficial conclusion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong> and <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Magnifire | Eeby 1
+			src: ["https://cdn.imgchest.com/files/46acqaamrp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvaab4.png",
+			title: "On a Tight Leash",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "Even a summoner can't always be in control...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Magnifire | Shamir and Kiria
+			src: ["https://cdn.imgchest.com/files/y2pck9326a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bd6p4.png",
+			title: "Star of the Show",
+			artist: "Magnifire",
+			artist_url: "http://x.com/mf021405",
+			art_url: null,
+			desc: "As both Kiria's bodyguard and wife, Shamir always puts her one and only idol first.",
+			date_str: "Dec 2022",
+			tags: ["nsfw", "shamir", "other"],
+			hidden: false
+		},
+		{
+			// maru run | Alear and Ivy
+			src: ["https://cdn.imgchest.com/files/yq9c35vvbv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk88na7.png",
+			title: "Divinity, Devotee",
+			artist: "maru run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: null,
+			desc: "After an all-too busy summer's day, the Divine One and her beloved spend a quiet moment together by the sea.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/sapphicsammi.bsky.social'>Sammi</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Mason | Aizawa and Aurash
 			src: ["https://cdn.imgchest.com/files/7lxcpgpvx97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaq62a7.png",
-			title: "TBD",
+			title: "The Big Guns",
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "Aurash and Aizawa, both proudly showing off.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1217,6 +2217,32 @@ var data = {
 			desc: "Despite the demands of her new position, Micaiah's playful spirit endures.",
 			date_str: "Oct 2022",
 			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// Meqqey | Mira
+			src: ["https://cdn.imgchest.com/files/yvdcwbp9qqy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wawz84.png",
+			title: "Flower Fairy",
+			artist: "Meqqey",
+			artist_url: "https://ko-fi.com/meqqey",
+			art_url: "https://x.com/Meqqey/status/1532906268259753984",
+			desc: "Mirabilis, caught in a rare moment awake.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "mirabilis"],
+			hidden: false
+		},
+		{
+			// Meqqey | Veronica
+			src: ["https://cdn.imgchest.com/files/4gdcxvr2554.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35nzn34.png",
+			title: "Princess Rising",
+			artist: "Meqqey",
+			artist_url: "https://ko-fi.com/meqqey",
+			art_url: "https://x.com/Meqqey/status/1685100080620015616",
+			desc: "With Embla's strings severed at last, Veronica looks to the future with an unfamiliar kind of hope.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "veronica"],
 			hidden: false
 		},
 		{
@@ -1242,7 +2268,20 @@ var data = {
 			art_url: null,
 			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2022",
-			tags: ["nsfw", "catria", "ingrid", "collab"],
+			tags: ["nsfw", "catria", "other", "collab"],
+			hidden: false
+		},
+		{
+			// minorudonguri | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/46acqa8eww7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wbvm94.png",
+			title: "Your Colour",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "Before Laevatein, Grima never considered the appeal of flowers.",
+			date_str: "Sep 2024",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -1253,9 +2292,22 @@ var data = {
 			artist: "minorudonguri",
 			artist_url: "https://skeb.jp/@minorudonguri",
 			art_url: null,
-			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons precedes her...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons is more than well known...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
-			tags: ["sfw", "tiki", "rhea", "lumera", "other", "collab"],
+			tags: ["sfw", "tiki", "rhea", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Mnaflzero | Naoto
+			src: ["https://cdn.imgchest.com/files/4nec8wllb84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck955337.png",
+			title: "Princely",
+			artist: "Mnaflzero",
+			artist_url: "https://x.com/mnaflzero",
+			art_url: null,
+			desc: "Both detective princes and wolf knights carry an undeniable charm...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1269,6 +2321,32 @@ var data = {
 			desc: "Camilla has a world of patience for those she's fond of – which is just as well, given how long she's been waiting.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "camilla"],
+			hidden: false
+		},
+		{
+			// Mnejing | Celine
+			src: ["https://cdn.imgchest.com/files/4apc5dlnnj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8pjwvy.png",
+			title: "Keep Calm and Carry On",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1828232442739839101",
+			desc: "What else can one do, in her position?",
+			date_str: "Aug 2024",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Mnejing | Eeby
+			src: ["https://cdn.imgchest.com/files/yq9c35mz864.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqxrav27.png",
+			title: "New Perspective",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1853589597369856234",
+			desc: "Askr's summoner makes a much-needed change.",
+			date_str: "Nov 2024",
+			tags: ["sfw", "eeby"],
 			hidden: false
 		},
 		{
@@ -1294,7 +2372,20 @@ var data = {
 			art_url: "https://x.com/Mnejing30/status/1729627605068878228",
 			desc: "A crown doesn't need to be worn for its weight to remain.",
 			date_str: "Nov 2023",
-			tags: ["sfw", "edelgard", "eleanor"],
+			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// Mnejing | Henriette
+			src: ["https://cdn.imgchest.com/files/y2pck9lpnz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlmxbw4.png",
+			title: "Mom Power",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1839090543944675762",
+			desc: "After Alfonse's birth, Henriette traded her forbidden power for something safer... yet no less formidable.",
+			date_str: "Sep 2024",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -1305,7 +2396,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1774217017480056958",
-			desc: "There's no deeper meaning here.",
+			desc: "Everyone in the Dawn Brigade loves Laura's chicken.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "laura"],
 			hidden: false
@@ -1321,6 +2412,32 @@ var data = {
 			desc: "For reasons beyond her, Micaiah often finds Heroes from Fódlan mistaking her voice for Professor Manuela's...",
 			date_str: "Jun 2024",
 			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// Mnejing | Reginn
+			src: ["https://cdn.imgchest.com/files/7lxcpg3zwg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgj8dg7.png",
+			title: "We Can Do It",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1887985083090616457",
+			desc: "There's no problem an engineer can't solve by rolling up her sleeves and getting to work.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Mnejing | Roy
+			src: ["https://cdn.imgchest.com/files/46acqawvd67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxve9a64.png",
+			title: "Study Break",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1762606346971893968",
+			desc: "Roy enjoys a well-deserved break... with a little help from his girlfriend.",
+			date_str: "Feb 2024",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -1350,6 +2467,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Yunaka
+			src: ["https://cdn.imgchest.com/files/7bwckgwjna7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw8wxm4.png",
+			title: "Kitchen Nightmare",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1867348010700878023",
+			desc: "Unfortunately for her allies, Yunaka's many talents don't extend to preparing meals.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Moja | Anna
+			src: ["https://cdn.imgchest.com/files/739cxnbodp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqxb95a7.png",
+			title: "Little Princess",
+			artist: "Moja",
+			artist_url: "https://x.com/moquackja",
+			art_url: "https://x.com/moquackja/status/1646195999524765704",
+			desc: "Princess Anna of Askr, and formerly Lady Anna of the Divine Dragon's army in Elyos – adopted into the royal family after arriving unsummoned, in a bid by the Queen to keep her from feeling lonely. Her new outfit was once Sharena's, while her bolt axe—chosen to suit her innate magical ability—once belonged to Henriette herself.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "anna", "collab"],
+			hidden: false
+		},
+		{
 			// Motoiwork | V'rhaka
 			src: ["https://cdn.imgchest.com/files/7pjcqmvn8b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nj9lwy.png",
@@ -1360,6 +2503,19 @@ var data = {
 			desc: "V'rhaka, Black Mage Extraordinaire, shrouded in a sinister outfit from another place and time...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Moursho | Tana
+			src: ["https://cdn.imgchest.com/files/7lxcpgjlxa7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwbzowwy.png",
+			title: "Finders Keepers",
+			artist: "Moursho",
+			artist_url: "https://x.com/Moursho",
+			art_url: null,
+			desc: "Tana, dressed in the clothes of someone who'll have no more need for them until dawn.",
+			date_str: "Dec 2021",
+			tags: ["nsfw", "other", "shamir"],
 			hidden: false
 		},
 		{
@@ -1376,6 +2532,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Muff | Catherinel
+			src: ["https://cdn.imgchest.com/files/yrgcnk3kno4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpglge67.png",
+			title: "Dragonslayer",
+			artist: "Muff17",
+			artist_url: "https://x.com/muff171",
+			art_url: null,
+			desc: "For a mere human, Nel can only admire how easily Catherine takes control...",
+			date_str: "Sep 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Nessu | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqv32og7.png",
@@ -1386,6 +2555,19 @@ var data = {
 			desc: "A shapeshifter can have anyone wear anything, even in defiance of all logic and reason: a fact which Loki, in snaring her summoner and dragging her ever deeper into dependency, relishes making the most of.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2022",
 			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
+			hidden: false
+		},
+		{
+			// NaijMizuho | Annette 
+			src: ["https://cdn.imgchest.com/files/45xcvkz3l67.webp"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkmgmp7.png",
+			title: "Sinister Smile",
+			artist: "NaijMizuho",
+			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
+			art_url: null,
+			desc: "Even those who notice the change in Annette, after five long years away from Garreg Mach, can't possibly imagine just how deep it runs...",
+			date_str: "May 2022",
+			tags: ["sfw", "annette"],
 			hidden: false
 		},
 		{
@@ -1415,13 +2597,52 @@ var data = {
 			hidden: false
 		},
 		{
+			// PervySeby | Tana and Shamir 1
+			src: ["https://cdn.imgchest.com/files/7w6c2m65qgy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez9p8k4.png",
+			title: "Punishment",
+			artist: "PervySeby",
+			artist_url: "https://x.com/PervySeby",
+			art_url: "https://x.com/PervySeby/status/1547503315193315328",
+			desc: "Tana, like most nobles, secretly delights in being reduced to nothing, stripped of all titles and responsibilities – and Shamir, no stranger to loving roughly, is happy to oblige.",
+			date_str: "Jun 2022",
+			tags: ["nsfw", "shamir", "other"],
+			hidden: false
+		},
+		{
+			// PervySeby | Tana and Shamir 2
+			src: ["https://cdn.imgchest.com/files/yrgcnkb3954.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bmq64.png",
+			title: "Payback",
+			artist: "PervySeby",
+			artist_url: "https://x.com/PervySeby",
+			art_url: null,
+			desc: "On the rare nights she takes control, Tana shows Shamir a very special kind of appreciation.",
+			date_str: "Jul 2022",
+			tags: ["nsfw", "shamir", "other"],
+			hidden: false
+		},
+		{
+			// r51633060 | Agnes
+			src: ["https://cdn.imgchest.com/files/739cxnwpbm7.png", "https://cdn.imgchest.com/files/yrgcnk38bg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpgl9rr7.png",
+			title: "Fashionaaabluh",
+			artist: "r51633060",
+			artist_url: "https://x.com/r51633060",
+			art_url: "https://x.com/r51633060/status/1699594660262588466",
+			desc: "Even a vestal at work, Edea insists, ought to be fashionaaabluh.",
+			date_str: "Sep 2023",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/7bwckjbk9g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvzbg2q4.png",
 			title: "Bewitching Beauty",
 			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
-			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
+			art_url: "https://x.com/r51633060/status/1635219442971074564",
 			desc: "Queen Camilla of Nohr, ostensibly ready for battle.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Mar 2023",
 			tags: ["sfw", "camilla", "gifts_given"],
@@ -1431,7 +2652,7 @@ var data = {
 			// r51633060 | Brave Camilla
 			src: ["https://cdn.imgchest.com/files/46acqvzqal7.png", "https://cdn.imgchest.com/files/yvdcw96wbwy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn568664.png",
-			title: "Bewitching Beauty",
+			title: "Bewitching Bosom",
 			artist: "r51633060",
 			artist_url: "https://x.com/r51633060",
 			art_url: "https://x.com/r51633060/status/1635219442971074564/photo/1",
@@ -1451,6 +2672,32 @@ var data = {
 			desc: "Even as fellow Queens of Renais, some things never change between Eirika and Camilla.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Ratpark | Fee and Hermina
+			src: ["https://cdn.imgchest.com/files/yvdcwbzbb9y.jpg", "https://cdn.imgchest.com/files/49zc2geggey.jpg", "https://cdn.imgchest.com/files/yxkczjvjjj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8j8jp7.png",
+			title: "Spreading Our Wings",
+			artist: "RatPark",
+			artist_url: "https://www.pixiv.net/en/users/133613",
+			art_url: "https://www.pixiv.net/en/artworks/100330819",
+			desc: "In Hermina, a humble soldier of Silesse, Princess Fee finds her escape.",
+			date_str: "Aug 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// Ratpark | Nanna and Jeanne
+			src: ["https://cdn.imgchest.com/files/7ogcb8r88dy.jpg", "https://cdn.imgchest.com/files/7pjcqxbxx57.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8wbwjj4.png",
+			title: "The Nordion Way",
+			artist: "RatPark",
+			artist_url: "https://www.pixiv.net/en/users/133613",
+			art_url: "https://www.pixiv.net/en/artworks/97773309",
+			desc: "Even in exile, Nanna has never been one to forsake her duties.",
+			date_str: "Apr 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -1475,7 +2722,7 @@ var data = {
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1646777725603155968",
 			desc: "A very, <em>very</em> soft place.",
-			date_str: "Apr 2024",
+			date_str: "Apr 2023",
 			tags: ["nsfw", "camilla", "eirika"],
 			hidden: false
 		},
@@ -1509,13 +2756,26 @@ var data = {
 			// Redkite | Caeda and Eeby
 			src: ["https://cdn.imgchest.com/files/y8xcngk55d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nvjboy.png",
-			title: "New Look",
+			title: "Forward Thinking",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1667878379000066048",
 			desc: "Caeda applies her eye for fashion to a less than fashionable friend.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "caeda", "eeby", "collab"],
+			hidden: false
+		},
+		{
+			// Redkite | Eeby and Mitama
+			src: ["https://cdn.imgchest.com/files/7pjcqxxplj7.jpg", "https://cdn.imgchest.com/files/4z9cv8jex97.png", "https://cdn.imgchest.com/files/4nec8ww69d4.jpg", "https://cdn.imgchest.com/files/45xcvkp6wr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae9pv27.png",
+			title: "Bountiful Fruit",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "From out of the blue,<br/>a most unexpected guest<br/>comes to taste a peach.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong> and <strong><a href='https://bsky.app/profile/tyle.bsky.social'>Tyle</a></strong>.",
+			date_str: "Feb 2023",
+			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1528,7 +2788,33 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1730733967702430189",
 			desc: "A fond Season's Greetings from two happy couples!<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Dec 2023",
-			tags: ["sfw", "micaiah", "edelgard", "lucina", "other", "collab"],
+			tags: ["sfw", "micaiah", "edelgard", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Redkite | Shamir and Kiria
+			src: ["https://cdn.imgchest.com/files/7bwckg3wb27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjva2o7.png",
+			title: "Perfect Aim",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1772848667973849271",
+			desc: "Shamir puts her many years of experience towards her most important assignment yet.<br/><br/>Collab with <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
+			date_str: "Mar 2024",
+			tags: ["sfw", "shamir", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Redkite | Sharena
+			src: ["https://cdn.imgchest.com/files/yd5cezmm9g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99vj4.png",
+			title: "Turkish Delights",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "Sharena enjoys a healthy helping of çiğ köfte.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:gykqmrqsw3stykw34yom7ufu'>Caeliastrifera</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "sharena", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1566,7 +2852,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1742736138144739408",
 			desc: "Laura always sleeps well knowing she has friends like Micaiah to support her.",
-			date_str: "May 2024",
+			date_str: "Jan 2024",
 			tags: ["sfw", "laura", "micaiah"],
 			hidden: false
 		},
@@ -1587,11 +2873,11 @@ var data = {
 			// Rotomdocs | Meg
 			src: ["https://cdn.imgchest.com/files/49zc2g2jz9y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ceze6gx4.png",
-			title: "TBD",
+			title: "Fighting Fit",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://x.com/RotomDocs/status/1754893237008134580",
-			desc: "",
+			desc: "As Meg knows well, fitness is more than just appearances.",
 			date_str: "Feb 2024",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1605,7 +2891,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/49077664/artworks",
 			art_url: null,
 			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
-			date_str: "May 2024",
+			date_str: "Nov 2022",
 			tags: ["nsfw", "caeda", "kris", "collab"],
 			hidden: false
 		},
@@ -1636,6 +2922,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// sasano_y | Ylgr
+			src: ["https://cdn.imgchest.com/files/46acqawokl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk3zj97.png",
+			title: "Big Smile",
+			artist: "sasano_y",
+			artist_url: "https://www.pixiv.net/en/users/5718258",
+			art_url: null,
+			desc: "Despite everything, Ylgr's smile remains.",
+			date_str: "Feb 2022",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// ScruffyTurtles | Annette
+			src: ["https://cdn.imgchest.com/files/4apc5dzxjz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gaodby.png",
+			title: "An Invaluable Asset",
+			artist: "ScruffyTurtles",
+			artist_url: "https://bsky.app/profile/scruffyturtles.bsky.social",
+			art_url: null,
+			desc: "Keep staring, if you like. You'll only fall deeper under her spell...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "annette", "collab"],
+			hidden: false
+		},
+		{
 			// ScruffyTurtles | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yd5ce3bekr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqvzo5z7.png",
@@ -1646,6 +2958,19 @@ var data = {
 			desc: "Long before their marriage, Eirika and Camilla's first fateful encounter was by moonlight – a happy coincidence for the wearers of Grossartig Mond and the Lunar Brace.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Jul 2024",
 			tags: ["sfw", "camilla", "eirika", "collab"],
+			hidden: false
+		},
+		{
+			// SerennesArt | Mirabilis
+			src: ["https://cdn.imgchest.com/files/yxkczjax397.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8d8apy.png",
+			title: "Flower Crown",
+			artist: "SerennesArt",
+			artist_url: "https://bsky.app/profile/serennesart.bsky.social",
+			art_url: null,
+			desc: "In dreams, even lonely commoners can be queens.",
+			date_str: "May 2023",
+			tags: ["sfw", "mirabilis"],
 			hidden: false
 		},
 		{
@@ -1675,6 +3000,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// shan | Anna and Celica
+			src: ["https://cdn.imgchest.com/files/45xcvk3zpr7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw8ged4.png",
+			title: "An Anna of My Own",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1642881676727681024",
+			desc: "In caring for Anna, Emblem Celica discovers something long missing.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Apr 2023",
+			tags: ["sfw", "anna", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// shan | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yrgcn56n894.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx53gv57.png",
@@ -1698,6 +3036,32 @@ var data = {
 			desc: "During a day at the beach with Edelgard, an old friend and companion of Micaiah's decides to join them...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jun 2022",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// shan | Eir and Fjorm
+			src: ["https://cdn.imgchest.com/files/7ogcb8dljqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8rab87.png",
+			title: "Comfort in the Cold",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1595895294277079040",
+			desc: "With Eir, Fjorm finds peace in an uncertain future.",
+			date_str: "Nov 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// shan | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/4z9cv8jxr87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqa8ee37.png",
+			title: "Fell Protection",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: null,
+			desc: "Grima's most faithful servant is hers and hers alone.",
+			date_str: "Jul 2022",
+			tags: ["sfw", "grima", "other"],
 			hidden: false
 		},
 		{
@@ -1737,6 +3101,19 @@ var data = {
 			desc: "From fluttering wings to fluttering hearts, the morning of the summoner's birthday is rife with anticipation – but her smile says it all.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "eeby", "caeda", "mirabilis", "gifts_received"],
+			hidden: false
+		},
+		{
+			// ShiroFont | Eeby and Jokercina
+			src: ["https://cdn.imgchest.com/files/45xcvkkjb87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkedo4.png",
+			title: "A Real Devil",
+			artist: "ShiroFont",
+			artist_url: "https://x.com/ShiroFont",
+			art_url: "https://x.com/ShiroFont/status/1663877999039598599",
+			desc: "When a mysterious thief arrives in Askr and instantly steals a certain Hero’s heart, the summoner has no choice but to investigate...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "Aug 2023",
+			tags: ["nsfw", "eeby", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1799,7 +3176,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/99945635",
-			desc: "TBD.",
+			desc: "Est White, known to authorities only as the Pink Whitewing. Still a student at St. Macedon's, she often feels a world apart from her older sisters, and struggles to be taken seriously as their equal – even as, through it all, she masks her insecurities with a smile.",
 			date_str: "Jul 2022",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1813,7 +3190,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/110627117",
 			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
-			date_str: "August 2023",
+			date_str: "Aug 2023",
 			tags: ["sfw", "other", "collab"],
 			hidden: false
 		},
@@ -1826,7 +3203,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/119141252",
 			desc: "As track team captain of Gekkoukan High and a top ten student, Kris is used to the attention of her peers. But the arrival of a mysterious transfer student into her class—irrepressibly flirty, and unmistakably interested—sparks a fierce contest for her attention and affection – and Kris quickly discovers just how popular she really is...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
-			date_str: "May 2023",
+			date_str: "May 2024",
 			tags: ["sfw", "caeda", "kris", "other", "gifts_given"],
 			hidden: false
 		},
@@ -1844,6 +3221,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SINccubi | Azelle and Tailtiu
+			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
+			title: "Electric Passion",
+			artist: "SINccubi",
+			artist_url: "https://x.com/SINccubi/status/1577381176158916614",
+			art_url: "https://x.com/SINccubi",
+			desc: "Azelle has never quite learned how to keep up with Tailtiu's boundless, boisterous energy...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// SirKnightbot | Catria and Ingrid
 			src: ["https://cdn.imgchest.com/files/7w6c2nzjkny.png", "https://cdn.imgchest.com/files/ye3c2o8zep4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx5jd3o7.png",
@@ -1853,7 +3243,7 @@ var data = {
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
 			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Apr 2023",
-			tags: ["sfw", "catria", "ingrid", "collab"],
+			tags: ["sfw", "catria", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -1883,6 +3273,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Agnes and Edea
+			src: ["https://cdn.imgchest.com/files/yq9c35m53g4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvevxz4.png",
+			title: "Lip Service",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "After several close encounters with the Eternian Empire, Edea clears up any lingering doubts about her loyalties.",
+			date_str: "Sep 2021",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Siren | Alear and Rosado
 			src: ["https://cdn.imgchest.com/files/7pjcqmjo6v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2klov9y.png",
@@ -1899,7 +3302,7 @@ var data = {
 			// Siren | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2o3npp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kol89y.png",
-			title: "Birds of a Feather",
+			title: "Double Date",
 			artist: "Siren",
 			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
 			art_url: null,
@@ -1935,9 +3338,35 @@ var data = {
 			hidden: false
 		},
 		{
+			// Siren | Ybele and Arc
+			src: ["https://cdn.imgchest.com/files/yd5cezpzep4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2gxgmgy.png",
+			title: "Love Like Lightning",
+			artist: "Siren",
+			artist_url: "https://bsky.app/profile/spicysiren.bsky.social",
+			art_url: null,
+			desc: "A chance encounter in Solution Nine leads quickly to bigger and better things for Arc and Y'bele...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Oct 2024",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Stupjam | Eeby
+			src: ["https://cdn.imgchest.com/files/46acqa888k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cez99bk4.png",
+			title: "Fit for a Queen",
+			artist: "Stupjam",
+			artist_url: "https://x.com/stupjam",
+			art_url: "https://x.com/stupjam/status/1603431586854150145",
+			desc: "In one version of Askr, the summoner's power and influence come to far outstrip her humble beginnings...<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Sugarwurm | Edelgard Cosy
 			src: ["https://cdn.imgchest.com/files/4nec8ok8wx4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2oa23d4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yxkczjgrde7.png",
 			title: "Comfy Cosy",
 			artist: "Shelby",
 			artist_url: "https://x.com/sugarwurm",
@@ -1968,7 +3397,7 @@ var data = {
 			artist: "Sunny",
 			artist_url: "https://x.com/asterrales",
 			art_url: null,
-			desc: "TBD",
+			desc: "Lyn, faced with the gruelling prospect of attending ballroom parties as the soon-to-be heir to Caelin, turns to an expert to brush up on her dancing...",
 			date_str: "Oct 2022",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -1987,6 +3416,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// TimboCactus | Azelle 1
+			src: ["https://cdn.imgchest.com/files/yrgcnkb8nk4.png", "https://cdn.imgchest.com/files/7mmc9wqz9q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8ja3r7.png",
+			title: "A Prince's Prize",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
+			desc: "Azelle's hard work on the battlefield doesn't go unnoticed – nor unrewarded.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Azelle 2
+			src: ["https://cdn.imgchest.com/files/49zc2geanby.png", "https://cdn.imgchest.com/files/4nec8wbezl4.png", "https://cdn.imgchest.com/files/yxkczjvnp27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvkpzm97.png",
+			title: "A Prince's Purpose",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1603144882985615361",
+			desc: "Before long, Azelle's reputation starts to precede him...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Mar 2023",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// TimboCactus | Dawn's Devotion
 			src: ["https://cdn.imgchest.com/files/7kzca83le67.png", "https://cdn.imgchest.com/files/45xcvmw5kd7.png", "https://cdn.imgchest.com/files/4gdcx9rzvl4.png", "https://cdn.imgchest.com/files/4z9cv3xp8j7.png", "https://cdn.imgchest.com/files/7w6c2nowmny.png", "https://cdn.imgchest.com/files/7pjcqmojx37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lo8ba4.png",
@@ -1995,7 +3450,7 @@ var data = {
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
 			desc: "Throughout her journeys, Micaiah learns to find both purpose and joy in serving her friends.",
-			date_str: "Jan 2024 – Mar 2025",
+			date_str: "Mar 2025",
 			tags: ["nsfw", "micaiah", "laura", "other"],
 			hidden: false
 		},
@@ -2009,14 +3464,27 @@ var data = {
 			art_url: null,
 			desc: "Against their better judgement, Lilina and Morgan indulge in a dangerous moment of passion.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Jan 2023",
-			tags: ["nsfw", "other", "collab"],
+			tags: ["nsfw", "eeby", "lysithea", "other", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Nanna and Jeanne
+			src: ["https://cdn.imgchest.com/files/739cxnbp927.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnkb8ga4.png",
+			title: "Desert Dalliances",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
+			desc: "Worn out from the defense of Leonster, Nanna and Jeanne take time to recuperate with their allies in neighbouring Dahna...",
+			date_str: "Oct 2022",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
 			// TimboCactus | Rosado
 			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
-			title: "Your Favourite Elusian Retainer",
+			title: "Your Favourite Retainer",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: null,
@@ -2036,6 +3504,19 @@ var data = {
 			desc: "There are dozens upon dozens of mercenaries to be found in Askr – so it's just as well that Selena already knows she's the best of them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Trujek | Eeby
+			src: ["https://cdn.imgchest.com/files/yvdcwbzzzpy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c35bbep4.png",
+			title: "Snow-Surfing Summoner",
+			artist: "Trujek",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "Askr's summoner, ready to brave the steepest mountains of Nifl.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2078,16 +3559,29 @@ var data = {
 			hidden: false
 		},
 		{
-			// Yashuring | Loki
-			src: ["https://cdn.imgchest.com/files/45xcvmqq9q7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7w6c2nz3n2y.png",
-			title: "Trickster God",
-			artist: "yashuring",
-			artist_url: "https://x.com/yashuring",
-			art_url: "https://x.com/yashuring2/status/1893917217793646766",
-			desc: "Loki of Ásgarðr, in a guise of sincerity.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
-			date_str: "Feb 2025",
-			tags: ["sfw", "loki", "gifts_given"],
+			// Whimsycott | Anna
+			src: ["https://cdn.imgchest.com/files/y8xcnlmxv54.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8waeql4.png",
+			title: "Happy Hustler",
+			artist: "Whimsycottt",
+			artist_url: "https://bsky.app/profile/whimsycottt.bsky.social",
+			art_url: null,
+			desc: "Having travelled to Askr through Anna-family magic, little Princess Anna isn't bound by the contracts of a summoned Hero – letting her do as she pleases, when she pleases.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "anna"],
+			hidden: false
+		},
+		{
+			// WjdPablo | Eeby
+			src: ["https://cdn.imgchest.com/files/yd5cezpkor4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnwpqe7.png",
+			title: "Make a Wish",
+			artist: "WjdPablo",
+			artist_url: "https://x.com/wjdpablo",
+			art_url: null,
+			desc: "The summoner takes her first step towards unimaginable power... or simply a way home.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Dec 2022",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2101,6 +3595,19 @@ var data = {
 			desc: "Flayn offers Veyle a show of deepest trust.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
+			// Yashuring | Loki
+			src: ["https://cdn.imgchest.com/files/45xcvmqq9q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2nz3n2y.png",
+			title: "Trickster God",
+			artist: "yashuring",
+			artist_url: "https://x.com/yashuring",
+			art_url: "https://x.com/yashuring2/status/1893917217793646766",
+			desc: "Loki of Ásgarðr, in a guise of sincerity.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "loki", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -2130,6 +3637,58 @@ var data = {
 			hidden: false
 		},
 		{
+			// yuuuuuzuko_7 | Saphir and Eyvel
+			src: ["https://cdn.imgchest.com/files/ye3c2pggp84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dvvda4.png",
+			title: "Still Got It",
+			artist: "yuuuuuzuko_7",
+			artist_url: "https://x.com/yuuuuuzuko_7",
+			art_url: null,
+			desc: "Two swordswomen who have only grown sharper with age.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:vktlkwqsesi4q4qr4qnkayc2'>Cali</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Yumi | Ylgr
+			src: ["https://cdn.imgchest.com/files/yvdcwbprvwy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpgl3pj7.png",
+			title: "Snowball",
+			artist: "Ymilattea",
+			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
+			art_url: "https://bsky.app/profile/yumilattea.bsky.social/post/3lhbljrymfc2a",
+			desc: "A friend-shaped princess of Nifl.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// Zedora | Laura
+			src: ["https://cdn.imgchest.com/files/739cxnmp9n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcae3vjo7.png",
+			title: "Mild No More",
+			artist: "Zedora",
+			artist_url: "https://x.com/ZedoraArt",
+			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
+			desc: "Laura's popularity in Askr takes her by surprise – but, with encouragement from her friends, she finds a new kind of confidence through it.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "laura", "collab"],
+			hidden: false
+		},
+		{
+			// Zedora | Sharena
+			src: ["https://cdn.imgchest.com/files/4z9cv8xaom7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckgo9zj7.png",
+			title: "Everybody's Friend",
+			artist: "Zedora",
+			artist_url: "https://x.com/ZedoraArt",
+			art_url: "https://x.com/ZedoraArt/status/1882524689324724522",
+			desc: "Sharena is always ready to help a friend in need.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "sharena", "collab"],
+			hidden: false
+		},
+		{
 			// ZeroA | Severa
 			src: ["https://cdn.imgchest.com/files/7lxcp3r5qn7.png", "https://cdn.imgchest.com/files/4jdcvz3el84.png", "https://cdn.imgchest.com/files/yq9c3a2lwl4.png", "https://cdn.imgchest.com/files/yrgcn5ajpz4.png", "https://cdn.imgchest.com/files/yq9c3a2lwn4.png", "https://cdn.imgchest.com/files/7lxcp3r5qx7.png", "https://cdn.imgchest.com/files/yd5ce3ga8b4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn5ajle4.png",
@@ -2139,7 +3698,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/127426098",
 			desc: "Severa puts her sharp tongue to a far more productive use around the Shepherds' camp – and soon comes to revel in her new role and purpose.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>, <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong> and <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Oct 2024",
-			tags: ["nsfw", "severa", "lucina", "tiki", "other", "collab"],
+			tags: ["nsfw", "severa", "tiki", "other", "collab"],
 			hidden: false
 		},
 		{
