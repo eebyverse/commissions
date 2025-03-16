@@ -2279,7 +2279,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1774217017480056958",
-			desc: "There's no deeper meaning here.",
+			desc: "Everyone in the Dawn Brigade loves Laura's chicken.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "laura"],
 			hidden: false
