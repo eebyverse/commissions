@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: "For the Spring Festival, even an often-distant summoner can be coaxed out of her shell – and into the company of friends.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2024",
-			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica", "other", "gifts_received"],
+			tags: ["sfw", "eeby", "mirabilis", "sharena", "veronica","gifts_received"],
 			hidden: false
 		},
 		{
@@ -1192,7 +1192,7 @@ var data = {
 			art_url: null,
 			desc: "Sometimes, Veronica can hardly believe all the friends she's made... and from the looks of it, neither can Bolt.",
 			date_str: "Jul 2023",
-			tags: ["sfw", "veronica", "ylgr", "thrasir", "sharena", "other"],
+			tags: ["sfw", "veronica", "ylgr", "thrasir", "sharena"],
 			hidden: false
 		},
 		{	// Fusenryo | Annas and Sharena
