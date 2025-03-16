@@ -2372,7 +2372,7 @@ var data = {
 			art_url: "https://x.com/moquackja/status/1646195999524765704",
 			desc: "Princess Anna of Askr, and formerly Lady Anna of the Divine Dragon's army in Elyos – adopted into the royal family after arriving unsummoned, in a bid by the Queen to keep her from feeling lonely. Her new outfit was once Sharena's, while her bolt axe—chosen to suit her innate magical ability—once belonged to Henriette herself.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Apr 2023",
-			tags: ["sfw", "other", "collab"],
+			tags: ["sfw", "anna", "collab"],
 			hidden: false
 		},
 		{
