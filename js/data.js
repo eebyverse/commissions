@@ -445,40 +445,40 @@ var data = {
 			// Darkness | Laegjarn and Gunnthra
 			src: ["https://cdn.imgchest.com/files/7kzcaexx8e7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcb8xx8py.png",
-			title: "TBD",
+			title: "Fire and Ice",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD.",
-			date_str: "Jan 2025",
+			desc: "Gunnthrá and Laegjarn, united under the stars.<br/><br/>Git for <strong><a href='https://bsky.app/profile/did:plc:ixxazzanwi6xpm32hcxnbmoe'>Oricalle</a></strong>.",
+			date_str: "Jan 2025", 
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Darkness | Vanil and Muspell
 			src: ["https://cdn.imgchest.com/files/y2pck955a37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99ko4.png",
-			title: "TBD",
+			title: "Love Forged in Flame",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Múspell had never conceived of finding love.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/vanil-la.bsky.social'>Vanil</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Darkness | Thrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2mqqmqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnlqqlb4.png",
-			title: "TBD",
+			title: "Omnicidal Bunny",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD.",
+			desc: "The Spring Festival's newest celebrant seems to be taking things very seriously...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/urbydizzy.bsky.social'>Urby</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Dash | Ylgr
@@ -1391,27 +1391,27 @@ var data = {
 			// Fusenryo | Lyon and Xander
 			src: ["https://cdn.imgchest.com/files/7pjcqxkkba7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99bo4.png",
-			title: "TBD",
+			title: "Powerless",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD",
+			desc: "In Nohr’s crown prince, Lyon finds just the sort of strength and purpose he’s always admired.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Fusenryo | Eupha and Will
 			src: ["https://cdn.imgchest.com/files/4gdcxvmmv64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqagga67.png",
-			title: "TBD",
+			title: "Peace at Last",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD",
+			desc: "King Will and Queen Eupha of Euchronia, finding a moment's respite from royal obligations.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/bravelyagnes.bsky.social'>Agnes</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Gale | Edelcaiah
@@ -1924,14 +1924,14 @@ var data = {
 			// LazzleDazzler | Tharja and Robin
 			src: ["https://cdn.imgchest.com/files/7bwckg223a7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvw662m4.png",
-			title: "Reaching Out",
+			title: "Pleasant Surprise",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Robin still knows just how to surprise her wife.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/ultzerostar.bsky.social'>UltZeroStar</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// LazzleDazzler | Tiki and Rhea
@@ -2184,14 +2184,14 @@ var data = {
 			// maru run | Alear and Ivy
 			src: ["https://cdn.imgchest.com/files/yq9c35vvbv4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvk88na7.png",
-			title: "TBD",
+			title: "Divinity, Devotee",
 			artist: "maru run",
 			artist_url: "https://x.com/run___o___run",
 			art_url: null,
-			desc: "TBD",
+			desc: "After an all-too busy summer's day, the Divine One and her beloved spend a quiet moment together by the sea.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/sapphicsammi.bsky.social'>Sammi</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Mason | Aizawa and Aurash
@@ -2305,10 +2305,10 @@ var data = {
 			artist: "Mnaflzero",
 			artist_url: "https://x.com/mnaflzero",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Both detective princes and wolf knights carry an undeniable charm...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Mnejing | Camilla
@@ -2808,14 +2808,14 @@ var data = {
 			// Redkite | Sharena
 			src: ["https://cdn.imgchest.com/files/yd5cezmm9g4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99vj4.png",
-			title: "TBD",
+			title: "Turkish Delights",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: null,
-			desc: "TBD",
+			desc: "Sharena enjoys a healthy helping of çiğ köfte.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:gykqmrqsw3stykw34yom7ufu'>Caeliastrifera</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "sharena", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Redkite | Tiki and Rhea
@@ -3640,14 +3640,14 @@ var data = {
 			// yuuuuuzuko_7 | Saphir and Eyvel
 			src: ["https://cdn.imgchest.com/files/ye3c2pggp84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5dvvda4.png",
-			title: "TBD",
+			title: "Still Got It",
 			artist: "yuuuuuzuko_7",
 			artist_url: "https://x.com/yuuuuuzuko_7",
 			art_url: null,
-			desc: "TBD.",
+			desc: "Two swordswomen who have only grown sharper with age.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:vktlkwqsesi4q4qr4qnkayc2'>Cali</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Yumi | Ylgr
