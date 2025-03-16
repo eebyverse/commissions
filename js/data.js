@@ -442,6 +442,45 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Laegjarn and Gunnthra
+			src: ["https://cdn.imgchest.com/files/7kzcaexx8e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb8xx8py.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
+			// Darkness | Vanil and Muspell
+			src: ["https://cdn.imgchest.com/files/y2pck955a37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99ko4.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jan 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
+			// Darkness | Thrasir
+			src: ["https://cdn.imgchest.com/files/7w6c2mqqmqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnlqqlb4.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Dash | Ylgr
 			src: ["https://cdn.imgchest.com/files/45xcvk3zn57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2p6x5a4.png",
@@ -1349,6 +1388,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Lyon and Xander
+			src: ["https://cdn.imgchest.com/files/7pjcqxkkba7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99bo4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
+			// Fusenryo | Eupha and Will
+			src: ["https://cdn.imgchest.com/files/4gdcxvmmv64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqagga67.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Gale | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4z9cv3jw6b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcp3naed7.png",
@@ -1856,6 +1921,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Tharja and Robin
+			src: ["https://cdn.imgchest.com/files/7bwckg223a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvw662m4.png",
+			title: "Reaching Out",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// LazzleDazzler | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
@@ -2103,6 +2181,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// maru run | Alear and Ivy
+			src: ["https://cdn.imgchest.com/files/yq9c35vvbv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvk88na7.png",
+			title: "TBD",
+			artist: "maru run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Mason | Aizawa and Aurash
 			src: ["https://cdn.imgchest.com/files/7lxcpgpvx97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaq62a7.png",
@@ -2205,6 +2296,19 @@ var data = {
 			date_str: "Apr 2024",
 			tags: ["sfw", "tiki", "rhea", "other", "collab"],
 			hidden: false
+		},
+		{
+			// Mnaflzero | Naoto
+			src: ["https://cdn.imgchest.com/files/4nec8wllb84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck955337.png",
+			title: "Princely",
+			artist: "Mnaflzero",
+			artist_url: "https://x.com/mnaflzero",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Mnejing | Camilla
@@ -2699,6 +2803,19 @@ var data = {
 			date_str: "Mar 2024",
 			tags: ["sfw", "shamir", "other", "collab"],
 			hidden: false
+		},
+		{
+			// Redkite | Sharena
+			src: ["https://cdn.imgchest.com/files/yd5cezmm9g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99vj4.png",
+			title: "TBD",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Mar 2025",
+			tags: ["sfw", "sharena", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Redkite | Tiki and Rhea
@@ -3518,6 +3635,19 @@ var data = {
 			date_str: "Nov 2024",
 			tags: ["sfw", "flayn", "veyle"],
 			hidden: false
+		},
+		{
+			// yuuuuuzuko_7 | Saphir and Eyvel
+			src: ["https://cdn.imgchest.com/files/ye3c2pggp84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dvvda4.png",
+			title: "TBD",
+			artist: "yuuuuuzuko_7",
+			artist_url: "https://x.com/yuuuuuzuko_7",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Yumi | Ylgr
