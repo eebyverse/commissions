@@ -477,7 +477,7 @@ var data = {
 			art_url: null,
 			desc: "The Spring Festival's newest celebrant seems to be taking things very seriously...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/urbydizzy.bsky.social'>Urby</a></strong>.",
 			date_str: "Feb 2025",
-			tags: ["sfw", "other", "gifts_given"],
+			tags: ["sfw", "thrasir", "gifts_given"],
 			hidden: false
 		},
 		{
