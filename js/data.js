@@ -130,6 +130,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Asu | Shina
+			src: ["https://cdn.imgchest.com/files/4jdcvwo6ag4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczj5q857.png",
+			title: "Angel of the North Star",
+			artist: "Asu",
+			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
+			art_url: null,
+			desc: "Shina Amaya Yoshino – gym owner, fitness instructor, and part-time shinobi.<br/><br/>Gift for <strong>Eldritch Leaf</strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Bad Frog | Io
 			src: ["https://cdn.imgchest.com/files/46acqav99r7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvwzm3e4.png",
