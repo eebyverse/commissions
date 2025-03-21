@@ -2019,7 +2019,7 @@ var data = {
 			artist: "lightgamein",
 			artist_url: "https://skeb.jp/@lightgamein",
 			art_url: null,
-			desc: "Fie Claussell, otherwise known as Sylphid, and Rixia Mao, otherwise known as Yin – overcoming their dark pasts to forge a brighter future together.",
+			desc: "Fie Claussell, otherwise known as Sylphid, and Rixia Mao, otherwise known as Yin – overcoming their dark pasts to forge a brighter future together.<br/><br/>Gift for <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
