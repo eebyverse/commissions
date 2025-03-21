@@ -2012,6 +2012,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// lightgamein | Eeby
+			src: ["https://cdn.imgchest.com/files/7ogcb8xozgy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpgx8bg7.png",
+			title: "Flash of Silver",
+			artist: "lightgamein",
+			artist_url: "https://skeb.jp/@lightgamein",
+			art_url: null,
+			desc: "Fie Claussell, otherwise known as Sylphid, and Rixia Mao, otherwise known as Yin – overcoming their dark pasts to forge a brighter future together.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LouiseArina | Anna
 			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkzgvr4.png",
