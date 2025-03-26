@@ -1635,6 +1635,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// juicet1n | Eirika and Camilla
+			src: ["https://cdn.imgchest.com/files/4z9cvjaaa37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9qzzza7.png",
+			title: "Steam and Secrets",
+			artist: "juicet1n",
+			artist_url: "https://bsky.app/profile/juicet1n.bsky.social",
+			art_url: null,
+			desc: "Askr's baths often provide Camilla with the perfect cover—and excuse—for treating her wife to a slightly more <em>thorough</em> wash...",
+			date_str: "June 2024",
+			tags: ["nsfw", "eirika", "camilla"],
+			hidden: false
+		},
+		{
 			// Jwolf | Anna and Annette
 			src: ["https://cdn.imgchest.com/files/46acqaowjv7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2meo8ey.png",
