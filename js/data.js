@@ -510,11 +510,11 @@ var data = {
 			// Decox | Aizawa and Aurash
 			src: ["https://cdn.imgchest.com/files/y2pck3a6ln7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqbm6rx7.png",
-			title: "TBD",
+			title: "The Biggest Gun",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "Aurash treats Aizawa to a raw show of strength.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["nsfw", "other", "collab", "gifts_received"],
 			hidden: false
