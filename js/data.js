@@ -507,6 +507,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Aizawa and Aurash
+			src: ["https://cdn.imgchest.com/files/y2pck3a6ln7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqbm6rx7.png",
+			title: "TBD",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["nsfw", "other", "collab", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Decox | Eeby and Anna
 			src: ["https://cdn.imgchest.com/files/yxkczjj9e57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2genmgy.png",
@@ -1643,7 +1656,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/juicet1n.bsky.social",
 			art_url: null,
 			desc: "Askr's baths often provide Camilla with the perfect cover—and excuse—for treating her wife to a slightly more <em>thorough</em> wash...",
-			date_str: "June 2024",
+			date_str: "Jun 2024",
 			tags: ["nsfw", "eirika", "camilla"],
 			hidden: false
 		},
