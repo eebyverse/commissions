@@ -516,7 +516,7 @@ var data = {
 			art_url: null,
 			desc: "Aurash treats Aizawa to a raw show of strength.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Mar 2025",
-			tags: ["nsfw", "other", "collab", "gifts_received"],
+			tags: ["nsfw", "other", "collab", "gifts_given"],
 			hidden: false
 		},
 		{
