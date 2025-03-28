@@ -2246,6 +2246,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// maru run | Say'ri and Tiki
+			src: ["https://cdn.imgchest.com/files/7lxcpj3ozw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3bao8v4.png",
+			title: "Rest Your Weary Head",
+			artist: "maru run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: null,
+			desc: "Mighty warriors, most of all, deserve their rest.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Mason | Aizawa and Aurash
 			src: ["https://cdn.imgchest.com/files/7lxcpgpvx97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqaq62a7.png",
@@ -2257,6 +2270,19 @@ var data = {
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
+		},
+		{
+			// Mason | Mitama and Red Panda
+			src: ["https://cdn.imgchest.com/files/yd5ce93dr64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck3a8oe7.png",
+			title: "TBD",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: null,
+			desc: "Little creature, red<br/>of fur, so cute and cud—hey!<br/>Stop wriggling so much!<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Meqqey | Miccy
