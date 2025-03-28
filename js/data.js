@@ -2493,6 +2493,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Miccy Poke Bowl
+			src: ["https://cdn.imgchest.com/files/4apc5qdbbp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq8azez7.png",
+			title: "Poke Pleasures",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://bsky.app/profile/mnejing30.bsky.social/post/3llhpdusdhs2i",
+			desc: "Micaiah enjoys a delicious and nutritious midday meal.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "micaiah"],
+			hidden: false
+		},
+		{
 			// Mnejing | Reginn
 			src: ["https://cdn.imgchest.com/files/7lxcpg3zwg7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgj8dg7.png",
