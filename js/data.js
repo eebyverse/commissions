@@ -1746,7 +1746,7 @@ var data = {
 			artist: "Kazuha",
 			artist_url: "https://bsky.app/profile/kzhjp.bsky.social",
 			art_url: null,
-			desc: "After a wonderful evening together, neither Micaiah nor Zelgius need words to express their feelings.<br/><br/>Gift for <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
+			desc: "After a wonderful evening together, no further words are needed for Micaiah and Zelgius to express their feelings.<br/><br/>Gift for <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "micaiah", "other", "gifts_given"],
 			hidden: false
