@@ -137,7 +137,7 @@ var data = {
 			artist: "Asu",
 			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
 			art_url: null,
-			desc: "Shina Amaya Yoshino – gym owner, fitness instructor, and part-time shinobi.<br/><br/>Gift for <strong>Eldritch Leaf</strong>.",
+			desc: "Shina Amaya Yoshino – gym owner, fitness instructor, and part-time shinobi.<br/><br/>Gift for <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1736,6 +1736,19 @@ var data = {
 			desc: "Queen Micaiah, fifteenth ruler of Daein, alongside her trusted head of staff. But, as so many nobles have wondered, both privately and openly... just who is this mysterious young woman, to command such authority and receive such unconditional trust from the Queen?",
 			date_str: "Aug 2023",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Kazuha | Micaiah and Zelgius
+			src: ["https://cdn.imgchest.com/files/y2pck3xz397.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9qlvq87.png",
+			title: "Silent Knight",
+			artist: "Kazuha",
+			artist_url: "https://bsky.app/profile/kzhjp.bsky.social",
+			art_url: null,
+			desc: "After a wonderful evening together, neither Micaiah nor Zelgius need words to express their feelings.<br/><br/>Gift for <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
+			date_str: "Mar 2025",
+			tags: ["sfw", "micaiah", "other", "gifts_given"],
 			hidden: false
 		},
 		{
