@@ -728,13 +728,26 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/yxkczvqpob7.png", "https://cdn.imgchest.com/files/yvdcwznxowy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpjxa2l7.png",
+			title: "Height Difference",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Edelgard discovers the difference an inch makes.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "edelgard", "micaiah"],
+			hidden: false
+		},
+		{
 			// DeebyFeeby | Europa
 			src: ["https://cdn.imgchest.com/files/4gdcxve28q4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5dxzmv4.png",
 			title: "The Pegasus Knight",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/deebyfeeby.bsky.social/post/3lkbi4txqo22c",
 			desc: "Europa of Edessa, ready to take flight.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
