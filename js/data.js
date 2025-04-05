@@ -2281,8 +2281,8 @@ var data = {
 			art_url: null,
 			desc: "Mighty warriors, most of all, deserve their rest.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Apr 2025",
-			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			tags: ["sfw", "sayri", "tiki", "gifts_given"],
+			hidden: false
 		},
 		{
 			// Mason | Aizawa and Aurash
