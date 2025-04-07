@@ -1531,6 +1531,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Icoooos | Baou
+			src: ["https://cdn.imgchest.com/files/46acqagxml7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnk92e94.png",
+			title: "Secondborn",
+			artist: "Icoooos",
+			artist_url: "https://skeb.jp/@icoooos",
+			art_url: null,
+			desc: "Baou, second child of Seliph and Larcei and younger brother to Selia.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Irene | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/7mmc9gpz887.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmxz3l7.png",
