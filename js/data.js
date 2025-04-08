@@ -438,7 +438,7 @@ var data = {
 			art_url: null,
 			desc: "Cats have been known, on rare occasions, to view small, vulnerable rabbits as prey...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Mar 2025",
-			tags: ["sfw", "flayn", "veyle"],
+			tags: ["sfw", "flayn", "veyle", "collab"],
 			hidden: false
 		},
 		{
