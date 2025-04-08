@@ -2422,7 +2422,7 @@ var data = {
 			artist: "Mnaflzero",
 			artist_url: "https://x.com/mnaflzero",
 			art_url: null,
-			desc: "Both detective princes and wolf knights carry an undeniable charm...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			desc: "Both detective princes and wolf knights carry an undeniable charm...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
 			date_str: "Mar 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
