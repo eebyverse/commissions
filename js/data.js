@@ -462,7 +462,7 @@ var data = {
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "Gunnthrá and Laegjarn, united under the stars.<br/><br/>Git for <strong><a href='https://bsky.app/profile/did:plc:ixxazzanwi6xpm32hcxnbmoe'>Oricalle</a></strong>.",
+			desc: "Gunnthrá and Laegjarn, united under the stars.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:ixxazzanwi6xpm32hcxnbmoe'>Oricalle</a></strong>.",
 			date_str: "Jan 2025", 
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
