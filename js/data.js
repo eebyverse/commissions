@@ -2314,14 +2314,14 @@ var data = {
 			// Mason | Mitama and Red Panda
 			src: ["https://cdn.imgchest.com/files/yd5ce93dr64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck3a8oe7.png",
-			title: "TBD",
+			title: "Mischief Maker",
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
 			desc: "Little creature, red<br/>of fur, so cute and cud—hey!<br/>Stop wriggling so much!<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Meqqey | Miccy
