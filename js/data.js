@@ -194,7 +194,7 @@ var data = {
 			tags: ["nsfw", "eirika", "camilla"],
 			hidden: false
 		},
-	{
+		{
 			// Chikaretsu | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/7lxcp3d5wm7.png", "https://cdn.imgchest.com/files/yd5ce3rao54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbg37.png",
@@ -205,6 +205,19 @@ var data = {
 			desc: "Two summoners learn, too late, that even lofty power has its limits.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/starlightcosmic.bsky.social'>Cosmic</a></strong>.",
 			date_str: "Dec 2022",
 			tags: ["nsfw", "eeby", "loki", "caeda", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Cios | Tana
+			src: ["https://cdn.imgchest.com/files/4jdcv2qkl54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczv9b8o7.png",
+			title: "Show of Restraint",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "Tana offers herself up to an unsuspecting partner.",
+			date_str: "Apr 2025",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
