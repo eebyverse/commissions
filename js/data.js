@@ -224,7 +224,7 @@ var data = {
 			// ClariAriKari | Annette
 			src: ["https://cdn.imgchest.com/files/yxkczjna5v7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2px3na4.png",
-			title: "Without Restraint",
+			title: "Unbound",
 			artist: "ClariAriKari",
 			artist_url: "https://bsky.app/profile/clariarikari.bsky.social",
 			art_url: null,
