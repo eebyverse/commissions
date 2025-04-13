@@ -3793,19 +3793,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// yuuuuuzuko_7 | Saphir and Eyvel
-			src: ["https://cdn.imgchest.com/files/ye3c2pggp84.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4apc5dvvda4.png",
-			title: "Still Got It",
-			artist: "yuuuuuzuko_7",
-			artist_url: "https://x.com/yuuuuuzuko_7",
-			art_url: null,
-			desc: "Two swordswomen who have only grown sharper with age.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:vktlkwqsesi4q4qr4qnkayc2'>Cali</a></strong>.",
-			date_str: "Feb 2025",
-			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
-		},
-		{
 			// Yumi | Ylgr
 			src: ["https://cdn.imgchest.com/files/yvdcwbprvwy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpgl3pj7.png",
@@ -3816,6 +3803,19 @@ var data = {
 			desc: "A friend-shaped princess of Nifl.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
+			// yuuuuuzuko_7 | Saphir and Eyvel
+			src: ["https://cdn.imgchest.com/files/ye3c2pggp84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5dvvda4.png",
+			title: "Still Got It",
+			artist: "yuuuuuzuko_7",
+			artist_url: "https://x.com/yuuuuuzuko_7",
+			art_url: null,
+			desc: "Two swordswomen who have only grown sharper with age.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:vktlkwqsesi4q4qr4qnkayc2'>Cali</a></strong>.",
+			date_str: "Feb 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
