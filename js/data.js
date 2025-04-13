@@ -3758,7 +3758,7 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/7pjcqmvzzw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn5mrgr4.png",
 			title: "Nothing but Love",
-			artist: "Ymilattea",
+			artist: "Yumilattea",
 			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
 			art_url: null,
 			desc: "Eebeebi Eebi of Ul'dah – an alchemist, botanist, and dubious scholar with few thoughts in her head but a world of love in her heart.",
@@ -3767,11 +3767,24 @@ var data = {
 			hidden: false
 		},
 		{
+			// Yumi | Kris
+			src: ["https://cdn.imgchest.com/files/yrgcnwn9zx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cexemrd4.png",
+			title: "Royal Lifeguard",
+			artist: "Yumilattea",
+			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
+			art_url: "https://bsky.app/profile/yumilattea.bsky.social/post/3lmoszwimhc2y",
+			desc: "Kris, dressed for the beach.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "kris", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Yumi | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/4nec8odekz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvz5gnr4.png",
 			title: "Honeyed Words",
-			artist: "Ymilattea",
+			artist: "Yumilattea",
 			artist_url: "https://bsky.app/profile/yumilattea.bsky.social",
 			art_url: null,
 			desc: "Flayn learns that temptation is sweetest when it comes from a familiar face.",
