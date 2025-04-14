@@ -2324,6 +2324,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mason | Eebeebi and V'rhaka
+			src: ["https://cdn.imgchest.com/files/49zc2pan8wy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvgzvkd7.png",
+			title: "TBD",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eebeebi", "other", "gifts_received"],
+			hidden: true
+		},
+		{
 			// Mason | Mitama and Red Panda
 			src: ["https://cdn.imgchest.com/files/yd5ce93dr64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck3a8oe7.png",
