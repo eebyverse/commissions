@@ -782,7 +782,7 @@ var data = {
 		{
 			// DeebyFeeby | Eeby and Buzzwole
 			src: ["https://cdn.imgchest.com/files/7pjcq8xr8d7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cvn8xqq7.png",
+			thumbnail: "https://cdn.imgchest.com/files/yxkczmjo5n7.png",
 			title: "TBD",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
@@ -790,7 +790,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "other", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// DeliiChan | Caeda
@@ -1323,7 +1323,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/rainbowfirebird.bsky.social'>Fenix</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
+			hidden: true
 		},
 		{	// Fusenryo | Annas and Sharena
 			src: ["https://cdn.imgchest.com/files/yq9c35bpve4.png"],
@@ -1398,7 +1398,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "other", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
@@ -1554,7 +1554,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "mirabilis", "flayn", "veyle", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Harunn | Laura and Rosado
@@ -2386,7 +2386,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "other", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Mason | Mitama and Red Panda
@@ -2711,7 +2711,7 @@ var data = {
 			desc: "Eebeebi, Y'bele, Franine, and the warrior now known only as the voidsent Stolas – shards of Demeter, each as <em>unique</em> as the rest.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Motoiwork | V'rhaka
