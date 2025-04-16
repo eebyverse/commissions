@@ -780,6 +780,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// DeebyFeeby | Eeby and Buzzwole
+			src: ["https://cdn.imgchest.com/files/7pjcq8xr8d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvn8xqq7.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://x.com/DeebyFeeby/status/1712122009549729858",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eeby", "other", "gifts_received"],
+			hidden: false
+		},
+		{
 			// DeliiChan | Caeda
 			src: ["https://cdn.imgchest.com/files/yvdcw9dk85y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv8wood7.png",
@@ -1299,6 +1312,19 @@ var data = {
 			tags: ["sfw", "veronica", "ylgr", "thrasir", "sharena"],
 			hidden: false
 		},
+		{
+			// Fubbz | Demibino
+			src: ["https://cdn.imgchest.com/files/49zc2pgx6zy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cexzl5n4.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/rainbowfirebird.bsky.social'>Fenix</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
 		{	// Fusenryo | Annas and Sharena
 			src: ["https://cdn.imgchest.com/files/yq9c35bpve4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cez9xgm4.png",
@@ -1359,6 +1385,19 @@ var data = {
 			desc: "In the dead of night, the Queen of Daein shares a private moment with her head of staff.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eeby Agnes
+			src: ["https://cdn.imgchest.com/files/7kzcaoe2oj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5kdo9l4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eeby", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1502,6 +1541,19 @@ var data = {
 			desc: "Knowing her own dreams lie in ruin, Edelgard resolves to keep Micaiah's alive – no matter the cost.",
 			date_str: "May 2022",
 			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Hana Mina | Eeby, Mira, Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/45xcvgk3ng7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvrw9xe4.png",
+			title: "TBD",
+			artist: "Hana Mina",
+			artist_url: "https://x.com/hanamina32",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eeby", "mirabilis", "flayn", "veyle", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2327,14 +2379,14 @@ var data = {
 			// Mason | Eebeebi and V'rhaka
 			src: ["https://cdn.imgchest.com/files/49zc2pan8wy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvgzvkd7.png",
-			title: "TBD",
+			title: "Extraordinaries",
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "other", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Mason | Mitama and Red Panda
@@ -2646,6 +2698,19 @@ var data = {
 			desc: "Princess Anna of Askr, and formerly Lady Anna of the Divine Dragon's army in Elyos – adopted into the royal family after arriving unsummoned, in a bid by the Queen to keep her from feeling lonely. Her new outfit was once Sharena's, while her bolt axe—chosen to suit her innate magical ability—once belonged to Henriette herself.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "anna", "collab"],
+			hidden: false
+		},
+		{
+			// Moon | Eebeebi and Shards
+			src: ["https://cdn.imgchest.com/files/4z9cvn8rj37.png", "https://cdn.imgchest.com/files/4nec8jwabm4.png", "https://cdn.imgchest.com/files/yq9c3p5mbr4.png", "https://cdn.imgchest.com/files/yrgcnwk3be4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcaoe2mb7.png",
+			title: "TBD",
+			artist: "Moon",
+			artist_url: "https://bsky.app/profile/hilancent.bsky.social",
+			art_url: null,
+			desc: "Eebeebi, Y'bele, Franine, and the warrior now known only as the voidsent Stolas – shards of Demeter, each as <em>unique</em> as the rest.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eebeebi", "gifts_received"],
 			hidden: false
 		},
 		{
