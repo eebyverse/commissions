@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "agnes", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -581,7 +581,7 @@ var data = {
 			art_url: null,
 			desc: "Agnès Oblige of Ancheim, the displaced vestal who would learn, through time and betrayal, to trust in the wind's own course.",
 			date_str: "Mar 2023",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "agnes"],
 			hidden: false
 		},
 		{
@@ -1397,7 +1397,7 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
 			date_str: "Apr 2025",
-			tags: ["sfw", "eeby", "other", "gifts_received"],
+			tags: ["sfw", "eeby", "agnes", "gifts_received"],
 			hidden: true
 		},
 		{
@@ -1800,7 +1800,7 @@ var data = {
 			art_url: null,
 			desc: "For all its trials and turmoil, Agnès's journey gives her plenty of cause to smile.",
 			date_str: "Jul 2023",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "agnes"],
 			hidden: false
 		},
 		{
@@ -1852,7 +1852,7 @@ var data = {
 			art_url: "https://x.com/kinkymation/status/1550918604425666563",
 			desc: "For Agnès, Edea will believe in anything.",
 			date_str: "Jul 2022",
-			tags: ["nsfw", "other"],
+			tags: ["nsfw", "agnes", "other"],
 			hidden: false
 		},
 		{
@@ -2853,7 +2853,7 @@ var data = {
 			art_url: "https://x.com/r51633060/status/1699594660262588466",
 			desc: "Even a vestal at work, Edea insists, ought to be fashionaaabluh.",
 			date_str: "Sep 2023",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "agnes"],
 			hidden: false
 		},
 		{
@@ -3503,7 +3503,7 @@ var data = {
 			art_url: null,
 			desc: "After several close encounters with the Eternian Empire, Edea clears up any lingering doubts about her loyalties.",
 			date_str: "Sep 2021",
-			tags: ["nsfw", "other"],
+			tags: ["nsfw", "agnes", "other"],
 			hidden: false
 		},
 		{
