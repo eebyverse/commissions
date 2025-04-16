@@ -783,14 +783,14 @@ var data = {
 			// DeebyFeeby | Eeby and Buzzwole
 			src: ["https://cdn.imgchest.com/files/7pjcq8xr8d7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczmjo5n7.png",
-			title: "TBD",
+			title: "Personal Preference",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: "https://x.com/DeebyFeeby/status/1712122009549729858",
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			desc: "The summoner's choice in partner Pokémon comes as a surprise to some...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "other", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// DeliiChan | Caeda
@@ -1316,14 +1316,14 @@ var data = {
 			// Fubbz | Demibino
 			src: ["https://cdn.imgchest.com/files/49zc2pgx6zy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cexzl5n4.png",
-			title: "TBD",
+			title: "A Pact Sealed",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/rainbowfirebird.bsky.social'>Fenix</a></strong>.",
+			desc: "Love isn't often in the nature of demons.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/rainbowfirebird.bsky.social'>Fenix</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{	// Fusenryo | Annas and Sharena
 			src: ["https://cdn.imgchest.com/files/yq9c35bpve4.png"],
@@ -1391,14 +1391,14 @@ var data = {
 			// Fusenryo | Eeby Agnes
 			src: ["https://cdn.imgchest.com/files/7kzcaoe2oj7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5kdo9l4.png",
-			title: "TBD",
+			title: "Winds of Askr",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
+			desc: "Askr's summoner in the guise of a vestal from another place and time...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "agnes", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
@@ -1547,14 +1547,14 @@ var data = {
 			// Hana Mina | Eeby, Mira, Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/45xcvgk3ng7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvrw9xe4.png",
-			title: "TBD",
+			title: "Daydream",
 			artist: "Hana Mina",
 			artist_url: "https://x.com/hanamina32",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Though Mirabilis isn't much for conversation, her presence at tea parties is welcomed all the same.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "mirabilis", "flayn", "veyle", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Harunn | Laura and Rosado
@@ -2383,10 +2383,10 @@ var data = {
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			desc: "Eebeebi and V'rhaka – two friends as eccentric as they are extraordinary.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "other", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Mason | Mitama and Red Panda
@@ -2704,14 +2704,14 @@ var data = {
 			// Moon | Eebeebi and Shards
 			src: ["https://cdn.imgchest.com/files/4z9cvn8rj37.png", "https://cdn.imgchest.com/files/4nec8jwabm4.png", "https://cdn.imgchest.com/files/yq9c3p5mbr4.png", "https://cdn.imgchest.com/files/yrgcnwk3be4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcaoe2mb7.png",
-			title: "TBD",
+			title: "Scattered Shards",
 			artist: "Moon",
 			artist_url: "https://bsky.app/profile/hilancent.bsky.social",
 			art_url: null,
 			desc: "Eebeebi, Y'bele, Franine, and the warrior now known only as the voidsent Stolas – shards of Demeter, each as <em>unique</em> as the rest.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Motoiwork | V'rhaka
