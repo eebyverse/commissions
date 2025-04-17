@@ -782,7 +782,7 @@ var data = {
 		{
 			// DeebyFeeby | Eeby and Buzzwole
 			src: ["https://cdn.imgchest.com/files/7pjcq8xr8d7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7ogcbqr38dy.png",
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2g6x83y.png",
 			title: "Personal Preference",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
