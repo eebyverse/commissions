@@ -782,7 +782,7 @@ var data = {
 		{
 			// DeebyFeeby | Eeby and Buzzwole
 			src: ["https://cdn.imgchest.com/files/7pjcq8xr8d7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yxkczmjo5n7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbqr38dy.png",
 			title: "Personal Preference",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
@@ -1372,6 +1372,19 @@ var data = {
 			desc: "Edelgard delivers a heartfelt gift for the Day of Devotion – with a little help from a little friend.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "edelgard", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelcaiah Morning
+			src: ["https://cdn.imgchest.com/files/4apc5kq2z64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckx38xg7.png",
+			title: "Welcoming Dawn",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "With Micaiah, Edelgard finds joy rather than fear in every new day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
 		{
