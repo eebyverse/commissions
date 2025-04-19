@@ -1414,6 +1414,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Eeby + Annette
+			src: ["https://cdn.imgchest.com/files/y2pckxnbva7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvrmqze4.png",
+			title: "Fatal Attraction",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Eeby should know better than to go alone to a nightclub on the wrong side of town... but once she's there, she finds it <em>very</em> hard to leave.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eeby", "annette", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gmee27.png",
