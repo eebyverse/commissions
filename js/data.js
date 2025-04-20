@@ -2747,7 +2747,7 @@ var data = {
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "Annette Dominic, highest achiever and valedictorian of her biochemistry class, was always destined for greater things. Few of her former classmates understand, then, why TWISTED—a seedy nightclub owned by Cornelia Armin, rumoured even to have ties to the controversial biochemists of Agartha Advancements—has recently become her sole domain... or why, from her dress sense to her personality, she seems so <em>changed</em>.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "Annette Dominic, highest achiever and valedictorian of her biochemistry class, was always destined for greater things. Few of her former classmates understand, then, why TWISTED—a seedy nightclub owned by Cornelia Armin, rumoured even to have ties to the controversial, even cult-like Agartha Advancements—has recently become her sole domain... or why, from her dress sense to her personality, she seems so <em>changed</em>.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
