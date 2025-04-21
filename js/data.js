@@ -1630,8 +1630,21 @@ var data = {
 			artist_url: "https://skeb.jp/@icoooos",
 			art_url: null,
 			desc: "Baou, second child of Seliph and Larcei and younger brother to Selia.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
-			date_str: "Apr 2024",
+			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// IHSNet | Eirimilla
+			src: ["https://cdn.imgchest.com/files/yvdcwe6x9qy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcao3mlp7.png",
+			title: "TBD",
+			artist: "Ihsnet",
+			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
+			art_url: "https://bsky.app/profile/ihsnet.bsky.social/post/3lmvvzkdl6s22",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "eirika", "camilla", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1775,6 +1788,19 @@ var data = {
 			desc: "Askr's baths often provide Camilla with the perfect cover—and excuse—for treating her wife to a slightly more <em>thorough</em> wash...",
 			date_str: "Jun 2024",
 			tags: ["nsfw", "eirika", "camilla"],
+			hidden: false
+		},
+		{
+			// juicet1n | Laura and Linda
+			src: ["https://cdn.imgchest.com/files/yxkczm2px97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnw8drk4.png",
+			title: "Waiting Room",
+			artist: "juicet1n",
+			artist_url: "https://bsky.app/profile/juicet1n.bsky.social",
+			art_url: null,
+			desc: "Some Heroes are called to Askr sooner than others.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/juicet1n.bsky.social'>juicet1n</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "laura", "other", "gifts_received"],
 			hidden: false
 		},
 		{
