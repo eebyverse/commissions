@@ -1643,7 +1643,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
 			art_url: "https://bsky.app/profile/ihsnet.bsky.social/post/3lmvvzkdl6s22",
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "Apr 2024",
+			date_str: "Apr 2025",
 			tags: ["nsfw", "eirika", "camilla", "gifts_received"],
 			hidden: false
 		},
@@ -3268,7 +3268,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1804651052383539711",
 			desc: "Caeda, of all people, knows love when she sees it.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
-			date_str: "Mar 2024",
+			date_str: "Jun 2024",
 			tags: ["sfw", "caeda", "other", "collab"],
 			hidden: false
 		},
