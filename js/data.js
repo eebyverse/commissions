@@ -1797,7 +1797,7 @@ var data = {
 			title: "Waiting Room",
 			artist: "juicet1n",
 			artist_url: "https://bsky.app/profile/juicet1n.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/juicet1n.bsky.social/post/3lndrvtolgc22",
 			desc: "Some Heroes are called to Askr sooner than others.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/juicet1n.bsky.social'>juicet1n</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "laura", "other", "gifts_received"],
