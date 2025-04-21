@@ -1638,13 +1638,13 @@ var data = {
 			// IHSNet | Eirimilla
 			src: ["https://cdn.imgchest.com/files/yvdcwe6x9qy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcao3mlp7.png",
-			title: "TBD",
+			title: "Violet and Rose",
 			artist: "Ihsnet",
 			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
 			art_url: "https://bsky.app/profile/ihsnet.bsky.social/post/3lmvvzkdl6s22",
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			desc: "At Askr's soiree, Eirika's choice of gown is even bolder than her wife's.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Apr 2025",
-			tags: ["nsfw", "eirika", "camilla", "gifts_received"],
+			tags: ["sfw", "eirika", "camilla", "gifts_received"],
 			hidden: false
 		},
 		{
