@@ -26,6 +26,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// alonemistrist | Avalei
+			src: ["https://cdn.imgchest.com/files/45xcvgqkvp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnw2lnl4.png",
+			title: "Easy Being Green",
+			artist: "alonemistrist",
+			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
+			art_url: null,
+			desc: "Avalei – the most fashionable goblin you'll ever meet.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/snaffu.bsky.social'>Snafu</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// a_o_hi_to | Annette Birthday
 			src: ["https://cdn.imgchest.com/files/7ogcb8xxppy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvmm964.png",
