@@ -3538,12 +3538,25 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
 			title: "Electric Passion",
 			artist: "SINccubi",
-			artist_url: "https://x.com/SINccubi/status/1577381176158916614",
-			art_url: "https://x.com/SINccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "https://x.com/SINccubi/status/1577381176158916614",
 			desc: "Azelle has never quite learned how to keep up with Tailtiu's boundless, boisterous energy...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Oct 2022",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
+		},
+		{
+			// SINccubi | Eitri
+			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
+			title: "TBD",
+			artist: "SINccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: null,
+			desc: "After a few thousand years apart, Eitri makes sure to savor <em>every</em> moment of her long-awaited reunion...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["nsfw", "other", "collab"],
+			hidden: true
 		},
 		{
 			// SirKnightbot | Catria and Ingrid
