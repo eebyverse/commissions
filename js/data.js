@@ -3143,6 +3143,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Rotomdocs | Flayn
+			src: ["https://cdn.imgchest.com/files/739cxo2bjd7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2pqeqxy.png",
+			title: "Fisheater",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: null,
+			desc: "Flayn, depicted in her truest form.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "flayn"],
+			hidden: false
+		},
+		{
 			// Rotomdocs | PJ Laura
 			src: ["https://cdn.imgchest.com/files/yvdcw932j6y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3glgj7.png",
