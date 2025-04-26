@@ -3582,7 +3582,7 @@ var data = {
 			desc: "After a few thousand years apart, Eitri makes sure to savor <em>every</em> moment of her long-awaited reunion...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["nsfw", "other", "collab"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// SirKnightbot | Catria and Ingrid
