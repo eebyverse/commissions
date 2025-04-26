@@ -1401,6 +1401,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Edelcaiah Diving
+			src: ["https://cdn.imgchest.com/files/y8xcnwbgzm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckvljml7.png",
+			title: "Reach for My Hand",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "With a guiding hand, Micaiah helps Edelgard conquer her fear of the ocean.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kwn2ey.png",
