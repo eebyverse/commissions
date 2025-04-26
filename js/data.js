@@ -1403,7 +1403,7 @@ var data = {
 		{
 			// Fusenryo | Edelcaiah Diving
 			src: ["https://cdn.imgchest.com/files/y8xcnwbgzm4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckvljml7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq8vxmx7.png",
 			title: "Reach for My Hand",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
