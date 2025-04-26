@@ -3573,9 +3573,9 @@ var data = {
 		},
 		{
 			// SINccubi | Eitri
-			src: ["https://cdn.imgchest.com/files/7lxcpgjg3d7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/739cxnbnnq7.png",
-			title: "TBD",
+			src: ["https://cdn.imgchest.com/files/4nec8jxx564.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckxjlnz7.png",
+			title: "His Majesty's Secret Service",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
 			art_url: null,
