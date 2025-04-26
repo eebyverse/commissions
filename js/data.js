@@ -2571,6 +2571,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// misogram | Lucina and Morgan
+			src: ["https://cdn.imgchest.com/files/ye3c2jzwo54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxoab5l7.png",
+			title: "TBD",
+			artist: "misogram",
+			artist_url: "https://www.pixiv.net/en/users/2593",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Mnaflzero | Naoto
 			src: ["https://cdn.imgchest.com/files/4nec8wllb84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck955337.png",
