@@ -2574,11 +2574,11 @@ var data = {
 			// misogram | Lucina and Morgan
 			src: ["https://cdn.imgchest.com/files/ye3c2jzwo54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxoab5l7.png",
-			title: "TBD",
+			title: "Never Again",
 			artist: "misogram",
 			artist_url: "https://www.pixiv.net/en/users/2593",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
+			desc: "Lucina refuses to let history—or the future—repeat itself.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: true
