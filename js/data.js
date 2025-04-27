@@ -2581,7 +2581,7 @@ var data = {
 			desc: "Lucina refuses to let history—or the future—repeat itself.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Mnaflzero | Naoto
