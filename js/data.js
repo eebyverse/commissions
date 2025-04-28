@@ -3949,6 +3949,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Yancy | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/yd5cexvl554.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxlbeal4.png",
+			title: "Lack of Faith",
+			artist: "Yancy",
+			artist_url: "https://bsky.app/profile/yancadoodles.bsky.social",
+			art_url: null,
+			desc: "Faith magic has never been Edelgard's forte.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "edelgard", "micaiah"],
+			hidden: false
+		},
+		{
 			// Yashuring | Loki
 			src: ["https://cdn.imgchest.com/files/45xcvmqq9q7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nz3n2y.png",
