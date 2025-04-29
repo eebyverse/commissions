@@ -3910,6 +3910,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Verdie | Petrine
+			src: ["https://cdn.imgchest.com/files/4jdcvrprrk4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckvqv3e7.png",
+			title: "Ice-Cold Flame",
+			artist: "Verdie",
+			artist_url: "https://bsky.app/profile/ladyverdigris.bsky.social",
+			art_url: null,
+			desc: "General Petrine, of Daein's Four Riders – regarding her next target and conquest with palpable hunger.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Whimsycott | Anna
 			src: ["https://cdn.imgchest.com/files/y8xcnlmxv54.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8waeql4.png",
