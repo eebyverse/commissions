@@ -1350,6 +1350,18 @@ var data = {
 			tags: ["sfw", "anna", "sharena", "gifts_given"],
 			hidden: false
 		},
+		{	// Fusenryo | Azura and Lyn
+			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn9eezn4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/fe-yuri-luvr.bsky.social'>FE Yurl Luvr</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_received"],
+			hidden: true
+		},
 		{	// Fusenryo | Catriagrid
 			src: ["https://cdn.imgchest.com/files/7mmc9g32bo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8onxrd4.png",
@@ -1397,6 +1409,19 @@ var data = {
 			art_url: null,
 			desc: "With Micaiah, Edelgard finds joy rather than fear in every new day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
 			date_str: "Apr 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelcaiah Field
+			src: ["https://cdn.imgchest.com/files/7kzcagdd6n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvn66b67.png",
+			title: "Peace in Chaos",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "May 2025",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
