@@ -1420,7 +1420,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
