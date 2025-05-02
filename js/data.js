@@ -1374,18 +1374,6 @@ var data = {
 			tags: ["sfw", "catria", "other", "gifts_given"],
 			hidden: false
 		},
-		{	// Fusenryo | Edelgard and Flayn
-			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
-			title: "Saint and Sinner",
-			artist: "fusenryo2",
-			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "A glimpse into a timeline where, after learning of their common foe, Flayn resolves to stay with Edelgard – serving as both a moderating force and a ward against the greater evils she knows only too well.",
-			date_str: "Dec 2024",
-			tags: ["sfw", "edelgard", "flayn"],
-			hidden: false
-		},
 		{
 			// Fusenryo | Edelgard and Slurpuff
 			src: ["https://cdn.imgchest.com/files/4z9cv3jwbb7.png"],
@@ -1399,17 +1387,16 @@ var data = {
 			tags: ["sfw", "edelgard", "other", "gifts_received"],
 			hidden: false
 		},
-		{
-			// Fusenryo | Edelcaiah Morning
-			src: ["https://cdn.imgchest.com/files/4apc5kq2z64.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y2pckx38xg7.png",
-			title: "Welcoming Dawn",
+		{	// Fusenryo | Edelgard and Flayn
+			src: ["https://cdn.imgchest.com/files/7bwckjxkgm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcng3n854.png",
+			title: "Saint and Sinner",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "With Micaiah, Edelgard finds joy rather than fear in every new day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
-			date_str: "Apr 2025",
-			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			desc: "A glimpse into a timeline where, after learning of their common foe, Flayn resolves to stay with Edelgard – serving as both a moderating force and a ward against the greater evils she knows only too well.",
+			date_str: "Dec 2024",
+			tags: ["sfw", "edelgard", "flayn"],
 			hidden: false
 		},
 		{
@@ -1422,6 +1409,19 @@ var data = {
 			art_url: null,
 			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "May 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelcaiah Morning
+			src: ["https://cdn.imgchest.com/files/4apc5kq2z64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckx38xg7.png",
+			title: "Welcoming Dawn",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "With Micaiah, Edelgard finds joy rather than fear in every new day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
+			date_str: "Apr 2025",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
