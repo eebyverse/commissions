@@ -1353,11 +1353,11 @@ var data = {
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcn9eezn4.png",
-			title: "TBD",
+			title: "Depths of Our Love",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/fe-yuri-luvr.bsky.social'>FE Yurl Luvr</a></strong>.",
+			desc: "The ocean is one of Mother Earth's greatest gifts – as Lyn learns through loving Azura.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/fe-yuri-luvr.bsky.social'>FE Yurl Luvr</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: true
