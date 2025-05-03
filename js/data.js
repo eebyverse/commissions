@@ -1360,7 +1360,7 @@ var data = {
 			desc: "The ocean is one of Mother Earth's greatest gifts – as Lyn learns through loving Azura.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/fe-yuri-luvr.bsky.social'>FE Yurl Luvr</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "other", "gifts_received"],
-			hidden: true
+			hidden: false
 		},
 		{	// Fusenryo | Catriagrid
 			src: ["https://cdn.imgchest.com/files/7mmc9g32bo7.png"],
