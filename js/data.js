@@ -2843,6 +2843,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Lissa
+			src: ["https://cdn.imgchest.com/files/yvdcw8bkm6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceozav54.png",
+			title: "Impure Joy",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "Lissa can't help but feel she wears Tharja's cloak well.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Motoiwork | V'rhaka
 			src: ["https://cdn.imgchest.com/files/7pjcqmvn8b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nj9lwy.png",
