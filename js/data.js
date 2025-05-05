@@ -2852,7 +2852,7 @@ var data = {
 			art_url: null,
 			desc: "Lissa can't help but feel she wears Tharja's cloak well.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>.",
 			date_str: "May 2025",
-			tags: ["sfw", "other", "gifts_given"],
+			tags: ["nsfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
