@@ -2578,7 +2578,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
 			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
-			date_str: "Oct 2022",
+			date_str: "Sep 2022",
 			tags: ["nsfw", "catria", "other", "collab"],
 			hidden: false
 		},
