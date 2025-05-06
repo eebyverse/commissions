@@ -1972,6 +1972,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// kishiro_az | Yukari
+			src: ["https://cdn.imgchest.com/files/7mmc9mlaln7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc26pn6my.png",
+			title: "Youkai of Boundaries",
+			artist: "kishiro_az",
+			artist_url: "https://skeb.jp/@kishiro_az",
+			art_url: null,
+			desc: "Yukari Yakumo – she who manipulates boundaries.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/photonmarie.bsky.social'>Marie</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Kisi | Ingrid
 			src: ["https://cdn.imgchest.com/files/49zc2k9rljy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckae85q7.png",
