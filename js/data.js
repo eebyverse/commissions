@@ -1975,7 +1975,7 @@ var data = {
 			// kishiro_az | Yukari
 			src: ["https://cdn.imgchest.com/files/7mmc9mlaln7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc26pn6my.png",
-			title: "Youkai of Boundaries",
+			title: "Boundless Youkai",
 			artist: "kishiro_az",
 			artist_url: "https://skeb.jp/@kishiro_az",
 			art_url: null,
