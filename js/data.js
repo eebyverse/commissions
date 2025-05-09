@@ -1157,6 +1157,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Eeby and Annette
+			src: ["https://cdn.imgchest.com/files/46acq9w2dw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq9r3eo7.png",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Feb 2024",
+			tags: ["nsfw", "eeby", "annette", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Evo | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/4jdcvzjerp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9d3zwy.png",
@@ -1475,6 +1488,19 @@ var data = {
 			desc: "Eeby should know better than to go alone to a nightclub on the wrong side of town... but once she's there, she finds it <em>very</em> hard to leave.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eeby", "annette", "collab"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eeby + Annette
+			src: ["https://cdn.imgchest.com/files/4gdcx8e6zw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc26xq56y.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "eeby", "annette", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2258,7 +2284,20 @@ var data = {
 			hidden: false
 		},
 		{
-			// lightgamein | Eeby
+			// lightgamein | Ayra
+			src: ["https://cdn.imgchest.com/files/7mmc9mjdx97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczda6lm7.png",
+			title: "Emanator of Od",
+			artist: "lightgamein",
+			artist_url: "https://skeb.jp/@lightgamein",
+			art_url: null,
+			desc: "Ayra of Isaach, dressed in an outfit from across the stars...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// lightgamein | Fie and Rixia
 			src: ["https://cdn.imgchest.com/files/7ogcb8xozgy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpgx8bg7.png",
 			title: "Flash of Silver",
@@ -2853,6 +2892,19 @@ var data = {
 			desc: "Annette Dominic, highest achiever and valedictorian of her biochemistry class, was always destined for greater things. Few of her former classmates understand, then, why TWISTED—a seedy nightclub owned by Cornelia Armin, rumoured even to have ties to the controversial and cult-like Agartha Advancements—has recently become her sole domain... or why, from her dress sense to her personality, she seems so <em>changed</em>.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "annette", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Eeby
+			src: ["https://cdn.imgchest.com/files/4z9cvmr6p87.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvmr62q7.png",
+			title: "TBD",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
