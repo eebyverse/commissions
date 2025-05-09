@@ -968,7 +968,7 @@ var data = {
 			title: "Sugar and Spice",
 			artist: "DreamSnydd",
 			artist_url: "https://bsky.app/profile/dreamsynddart.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lazjstslac2q",
 			desc: "For all the bitter history between Ylisse and Plegia, Lissa's cheer and charisma—coupled with some persistence—reaches even Tharja's distant and guarded heart.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2024",
 			tags: ["sfw", "other", "collab"],
