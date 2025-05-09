@@ -1198,7 +1198,7 @@ var data = {
 		{
 			// Evo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/7w6c2n6va3y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yxkczxvqvw7.png",
+			thumbnail: "https://cdn.imgchest.com/files/y2pckazqq67.png",
 			title: "No Going Back",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
