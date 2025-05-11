@@ -2648,6 +2648,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// minorudonguri | Joker and Lucina
+			src: ["https://cdn.imgchest.com/files/45xcvneram7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw865xey.png",
+			title: "Coffee Break",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "On her first visit to Ren's home, Lucina receives a cup of Leblanc's finest.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// misogram | Lucina and Morgan
 			src: ["https://cdn.imgchest.com/files/ye3c2jzwo54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxoab5l7.png",
@@ -2879,6 +2892,19 @@ var data = {
 			desc: "Eebeebi, Y'bele, Franine, and the warrior now known only as the voidsent Stolas – shards of Demeter, each as <em>unique</em> as the rest.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Anna
+			src: ["https://cdn.imgchest.com/files/4gdcx8n63d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckn6ewl7.png",
+			title: "Savvy and Stylish",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "A young Anna both studying and selling in Zenith City. Though her grades leave something to be desired, her skills as a merchant are beyond her years.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "anna", "collab"],
 			hidden: false
 		},
 		{
@@ -3307,6 +3333,19 @@ var data = {
 			art_url: "https://x.com/RotomDocs/status/1754893237008134580",
 			desc: "As Meg knows well, fitness is more than just appearances.",
 			date_str: "Feb 2024",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Rotomdocs | Edea
+			src: ["https://cdn.imgchest.com/files/y8xcn9pjax4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvmd6qv7.png",
+			title: "Eternian Summer",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: "https://bsky.app/profile/rotomdocs.bsky.social/post/3louipep2oc2f",
+			desc: "Edea, more than most, knows how to stay fashionaaabluh under the sun.",
+			date_str: "May 2025",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
