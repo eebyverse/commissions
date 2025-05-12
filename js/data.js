@@ -2923,7 +2923,7 @@ var data = {
 		{
 			// Motoiwork | Aurelia
 			src: ["https://cdn.imgchest.com/files/7kzcagx3z27.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7kzcagx3ke7.png",
+			thumbnail: "https://cdn.imgchest.com/files/739cx8k3kq7.png",
 			title: "Golden Ray",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
