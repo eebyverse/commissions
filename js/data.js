@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "agnes", "anna", "annette", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -2918,6 +2918,19 @@ var data = {
 			desc: "Annette Dominic, highest achiever and valedictorian of her biochemistry class, was always destined for greater things. Few of her former classmates understand, then, why TWISTED—a seedy nightclub owned by Cornelia Armin, rumoured even to have ties to the controversial and cult-like Agartha Advancements—has recently become her sole domain... or why, from her dress sense to her personality, she seems so <em>changed</em>.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "annette", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Aurelia
+			src: ["https://cdn.imgchest.com/files/7kzcagx3z27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcagx3ke7.png",
+			title: "Golden Ray",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3loyi5yur3c2o",
+			desc: "Aurelia Strahl Altina – heir apparent to the kingdom of Daein, and daughter to Queen Micaiah and her most trusted companion.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{
