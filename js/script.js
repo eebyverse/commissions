@@ -287,6 +287,7 @@ function translateWord(word) {
 		shamir: "👤 Shamir",
 		grima: "👤 Grima",
 		agnes: "👤 Agnès",
+		aurelia: "👤 Aurelia",
 		other: "👤 Other/Misc"
 	};
 	if (word in translations) {
