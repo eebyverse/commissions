@@ -2544,6 +2544,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mason | Est
+			src: ["https://cdn.imgchest.com/files/7pjcq9dvkn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvm3o6w4.png",
+			title: "School's Out",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3lp2tbrmqqc27",
+			desc: "Est, ready for the road after a long day of school – and on her way to meet a special someone.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Mason | Mitama and Red Panda
 			src: ["https://cdn.imgchest.com/files/yd5ce93dr64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pck3a8oe7.png",
