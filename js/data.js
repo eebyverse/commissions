@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "request", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "request", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -1384,7 +1384,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Oct 2024",
-			tags: ["sfw", "catria", "other", "gifts_given"],
+			tags: ["sfw", "catria", "ingrid", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -1907,7 +1907,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Kalycoris | Camilla
+			// Kalycoris | Catria and Ingrid
 			src: ["https://cdn.imgchest.com/files/739cx5gaqp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca8km3m7.png",
 			title: "Good Cop",
@@ -1916,7 +1916,7 @@ var data = {
 			art_url: null,
 			desc: "Far from unsettling their relationship, the discovery of the Whitewings' true identities only brings Ingrid and Catria closer together in shared confidence and secrecy – even as Ingrid grapples with her duties to the law, and as Catria delights in teasing the 'good officer' on the job.",
 			date_str: "Dec 2021",
-			tags: ["sfw", "catria", "other"],
+			tags: ["sfw", "catria", "ingrid"],
 			hidden: false
 		},
 		{
@@ -2020,7 +2020,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Aug 2024",
-			tags: ["sfw", "other", "gifts_given"],
+			tags: ["sfw", "ingrid", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -2631,7 +2631,7 @@ var data = {
 			art_url: null,
 			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Sep 2022",
-			tags: ["nsfw", "catria", "other", "collab"],
+			tags: ["nsfw", "catria", "ingrid", "collab"],
 			hidden: false
 		},
 		{
@@ -3074,6 +3074,19 @@ var data = {
 			desc: "Loki takes special measures to secure her new identity.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "caeda", "loki", "collab"],
+			hidden: false
+		},
+		{
+			// Nico_Artooo | Catria and Ingrid
+			src: ["https://cdn.imgchest.com/files/yxkczd6zpl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnvpnxg4.png",
+			title: "TBD",
+			artist: "Nico_Artooo",
+			artist_url: "https://x.com/Nico_Artooo",
+			art_url: "https://x.com/NessuDraws/status/1661024195600416768",
+			desc: "With Officer Galatea, Catria puts concerningly little effort into resisting arrest...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "Jul 2024",
+			tags: ["nsfw", "catria", "ingrid", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -3762,7 +3775,7 @@ var data = {
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
 			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Apr 2023",
-			tags: ["sfw", "catria", "other", "collab"],
+			tags: ["sfw", "catria", "ingrid", "collab"],
 			hidden: false
 		},
 		{
