@@ -289,7 +289,7 @@ function translateWord(word) {
 		agnes: "👤 Agnès",
 		aurelia: "👤 Aurelia",
 		other: "👤 Other/Misc",
-		request: "📄 Requests"
+		request: "🗳️ Requests"
 	};
 	if (word in translations) {
 		return translations[word];
