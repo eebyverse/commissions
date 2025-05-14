@@ -3080,13 +3080,13 @@ var data = {
 			// Nico_Artooo | Catria and Ingrid
 			src: ["https://cdn.imgchest.com/files/yxkczd6zpl7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnvpnxg4.png",
-			title: "TBD",
+			title: "Full Compliance",
 			artist: "Nico_Artooo",
 			artist_url: "https://x.com/Nico_Artooo",
 			art_url: "https://x.com/NessuDraws/status/1661024195600416768",
 			desc: "With Officer Galatea, Catria puts concerningly little effort into resisting arrest...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Jul 2024",
-			tags: ["nsfw", "catria", "ingrid", "gifts_received"],
+			tags: ["sfw", "catria", "ingrid", "gifts_received"],
 			hidden: false
 		},
 		{
