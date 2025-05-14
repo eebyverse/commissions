@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "request", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -243,7 +243,7 @@ var data = {
 			art_url: null,
 			desc: "More than anything else, Annette appreciates the freedom her new uniform offers her over the stifling restraints of a dress.<br/><br/>Unpaid stream request.",
 			date_str: "Aug 2022",
-			tags: ["sfw", "annette", "gifts_received"],
+			tags: ["sfw", "annette", "request"],
 			hidden: false
 		},
 		{
@@ -1799,7 +1799,7 @@ var data = {
 			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lgrqwmbk5c2t",
 			desc: "With some encouragement from Veyle, Flayn lands a tasty dinner.<br/><br/>Unpaid sketch request.",
 			date_str: "Jan 2025",
-			tags: ["sfw", "flayn", "veyle", "gifts_received"],
+			tags: ["sfw", "flayn", "veyle", "request"],
 			hidden: false
 		},
 		{
@@ -1812,7 +1812,7 @@ var data = {
 			art_url: "https://x.com/JebbeeSketches/status/1693196278040240457",
 			desc: "Edelgard knows that Micaiah's kindness—her selfless, boundless compassion—can never be repaid... but she tries, all the same.<br/><br/>Unpaid sketch request.",
 			date_str: "Aug 2023",
-			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			tags: ["sfw", "micaiah", "edelgard", "request"],
 			hidden: false
 		},
 		{
@@ -1825,7 +1825,7 @@ var data = {
 			art_url: "https://x.com/JebbeeSketches/status/1707346111265227136",
 			desc: "Few were surprised, given all they had in common, when Lianna and Sharena took to each other like lifelong friends.<br/><br/>Unpaid sketch request.",
 			date_str: "Sep 2023",
-			tags: ["sfw", "lianna", "sharena", "gifts_received"],
+			tags: ["sfw", "lianna", "sharena", "request"],
 			hidden: false
 		},
 		{
@@ -1838,7 +1838,7 @@ var data = {
 			art_url: "https://x.com/JebbeeSketches/status/1714267215380578771",
 			desc: "Through serving Micaiah, Fiona's loyalty to her country takes on new form and life.<br/><br/>Unpaid sketch request.",
 			date_str: "Oct 2023",
-			tags: ["sfw", "micaiah", "other", "gifts_received"],
+			tags: ["sfw", "micaiah", "other", "request"],
 			hidden: false
 		},
 		{
@@ -1851,7 +1851,7 @@ var data = {
 			art_url: "https://x.com/JebbeeSketches/status/1779923272702079265",
 			desc: "A very lucky fan gets the chance to perform alongside Olivia.<br/><br/>Unpaid sketch request.",
 			date_str: "Apr 2024",
-			tags: ["sfw", "other", "gifts_received"],
+			tags: ["sfw", "other", "request"],
 			hidden: false
 		},
 		{
@@ -2111,7 +2111,7 @@ var data = {
 			art_url: null,
 			desc: "Rosalin Glass – daughter to a rare friendly hag known affectionately by the locals of neighbouring Greenburrow as Mama Glass, and a fledgling herbalist and healer who knows how to work ancient remedies in ways that rival even the latest and greatest modern medicines.<br/><br/>Her constant companion, Mr Froggy, was animated by her mother out of the pages of her favourite childhood storybook – and though his coarse manner and tendency to nag and fret sometimes put them at odds, his care and concern for her has never once been in doubt.<br/><br/>Unpaid r/characterdrawing request.",
 			date_str: "Jun 2022",
-			tags: ["sfw", "other", "gifts_received"],
+			tags: ["sfw", "other", "request"],
 			hidden: false
 		},
 		{
