@@ -1790,6 +1790,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Jebbee | Aurelia
+			src: ["https://cdn.imgchest.com/files/y2pcknjlko7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c38xmkn4.png",
+			title: "Time for Tea",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lp7i7bxskc2t",
+			desc: "Aurelia Strahl Altina extends you a special invitation.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Jebbee | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/yd5ce36k934.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv35ajr7.png",
