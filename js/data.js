@@ -3414,6 +3414,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Rotomdocs | Aurelia
+			src: ["https://cdn.imgchest.com/files/7pjcq9eenp7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2lkkgr4.png",
+			title: "Eternian Summer",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: true
+		},
+		{
 			// Rotomdocs | Edea
 			src: ["https://cdn.imgchest.com/files/y8xcn9pjax4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvmd6qv7.png",
