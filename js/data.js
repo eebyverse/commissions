@@ -572,6 +572,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Sharena, Micaiah, and Laura
+			src: ["https://cdn.imgchest.com/files/y8xcn9ropd4.png", "https://cdn.imgchest.com/files/45xcvnox9a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvm25ke7.png",
+			title: "TBD",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "May 2025",
+			tags: ["nsfw", "laura", "sharena", "micaiah"],
+			hidden: true
+		},
+		{
 			// Decox | Soleil and Lute
 			src: ["https://cdn.imgchest.com/files/4jdcvw8wvj4.png", "https://cdn.imgchest.com/files/yd5cezpzeg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2m5meky.png",
@@ -1362,6 +1375,18 @@ var data = {
 			date_str: "Dec 2024",
 			tags: ["sfw", "anna", "sharena", "gifts_given"],
 			hidden: false
+		},
+		{	// Fusenryo | Aurelia
+			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2lkmdm4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia", "collab"],
+			hidden: true
 		},
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
