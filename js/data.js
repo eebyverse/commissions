@@ -581,7 +581,7 @@ var data = {
 			art_url: null,
 			desc: "Laura and Micaiah's plans for a quiet day by the sea are pulled off course by Sharena's... infectious enthusiasm.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "May 2025",
-			tags: ["nsfw", "laura", "sharena", "micaiah"],
+			tags: ["nsfw", "laura", "sharena", "micaiah", "collab"],
 			hidden: false
 		},
 		{
