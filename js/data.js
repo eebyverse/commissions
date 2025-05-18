@@ -575,14 +575,14 @@ var data = {
 			// Decox | Sharena, Micaiah, and Laura
 			src: ["https://cdn.imgchest.com/files/y8xcn9ropd4.png", "https://cdn.imgchest.com/files/45xcvnox9a7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvm25ke7.png",
-			title: "TBD",
+			title: "Change of Plans",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "Laura and Micaiah's plans for a quiet day by the sea are pulled off course by Sharena's... infectious enthusiasm.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "May 2025",
 			tags: ["nsfw", "laura", "sharena", "micaiah"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Decox | Soleil and Lute
@@ -1379,14 +1379,14 @@ var data = {
 		{	// Fusenryo | Aurelia
 			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2lkmdm4.png",
-			title: "TBD",
+			title: "Where Absence Sits",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			desc: "Aurelia never drinks alone without pouring a second cup – saving a place for the one she misses most.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "aurelia", "collab"],
-			hidden: true
+			hidden: false
 		},
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
@@ -3417,14 +3417,14 @@ var data = {
 			// Rotomdocs | Aurelia
 			src: ["https://cdn.imgchest.com/files/7pjcq9eenp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2lkkgr4.png",
-			title: "Eternian Summer",
+			title: "Summer's Dawn",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Aurelia Strahl Altina – enjoying both sunshine and shade.",
 			date_str: "May 2025",
 			tags: ["sfw", "aurelia"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Rotomdocs | Edea
