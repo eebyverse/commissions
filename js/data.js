@@ -2513,7 +2513,7 @@ var data = {
 			art_url: "https://bsky.app/profile/spiceeby.bsky.social/post/3lpjl6eesos2y",
 			desc: "Recognising Veyle's inexperience, Flayn takes it upon herself to teach her everything she's learned over a thousand years...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "May 2025",
-			tags: ["nsfw", "flayn", "veyle", "collabs"],
+			tags: ["nsfw", "flayn", "veyle", "collab"],
 			hidden: false
 		},
 		{
