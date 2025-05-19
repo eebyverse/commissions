@@ -578,7 +578,7 @@ var data = {
 			title: "Change of Plans",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/spiceeby.bsky.social/post/3lphlki33fs2o",
 			desc: "Laura and Micaiah's plans for a quiet day by the sea are pulled off course by Sharena's... infectious enthusiasm.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "May 2025",
 			tags: ["nsfw", "laura", "sharena", "micaiah", "collab"],
@@ -829,6 +829,19 @@ var data = {
 			desc: "The sweetest Heroes have always made for the most effective guises.",
 			date_str: "Jan 2023",
 			tags: ["sfw", "caeda", "loki"],
+			hidden: false
+		},
+		{
+			// Deepspace | Eeby
+			src: ["https://cdn.imgchest.com/files/7kzca5pj5o7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2avzjz4.png",
+			title: "Spellbound",
+			artist: "DeepSpace",
+			artist_url: "https://x.com/DeepSpaceNSFW",
+			art_url: null,
+			desc: "At a trickster's behest, the summoner finds herself caught in a bind...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			date_str: "May 2025",
+			tags: ["extreme", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2491,6 +2504,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Madras | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/45xcvdarno7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvoqbng7.png",
+			title: "Hands That Know",
+			artist: "Madras",
+			artist_url: "https://x.com/AnotherMadras",
+			art_url: "https://bsky.app/profile/spiceeby.bsky.social/post/3lpjl6eesos2y",
+			desc: "Recognising Veyle's inexperience, Flayn takes it upon herself to teach her everything she's learned over a thousand years...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "May 2025",
+			tags: ["nsfw", "flayn", "veyle", "collabs"],
+			hidden: false
+		},
+		{
 			// Magnifire | Eeby 1
 			src: ["https://cdn.imgchest.com/files/4apc5dd2rw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkkeeo4.png",
@@ -3810,7 +3836,7 @@ var data = {
 			title: "His Majesty's Secret Service",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
-			art_url: null,
+			art_url: "https://x.com/SINccubi/status/1920916687278293502",
 			desc: "After a few thousand years apart, Eitri makes sure to savor <em>every</em> moment of her long-awaited reunion...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mrtalkingdino.bsky.social'>Mr.TalkingDinosaur</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["nsfw", "other", "collab"],
