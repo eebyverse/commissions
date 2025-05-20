@@ -1517,19 +1517,6 @@ var data = {
 		},
 		{
 			// Fusenryo | Eeby + Annette
-			src: ["https://cdn.imgchest.com/files/y2pckxnbva7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcvrmqze4.png",
-			title: "Fatal Attraction",
-			artist: "fusenryo2",
-			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "Eeby should know better than to go alone to a nightclub on the wrong side of town... but once she's there, she finds it <em>very</em> hard to leave.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "Apr 2025",
-			tags: ["sfw", "eeby", "annette", "collab"],
-			hidden: false
-		},
-		{
-			// Fusenryo | Eeby + Annette
 			src: ["https://cdn.imgchest.com/files/4gdcx8e6zw4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc26xq56y.png",
 			title: "New Toy",
@@ -1539,6 +1526,19 @@ var data = {
 			desc: "Annette picks out a birthday gift for herself.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "eeby", "annette", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eeby + Annette
+			src: ["https://cdn.imgchest.com/files/y2pckxnbva7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvrmqze4.png",
+			title: "Fatal Attraction",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Eeby should know better than to go alone to a nightclub on the wrong side of town... but once she's there, she finds it <em>very</em> hard to leave.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Apr 2025",
+			tags: ["sfw", "eeby", "annette", "collab"],
 			hidden: false
 		},
 		{
@@ -1552,6 +1552,19 @@ var data = {
 			desc: "Eeby's fondness for two fellow postgrads doesn't go unnoticed – and when they both catch her drinking alone one night, they decide together to indulge her interest...",
 			date_str: "Nov 2024",
 			tags: ["sfw", "micaiah", "edelgard", "eeby"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Eeby and Ember
+			src: ["https://cdn.imgchest.com/files/7bwckxam387.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn3ezva4.png",
+			title: "Held",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lplwmpanp22o",
+			desc: "In Ember's arms, Eeby finds just what she needs.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "eeby", "other", "gifts_given"],
 			hidden: false
 		},
 		{
