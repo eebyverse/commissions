@@ -3377,8 +3377,8 @@ var data = {
 		{
 			// Redkite | Micaiah and Laura
 			src: ["https://cdn.imgchest.com/files/ye3c2awo8d4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yxkczrvjqn7.png",
-			title: "Where Water Glows",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9vqqao7.png",
+			title: "Where the Water Glows",
 			artist: "RedKite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1925163371688816650",
