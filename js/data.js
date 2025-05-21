@@ -228,7 +228,7 @@ var data = {
 			artist: "Cios",
 			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
 			art_url: null,
-			desc: "> Micaiah knows that Edelgard probably didn't <em>mean</em> to leave her jacket behind in her dorm... but, at least for tonight, she's in no rush to return it.",
+			desc: "Micaiah knows that Edelgard probably didn't <em>mean</em> to leave her jacket behind in her dorm... but, at least for tonight, she's in no rush to return it.",
 			date_str: "May 2025",
 			tags: ["nsfw", "micaiah"],
 			hidden: false
