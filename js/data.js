@@ -3527,7 +3527,7 @@ var data = {
 			art_url: null,
 			desc: "Veyle, focused and flourishing.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
 			date_str: "May 2025",
-			tags: ["sfw", "flayn", "gifts_received"],
+			tags: ["sfw", "veyle", "gifts_received"],
 			hidden: false
 		},
 		{
