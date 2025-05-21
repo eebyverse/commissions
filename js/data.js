@@ -221,6 +221,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Cios | Micaiah
+			src: ["https://cdn.imgchest.com/files/yrgcngbko34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2l6nzry.png",
+			title: "Almost Her",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "> Micaiah knows that Edelgard probably didn't <em>mean</em> to leave her jacket behind in her dorm... but, at least for tonight, she's in no rush to return it.",
+			date_str: "May 2025",
+			tags: ["nsfw", "micaiah"],
+			hidden: false
+		},
+		{
 			// Cios | Tana
 			src: ["https://cdn.imgchest.com/files/4jdcv2qkl54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczv9b8o7.png",
@@ -3362,6 +3375,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Redkite | Micaiah and Laura
+			src: ["https://cdn.imgchest.com/files/ye3c2awo8d4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczrvjqn7.png",
+			title: "Where Water Glows",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1925163371688816650",
+			desc: "In the quiet deep, Laura and Micaiah find themselves surrounded by both light and life.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "micaiah", "laura", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Redkite | Shamir and Kiria
 			src: ["https://cdn.imgchest.com/files/7bwckg3wb27.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczjva2o7.png",
@@ -3492,8 +3518,21 @@ var data = {
 			hidden: false
 		},
 		{
+			// Rotomdocs | Veyle
+			src: ["https://cdn.imgchest.com/files/739cxo2bjd7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvoj3k97.png",
+			title: "Good Dragon",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: null,
+			desc: "Veyle, focused and flourishing.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "flayn", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Roychan | Caeda and Kris
-			src: ["https://cdn.imgchest.com/files/yq9c3aelbo4.png"],
+			src: ["https://cdn.imgchest.com/files/4z9cvoj3k97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbz37.png",
 			title: "A Royal Reward",
 			artist: "Roychan",
