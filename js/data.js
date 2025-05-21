@@ -3519,8 +3519,8 @@ var data = {
 		},
 		{
 			// Rotomdocs | Veyle
-			src: ["https://cdn.imgchest.com/files/739cxo2bjd7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cvoj3k97.png",
+			src: ["https://cdn.imgchest.com/files/4z9cvoj3k97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2l6nvry.png",
 			title: "Good Dragon",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
