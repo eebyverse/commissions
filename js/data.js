@@ -3038,7 +3038,7 @@ var data = {
 		},
 		{
 			// Motoiwork | Joella
-			src: ["https://cdn.imgchest.com/files/7kzcagx3z27.png"],
+			src: ["https://cdn.imgchest.com/files/4apc5g3kp64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3gepj24.png",
 			title: "From Distant Skies",
 			artist: "motoiwork",
