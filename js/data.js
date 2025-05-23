@@ -3037,6 +3037,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Joella
+			src: ["https://cdn.imgchest.com/files/7kzcagx3z27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3gepj24.png",
+			title: "From Distant Skies",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "Joella – once a soldier of the future, now a lone mercenary in the past. Out of place but never out of purpose, she fights for others while searching for her own way forward.<br/><br/>Gift for <strong><a href='https://x.com/JollyOldSoldier'>JollyOldSoldier</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Motoiwork | Eeby
 			src: ["https://cdn.imgchest.com/files/4z9cvmr6p87.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvmr62q7.png",
