@@ -2387,6 +2387,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// lightgamein | Embla and Nel
+			src: ["https://cdn.imgchest.com/files/4jdcvn6erm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2agql84.png",
+			title: "Two Vows",
+			artist: "lightgamein",
+			artist_url: "https://skeb.jp/@lightgamein",
+			art_url: null,
+			desc: "Two brides—one stoic, and one solitary—both offer tokens of love.<br/><br/>Gift for <strong><a href='https://x.com/AstraArcos'>Arcos</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LouiseArina | Anna
 			src: ["https://cdn.imgchest.com/files/yd5cezpkgn4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnkzgvr4.png",
