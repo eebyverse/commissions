@@ -52,6 +52,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Argilla | Aurelia
+			src: ["https://cdn.imgchest.com/files/yxkczrkxvn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwvg9aly.png",
+			title: "Burning Quietly",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: null,
+			desc: "Aurelia wears charm and certainty like armour – but all the while, the question of who she ought to be simmers just beneath the surface.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Argilla | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7ogcbp5b89y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kw2oly.png",
