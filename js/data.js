@@ -3026,12 +3026,25 @@ var data = {
 		{
 			// Motoiwork | Anna
 			src: ["https://cdn.imgchest.com/files/4gdcx8n63d4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y2pckn6ewl7.png",
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3gwrz24.png",
 			title: "Savvy and Stylish",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
 			desc: "A young Anna both studying and selling in Zenith City. Though her grades leave something to be desired, her skills as a merchant are beyond her years.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "anna", "collab"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Ylgr
+			src: ["https://cdn.imgchest.com/files/4gdcx56bw94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq53em57.png",
+			title: "TBD",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "anna", "collab"],
 			hidden: false
