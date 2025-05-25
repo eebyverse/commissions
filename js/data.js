@@ -3046,8 +3046,8 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "May 2025",
-			tags: ["sfw", "anna", "collab"],
-			hidden: false
+			tags: ["sfw", "ylgr", "collab"],
+			hidden: true
 		},
 		{
 			// Motoiwork | Annette
