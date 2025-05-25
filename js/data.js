@@ -3040,14 +3040,14 @@ var data = {
 			// Motoiwork | Ylgr
 			src: ["https://cdn.imgchest.com/files/4gdcx56bw94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcq53em57.png",
-			title: "TBD",
+			title: "Silent Snowfall",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			desc: "Though still just a child, Ylgr carries more than her share of sorrow – the loss of both her mother and oldest sister still heavy in her heart.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "ylgr", "collab"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Motoiwork | Annette
