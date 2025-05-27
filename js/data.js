@@ -1430,7 +1430,7 @@ var data = {
 		},
 		{	// Fusenryo | Aurelia
 			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2lkmdm4.png",
+			thumbnail: "https://cdn.imgchest.com/files/7kzca2pnxq7.png",
 			title: "Where Absence Sits",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
