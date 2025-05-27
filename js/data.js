@@ -2825,7 +2825,7 @@ var data = {
 			art_url: "https://x.com/Mnejing30/status/1927124679048794332",
 			desc: "Ash joins in with the rest of her herd.",
 			date_str: "May 2025",
-			tags: ["sfw", "camilla"],
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
