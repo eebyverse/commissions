@@ -481,6 +481,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Aurelia
+			src: ["https://cdn.imgchest.com/files/46acqwlzk57.png", "https://cdn.imgchest.com/files/4apc5x9bgq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8az5av4.png",
+			title: "Her Smile, Her Silence",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "The future queen of Daein, cast in shades of light and dark—of radiance, and of regret.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Darkness | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/7pjcqxqv667.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgklbo7.png",
