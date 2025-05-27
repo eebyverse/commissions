@@ -2816,6 +2816,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Ash
+			src: ["https://cdn.imgchest.com/files/4z9cvrq8rl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczapjov7.png",
+			title: "Mooving Around",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1927124679048794332",
+			desc: "Ash joins in with the rest of her herd.",
+			date_str: "May 2025",
+			tags: ["sfw", "camilla"],
+			hidden: false
+		},
+		{
 			// Mnejing | Camilla
 			src: ["https://cdn.imgchest.com/files/4nec8o58eo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw96ra8y.png",
