@@ -169,6 +169,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Bad Frog | Aurelia
+			src: ["https://cdn.imgchest.com/files/4z9cvre2687.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxwel2e7.png",
+			title: "Twofold",
+			artist: "Bad Frog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "Amidst light and dark, Aurelia dances.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Bad Frog | Io
 			src: ["https://cdn.imgchest.com/files/46acqav99r7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvwzm3e4.png",
