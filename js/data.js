@@ -1750,6 +1750,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gzei | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/4gdcxew8og4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvrjmkb7.png",
+			title: "Vows I Know Will Be Betrayed",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3lqe4ysubwk27",
+			desc: "From the Day of Devotion to the Bridal Festival, Edelgard lets herself believe—for flickering instants—in a life beyond her destined end.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/vanil-la.bsky.social'>Vanil</a></strong>.",
+			date_str: "May 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Hana Mina | Eeby, Mira, Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/45xcvgk3ng7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvrw9xe4.png",
