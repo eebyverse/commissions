@@ -3115,7 +3115,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Motoiwork | Aurelia
+			// Motoiwork | Aurelia 1
 			src: ["https://cdn.imgchest.com/files/7kzcagx3z27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cx8k3kq7.png",
 			title: "Golden Ray",
@@ -3123,6 +3123,19 @@ var data = {
 			artist_url: "https://x.com/motoiwork",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3loyi5yur3c2o",
 			desc: "Aurelia Strahl Altina – heir apparent to the kingdom of Daein, and daughter to Queen Micaiah and her most trusted companion.",
+			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Aurelia 2
+			src: ["https://cdn.imgchest.com/files/4gdcxe8gv54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c26lepj4.png",
+			title: "Hint of Red",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqi2bnceok2z",
+			desc: "When magical practice offers a break from stifling formality, Aurelia opts for something freer, bolder... and tailored in just the right way to invite a second glance.",
 			date_str: "May 2025",
 			tags: ["sfw", "aurelia"],
 			hidden: false
