@@ -3129,7 +3129,7 @@ var data = {
 		},
 		{
 			// Motoiwork | Aurelia 2
-			src: ["https://cdn.imgchest.com/files/4gdcxe8gv54.png"],
+			src: ["https://cdn.imgchest.com/files/7lxcpln9q37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c26lepj4.png",
 			title: "Hint of Red",
 			artist: "motoiwork",
