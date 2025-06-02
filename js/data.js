@@ -1455,7 +1455,7 @@ var data = {
 		},
 		{	// Fusenryo | Aurelia and Adina
 			src: ["https://cdn.imgchest.com/files/7pjcqrwxeo7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckwd36e7.png",
+			thumbnail: "https://cdn.imgchest.com/files/7kzca2b9az7.png",
 			title: "Brewing Desire",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
