@@ -1454,16 +1454,16 @@ var data = {
 			hidden: false
 		},
 		{	// Fusenryo | Aurelia and Adina
-			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/45xcv3a8bz7.png",
+			src: ["https://cdn.imgchest.com/files/7pjcqrwxeo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckwd36e7.png",
 			title: "Brewing Desire",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Invited to Daein Keep from her small but celebrated tea shop in Nevassa, Adina comes offering her finest blends for the royal family... only to find the princess far more interested in sampling <em>her</em>.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
+			desc: "Invited to Daein Keep from her small but celebrated tea shop in Nevassa, Adina comes offering her finest blends for the royal family... only to find the princess far more interested in sampling <em>her</em>.<br/><br/>Collab with <strong><a href='https://x.com/AgbayaniHiro'>Hiro Agbayani</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "aurelia", "other", "collab"],
-			hidden: true
+			hidden: false
 		},
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
