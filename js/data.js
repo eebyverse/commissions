@@ -1460,7 +1460,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lphlpcymz22o",
-			desc: "<em>Oh, my little bird... If only I had a little longer, that I might see you soar.</em><br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			desc: "<em>Oh, my little bird... If only I had a little longer, that I might see you soar.</em>",
 			date_str: "Jun 2025",
 			tags: ["sfw", "aurelia", "edelgard"],
 			hidden: false
