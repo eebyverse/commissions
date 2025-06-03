@@ -1456,7 +1456,7 @@ var data = {
 		{	// Fusenryo | Aurelia and Edelgard
 			src: ["https://cdn.imgchest.com/files/yq9c3mvlvo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnmq5p94.png",
-			title: "TBD",
+			title: "A Quiet Goodbye",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lphlpcymz22o",
