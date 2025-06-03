@@ -1453,13 +1453,25 @@ var data = {
 			tags: ["sfw", "aurelia", "collab"],
 			hidden: false
 		},
+		{	// Fusenryo | Aurelia and Edelgard
+			src: ["https://cdn.imgchest.com/files/yq9c3mvlvo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnmq5p94.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lphlpcymz22o",
+			desc: "<em>Oh, my little bird... If only I had a little longer, that I might see you soar.</em><br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "aurelia", "edelgard"],
+			hidden: false
+		},
 		{	// Fusenryo | Aurelia and Adina
 			src: ["https://cdn.imgchest.com/files/7pjcqrwxeo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca2b9az7.png",
 			title: "Brewing Desire",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
 			desc: "Invited to Daein Keep from her small but celebrated tea shop in Nevassa, Adina comes offering her finest blends for the royal family... only to find the princess far more interested in sampling <em>her</em>.<br/><br/>Collab with <strong><a href='https://x.com/AgbayaniHiro'>Hiro Agbayani</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "aurelia", "other", "collab"],
@@ -2708,6 +2720,19 @@ var data = {
 			desc: "Eebeebi and V'rhaka – two friends as eccentric as they are extraordinary.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Apr 2025",
 			tags: ["sfw", "eebeebi", "other", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Mason | Eebeebi 
+			src: ["https://cdn.imgchest.com/files/yrgcn39jan4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2xv3zvy.png",
+			title: "Rootin' Tootin'",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: null,
+			desc: "And by god, she's shootin'.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "eebeebi", "gifts_received"],
 			hidden: false
 		},
 		{
