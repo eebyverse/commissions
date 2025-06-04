@@ -32,7 +32,7 @@ var data = {
 			title: "Swept Up",
 			artist: "aiueOKOSO",
 			artist_url: "https://x.com/aiueOKOSO",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqren7vchs25",
 			desc: "It's not the tide, in the end, that carries Morgan out to sea...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/seckendorff.bsky.social'>Lampreylarry</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "severa", "other", "gifts_given"],
