@@ -26,6 +26,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// aiueOKOSO  | Severa and Morgan
+			src: ["https://cdn.imgchest.com/files/y2pcklea5j7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca2k8xj7.png",
+			title: "Swept Up",
+			artist: "aiueOKOSO",
+			artist_url: "https://x.com/aiueOKOSO",
+			art_url: null,
+			desc: "It's not the tide, in the end, that carries Morgan out to sea...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/seckendorff.bsky.social'>Lampreylarry</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "severa", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// alonemistrist | Avalei
 			src: ["https://cdn.imgchest.com/files/45xcvgqkvp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnw2lnl4.png",
