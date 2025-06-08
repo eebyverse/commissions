@@ -611,6 +611,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Aurelia
+			src: ["https://cdn.imgchest.com/files/7pjcqoxmrq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxrv9ro4.png",
+			title: "Well-Attended",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: "https://bsky.app/profile/spiceeby.bsky.social/post/3lr3mjzesmk22",
+			desc: "A humble maid of Daein Keep, believing herself both faceless and nameless in the eyes of nobility, soon comes to understand the benefits of serving the royal family...",
+			date_str: "Jun 2025",
+			tags: ["nsfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Decox | Eeby and Anna
 			src: ["https://cdn.imgchest.com/files/yxkczjj9e57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2genmgy.png",
