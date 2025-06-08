@@ -613,7 +613,7 @@ var data = {
 		{
 			// Decox | Aurelia
 			src: ["https://cdn.imgchest.com/files/7pjcqoxmrq7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4gdcxrv9ro4.png",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc98wwv67.png",
 			title: "Well-Attended",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
