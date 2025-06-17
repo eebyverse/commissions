@@ -3230,6 +3230,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Indra and Macie
+			src: ["https://cdn.imgchest.com/files/7ogcbn9ob9y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5celv6xo4.png",
+			title: "Seeing Double",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lrt3qagexk2r",
+			desc: "Macie and Indra, twin daughters of Flayn and Veyle – always together, always smiling, and always knowing something you don't.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Motoiwork | V'rhaka
 			src: ["https://cdn.imgchest.com/files/7pjcqmvn8b7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nj9lwy.png",
