@@ -3232,7 +3232,7 @@ var data = {
 		{
 			// Motoiwork | Indra and Macie
 			src: ["https://cdn.imgchest.com/files/7ogcbn9ob9y.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5celv6rn4.png",
+			thumbnail: "https://cdn.imgchest.com/files/yd5celv6nd4.png",
 			title: "Seeing Double",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
