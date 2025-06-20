@@ -1722,7 +1722,6 @@ var data = {
 			hidden: false
 		},
 		{
-		{
 			// Fusenryo | Larcei and Seliph
 			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
