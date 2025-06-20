@@ -1709,6 +1709,20 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Indra and Macie
+			src: ["https://cdn.imgchest.com/files/7lxcp6pv5d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvevb637.png",
+			title: "Souls Entwined",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lrzx6j5su22p",
+			desc: "Macie and Indra have always felt closest in moments of rest – and as, beneath the blossoms, Macie sleeps, her every dream drifts through shared souls to touch Indra's heart.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+		{
 			// Fusenryo | Larcei and Seliph
 			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
