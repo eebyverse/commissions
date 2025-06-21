@@ -26,6 +26,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// aiueOKOSO  | Byleth and HIlda
+			src: ["https://cdn.imgchest.com/files/4z9cvde2db7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxndbng4.png",
+			title: "Pretty Please",
+			artist: "aiueOKOSO",
+			artist_url: "https://x.com/aiueOKOSO",
+			art_url: null,
+			desc: "When it comes to gently twisting Byleth's arm, Hilda's got it down to a fine art.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/jordan-d-64.bsky.social'>Jordan D 64</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// aiueOKOSO  | Severa and Morgan
 			src: ["https://cdn.imgchest.com/files/y2pcklea5j7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca2k8xj7.png",
