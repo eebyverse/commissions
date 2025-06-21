@@ -32,7 +32,7 @@ var data = {
 			title: "Pretty Please",
 			artist: "aiueOKOSO",
 			artist_url: "https://x.com/aiueOKOSO",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3ls4qqru3zc27",
 			desc: "When it comes to gently twisting Byleth's arm, Hilda's got it down to a fine art.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/jordan-d-64.bsky.social'>Jordan D 64</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "other", "gifts_given"],
