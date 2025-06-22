@@ -3751,7 +3751,7 @@ var data = {
 		},
 		{
 			// Roychan | Caeda and Kris
-			src: ["https://cdn.imgchest.com/files/4z9cvoj3k97.png"],
+			src: ["https://cdn.imgchest.com/files/yq9c3aelbo4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbz37.png",
 			title: "A Royal Reward",
 			artist: "Roychan",
