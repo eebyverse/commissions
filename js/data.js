@@ -3867,6 +3867,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Sethkiel | Seliph and Ishtar
+			src: ["https://cdn.imgchest.com/files/7ogcbvw8bqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3625dw4.png",
+			title: "She's Electric",
+			artist: "Sethkiel",
+			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
+			art_url: "https://x.com/sethkiell/status/1773838847778128034",
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>, and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>. .",
+			date_str: "Jun 2025",
+			tags: ["sfw", "other", "collab", "gifts_given"],
+			hidden: false
+		},
+		{
 			// shan | Anna and Celica
 			src: ["https://cdn.imgchest.com/files/45xcvk3zpr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvw8ged4.png",
