@@ -3874,7 +3874,7 @@ var data = {
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
-			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>, and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>. .",
+			desc: "Under a borrowed spotlight, Ishtar brings the thunder.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>, and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "other", "collab", "gifts_given"],
 			hidden: false
