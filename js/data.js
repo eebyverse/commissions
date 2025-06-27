@@ -3873,7 +3873,7 @@ var data = {
 			title: "She's Electric",
 			artist: "Sethkiel",
 			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
-			art_url: "https://x.com/sethkiell/status/1773838847778128034",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lskqlc4noc2j",
 			desc: "Under a borrowed spotlight, Ishtar brings the thunder.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>, and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "other", "collab", "gifts_given"],
@@ -4501,6 +4501,19 @@ var data = {
 			desc: "Flayn offers Veyle a show of deepest trust.",
 			date_str: "Jul 2023",
 			tags: ["sfw", "flayn", "veyle"],
+			hidden: false
+		},
+		{
+			// Xander Wolk | Celica
+			src: ["https://cdn.imgchest.com/files/yd5cexvl554.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxlbeal4.png",
+			title: "Twilit Princess",
+			artist: "Xander Wolk",
+			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lslj25n6m22w",
+			desc: "Celica, all dressed up for the Plegian Festival.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
