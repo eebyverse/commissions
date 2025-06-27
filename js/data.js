@@ -4505,8 +4505,8 @@ var data = {
 		},
 		{
 			// Xander Wolk | Celica
-			src: ["https://cdn.imgchest.com/files/yd5cexvl554.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4gdcxlbeal4.png",
+			src: ["https://cdn.imgchest.com/files/yd5cebngpl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxnko5k4.png",
 			title: "Twilit Princess",
 			artist: "Xander Wolk",
 			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
