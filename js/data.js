@@ -4511,7 +4511,7 @@ var data = {
 			artist: "Xander Wolk",
 			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lslj25n6m22w",
-			desc: "Celica, all dressed up for the Plegian Festival.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
+			desc: "Celica, all dressed up for the Plegian Festival.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
