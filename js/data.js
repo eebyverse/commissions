@@ -243,7 +243,7 @@ var data = {
 			art_url: "https://x.com/Bellfonts/status/1569390453656813568",
 			desc: "Caeda, torn away from her beloved by her summons to Askr, seeks comfort through... unorthodox means.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
 			date_str: "Sep 2022",
-			tags: ["sfw", "caeda", "other", "collab"],
+			tags: ["nsfw", "caeda", "other", "collab"],
 			hidden: false
 		},
 		{
