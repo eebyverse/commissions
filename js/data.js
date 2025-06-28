@@ -234,6 +234,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Bellfonts | Lucina and Caeda
+			src: ["https://cdn.imgchest.com/files/yq9c36o8j54.png", "https://cdn.imgchest.com/files/yrgcn6evqw4.png", "https://cdn.imgchest.com/files/739cx3d8q97.png", "https://cdn.imgchest.com/files/4gdcxna8gp4.png", "https://cdn.imgchest.com/files/4apc5b2nrp4.png", "https://cdn.imgchest.com/files/7lxcp6ozv97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp6onzk7.png",
+			title: "Masquerade",
+			artist: "Bellfonts",
+			artist_url: "https://x.com/Bellfonts",
+			art_url: "https://x.com/Bellfonts/status/1569390453656813568",
+			desc: "Caeda, torn away from her beloved by her summons to Askr, seeks comfort through... unorthodox means.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/yoostink.bsky.social'>Yoostink</a></strong>.",
+			date_str: "Sep 2022",
+			tags: ["sfw", "caeda", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Betabetamaru | Edelgard and Micaiah
 			src: ["https://cdn.imgchest.com/files/7kzca85ael7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
