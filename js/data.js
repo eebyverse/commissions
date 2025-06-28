@@ -3919,6 +3919,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// shan | Caeda and Lucina
+			src: ["https://cdn.imgchest.com/files/49zc2z8opry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2z8xwqy.png",
+			title: "No More Make-Believe",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: null,
+			desc: "All alone with Caeda, Lucina has no more need for masks.",
+			date_str: "Jun 2022",
+			tags: ["sfw", "caeda", "other"],
+			hidden: false
+		},
+		{
 			// shan | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/7lxcp3jdkn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3xpaj7.png",
@@ -3932,19 +3945,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// shan | Eir and Fjorm
-			src: ["https://cdn.imgchest.com/files/7ogcb8dljqy.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cv8rab87.png",
-			title: "Comfort in the Cold",
-			artist: "shan0732",
-			artist_url: "https://x.com/shan0732",
-			art_url: "https://x.com/shan0732/status/1595895294277079040",
-			desc: "With Eir, Fjorm finds peace in an uncertain future.",
-			date_str: "Nov 2022",
-			tags: ["sfw", "other"],
-			hidden: false
-		},
-		{
 			// shan | Grima and Laevatein
 			src: ["https://cdn.imgchest.com/files/4z9cv8jxr87.png"],
 			thumbnail: "https://cdn.imgchest.com/files/46acqa8ee37.png",
@@ -3955,6 +3955,19 @@ var data = {
 			desc: "Grima's most faithful servant is hers and hers alone.",
 			date_str: "Jul 2022",
 			tags: ["sfw", "grima", "other"],
+			hidden: false
+		},
+		{
+			// shan | Eir and Fjorm
+			src: ["https://cdn.imgchest.com/files/7ogcb8dljqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8rab87.png",
+			title: "Comfort in the Cold",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1595895294277079040",
+			desc: "With Eir, Fjorm finds peace in an uncertain future.",
+			date_str: "Nov 2022",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
