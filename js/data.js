@@ -65,6 +65,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// alonemistrist | Veyle and Kiran
+			src: ["https://cdn.imgchest.com/files/49zc2bnl99y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2dvnkq4.png",
+			title: "All Mine",
+			artist: "alonemistrist",
+			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
+			art_url: null,
+			desc: "Of all her faithful servants, few are dearer to Veyle than Askr's summoner...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "veyle", "other," "gifts_given"],
+			hidden: false
+		},
+		{
 			// a_o_hi_to | Annette Birthday
 			src: ["https://cdn.imgchest.com/files/7ogcb8xxppy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxvmm964.png",
@@ -3773,6 +3786,19 @@ var data = {
 			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
 			date_str: "Nov 2022",
 			tags: ["nsfw", "caeda", "kris", "collab"],
+			hidden: false
+		},
+		{
+			// Ruby | Aurelia
+			src: ["https://cdn.imgchest.com/files/45xcv9a5q37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvjxp5z4.png",
+			title: "TBD",
+			artist: "Ruby",
+			artist_url: "https://bsky.app/profile/soflesbianlass.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{
