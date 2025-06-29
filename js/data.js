@@ -65,16 +65,16 @@ var data = {
 			hidden: false
 		},
 		{
-			// alonemistrist | Avalei
-			src: ["https://cdn.imgchest.com/files/45xcvgqkvp7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcnw2lnl4.png",
-			title: "Easy Being Green",
+			// // alonemistrist | Veyle and Kiran
+			src: ["https://cdn.imgchest.com/files/49zc2bnl99y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2dvnkq4.png",
+			title: "All Mine",
 			artist: "alonemistrist",
 			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
-			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lni3255k5223",
-			desc: "Avalei – the most fashionable goblin you'll ever meet.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/snaffu.bsky.social'>Snafu</a></strong>.",
-			date_str: "Apr 2025",
-			tags: ["sfw", "other", "gifts_given"],
+			art_url: null,
+			desc: "Of all her faithful servants, few are dearer to Veyle than Askr's summoner...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "veyle", "other", "gifts_given"],
 			hidden: false
 		},
 		{
@@ -3786,6 +3786,19 @@ var data = {
 			desc: "Given the chance to unwind, Caeda decides to reward Altea's faithful knight for her tireless service.<br/><br/>Collab with <strong>SpicedCake</strong>.",
 			date_str: "Nov 2022",
 			tags: ["nsfw", "caeda", "kris", "collab"],
+			hidden: false
+		},
+		{
+			// Ruby | Aurelia
+			src: ["https://cdn.imgchest.com/files/45xcv9a5q37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvjxp5z4.png",
+			title: "TBD",
+			artist: "Ruby",
+			artist_url: "https://bsky.app/profile/soflesbianlass.bsky.social",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jun 2025",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{
