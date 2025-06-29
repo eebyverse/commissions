@@ -3792,11 +3792,11 @@ var data = {
 			// Ruby | Aurelia
 			src: ["https://cdn.imgchest.com/files/45xcv9a5q37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvjxp5z4.png",
-			title: "TBD",
+			title: "Twinkle in Her Eye",
 			artist: "Ruby",
 			artist_url: "https://bsky.app/profile/soflesbianlass.bsky.social",
 			art_url: null,
-			desc: "TBD.",
+			desc: "At tea-time, Aurelia is most at ease – and most herself.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "aurelia"],
 			hidden: false
