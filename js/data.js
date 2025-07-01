@@ -1313,6 +1313,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Indra and Macie
+			src: ["https://cdn.imgchest.com/files/7mmc9rwj9p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxpv53g4.png",
+			title: "Souls Split and Shared",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			date_str: "Jul 2025",
+			desc: "Indra and Macie share half of themselves with each other – which, so their parents believe, is the reason for their peculiar eye colours...",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Evo | Loki and Eeby
 			src: ["https://cdn.imgchest.com/files/4jdcvzjerp4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9d3zwy.png",
@@ -3149,6 +3162,19 @@ var data = {
 			desc: "Severa knows a good outfit when she sees one – especially when it's up for grabs.",
 			date_str: "May 2024",
 			tags: ["sfw", "severa"],
+			hidden: false
+		},
+		{
+			// Mnejing | Sharena
+			src: ["https://cdn.imgchest.com/files/yrgcnzkgmg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbk8j3ry.png",
+			title: "Pink and Blue",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1939808930466865517",
+			desc: "Sharena always wears her colours.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "sharena"],
 			hidden: false
 		},
 		{
