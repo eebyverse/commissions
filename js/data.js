@@ -2593,6 +2593,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Loutani | Annette and Eeby
+			src: ["https://cdn.imgchest.com/files/7ogcbkrza8y.png", "https://cdn.imgchest.com/files/yrgcnzbdx64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx6br6n7.png",
+			title: "Shared Sensations",
+			artist: "Loutani",
+			artist_url: "https://x.com/loutaniart",
+			art_url: "https://x.com/loutaniart/status/1613665825533091840",
+			desc: "And not just in the gloves.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/texasmetalhead.bsky.social'>Metalhead</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["nsfw", "annette", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Loutani | Lif and Thrasir
 			src: ["https://cdn.imgchest.com/files/45xcvkp6bz7.png", "https://cdn.imgchest.com/files/46acqa8nra7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcae9dqb7.png",
