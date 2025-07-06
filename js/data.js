@@ -614,13 +614,13 @@ var data = {
 			// Darkness | Kronya
 			src: ["https://cdn.imgchest.com/files/7pjcqw6x2g7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpd6gqa7.png",
-			title: "TBD",
+			title: "Believe in Magik",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/Artist_Kiwi/status/1722494867044213079'>Kiwi</a></strong>.",
+			desc: "Kronya, dressed up as a fiendish warrior from another place and time...<br/><br/>Gift for <strong><a href='https://x.com/Artist_Kiwi/status/1722494867044213079'>Kiwi</a></strong>.",
 			date_str: "Jul 2025",
-			tags: ["sfw", "thrasir", "gifts_given"],
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
