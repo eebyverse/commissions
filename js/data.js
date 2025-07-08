@@ -2034,6 +2034,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// JadeSnap | Shina and Micaiah
+			src: ["https://cdn.imgchest.com/files/ye3c2d86pa4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckodl3q7.png",
+			title: "Part-Time Shinobi",
+			artist: "JadesnapArt",
+			artist_url: "https://bsky.app/profile/jadesnapart.bsky.social",
+			art_url: null,
+			desc: "Micaiah and Shina might not always be shinobi – but when they are, they do it in style.<br/><br/>Gift for <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "micaiah", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Jebbee | Aurelia
 			src: ["https://cdn.imgchest.com/files/y2pcknjlko7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c38xmkn4.png",
