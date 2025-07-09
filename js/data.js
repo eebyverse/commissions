@@ -1788,8 +1788,8 @@ var data = {
 		},
 		{
 			// Fusenryo | Indra and Macie, Flayn and Veyle
-			src: ["https://cdn.imgchest.com/files/7lxcp6pv5d7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/45xcvevb637.png",
+			src: ["https://cdn.imgchest.com/files/45xcv92bmr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabk6bb7.png",
 			title: "Catch of the Day",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
