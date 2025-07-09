@@ -1787,6 +1787,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Indra and Macie, Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/7lxcp6pv5d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvevb637.png",
+			title: "Catch of the Day",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3ltjwbiwkcc2h",
+			desc: "Indra and Macie prove more than equal to their mothers' years of experience...<br/><br/>A gift collab led by <strong><a href='https://bsky.app/profile/saficswrites.bsky.social'>Safics</a></strong>, with contributions from <strong><a href='https://bsky.app/profile/azelfandquilava.bsky.social'>AzelfandQuilava</a></strong>, <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>, <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>, <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>, <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>, <strong><a href='https://bsky.app/profile/oricalle.bsky.social'>Oricalle</a></strong>, <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>, and <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>!",
+			date_str: "Jul 2025",
+			tags: ["sfw", "flayn", "veyle", "other", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Larcei and Seliph
 			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
