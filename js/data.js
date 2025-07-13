@@ -158,7 +158,7 @@ var data = {
 		{
 			// arikindows10 | Anna, Pyra, and Sumire
 			src: ["https://cdn.imgchest.com/files/4gdcxpzjl24.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4z9cvwpzne7.png",
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxpzalr4.png",
 			title: "TBD",
 			artist: "arikindows10",
 			artist_url: "https://www.pixiv.net/en/users/658220",
@@ -3864,7 +3864,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Rotomdocs | Flayn
