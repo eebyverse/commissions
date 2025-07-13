@@ -165,8 +165,8 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jul 2025",
-			tags: ["nsfw", "anna", "other", "gifts_given"],
-			hidden: false
+			tags: ["sfw", "anna", "other", "gifts_given"],
+			hidden: true
 		},
 		{
 			// arikindows10 | Citrinne, Nanna, and Priscilla
