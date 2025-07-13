@@ -156,6 +156,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// arikindows10 | Anna, Pyra, and Sumire
+			src: ["https://cdn.imgchest.com/files/4gdcxpzjl24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvwpzne7.png",
+			title: "TBD",
+			artist: "arikindows10",
+			artist_url: "https://www.pixiv.net/en/users/658220",
+			art_url: null",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["nsfw", "anna", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// arikindows10 | Citrinne, Nanna, and Priscilla
 			src: ["https://cdn.imgchest.com/files/yd5cez9z3a4.png", "https://cdn.imgchest.com/files/yq9c35b5a24.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnlvlva4.png",
@@ -3839,6 +3852,19 @@ var data = {
 			date_str: "May 2025",
 			tags: ["sfw", "other"],
 			hidden: false
+		},
+		{
+			// Rotomdocs | Tsubasa
+			src: ["https://cdn.imgchest.com/files/739cx6rjea7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9rx6od7.png",
+			title: "Summer Idol",
+			artist: "RotomDocs",
+			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
+			art_url: "https://bsky.app/profile/rotomdocs.bsky.social/post/3louipep2oc2f",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Rotomdocs | Flayn
