@@ -305,10 +305,23 @@ var data = {
 			title: "Almost Her",
 			artist: "Cios",
 			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/ciosart.bsky.social/post/3lqgg3urmf22x",
 			desc: "Micaiah knows that Edelgard probably didn't <em>mean</em> to leave her jacket behind in her dorm... but, at least for tonight, she's in no rush to return it.",
 			date_str: "May 2025",
 			tags: ["nsfw", "micaiah"],
+			hidden: false
+		},
+		{
+			// Cios | Say'ri and Idunn
+			src: ["https://cdn.imgchest.com/files/yrgcnzdaej4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2dn85m4.png",
+			title: "Feast for the Senses",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: "https://bsky.app/profile/ciosart.bsky.social/post/3ltsfhindi227",
+			desc: "Not for the first time, Say'ri becomes a dragon's meal.",
+			date_str: "Jul 2025",
+			tags: ["nsfw", "sayri", "other"],
 			hidden: false
 		},
 		{
