@@ -3935,7 +3935,7 @@ var data = {
 		{
 			// Sa | Europa
 			src: ["https://cdn.imgchest.com/files/yd5cer28w84.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yrgcnzdpqm4.png",
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2dn5ev4.png",
 			title: "TBD",
 			artist: "Sa",
 			artist_url: "https://x.com/azure_system",
