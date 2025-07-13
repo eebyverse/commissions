@@ -3864,7 +3864,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Rotomdocs | Flayn
@@ -3929,6 +3929,20 @@ var data = {
 			desc: "Even Tiki isn't immune to the natural urges and needs that occasionally come with her draconic nature... and so counts her blessings that Rhea is always prepared to lend a helping hand.",
 			date_str: "Jun 2022",
 			tags: ["nsfw", "tiki", "rhea"],
+			hidden: false
+		},
+
+		{
+			// Sa | Europa
+			src: ["https://cdn.imgchest.com/files/yd5cer28w84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnzdpqm4.png",
+			title: "TBD",
+			artist: "Sa",
+			artist_url: "https://x.com/azure_system",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
