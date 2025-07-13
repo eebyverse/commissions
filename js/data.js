@@ -159,11 +159,11 @@ var data = {
 			// arikindows10 | Anna, Pyra, and Sumire
 			src: ["https://cdn.imgchest.com/files/4gdcxpzjl24.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxpzalr4.png",
-			title: "TBD",
+			title: "In High Demand",
 			artist: "arikindows10",
 			artist_url: "https://www.pixiv.net/en/users/658220",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			desc: "Caught between two high-value pairs of assets, Anna finds it hard to focus...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "anna", "other", "gifts_given"],
 			hidden: true
@@ -3861,7 +3861,7 @@ var data = {
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: "https://bsky.app/profile/rotomdocs.bsky.social/post/3louipep2oc2f",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
+			desc: "With an outfit snatched straight from the Idolasphere, Tsubasa takes to the beach.<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: true
@@ -3935,15 +3935,15 @@ var data = {
 		{
 			// Sa | Europa
 			src: ["https://cdn.imgchest.com/files/yd5cer28w84.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2dn5ev4.png",
-			title: "TBD",
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvwlqqj7.png",
+			title: "Through Ilian Skies",
 			artist: "Sa",
 			artist_url: "https://x.com/azure_system",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			desc: "Together, Europa and Yubo patrol the open sky.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Sakuremi | Tiki and Rhea
