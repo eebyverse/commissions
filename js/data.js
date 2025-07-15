@@ -3864,7 +3864,7 @@ var data = {
 			desc: "With an outfit snatched straight from the Idolasphere, Tsubasa takes to the beach.<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Rotomdocs | Flayn
