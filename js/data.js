@@ -3860,7 +3860,7 @@ var data = {
 			title: "Summer Idol",
 			artist: "RotomDocs",
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
-			art_url: "https://bsky.app/profile/rotomdocs.bsky.social/post/3louipep2oc2f",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3ltz2klq7q22y",
 			desc: "With an outfit snatched straight from the Idolasphere, Tsubasa takes to the beach.<br/><br/>Gift for <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
