@@ -3939,11 +3939,11 @@ var data = {
 			title: "Through Ilian Skies",
 			artist: "Sa",
 			artist_url: "https://x.com/azure_system",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lu3lqp5ne22f",
 			desc: "Together, Europa and Yubo patrol the open sky.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Sakuremi | Tiki and Rhea
