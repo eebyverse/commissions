@@ -166,7 +166,7 @@ var data = {
 			desc: "Caught between two high-value pairs of assets, Anna finds it hard to focus...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "anna", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// arikindows10 | Citrinne, Nanna, and Priscilla
