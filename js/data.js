@@ -2450,6 +2450,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Anna and Henriette
+			src: ["https://cdn.imgchest.com/files/739cxkwzqr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2g6vkv4.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift fr <strong><a href='https://bsky.app/profile/aidenr0.bsky.social'>Spindle</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "anna", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Catria
 			src: ["https://cdn.imgchest.com/files/4z9cv3kbgj7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcx9janr4.png",
