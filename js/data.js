@@ -1995,6 +1995,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// icorasama | Elphelt
+			src: ["https://cdn.imgchest.com/files/45xcv88wz37.png", "https://cdn.imgchest.com/files/yvdcwnnordy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnqq8x34.png",
+			title: "Carried Away",
+			artist: "icorasama",
+			artist_url: "https://x.com/icorasama",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lmabtabt3s2y",
+			desc: "Even when it's not her cake, Elphelt can't help but indulge...<br/><br/>Gift for <strong><a href='https://x.com/emilyblend34'>Mr.emilyblend34</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// IHSNet | Eirimilla
 			src: ["https://cdn.imgchest.com/files/ye3c2jbaj34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzcao3mlp7.png",
