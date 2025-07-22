@@ -2002,7 +2002,7 @@ var data = {
 			artist: "icorasama",
 			artist_url: "https://x.com/icorasama",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lmabtabt3s2y",
-			desc: "Even when it's not her cake, Elphelt can't help but indulge...<br/><br/>Gift for <strong><a href='https://x.com/emilyblend34'>Mr.emilyblend34</a></strong>.",
+			desc: "Even when it's not her cake, Elphelt can't help but indulge...<br/><br/>Gift for <strong><a href='https://x.com/emilyblend34'>emilyblend34</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
