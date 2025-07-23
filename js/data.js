@@ -4055,11 +4055,24 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/4z9cv3oqja7.png",
 			title: "First Meeting at the Edge of Dawn",
 			artist: "Sethkiel",
-			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
+			artist_url: "https://bsky.app/profile/sethkiel.bsky.social",
 			art_url: "https://x.com/sethkiell/status/1773838847778128034",
 			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard", "collab"],
+			hidden: false
+		},
+		{
+			// Sethkiel | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/7pjcqkdg5a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cemg6jg4.png",
+			title: "Daein, 661",
+			artist: "Sethkiel",
+			artist_url: "https://bsky.app/profile/sethkiel.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lumydwafts2m",
+			desc: "Daein's royal family, circa 661. It is the last known portrait of Lady Eleanor, Queen Micaiah's steadfast companion – dated just five months before her passing in early 662.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "micaiah", "edelgard", "aurelia"],
 			hidden: false
 		},
 		{
@@ -4068,7 +4081,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3625dw4.png",
 			title: "She's Electric",
 			artist: "Sethkiel",
-			artist_url: "https://bsky.app/profile/did:plc:5evxcdpmp7xkafektn5kr73n",
+			artist_url: "https://bsky.app/profile/sethkiel.bsky.social",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lskqlc4noc2j",
 			desc: "Under a borrowed spotlight, Ishtar brings the thunder.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, <strong><a href='https://bsky.app/profile/inexorablewaffle.bsky.social'>InexorableWaffle</a></strong>, and <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
 			date_str: "Jun 2025",
