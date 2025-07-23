@@ -1339,19 +1339,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Evo | Eeby and Annette
-			src: ["https://cdn.imgchest.com/files/46acq9w2dw7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcq9r3eo7.png",
-			title: "Reordering",
-			artist: "Evomanaphy",
-			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
-			art_url: null,
-			desc: "Annette offers the Order's summoner a new perspective.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "Feb 2024",
-			tags: ["nsfw", "eeby", "annette", "gifts_received"],
-			hidden: false
-		},
-		{
 			// Evo | Indra and Macie
 			src: ["https://cdn.imgchest.com/files/7mmc9rwj9p7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxpv53g4.png",
@@ -1362,6 +1349,32 @@ var data = {
 			date_str: "Jul 2025",
 			desc: "Indra and Macie share half of themselves with each other – which, so their parents believe, is the reason for their peculiar eye colours...",
 			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Evo | Tana and Alm
+			src: ["https://cdn.imgchest.com/files/49zc2v9dogy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cemg6lg4.png",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Evo | Eeby and Annette
+			src: ["https://cdn.imgchest.com/files/46acq9w2dw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq9r3eo7.png",
+			title: "Reordering",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Annette offers the Order's summoner a new perspective.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "Feb 2024",
+			tags: ["nsfw", "eeby", "annette", "gifts_received"],
 			hidden: false
 		},
 		{
