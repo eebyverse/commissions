@@ -1362,7 +1362,7 @@ var data = {
 			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Evo | Eeby and Annette
