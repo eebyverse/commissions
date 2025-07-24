@@ -1355,14 +1355,14 @@ var data = {
 			// Evo | Tana and Alm
 			src: ["https://cdn.imgchest.com/files/49zc2v9dogy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cemg6lg4.png",
-			title: "TBD",
+			title: "Red Cheeks",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			desc: "To Tana's delight, Alm is all too easy to fluster...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Evo | Eeby and Annette
