@@ -3048,6 +3048,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// minorudonguri | Micaiah, Edelgard, and Zelgius
+			src: ["https://cdn.imgchest.com/files/7kzcax6nq27.png", "https://cdn.imgchest.com/files/y2pck5m6vr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv6ab5j4.png",
+			title: "Seeing Double",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "Even Zelgius and Edelgard aren't quite sure if their partners are sisters...<br/><br/>Collab with <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "micaiah", "edelgard", "other", "collab"],
+			hidden: false
+		},
+		{
 			// minorudonguri | Ivy and Dragons
 			src: ["https://cdn.imgchest.com/files/yq9c3awaxg4.png", "https://cdn.imgchest.com/files/yd5ce383np4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmrjpo7.png",
@@ -3071,19 +3084,6 @@ var data = {
 			desc: "On her first visit to Ren's home, Lucina receives a cup of Leblanc's finest.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
-		},
-		{
-			// minorudonguri | Micaiah, Edelgard, and Zelgius
-			src: ["https://cdn.imgchest.com/files/7kzcax6nq27.png", "https://cdn.imgchest.com/files/y2pck5m6vr7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4jdcv6ab5j4.png",
-			title: "Seeing Double",
-			artist: "minorudonguri",
-			artist_url: "https://skeb.jp/@minorudonguri",
-			art_url: null,
-			desc: "Even Zelgius and Edelgard aren't quite sure if their partners are sisters...<br/><br/>Collab with <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
-			date_str: "Jul 2025",
-			tags: ["sfw", "micaiah", "edelgard", "other", "collab"],
 			hidden: false
 		},
 		{
