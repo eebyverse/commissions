@@ -3074,6 +3074,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// minorudonguri | Micaiah, Edelgard, and Zelgius
+			src: ["https://cdn.imgchest.com/files/7kzcax6nq27.png", "https://cdn.imgchest.com/files/y2pck5m6vr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv6ab5j4.png",
+			title: "Seeing Double",
+			artist: "minorudonguri",
+			artist_url: "https://skeb.jp/@minorudonguri",
+			art_url: null,
+			desc: "Even Zelgius and Edelgard aren't quite sure if their partners are sisters...<br/><br/>Collab with <strong><a href='https://x.com/eazykeyz96'>Leaf</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "micaiah", "edelgard", "other", "collab"],
+			hidden: false
+		},
+		{
 			// misogram | Lucina and Morgan
 			src: ["https://cdn.imgchest.com/files/ye3c2jzwo54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxoab5l7.png",
@@ -3428,7 +3441,7 @@ var data = {
 			// Motoiwork | Indra and Macie
 			src: ["https://cdn.imgchest.com/files/7ogcbn9ob9y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5celv6nd4.png",
-			title: "Seeing Double",
+			title: "Double Trouble",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lrt3qagexk2r",
