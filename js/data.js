@@ -299,6 +299,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Char | Camilla
+			src: ["https://cdn.imgchest.com/files/7pjcqkjlvz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn9dqq34.png",
+			title: "Beautiful Queen",
+			artist: "char",
+			artist_url: "https://bsky.app/profile/charlikesalmon.bsky.social",
+			art_url: null,
+			desc: "In deepest dark, Camilla lights the way.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "camilla", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Chikaretsu | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/7lxcp3d5wm7.png", "https://cdn.imgchest.com/files/yd5ce3rao54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbg37.png",
