@@ -303,7 +303,7 @@ var data = {
 			src: ["https://cdn.imgchest.com/files/7pjcqkjlvz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcn9dqq34.png",
 			title: "Beautiful Queen",
-			artist: "char",
+			artist: "Char",
 			artist_url: "https://bsky.app/profile/charlikesalmon.bsky.social",
 			art_url: null,
 			desc: "In deepest dark, Camilla lights the way.<br/><br/>Gift for <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
