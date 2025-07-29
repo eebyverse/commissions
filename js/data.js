@@ -198,11 +198,11 @@ var data = {
 			// Asu | Indra, Macie, and Dee
 			src: ["https://cdn.imgchest.com/files/yd5ceg5lxl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c32knpm4.png",
-			title: "TBD",
+			title: "Three-Dragon Ante",
 			artist: "Asu",
 			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "As Dee enjoys their attention, Indra and Macie have the look of schemers...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
