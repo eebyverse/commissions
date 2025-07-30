@@ -1521,6 +1521,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Cordelia and Severa
+			src: ["https://cdn.imgchest.com/files/7lxcprpwgm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq3q5ve7.png",
+			title: "Unwanted Help",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "As her mother, Cordelia just can't keep from fussing over Severa's appearance...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
+			date_str: "Jul 2025",
+			tags: ["sfw", "severa", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fubbz | Edelcaiah and Lifthrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2n6vj3y.png", "https://cdn.imgchest.com/files/ye3c2owdz94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3agkg34.png",
