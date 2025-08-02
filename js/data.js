@@ -14,8 +14,8 @@ var data = {
 		},
 		{
 			// 1340Smile | Eeby and Loki
-			src: ["https://i.imgur.com/ye6tQ1V.png"],
-			thumbnail: "https://i.imgur.com/gOCP0WG.png",
+			src: ["https://cdn.imgchest.com/files/4apc5l3pnw4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw9dko5y.png",
 			title: "Devil on Your Shoulder",
 			artist: "1340Smile",
 			artist_url: "https://x.com/1340Smile",
