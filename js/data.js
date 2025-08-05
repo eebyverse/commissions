@@ -318,7 +318,7 @@ var data = {
 			title: "Meeting in the Middle",
 			artist: "Camus",
 			artist_url: "https://x.com/camus220298",
-			art_url: null,
+			art_url: "https://x.com/camus220298/status/1952705819117814206",
 			desc: "The moment she locks lips with Caeda, Catria realises it was never a contest.<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
 			tags: ["nsfw", "caeda", "catria", "gifts_received"],
