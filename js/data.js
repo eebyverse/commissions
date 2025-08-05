@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: "The moment she locks lips with Caeda, Catria realises it was never a contest.<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
-			tags: ["nsfw", "caeda", "catria", "gifts_given"],
+			tags: ["nsfw", "caeda", "catria", "gifts_received"],
 			hidden: false
 		},
 		{
