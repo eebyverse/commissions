@@ -312,7 +312,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Camus | Camilla
+			// Camus | Catria and Caeda
 			src: ["https://cdn.imgchest.com/files/4z9cvkowmz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5wg3v54.png",
 			title: "Meeting in the Middle",
@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: "The moment she locks lips with Caeda, Catria realises it was never a contest.<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
-			tags: ["sfw", "caeda", "catria", "gifts_given"],
+			tags: ["nsfw", "caeda", "catria", "gifts_given"],
 			hidden: false
 		},
 		{
