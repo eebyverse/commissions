@@ -1623,6 +1623,19 @@ var data = {
 			tags: ["sfw", "anna", "sharena", "gifts_given"],
 			hidden: false
 		},
+		{
+			// Fusenryo | Alear and Julia
+			src: ["https://cdn.imgchest.com/files/739cxg3obl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvqeggz7.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Aug 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
 		{	// Fusenryo | Aurelia
 			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcv3a8bz7.png",
@@ -4581,6 +4594,19 @@ var data = {
 			date_str: "Jun 2024",
 			tags: ["sfw", "edelgard"],
 			hidden: false
+		},
+		{
+			// Suneia | Caeda
+			src: ["https://cdn.imgchest.com/files/yxkczk2mxb7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxonllx4.png",
+			title: "TBD",
+			artist: "Suneia",
+			artist_url: "https://bsky.app/profile/suneia.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Aug 2025",
+			tags: ["sfw", "caeda", "gifts_given"],
+			hidden: true
 		},
 		{
 			// Sunny | Lianna and Sharena
