@@ -2684,6 +2684,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// lightgamein | Aizawa
+			src: ["https://cdn.imgchest.com/files/7bwckebv667.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc29ze8ly.png",
+			title: "Axe to Grind",
+			artist: "lightgamein",
+			artist_url: "https://skeb.jp/@lightgamein",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lvt36fzwqc2a",
+			desc: "Even wielding a deadly weapon, Aizawa's all smiles.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			date_str: "Aug 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// lightgamein | Ayra
 			src: ["https://cdn.imgchest.com/files/7mmc9mjdx97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczda6lm7.png",
