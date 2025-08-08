@@ -1631,10 +1631,10 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "Julia <br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{	// Fusenryo | Aurelia
 			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
@@ -4599,14 +4599,14 @@ var data = {
 			// Suneia | Caeda
 			src: ["https://cdn.imgchest.com/files/yxkczk2mxb7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxonllx4.png",
-			title: "TBD",
+			title: "To Lead With Love",
 			artist: "Suneia",
 			artist_url: "https://bsky.app/profile/suneia.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "As the first queen of a united Archanea, Caeda is prepared to pay any price to safeguard a peace so hard won.<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
 			tags: ["sfw", "caeda", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Sunny | Lianna and Sharena
