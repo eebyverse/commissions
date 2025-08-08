@@ -1627,11 +1627,11 @@ var data = {
 			// Fusenryo | Alear and Julia
 			src: ["https://cdn.imgchest.com/files/739cxg3obl7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvqeggz7.png",
-			title: "TBD",
+			title: "Two of a Kind",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Julia <br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "Julia and Alear may not quite fit in with the rest of their student peers... but together, they fit perfectly.<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
