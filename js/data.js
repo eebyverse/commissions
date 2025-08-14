@@ -3503,6 +3503,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Joy
+			src: ["https://cdn.imgchest.com/files/4jdcv3qq964.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acq3mmzo7.png",
+			title: "Ode to Joy",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "Joy, a 16 year-old witch in training from the sleepy village of Petrichor.",
+			date_str: "Aug 2025",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Motoiwork | Eeby
 			src: ["https://cdn.imgchest.com/files/4z9cvmr6p87.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvmr62q7.png",
