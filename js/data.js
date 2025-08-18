@@ -58,7 +58,7 @@ var data = {
 			title: "Saviour Saint",
 			artist: "akou001",
 			artist_url: "https://skeb.jp/@akou001",
-			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqren7vchs25",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lwoyj4fky22d",
 			desc: "Cornelia, in times long lost.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/azelfandquilava.bsky.social'>AzelfandQuilava</a></strong>.",
 			date_str: "Aug 2025",
 			tags: ["sfw", "other", "gifts_given"],
