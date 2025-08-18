@@ -52,6 +52,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// akou001  | Cornelia
+			src: ["https://cdn.imgchest.com/files/4nec8qjzrm4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq28qqg7.png",
+			title: "Saviour Saint",
+			artist: "akou001",
+			artist_url: "https://skeb.jp/@akou001",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqren7vchs25",
+			desc: "Cornelia, in times long lost.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/azelfandquilava.bsky.social'>AzelfandQuilava</a></strong>.",
+			date_str: "Aug 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// alonemistrist | Avalei
 			src: ["https://cdn.imgchest.com/files/45xcvgqkvp7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnw2lnl4.png",
