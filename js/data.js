@@ -1581,7 +1581,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
 			desc: "<i>Our bonds are far stronger than destiny.</i><br/><br/>Gift for <strong><a href='https://x.com/newcleicacid'>Dawn</a></strong>.",
-			date_str: "Dec 2023",
+			date_str: "Aug 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
