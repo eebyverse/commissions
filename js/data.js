@@ -1573,6 +1573,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Grima and Chrom
+			src: ["https://cdn.imgchest.com/files/7w6c238aa6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc96kddg7.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/newcleicacid'>Dawn</a></strong>.",
+			date_str: "Dec 2023",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fubbz | Lysithea and Gaius
 			src: ["https://cdn.imgchest.com/files/yvdcwb98emy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgj82g7.png",
