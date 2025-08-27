@@ -1576,11 +1576,11 @@ var data = {
 			// Fubbz | Grima and Chrom
 			src: ["https://cdn.imgchest.com/files/7w6c238aa6y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc96kddg7.png",
-			title: "TBD",
+			title: "Devotion",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/newcleicacid'>Dawn</a></strong>.",
+			desc: "<i>Our bonds are far stronger than destiny.</i><br/><br/>Gift for <strong><a href='https://x.com/newcleicacid'>Dawn</a></strong>.",
 			date_str: "Dec 2023",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
