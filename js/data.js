@@ -2294,6 +2294,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// juicet1n | Eirika and Camilla 2
+			src: ["https://cdn.imgchest.com/files/45xcvra92g7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5e93en4.png",
+			title: "Picnic Packing",
+			artist: "juicet1n",
+			artist_url: "https://bsky.app/profile/juicet1n.bsky.social",
+			art_url: null,
+			desc: "For Camilla, Eirika would never forget to bring a dessert.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>.",
+			date_str: "Aug 2025",
+			tags: ["nsfw", "eirika", "gifts_received"],
+			hidden: false
+		},
+		{
 			// juicet1n | Laura and Linda
 			src: ["https://cdn.imgchest.com/files/yxkczm2px97.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnw8drk4.png",
