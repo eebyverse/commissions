@@ -4908,6 +4908,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Xander Wolk | Sunset Shimmer
+			src: ["https://cdn.imgchest.com/files/y8xcnj9vw24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckgn39b7.png",
+			title: "Ashes to Ashes",
+			artist: "Xander Wolk",
+			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
+			art_url: null,
+			desc: "Evil never looked so good.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/twilidragonrin.bsky.social'>Twilidragonrin</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Yancy | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/yd5cexvl554.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxlbeal4.png",
