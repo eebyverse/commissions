@@ -215,7 +215,7 @@ var data = {
 			artist: "Asu",
 			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
 			art_url: null,
-			desc: "As Dee enjoys their attention, Indra and Macie have the look of schemers...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "As Dee enjoys their attention, Indra and Macie have the look of schemers...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
@@ -1047,7 +1047,7 @@ var data = {
 			artist: "DeepSpace",
 			artist_url: "https://x.com/DeepSpaceNSFW",
 			art_url: null,
-			desc: "At a trickster's behest, the summoner finds herself caught in a bind...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "At a trickster's behest, the summoner finds herself caught in a bind...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "May 2025",
 			tags: ["extreme", "eeby", "gifts_received"],
 			hidden: false
@@ -1717,7 +1717,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, though an upstanding officer of the law, isn't immune to the occasional indiscretion – especially when the city is a distant memory, and her girlfriend is so very close.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Oct 2024",
 			tags: ["sfw", "catria", "ingrid", "gifts_given"],
 			hidden: false
@@ -1755,7 +1755,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Amidst a swirl of conflict, Edelgard and Micaiah enjoy a rare moment of peace together.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
@@ -2457,7 +2457,7 @@ var data = {
 			artist: "kisi0024",
 			artist_url: "https://skeb.jp/@kisi0024",
 			art_url: null,
-			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid, proud and dutiful knight of a new Jedi order.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Aug 2024",
 			tags: ["sfw", "ingrid", "gifts_given"],
 			hidden: false
@@ -3146,7 +3146,7 @@ var data = {
 			artist: "Mina Cream",
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
-			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "A sparring match between Ingrid and Catria leaves them with plenty of energy to spare.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Sep 2022",
 			tags: ["nsfw", "catria", "ingrid", "collab"],
 			hidden: false
@@ -3562,7 +3562,7 @@ var data = {
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "By land or by sea, the gloves stay on.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "By land or by sea, the gloves stay on.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "May 2025",
 			tags: ["sfw", "eeby", "gifts_received"],
 			hidden: false
@@ -3705,7 +3705,7 @@ var data = {
 			artist: "Nico_Artooo",
 			artist_url: "https://x.com/Nico_Artooo",
 			art_url: "https://x.com/NessuDraws/status/1661024195600416768",
-			desc: "With Officer Galatea, Catria puts concerningly little effort into resisting arrest...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "With Officer Galatea, Catria puts concerningly little effort into resisting arrest...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Jul 2024",
 			tags: ["sfw", "catria", "ingrid", "gifts_received"],
 			hidden: false
@@ -4447,7 +4447,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/110627117",
-			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Aug 2023",
 			tags: ["sfw", "other", "collab"],
 			hidden: false
@@ -4512,7 +4512,7 @@ var data = {
 			artist: "SirKnightbot",
 			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
-			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/theashenjedi.bsky.social'>TheAshenJedi</a></strong>.",
+			desc: "Ingrid much prefers riding with Catria than racing after her.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Apr 2023",
 			tags: ["sfw", "catria", "ingrid", "collab"],
 			hidden: false
