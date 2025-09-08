@@ -3477,6 +3477,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Veronica
+			src: ["https://cdn.imgchest.com/files/84b8b669ad64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a705198a588e.png",
+			title: "Punk Rock",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "Despite being heir to the wealthy Emblian business empire, Veronica has never dressed for anyone but herself.<br/><br/>Gift for <strong>Holy</strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "veronica", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Motoiwork | Ylgr
 			src: ["https://cdn.imgchest.com/files/4gdcx56bw94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcq53em57.png",
