@@ -2022,7 +2022,7 @@ var data = {
 		},
 		{
 			// Glaceo | Aurelia
-			src: ["https://cdn.imgchest.com/files/22a6eada3561.png"],
+			src: ["https://cdn.imgchest.com/files/65cd3bde2bf4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/de155cdddc49.png",
 			title: "TBD",
 			artist: "Glaceo",
