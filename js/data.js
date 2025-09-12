@@ -2011,11 +2011,11 @@ var data = {
 			// Glaceo | Aurelia
 			src: ["https://cdn.imgchest.com/files/65cd3bde2bf4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/de155cdddc49.png",
-			title: "TBD",
+			title: "Crimson Scion",
 			artist: "Glaceo",
 			artist_url: "https://bsky.app/profile/glaceo.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "Even faced with unexpected trials and hardship, Aurelia strives to embody the very best of her parents.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
@@ -2028,7 +2028,7 @@ var data = {
 			artist: "Gravydood",
 			artist_url: "https://x.com/gravydood",
 			art_url: null,
-			desc: "When working as one, Indra and Macie's full<em>attentions</em> are a force to be reckoned with...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
+			desc: "When working as one, Indra and Macie's full <em>attentions</em> are a force to be reckoned with...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
