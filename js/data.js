@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "request", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "ingrid", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
+			tags: ["sfw", "nsfw", "extreme", "gifts_received", "gifts_given", "collab", "request", "agnes", "anna", "annette", "aurelia", "camilla", "caeda", "catria", "edelgard", "eebeebi", "eeby", "eirika", "flayn", "grima", "indra-macie", "ingrid", "kris", "laura", "lianna", "loki", "lysithea", "micaiah", "mirabilis", "rhea", "sayri", "severa", "shamir", "sharena", "thrasir", "tiki", "veronica", "veyle", "ylgr", "other"],
 			hidden: true
 		},
 		{
@@ -217,7 +217,7 @@ var data = {
 			art_url: null,
 			desc: "As Dee enjoys their attention, Indra and Macie have the look of schemers...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Jul 2025",
-			tags: ["sfw", "other", "gifts_received"],
+			tags: ["sfw","indra-macie", "other", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1400,7 +1400,7 @@ var data = {
 			art_url: null,
 			date_str: "Jul 2025",
 			desc: "Indra and Macie share half of themselves with each other – which, so their parents believe, is the reason for their peculiar eye colours...",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "indra-macie"],
 			hidden: false
 		},
 		{
@@ -1913,7 +1913,7 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lrzx6j5su22p",
 			desc: "Macie and Indra have always felt closest in moments of rest – and as, beneath the blossoms, Macie sleeps, her every dream drifts through shared souls to touch Indra's heart.",
 			date_str: "Jun 2025",
-			tags: ["sfw", "other"],
+			tags: ["sfw", "indra-macie"],
 			hidden: false
 		},
 		{
@@ -1926,7 +1926,7 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3ltjwbiwkcc2h",
 			desc: "Indra and Macie prove more than equal to their mothers' years of experience...<br/><br/>A gift collab led by <strong><a href='https://bsky.app/profile/saficswrites.bsky.social'>Safics</a></strong>, with contributions from <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>, <strong><a href='https://bsky.app/profile/azelfandquilava.bsky.social'>AzelfandQuilava</a></strong>, <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>, <strong><a href='https://bsky.app/profile/froginata.com'>Froginata</a></strong>, <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>, <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>, <strong><a href='https://bsky.app/profile/oricalle.bsky.social'>Oricalle</a></strong>, <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>, and <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>!",
 			date_str: "Jul 2025",
-			tags: ["sfw", "flayn", "veyle", "other", "gifts_received"],
+			tags: ["sfw", "flayn", "veyle", "indra-macie", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2030,7 +2030,7 @@ var data = {
 			art_url: null,
 			desc: "When working as one, Indra and Macie's full <em>attentions</em> are a force to be reckoned with...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Sep 2025",
-			tags: ["nsfw", "other", "collab"],
+			tags: ["nsfw", "indra-macie", "other", "collab"],
 			hidden: false
 		},
 		{
@@ -3616,7 +3616,7 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lrt3qagexk2r",
 			desc: "Macie and Indra, twin daughters of Flayn and Veyle – always together, always smiling, and always knowing something you don't.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/lothlanembers.bsky.social'>Ember</a></strong>.",
 			date_str: "Jun 2025",
-			tags: ["sfw", "other", "collab"],
+			tags: ["sfw", "indra-macie", "collab"],
 			hidden: false
 		},
 		{
