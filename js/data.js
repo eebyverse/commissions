@@ -2008,19 +2008,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Gravydood | Macie, Indra, and Dee
-			src: ["https://cdn.imgchest.com/files/741d87d1db34.png", "https://cdn.imgchest.com/files/1dcfb0585fb4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/ba00f29ae1c6.png",
-			title: "TBD",
-			artist: "Gravydood",
-			artist_url: "https://x.com/gravydood",
-			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
-			date_str: "Sep 2025",
-			tags: ["nsfw", "other", "collabs"],
-			hidden: false
-		},
-		{
 			// Glaceo | Aurelia
 			src: ["https://cdn.imgchest.com/files/65cd3bde2bf4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/de155cdddc49.png",
@@ -2031,6 +2018,19 @@ var data = {
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "aurelia", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Gravydood | Macie, Indra, and Dee
+			src: ["https://cdn.imgchest.com/files/741d87d1db34.png", "https://cdn.imgchest.com/files/1dcfb0585fb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ba00f29ae1c6.png",
+			title: "Dual Strike",
+			artist: "Gravydood",
+			artist_url: "https://x.com/gravydood",
+			art_url: null,
+			desc: "When working as one, Indra and Macie's full<em>attentions</em> are a force to be reckoned with...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["nsfw", "other", "collab"],
 			hidden: false
 		},
 		{
