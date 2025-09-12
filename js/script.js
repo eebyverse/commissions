@@ -288,6 +288,7 @@ function translateWord(word) {
 		grima: "👤 Grima",
 		agnes: "👤 Agnès",
 		aurelia: "👤 Aurelia",
+		indramacie: "👤 Indra & Macie",
 		other: "👤 Other/Misc",
 		request: "🗳️ Requests"
 	};
