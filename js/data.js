@@ -367,11 +367,11 @@ var data = {
 			// Cios | Caeda
 			src: ["https://cdn.imgchest.com/files/760c0074cf06.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9055dee04527.png",
-			title: "TBD",
+			title: "Silver Tongue",
 			artist: "Cios",
 			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Caeda's charms—and the power of love—are never to be underestimated.",
 			date_str: "Sep 2025",
 			tags: ["nsfw", "caeda"],
 			hidden: false
