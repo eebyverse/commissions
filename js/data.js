@@ -4026,11 +4026,11 @@ var data = {
 			// rinrinappleple | Neku and Shiki
 			src: ["https://cdn.imgchest.com/files/d98bc8d3f039.png", "https://cdn.imgchest.com/files/13b618ab7ff0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/563a3a122c29.png",
-			title: "TBD",
+			title: "My World Begins With You",
 			artist: "rinrinappleple",
 			artist_url: "https://skeb.jp/@rinrinappleple",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
+			desc: "<em>Waiting wasn't so bad. All that matters is that you're here now.</em><br/><br/>Gift for <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
