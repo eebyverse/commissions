@@ -364,6 +364,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Cios | Caeda
+			src: ["https://cdn.imgchest.com/files/760c0074cf06.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9055dee04527.png",
+			title: "TBD",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Sep 2025",
+			tags: ["nsfw", "caeda"],
+			hidden: false
+		},
+		{
 			// Cios | Micaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2a6wwg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2l6nzry.png",
@@ -1953,6 +1966,19 @@ var data = {
 			desc: "With the weight of Leanne's wing wrapped so tightly around her, Petrine wonders who's really comforting who.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Nov 2024",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Sothis and Naga
+			src: ["https://cdn.imgchest.com/files/99538291dfd2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e67fa6e29754.png",
+			title: "Divine Diplomacy",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Sothis and Naga discuss an alliance of trust and cooperation between their peoples.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
@@ -3994,6 +4020,19 @@ var data = {
 			desc: "Tiki's Brave attire leaves precious little to Rhea's imagination.<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "tiki", "rhea", "collab"],
+			hidden: false
+		},
+		{
+			// rinrinappleple | Neku and Shiki
+			src: ["https://cdn.imgchest.com/files/d98bc8d3f039.png", "https://cdn.imgchest.com/files/13b618ab7ff0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/563a3a122c29.png",
+			title: "TBD",
+			artist: "rinrinappleple",
+			artist_url: "https://skeb.jp/@rinrinappleple",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
