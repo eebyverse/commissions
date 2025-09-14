@@ -120,11 +120,11 @@ var data = {
 			// Argilla | Aurelia
 			src: ["https://cdn.imgchest.com/files/yxkczrkxvn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcwvg9aly.png",
-			title: "Picture of Perfection",
+			title: "Practiced Mask",
 			artist: "Argilla",
 			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
 			art_url: null,
-			desc: "Aurelia wears charm and certainty like armour – all to happy to ignore the question of who she ought to be.",
+			desc: "Aurelia wears charm and certainty like armour – all too happy to ignore the question of who she ought to be.",
 			date_str: "May 2025",
 			tags: ["sfw", "aurelia"],
 			hidden: false
