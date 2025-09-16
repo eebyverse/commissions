@@ -3191,6 +3191,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mery | Chrom and Robin
+			src: ["https://cdn.imgchest.com/files/4b6f129fe771.png"],
+			thumbnail: "https://cdn.imgchest.com/files/08879fd8dd4d.png",
+			title: "By Your Side",
+			artist: "Mery",
+			artist_url: "https://bsky.app/profile/merylemons.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lyxobhqxps2v",
+			desc: "Day after day, Chrom and Robin fall just a little deeper in love.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/scarlet-flowers.bsky.social'>scarlet-flowers</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// micaiah_mrmm | Micaiah
 			src: ["https://cdn.imgchest.com/files/49zc2kolgvy.png","https://cdn.imgchest.com/files/yvdcw9oqb6y.png","https://cdn.imgchest.com/files/4apc5lo8dx4.png","https://cdn.imgchest.com/files/46acqvedae7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2nowd9y.png",
