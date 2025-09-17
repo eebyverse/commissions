@@ -767,6 +767,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Decox | Alear and Julia
+			src: ["https://cdn.imgchest.com/files/6d93bbbc261e.png", "https://cdn.imgchest.com/files/58def1787ee3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e7c939efbb22.png",
+			title: "Divinity in Need",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "As a dragon, Alear's urges sometimes get the better of her... but strangely, none of her allies seem to mind.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["nsfw", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Decox | Aurelia
 			src: ["https://cdn.imgchest.com/files/7pjcqoxmrq7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc98wwv67.png",
