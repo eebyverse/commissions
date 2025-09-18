@@ -78,6 +78,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// alonemistrist | Azura and Corrin
+			src: ["https://cdn.imgchest.com/files/932143db3f15.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b1d899c30730.png",
+			title: "Strawberries With Her",
+			artist: "alonemistrist",
+			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lz4m5jawgc25",
+			desc: "On a very special day, Corrin indulges Azura with her favourite treat.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/tyrux.bsky.social'>Tyrux</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// // alonemistrist | Veyle and Kiran
 			src: ["https://cdn.imgchest.com/files/49zc2bnl99y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2dvnkq4.png",
