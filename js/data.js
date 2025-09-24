@@ -2099,6 +2099,32 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gravydood | Mozu SFW
+			src: ["https://cdn.imgchest.com/files/d2af0cbeb579.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1681044fc75c.png",
+			title: "TBD",
+			artist: "Gravydood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lzlz5s6ppc2r",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Gravydood | Mozu NSFW
+			src: ["https://cdn.imgchest.com/files/2ea0dc476b93.png", "https://cdn.imgchest.com/files/97e1f315c1cf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9deee858058a.png",
+			title: "TBD",
+			artist: "Gravydood",
+			artist_url: "https://x.com/gravydood",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lzlz5s6ppc2r",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["nsfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Greentapir | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/4gdcx9wp6g4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcw9vxrvy.png",
@@ -3334,6 +3360,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Annette
+			src: ["https://cdn.imgchest.com/files/421921933b5d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/091a5cb0a6f3.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1970288682537275407",
+			desc: "TBD.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "annette"],
+			hidden: false
+		},
+		{
 			// Mnejing | Ash
 			src: ["https://cdn.imgchest.com/files/4z9cvrq8rl7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczapjov7.png",
@@ -3499,6 +3538,19 @@ var data = {
 			art_url: "https://x.com/Mnejing30/status/1811557257051799846",
 			desc: "Trust her on this.",
 			date_str: "Jul 2024",
+			tags: ["sfw", "sayri"],
+			hidden: false
+		},
+		{
+			// Mnejing | Say'ri 2
+			src: ["https://cdn.imgchest.com/files/bad0ce61bb57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9969982039da.png",
+			title: "TBD",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1955780177923072128",
+			desc: "TBD.",
+			date_str: "Aug 2025",
 			tags: ["sfw", "sayri"],
 			hidden: false
 		},
@@ -4918,6 +4970,19 @@ var data = {
 			desc: "There are dozens upon dozens of mercenaries to be found in Askr – so it's just as well that Selena already knows she's the best of them.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "Oct 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
+			// TimboCactus | Severa and Mercs
+			src: ["https://cdn.imgchest.com/files/a4200da2c47a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d46c1d7413b4.png",
+			title: "TBD",
+			artist: "T0bey",
+			artist_url: "https://bsky.app/profile/t0bey-art.bsky.social",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/darkness-2727.bsky.social'>DarknesS</a></strong>.",
+			date_str: "Sep 2025",
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
