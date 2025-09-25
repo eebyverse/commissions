@@ -3550,7 +3550,7 @@ var data = {
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1955780177923072128",
 			desc: "For formal occasions, Say'ri is allowed a gold uniform in place of her usual silver – and still, she knows she's out of place.",
-			date_str: "Sep 2025",
+			date_str: "Aug 2025",
 			tags: ["sfw", "sayri"],
 			hidden: false
 		},
