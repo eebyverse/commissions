@@ -2102,11 +2102,11 @@ var data = {
 			// Gravydood | Mozu SFW
 			src: ["https://cdn.imgchest.com/files/d2af0cbeb579.png"],
 			thumbnail: "https://cdn.imgchest.com/files/1681044fc75c.png",
-			title: "TBD",
+			title: "Country Girl",
 			artist: "Gravydood",
 			artist_url: "https://x.com/gravydood",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lzlz5s6ppc2r",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
+			desc: "Out in the fields, it doesn't take much for Mozu to feel right at home.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -2115,11 +2115,11 @@ var data = {
 			// Gravydood | Mozu NSFW
 			src: ["https://cdn.imgchest.com/files/2ea0dc476b93.png", "https://cdn.imgchest.com/files/97e1f315c1cf.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9deee858058a.png",
-			title: "TBD",
+			title: "Country Girth",
 			artist: "Gravydood",
 			artist_url: "https://x.com/gravydood",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lzlz5s6ppc2r",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
+			desc: "Out in the fields, doesn't take much for Mozu to feel a little too at home.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/mozudyne.bsky.social'>Mathcat</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["nsfw", "other", "gifts_given"],
 			hidden: false
@@ -3363,11 +3363,11 @@ var data = {
 			// Mnejing | Annette
 			src: ["https://cdn.imgchest.com/files/421921933b5d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/091a5cb0a6f3.png",
-			title: "TBD",
+			title: "Come Hither",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1970288682537275407",
-			desc: "TBD.",
+			desc: "Catching you all on your own, Annette warmly invites you to spend the night with her...",
 			date_str: "Sep 2025",
 			tags: ["sfw", "annette"],
 			hidden: false
@@ -3545,12 +3545,12 @@ var data = {
 			// Mnejing | Say'ri 2
 			src: ["https://cdn.imgchest.com/files/bad0ce61bb57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9969982039da.png",
-			title: "TBD",
+			title: "Gilded Guise",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1955780177923072128",
-			desc: "TBD.",
-			date_str: "Aug 2025",
+			desc: "For formal occasions, Say'ri is allowed a gold uniform in place of her usual silver – and still, she knows she's out of place.",
+			date_str: "Sep 2025",
 			tags: ["sfw", "sayri"],
 			hidden: false
 		},
@@ -4973,14 +4973,14 @@ var data = {
 			hidden: false
 		},
 		{
-			// TimboCactus | Severa and Mercs
+			// TimboCactus | Eir and Fjorm
 			src: ["https://cdn.imgchest.com/files/a4200da2c47a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d46c1d7413b4.png",
-			title: "TBD",
+			title: "Death's Embrace",
 			artist: "T0bey",
 			artist_url: "https://bsky.app/profile/t0bey-art.bsky.social",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/darkness-2727.bsky.social'>DarknesS</a></strong>.",
+			desc: "For a princess of death, Eir leaves Fjorm feeling impossibly warm.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/darkness-2727.bsky.social'>DarknesS</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
