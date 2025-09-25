@@ -4979,7 +4979,7 @@ var data = {
 			title: "Death's Embrace",
 			artist: "T0bey",
 			artist_url: "https://bsky.app/profile/t0bey-art.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lzm45xsebc27",
 			desc: "For a princess of death, Eir leaves Fjorm feeling impossibly warm.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/darkness-2727.bsky.social'>DarknesS</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
