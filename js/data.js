@@ -2154,11 +2154,11 @@ var data = {
 			// Gzei | Morgan and Lilina
 			src: ["https://cdn.imgchest.com/files/8dd9cb44ab37.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/711273a4b7b6.png",
-			title: "TBD",
+			title: "Devoted Flame",
 			artist: "Gzei",
 			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			desc: "As he dances with Lilina, Morgan is mindful of every step... never realising for a moment how distracted his partner really is.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
