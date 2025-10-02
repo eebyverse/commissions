@@ -377,6 +377,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// chey | Camilla
+			src: ["https://cdn.imgchest.com/files/8841f84c46d5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/af194c625f65.png",
+			title: "Red, Blue, Purple",
+			artist: "chey",
+			artist_url: "https://bsky.app/profile/asphodelis.bsky.social",
+			art_url: null,
+			desc: "Azelle, Lex and Tailtiu find peace among flowers in the colors of their hearts...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			date_str: "Oct 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Chikaretsu | Eeby and Loki
 			src: ["https://cdn.imgchest.com/files/7lxcp3d5wm7.png", "https://cdn.imgchest.com/files/yd5ce3rao54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9grbg37.png",
