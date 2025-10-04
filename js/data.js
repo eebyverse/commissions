@@ -2008,6 +2008,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Monica, Mercedes, and Marianne
+			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m2f6oizn4s26",
+			desc: "TBD<br/><br/>Gift for <strong>Tayi</strong>.",
+			date_str: "Oct 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Petrine and Leanne
 			src: ["https://cdn.imgchest.com/files/y2pck9anxa7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2polbz4.png",
