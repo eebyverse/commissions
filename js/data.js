@@ -2009,8 +2009,8 @@ var data = {
 		},
 		{
 			// Fusenryo | Monica, Mercedes, and Marianne
-			src: ["https://cdn.imgchest.com/files/yd5ce3gvgr4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/45xcvmqo8r7.png",
+			src: ["https://cdn.imgchest.com/files/ebf0c2f863cd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ba25be5c14e7.png",
 			title: "TBD",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
