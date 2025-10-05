@@ -2011,11 +2011,11 @@ var data = {
 			// Fusenryo | Monica, Mercedes, and Marianne
 			src: ["https://cdn.imgchest.com/files/ebf0c2f863cd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ba25be5c14e7.png",
-			title: "TBD",
+			title: "Love Conquers All",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m2f6oizn4s26",
-			desc: "TBD<br/><br/>Gift for <strong>Tayi</strong>.",
+			desc: "Love, unexpected and disarming, brings Monica closer to a unity she never thought possible...<br/><br/>Gift for <strong>Tayi</strong>.",
 			date_str: "Oct 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
