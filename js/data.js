@@ -754,6 +754,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Roz and Estinien
+			src: ["https://cdn.imgchest.com/files/50acc38971fd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0001233d81ff.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Oct 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Darkness | Thrasir
 			src: ["https://cdn.imgchest.com/files/7w6c2mqqmqy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnlqqlb4.png",
@@ -868,6 +881,19 @@ var data = {
 			desc: "Soleil offers Lute a hands-on demonstration of love's... deeper aspects.",
 			date_str: "Aug 2022",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Shadow Aurelia
+			src: ["https://cdn.imgchest.com/files/6f34cf2f7314.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ac9c7957f384.png",
+			title: "Patchwork Chimera",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "<em>Deceiving you wasn't hard... I simply fed you the same lies I've always told myself.</em>",
+			date_str: "Oct 2025",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{
