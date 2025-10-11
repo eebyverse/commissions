@@ -1969,6 +1969,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Kiran and Sylvain
+			src: ["https://cdn.imgchest.com/files/8e12db681902.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f1456c7aa6d8.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/deebyfeeby.bsky.social'>DeebyFeeby</a></strong>.",
+			date_str: "Oct 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Eebeebi and Vrhaka
 			src: ["https://cdn.imgchest.com/files/49zc2krmmxy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lj6zq4.png",
