@@ -757,11 +757,11 @@ var data = {
 			// Darkness | Roz and Estinien
 			src: ["https://cdn.imgchest.com/files/50acc38971fd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/0001233d81ff.png",
-			title: "TBD",
+			title: "Hand in Hand",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
+			desc: "Roz and Estinien, united as one.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/hilancent.bsky.social'>Moon</a></strong>.",
 			date_str: "Oct 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1972,11 +1972,11 @@ var data = {
 			// Fusenryo | Kiran and Sylvain
 			src: ["https://cdn.imgchest.com/files/8e12db681902.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f1456c7aa6d8.png",
-			title: "TBD",
+			title: "Moments of Peace",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/deebyfeeby.bsky.social'>DeebyFeeby</a></strong>.",
+			desc: "Amidst endless conflict, the summoner enjoys some well-deserved quiet time with her most cherished Hero.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/deebyfeeby.bsky.social'>DeebyFeeby</a></strong>.",
 			date_str: "Oct 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
