@@ -3776,6 +3776,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Motoiwork | Charlotte Carmine
+			src: ["https://cdn.imgchest.com/files/704f31b8fea2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/750cb1aa5a0d.png",
+			title: "Mossui's Guard",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m3cyikn25c2p",
+			desc: "Carmine of Kitakami, dressed as a warrior from another place and time.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/seraspy.bsky.social'>Sera</a></strong>.",
+			date_str: "Oct 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Motoiwork | Joella
 			src: ["https://cdn.imgchest.com/files/4apc5g3kp64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3gepj24.png",
