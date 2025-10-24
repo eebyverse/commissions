@@ -122,7 +122,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/59007216aa66.png",
 			title: "Secret Admirer",
 			artist: "ameow",
-			artist_url: "https://bsky.app/profile/eepyamia.bsky.social",
+			artist_url: "https://bsky.app/profile/tinystar25.bsky.social",
 			art_url: null,
 			desc: "As Edelgard and Micaiah step away for a few moments, a third admirer spies an opportunity, and takes Eeby by surprise...<br/><br/>Gift from <strong>Tayi</strong>.",
 			date_str: "Sep 2025",
