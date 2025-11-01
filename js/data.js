@@ -1995,13 +1995,26 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Renne
+			src: ["https://cdn.imgchest.com/files/64ce2589a7e0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fa01301f8884.png",
+			title: "A Cure for Curiosity",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "When her path crosses, unexpectedly, with a mysterious beauty from Remiferia, Renne can't resist the chance to learn all about her...",
+			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
 			title: "Sheltered From the Rain",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
+			art_url: null,
 			desc: "Between battles for Daein's liberation, Vika and Micaiah discover feelings deeper than simple friendship.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/did:plc:l3svfpisgpqitlctcmk4crq5'>Safics</a></strong>.",
 			date_str: "Feb 2025",
 			tags: ["sfw", "micaiah", "other", "gifts_given"],
