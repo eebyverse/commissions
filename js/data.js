@@ -800,7 +800,7 @@ var data = {
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: "https://x.com/decoxart/status/1906147594125951214",
-			desc: "Aurash treats Aizawa to a raw show of strength.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
+			desc: "Aurash treats Aizawa to a raw show of strength.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>, as a collab with a friend.",
 			date_str: "Mar 2025",
 			tags: ["nsfw", "other", "collab", "gifts_given"],
 			hidden: false
