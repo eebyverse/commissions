@@ -3406,7 +3406,7 @@ var data = {
 			artist: "minorudonguri",
 			artist_url: "https://skeb.jp/@minorudonguri",
 			art_url: null,
-			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons is more than well known...<br/><br/>Collab with<strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
+			desc: "Upon arriving in Askr, Princess Ivy discovers that her affinity for dragons is more than well known...<br/><br/>Collab with <strong><a href='https://x.com/TheSpiderTamer'>Spider Tamer</a></strong>.",
 			date_str: "Apr 2024",
 			tags: ["sfw", "tiki", "rhea", "other", "collab"],
 			hidden: false
