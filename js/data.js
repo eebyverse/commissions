@@ -377,7 +377,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// chey | Camilla
+			// chey | Azelle, Lex, and Tailtiu
 			src: ["https://cdn.imgchest.com/files/8841f84c46d5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/af194c625f65.png",
 			title: "Red, Blue, Purple",
@@ -387,6 +387,19 @@ var data = {
 			desc: "Azelle, Lex and Tailtiu find peace among flowers in the colors of their hearts...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Oct 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// chey | Aurelia and Galiene
+			src: ["https://cdn.imgchest.com/files/b9ec9b80f7fc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f1a0ab1e7eea.png",
+			title: "Scandal",
+			artist: "chey",
+			artist_url: "https://bsky.app/profile/asphodelis.bsky.social",
+			art_url: null,
+			desc: "<em>Lady Galiene… will you join me in a scandal?</em><br/><br/>Gift for <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "aurelia", "other", "gifts_given"],
 			hidden: false
 		},
 		{
