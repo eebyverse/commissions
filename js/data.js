@@ -2021,6 +2021,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Emma
+			src: ["https://cdn.imgchest.com/files/2fb3d4b6c952.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e6da0f7e5435.png",
+			title: "She's a Looker",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "As a new arrival in Lumiose starts making waves among local trainers, Emma suspects she may be a Faller from another world... and so decides upon a <em>thorough</em> investigation.<br/><br/>Collab with<strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
