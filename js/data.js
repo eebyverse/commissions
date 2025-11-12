@@ -2028,7 +2028,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "As a new arrival in Lumiose starts making waves among local trainers, Emma suspects she may be a Faller from another world... and so decides upon a <em>thorough</em> investigation.<br/><br/>Collab with<strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			desc: "As a new arrival in Lumiose starts making waves among local trainers, Emma suspects she may be a Faller from another world... and so decides upon a <em>thorough</em> investigation.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
 			date_str: "Nov 2025",
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
