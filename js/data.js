@@ -2034,6 +2034,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Musashi
+			src: ["https://cdn.imgchest.com/files/c5833fa1b808.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4e44fa154339.png",
+			title: "Casting Magic",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "A chance encounter with a woman purporting to be both a Caster and fellow Servant leaves Musashi hopelessly intrigued... and with only a few words of introduction, the Saber's thoughts turn far away from formalities.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
