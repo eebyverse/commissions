@@ -4765,19 +4765,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// SilverCandyGum | Merrin and Chloe
-			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zm64.png",
-			title: "Beauty and Beast",
-			artist: "SilverCandyGum",
-			artist_url: "https://www.pixiv.net/en/users/17986763",
-			art_url: "https://www.pixiv.net/en/artworks/110627117",
-			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
-			date_str: "Aug 2023",
-			tags: ["sfw", "other", "collab"],
-			hidden: false
-		},
-		{
 			// SilverCandyGum | Severa
 			src: ["https://cdn.imgchest.com/files/87998ef60b89.png"],
 			thumbnail: "https://cdn.imgchest.com/files/77795b4461cf.png",
@@ -4788,6 +4775,19 @@ var data = {
 			desc: "No matter the situation, Severa—or Selena—always dresses to impress.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Nov 2025",
 			tags: ["sfw", "severa", "collab"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Merrin and Chloe
+			src: ["https://cdn.imgchest.com/files/4gdcx9okgl4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2o8zm64.png",
+			title: "Beauty and Beast",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/110627117",
+			desc: "As far as partners go, the contrasts between Chloe and Merrin couldn't be more striking... which may well be the secret to their success.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
+			date_str: "Aug 2023",
+			tags: ["sfw", "other", "collab"],
 			hidden: false
 		},
 		{
