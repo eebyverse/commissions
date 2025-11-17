@@ -4778,6 +4778,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// SilverCandyGum | Severa
+			src: ["https://cdn.imgchest.com/files/87998ef60b89.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2945bcc317df.png",
+			title: "Cool and Cute",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/137577380",
+			desc: "No matter the situation, Severa—or Selena—always dresses to impress.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "severa", "collab"],
+			hidden: false
+		},
+		{
 			// SilverCandyGum | Kris
 			src: ["https://cdn.imgchest.com/files/4z9cv3wzz27.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5ce3rnqq4.png",
