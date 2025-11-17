@@ -4780,7 +4780,7 @@ var data = {
 		{
 			// SilverCandyGum | Severa
 			src: ["https://cdn.imgchest.com/files/87998ef60b89.png"],
-			thumbnail: "https://cdn.imgchest.com/files/2945bcc317df.png",
+			thumbnail: "https://cdn.imgchest.com/files/77795b4461cf.png",
 			title: "Cool and Cute",
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
