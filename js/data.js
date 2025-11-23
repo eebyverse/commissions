@@ -195,6 +195,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Argilla | Y'bele and Arc
+			src: ["https://cdn.imgchest.com/files/90871d3ef45d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/556da90f4479.png",
+			title: "Blue Flower",
+			artist: "Argilla",
+			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m5w5ehq4l22v",
+			desc: "In blossoming springtime, Arc and Y'bele share a moment of peace.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// arikindows10 | Anna, Pyra, and Sumire
 			src: ["https://cdn.imgchest.com/files/4gdcxpzjl24.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxpzalr4.png",
