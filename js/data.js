@@ -1703,6 +1703,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fubbz | Kris, Phina, and Norne
+			src: ["https://cdn.imgchest.com/files/96e1d04451e8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c08c65516961.png",
+			title: "TBD",
+			artist: "fubbz",
+			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.
+			date_str: "Nov 2025",
+			tags: ["sfw", "kris", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Fubbz | Lysithea and Gaius
 			src: ["https://cdn.imgchest.com/files/yvdcwb98emy.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckgj82g7.png",
@@ -2021,19 +2034,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Fusenryo | Micaiah and Renne
-			src: ["https://cdn.imgchest.com/files/64ce2589a7e0.png"],
-			thumbnail: "https://cdn.imgchest.com/files/fa01301f8884.png",
-			title: "A Cure for Curiosity",
-			artist: "fusenryo2",
-			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "When her path crosses, unexpectedly, with a mysterious beauty from Remiferia, Renne can't resist the chance to learn all about her...",
-			date_str: "Nov 2025",
-			tags: ["sfw", "micaiah", "other"],
-			hidden: false
-		},
-		{
 			// Fusenryo | Micaiah and Emma
 			src: ["https://cdn.imgchest.com/files/2fb3d4b6c952.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e6da0f7e5435.png",
@@ -2055,6 +2055,32 @@ var data = {
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
 			desc: "A chance encounter with a woman purporting to be both a Caster and fellow Servant leaves Musashi hopelessly intrigued... and with only a few words of introduction, the Saber's thoughts turn far away from formalities.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+				{
+			// Fusenryo | Micaiah and Renne
+			src: ["https://cdn.imgchest.com/files/64ce2589a7e0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fa01301f8884.png",
+			title: "A Cure for Curiosity",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "When her path crosses, unexpectedly, with a mysterious beauty from Remiferia, Renne can't resist the chance to learn all about her...",
+			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Micaiah and Tae
+			src: ["https://cdn.imgchest.com/files/ab9518ffd3f6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49fc633fb8b6.png",
+			title: "Be the Death of Me",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "For Tae, worn out and weary after a long day of work, an attractive stranger in a nightclub is just what the doctor ordered...<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Nov 2025",
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
