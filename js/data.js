@@ -1710,7 +1710,7 @@ var data = {
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Nov 2025",
 			tags: ["sfw", "kris", "other", "gifts_given"],
 			hidden: true
@@ -2059,7 +2059,7 @@ var data = {
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
 		},
-				{
+		{
 			// Fusenryo | Micaiah and Renne
 			src: ["https://cdn.imgchest.com/files/64ce2589a7e0.png"],
 			thumbnail: "https://cdn.imgchest.com/files/fa01301f8884.png",
