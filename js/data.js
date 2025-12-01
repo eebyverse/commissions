@@ -1706,14 +1706,14 @@ var data = {
 			// Fubbz | Kris, Phina, and Norne
 			src: ["https://cdn.imgchest.com/files/96e1d04451e8.png"],
 			thumbnail: "https://cdn.imgchest.com/files/c08c65516961.png",
-			title: "TBD",
+			title: "Tug of War",
 			artist: "fubbz",
 			artist_url: "https://bsky.app/profile/fyllophobia.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Wherever Kris goes, the battlefield follows.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Nov 2025",
 			tags: ["sfw", "kris", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Fubbz | Lysithea and Gaius
