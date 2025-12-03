@@ -2047,6 +2047,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Fiona
+			src: ["https://cdn.imgchest.com/files/61904e607b79.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9b9715cb3beb.png",
+			title: "Haunted By You",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Not all strangers, Fiona discovers, mean her harm... though some feel dangerous in other, more thrilling ways.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "micaiah", "other"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Musashi
 			src: ["https://cdn.imgchest.com/files/c5833fa1b808.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4e44fa154339.png",
