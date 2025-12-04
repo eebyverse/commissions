@@ -2307,6 +2307,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gzei | Edelcaiah 2
+			src: ["https://cdn.imgchest.com/files/6c2f33b5559d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d04f2b35b9f1.png",
+			title: "The Lie Upon My Lips",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "For a heartbeat, Edelgard lets herself pretend she’s worthy of Micaiah's love.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/jordan-d-64.bsky.social'>Jordan D 64</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Gzei | Edelcaiah 1
 			src: ["https://cdn.imgchest.com/files/4gdcxew8og4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4z9cvrjmkb7.png",
@@ -2316,19 +2329,6 @@ var data = {
 			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3lqe4ysubwk27",
 			desc: "From the Day of Devotion to the Bridal Festival, Edelgard lets herself believe—for flickering instants—in a life beyond her destined end.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/vanil-la.bsky.social'>Vanil</a></strong>.",
 			date_str: "May 2025",
-			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
-			hidden: false
-		},
-		{
-			// Gzei | Edelcaiah 2
-			src: ["https://cdn.imgchest.com/files/6c2f33b5559d.png"],
-			thumbnail: "https://cdn.imgchest.com/files/d04f2b35b9f1.png",
-			title: "TBD",
-			artist: "Gzei",
-			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
-			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/jordan-d-64.bsky.social'>Jordan D 64</a></strong>.",
-			date_str: "Dec 2025",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
