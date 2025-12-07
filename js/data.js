@@ -2749,6 +2749,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Kirbu | Palla
+			src: ["https://cdn.imgchest.com/files/2ff2555810d6.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/89bff703cde8.png",
+			title: "Words From Home",
+			artist: "Kirbu",
+			artist_url: "https://bsky.app/profile/kirbuart.bsky.social",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m7cszw44ps2k",
+			desc: "In faraway Valentia, Palla receives a letter from the one nearest to her heart.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// kishiro_az | Yukari
 			src: ["https://cdn.imgchest.com/files/7mmc9mlaln7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc26pn6my.png",
