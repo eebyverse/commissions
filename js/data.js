@@ -442,6 +442,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Cios | Monica
+			src: ["https://cdn.imgchest.com/files/34173a605adc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cee36990df80.png",
+			title: "TBD",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// Cios | Micaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2a6wwg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2l6nzry.png",
@@ -3659,6 +3672,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Europa
+			src: ["https://cdn.imgchest.com/files/5b7303a16e14.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e1c05c22c947.png",
+			title: "Peace",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1998180704119914938",
+			desc: "TBD.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Mnejing | Henriette
 			src: ["https://cdn.imgchest.com/files/y2pck9lpnz7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcnlmxbw4.png",
@@ -4801,6 +4827,19 @@ var data = {
 			desc: "Through her experiences in the Northern Fortress, Selena finds herself on unexpectedly fond terms with both maids in Corrin's service – and when, one day, the sisters invite her out to a picnic, she knows full well what to expect...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/dkrf.bsky.social'>DKRF</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "severa", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Sierra | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/6bf4b7da5495.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/897a810a9061.png",
+			title: "TBD",
+			artist: "SilverCandyGum",
+			artist_url: "https://x.com/sierra117renner",
+			art_url: "https://x.com/sierra117renner/status/1998314892890354050",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
 		},
 		{
