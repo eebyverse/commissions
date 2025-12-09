@@ -445,11 +445,11 @@ var data = {
 			// Cios | Monica
 			src: ["https://cdn.imgchest.com/files/34173a605adc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/cee36990df80.png",
-			title: "TBD",
+			title: "Muscle Memory",
 			artist: "Cios",
 			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Monica's picture-perfect memory often serves her well... especially when remembering just how to make a partner melt under her touch.",
 			date_str: "Dec 2025",
 			tags: ["nsfw", "other"],
 			hidden: false
@@ -3679,7 +3679,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1998180704119914938",
-			desc: "TBD.",
+			desc: "Europa of Edessa, in a moment of peace.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "other"],
 			hidden: false
@@ -4833,11 +4833,11 @@ var data = {
 			// Sierra | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/6bf4b7da5495.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/897a810a9061.png",
-			title: "TBD",
-			artist: "SilverCandyGum",
+			title: "All Wrapped Up",
+			artist: "Sierra",
 			artist_url: "https://x.com/sierra117renner",
 			art_url: "https://x.com/sierra117renner/status/1998314892890354050",
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
+			desc: "Winter has a way of bringing even the closest closer still.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
