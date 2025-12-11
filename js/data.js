@@ -2177,6 +2177,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Musashi and Tiki
+			src: ["https://cdn.imgchest.com/files/77e1a7adc008.png"],
+			thumbnail: "https://cdn.imgchest.com/files/497d63257e58.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m2f6oizn4s26",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/suavegoose.bsky.social'>SuaveGoose</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "tiki", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Petrine and Leanne
 			src: ["https://cdn.imgchest.com/files/y2pck9anxa7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2polbz4.png",
