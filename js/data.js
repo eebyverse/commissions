@@ -4843,6 +4843,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Shrimp | Exalted Edelgard
+			src: ["https://cdn.imgchest.com/files/c768f7040f2a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/27c4e5cb048d.png",
+			title: "TBD",
+			artist: "Shrimp",
+			artist_url: "https://skeb.jp/@dUoya8vLZW34920",
+			art_url: null,
+			desc: "TBD<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Sierra | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/6bf4b7da5495.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/897a810a9061.png",
