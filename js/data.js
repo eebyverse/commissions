@@ -2180,11 +2180,11 @@ var data = {
 			// Fusenryo | Musashi and Tiki
 			src: ["https://cdn.imgchest.com/files/77e1a7adc008.png"],
 			thumbnail: "https://cdn.imgchest.com/files/497d63257e58.png",
-			title: "TBD",
+			title: "Hand-Picked",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m2f6oizn4s26",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/suavegoose.bsky.social'>SuaveGoose</a></strong>.",
+			desc: "For Musashi and Tiki, gifts come in very different forms...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/suavegoose.bsky.social'>SuaveGoose</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "tiki", "other", "gifts_given"],
 			hidden: false
@@ -4846,11 +4846,11 @@ var data = {
 			// Shrimp | Exalted Edelgard
 			src: ["https://cdn.imgchest.com/files/c768f7040f2a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/27c4e5cb048d.png",
-			title: "TBD",
+			title: "Exalted Emperor",
 			artist: "Shrimp",
 			artist_url: "https://skeb.jp/@dUoya8vLZW34920",
 			art_url: null,
-			desc: "TBD<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
+			desc: "Edelgard, dressed as an Exalt from another world...<br/><br/>Secret Santa gift from <strong><a href='https://x.com/An_Exalted'>Exalted</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "edelgard", "gifts_received"],
 			hidden: false
