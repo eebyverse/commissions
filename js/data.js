@@ -1534,6 +1534,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Eve and Mitan
+			src: ["https://cdn.imgchest.com/files/fb46af419570.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cb32b503c7a5.png",
+			title: "Rehabilitation",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Returning to her queen's side after years astray, Mitan is quick to learn that Ève hasn't changed a bit...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/jellodorf.bsky.social'>JelloDorf</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Evo | Tana and Alm
 			src: ["https://cdn.imgchest.com/files/49zc2v9dogy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yd5cemg6lg4.png",
