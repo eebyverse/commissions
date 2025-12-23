@@ -3035,6 +3035,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LazzleDazzler | Sayori Tressa
+			src: ["https://cdn.imgchest.com/files/60df9cfc76d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b597a29d2c4a.png",
+			title: "TBD",
+			artist: "LazzleDazzler",
+			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Tiki and Rhea
 			src: ["https://cdn.imgchest.com/files/y2pckagaj37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpm3rby.png",
@@ -3447,6 +3460,19 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lmhw7wbx3k2z",
 			desc: "Little creature, red<br/>of fur, so cute and cud—hey!<br/>Stop wriggling so much!<br/><br/>Gift for <strong><a href='https://bsky.app/profile/dustdustdust.bsky.social'>Dust</a></strong>.",
 			date_str: "Apr 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// MeliaArt | Nyx
+			src: ["https://cdn.imgchest.com/files/6a485a7635c1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/c9440b48861c.png",
+			title: "TBD",
+			artist: "MeliaArt",
+			artist_url: "https://ko-fi.com/meliaart",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/bbdouble.bsky.social'>bbdouble</a></strong>.",
+			date_str: "Dec 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
