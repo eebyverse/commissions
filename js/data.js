@@ -2086,6 +2086,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Maiko
+			src: ["https://cdn.imgchest.com/files/f51c04a49835.png"],
+			thumbnail: "https://cdn.imgchest.com/files/00c7d73154c4.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD.<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "micaiah", "other", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Musashi
 			src: ["https://cdn.imgchest.com/files/c5833fa1b808.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4e44fa154339.png",
