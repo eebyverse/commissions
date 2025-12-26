@@ -2089,11 +2089,11 @@ var data = {
 			// Fusenryo | Micaiah and Maiko
 			src: ["https://cdn.imgchest.com/files/f51c04a49835.png"],
 			thumbnail: "https://cdn.imgchest.com/files/00c7d73154c4.png",
-			title: "TBD",
+			title: "Mic Check",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD.<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "Sakine Meiko, young and inexperienced, makes sure to learn everything she can from her seniors...<br/><br/>Gift from <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
@@ -2134,6 +2134,19 @@ var data = {
 			art_url: null,
 			desc: "For Tae, worn out and weary after a long day of work, an attractive stranger in a nightclub is just what the doctor ordered...<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Nov 2025",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Micaiah and Y'shtola
+			src: ["https://cdn.imgchest.com/files/eac5308b421b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a41dcd9b0fc5.png",
+			title: "All Ears",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Y'shtola finds that M'caiah, her eccentric new 'research assistant' in Sharlayan, has a very novel approach to helping out...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/seventhewriter.bsky.social'>Seven</a></strong>.",
+			date_str: "Dec 2025",
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
 		},
@@ -3051,11 +3064,11 @@ var data = {
 			// LazzleDazzler | Sayori Tressa
 			src: ["https://cdn.imgchest.com/files/60df9cfc76d7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b597a29d2c4a.png",
-			title: "TBD",
+			title: "All Smiles",
 			artist: "LazzleDazzler",
 			artist_url: "https://bsky.app/profile/did:plc:32x5qhojucad7wyl5tsbksqb",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
+			desc: "Sayori, dressed as a merchant from another place and time...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/kmayn.bsky.social'>Kmayn</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -3480,11 +3493,11 @@ var data = {
 			// MeliaArt | Nyx
 			src: ["https://cdn.imgchest.com/files/6a485a7635c1.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/c9440b48861c.png",
-			title: "TBD",
+			title: "Eternal Youth",
 			artist: "MeliaArt",
 			artist_url: "https://ko-fi.com/meliaart",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/bbdouble.bsky.social'>bbdouble</a></strong>.",
+			desc: "<em>You'd do well to keep your distance. Who would want to associate with this pitiful, cursed existence?</em><br/><br/>Gift for <strong><a href='https://bsky.app/profile/bbdouble.bsky.social'>bbdouble</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
