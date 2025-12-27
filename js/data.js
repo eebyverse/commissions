@@ -3269,6 +3269,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Lynarc | Christie
+			src: ["https://cdn.imgchest.com/files/de3059cf8dfc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d5400d3d2ffe.png",
+			title: "TBD",
+			artist: "Lynarc",
+			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>.",
+			date_str: "Dec 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
 			// Lynarc | Say'ri
 			src: ["https://cdn.imgchest.com/files/yq9c3ar5vg4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmok9b7.png",
