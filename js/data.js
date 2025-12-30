@@ -767,6 +767,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Darkness | Ylgr and Veronica
+			src: ["https://cdn.imgchest.com/files/5c6e211be143.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b821deed3553.png",
+			title: "TBD",
+			artist: "DarknesS",
+			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Dec 2025", 
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Darkness | Vanil and Muspell
 			src: ["https://cdn.imgchest.com/files/y2pck955a37.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yrgcnk99ko4.png",
@@ -2275,9 +2288,9 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "King Will and Queen Eupha of Euchronia, finding a moment's respite from royal obligations.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/bravelyagnes.bsky.social'>Agnes</a></strong>.",
+			desc: "King Will and Queen Eupha of Euchronia, finding a moment's respite from royal obligations.",
 			date_str: "Feb 2025",
-			tags: ["sfw", "other", "gifts_given"],
+			tags: ["sfw", "other"],
 			hidden: false
 		},
 		{
