@@ -770,13 +770,13 @@ var data = {
 			// Darkness | Ylgr and Veronica
 			src: ["https://cdn.imgchest.com/files/5c6e211be143.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b821deed3553.png",
-			title: "TBD",
+			title: "The Emperor's Hound",
 			artist: "DarknesS",
 			artist_url: "https://bsky.app/profile/did:plc:3xdyjimydh6q3b6cg5z26mu3",
 			art_url: null,
-			desc: "TBD",
+			desc: "Of all Veronica's subjects and servants, Ylgr's loyalty has never once wavered.",
 			date_str: "Dec 2025", 
-			tags: ["sfw", "other"],
+			tags: ["sfw", "veronica", "ylgr"],
 			hidden: false
 		},
 		{
@@ -2216,6 +2216,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Leif and Mercedes
+			src: ["https://cdn.imgchest.com/files/9f0ed2e5604a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b6e5f522abee.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/juicet1n.bsky.social'>juicet1n</a></strong>.",
+			date_str: "Jan 2026",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: true
+		},
+		{
 			// Fusenryo | Monica, Mercedes, and Marianne
 			src: ["https://cdn.imgchest.com/files/ebf0c2f863cd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ba25be5c14e7.png",
@@ -3285,11 +3298,11 @@ var data = {
 			// Lynarc | Christie
 			src: ["https://cdn.imgchest.com/files/de3059cf8dfc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d5400d3d2ffe.png",
-			title: "TBD",
+			title: "Charmer",
 			artist: "Lynarc",
 			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>.",
+			desc: "Christie, dressed for comfort... in every sense of the word.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/clericknight.bsky.social'>Cleric Knight</a></strong>.",
 			date_str: "Dec 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
