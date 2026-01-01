@@ -2219,14 +2219,14 @@ var data = {
 			// Fusenryo | Leif and Mercedes
 			src: ["https://cdn.imgchest.com/files/9f0ed2e5604a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b6e5f522abee.png",
-			title: "TBD",
+			title: "Through You",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/juicet1n.bsky.social'>juicet1n</a></strong>.",
+			desc: "Mercedes sees Leif for who he really is.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/juicet1n.bsky.social'>juicet1n</a></strong>.",
 			date_str: "Jan 2026",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// Fusenryo | Monica, Mercedes, and Marianne
