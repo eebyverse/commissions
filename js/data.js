@@ -403,6 +403,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// chey | Aurelia
+			src: ["https://cdn.imgchest.com/files/62e651c78f4f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bac4b61dc9d7.png",
+			title: "TBD",
+			artist: "chey",
+			artist_url: "https://bsky.app/profile/asphodelis.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// chey | Aurelia and Galiene
 			src: ["https://cdn.imgchest.com/files/b9ec9b80f7fc.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f1a0ab1e7eea.png",
@@ -1831,7 +1844,19 @@ var data = {
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
-		{	// Fusenryo | Aurelia
+		{	// Fusenryo | Aurelia 1
+			src: ["https://cdn.imgchest.com/files/6076b494bd85.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0ddf172ef8c9.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD.",
+			date_str: "Jan 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{	// Fusenryo | Aurelia 2
 			src: ["https://cdn.imgchest.com/files/y8xcn9ro8d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcv3a8bz7.png",
 			title: "Where Absence Sits",
