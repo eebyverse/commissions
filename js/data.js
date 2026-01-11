@@ -406,11 +406,11 @@ var data = {
 			// chey | Aurelia
 			src: ["https://cdn.imgchest.com/files/62e651c78f4f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/bac4b61dc9d7.png",
-			title: "TBD",
+			title: "The Future",
 			artist: "chey",
 			artist_url: "https://bsky.app/profile/asphodelis.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "However you try to turn from it, the future is never far behind.",
 			date_str: "Jan 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
@@ -1847,11 +1847,11 @@ var data = {
 		{	// Fusenryo | Aurelia 1
 			src: ["https://cdn.imgchest.com/files/6076b494bd85.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/0ddf172ef8c9.png",
-			title: "TBD",
+			title: "Inheritor",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD.",
+			desc: "<em>You address Aurelia Strahl Altina, future queen of Daein. Treat me as your equal... and we will have no quarrel.</em>",
 			date_str: "Jan 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
