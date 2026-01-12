@@ -257,7 +257,7 @@ var data = {
 			desc: "As Dee enjoys their attention, Indra and Macie have the look of schemers...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/cavilthewayseeker.bsky.social'>Cavil</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw","indramacie", "other", "gifts_received"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// Asu | Miccy and Renne
