@@ -1560,6 +1560,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Aurelia
+			src: ["https://cdn.imgchest.com/files/f7cd20d04835.png"],
+			thumbnail: "https://cdn.imgchest.com/files/07d29f1f8beb.png",
+			title: "Colors Flying High",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Aurelia makes no secret of her preferences.",
+			date_str: "Jan 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Evo | Eve and Mitan
 			src: ["https://cdn.imgchest.com/files/fb46af419570.png"],
 			thumbnail: "https://cdn.imgchest.com/files/cb32b503c7a5.png",
