@@ -397,7 +397,7 @@ var data = {
 			artist: "chey",
 			artist_url: "https://bsky.app/profile/asphodelis.bsky.social",
 			art_url: null,
-			desc: "Azelle, Lex and Tailtiu find peace among flowers in the colors of their hearts...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
+			desc: "Azelle, Lex and Tailtiu find peace among flowers in the colours of their hearts...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong>.",
 			date_str: "Oct 2025",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -1563,7 +1563,7 @@ var data = {
 			// Evo | Aurelia
 			src: ["https://cdn.imgchest.com/files/f7cd20d04835.png"],
 			thumbnail: "https://cdn.imgchest.com/files/07d29f1f8beb.png",
-			title: "Colors Flying High",
+			title: "Colours Flying High",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
@@ -4800,6 +4800,19 @@ var data = {
 			desc: "Edelgard, recently summoned to Askr, finds unexpected common ground with the Queen of Daein – who, in illustrating a comparison between the Crests of Edelgard's world and the Brands of her own, reveals a closely guarded secret.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/angelflowers141.bsky.social'>Angelee</a></strong>.",
 			date_str: "Mar 2024",
 			tags: ["sfw", "micaiah", "edelgard", "collab"],
+			hidden: false
+		},
+		{
+			// Sethkiel | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/0c0d427da8e2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/643c342e2377.png",
+			title: "Coloured Strands",
+			artist: "Sethkiel",
+			artist_url: "https://bsky.app/profile/sethkiel.bsky.social",
+			art_url: null,
+			desc: "<em>May you never suffer my curse.</em>",
+			date_str: "Jan 2026",
+			tags: ["sfw", "micaiah", "edelgard", "aurelia"],
 			hidden: false
 		},
 		{
