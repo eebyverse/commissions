@@ -3567,6 +3567,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mayo | Aurelia
+			src: ["https://cdn.imgchest.com/files/60fe64396325.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d97fa109a419.png",
+			title: "TBD",
+			artist: "Mayo",
+			artist_url: "https://x.com/mayo_moyo",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Jan 2026",
+			tags: ["sfw", "aurelia", "gifts_received"],
+			hidden: false
+		},
+		{
 			// MeliaArt | Nyx
 			src: ["https://cdn.imgchest.com/files/6a485a7635c1.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/c9440b48861c.png",
@@ -4083,6 +4096,19 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqi2bnceok2z",
 			desc: "When magical practice offers a break from stifling formality, Aurelia opts for something freer, bolder... and tailored in just the right way to invite a second glance.",
 			date_str: "May 2025",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
+			// Motoiwork | Aurelia 3
+			src: ["https://cdn.imgchest.com/files/e5bb8348ef01.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/f6456ebfac37.png",
+			title: "TBD",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jan 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
