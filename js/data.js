@@ -1861,11 +1861,11 @@ var data = {
 			// Fusenryo | Alear and Julia 2
 			src: ["https://cdn.imgchest.com/files/73678c4658c5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2d7446421ddd.png",
-			title: "TBD",
+			title: "Study Buddies",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "Julia does her best to walk her girlfriend through a complicated lesson...<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Jan 2026",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
@@ -3583,11 +3583,11 @@ var data = {
 			// Mayo | Aurelia
 			src: ["https://cdn.imgchest.com/files/60fe64396325.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d97fa109a419.png",
-			title: "TBD",
+			title: "Glow",
 			artist: "Mayo",
 			artist_url: "https://x.com/mayo_moyo",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Aurelia, finding a moment of peace.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Jan 2026",
 			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
@@ -4116,11 +4116,11 @@ var data = {
 			// Motoiwork | Aurelia 3
 			src: ["https://cdn.imgchest.com/files/e5bb8348ef01.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/f6456ebfac37.png",
-			title: "TBD",
+			title: "Future of Daein",
 			artist: "motoiwork",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "TBD",
+			desc: "Aurelia on most occasions—and the version of herself she would prefer the world to see.",
 			date_str: "Jan 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
