@@ -1845,7 +1845,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Fusenryo | Alear and Julia
+			// Fusenryo | Alear and Julia 1
 			src: ["https://cdn.imgchest.com/files/739cxg3obl7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvqeggz7.png",
 			title: "Two of a Kind",
@@ -1854,6 +1854,19 @@ var data = {
 			art_url: null,
 			desc: "Julia and Alear may not quite fit in with the rest of their student peers... but together, they fit perfectly.<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Aug 2025",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Alear and Julia 2
+			src: ["https://cdn.imgchest.com/files/73678c4658c5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2d7446421ddd.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			date_str: "Jan 2026",
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
