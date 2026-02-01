@@ -5583,6 +5583,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Xander Wolk | Aurelia
+			src: ["https://cdn.imgchest.com/files/4fe7866351aa.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bd1e15774cbe.png",
+			title: "Air of Superiority",
+			artist: "Xander Wolk",
+			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
+			art_url: null,
+			desc: "Of all Aurelia's masks, confidence is the easiest to wear.",
+			date_str: "Feb 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Xander Wolk | Celica
 			src: ["https://cdn.imgchest.com/files/yd5cebngpl4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4gdcxnko5k4.png",
