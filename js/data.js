@@ -4035,6 +4035,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Morbid | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/3cf82cee1671.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cc034231034b.png",
+			title: "Silver and Cold",
+			artist: "Morbid",
+			artist_url: "https://bsky.app/profile/m0rb1dspade.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			date_str: "Feb 2026",
+			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Motoiwork | Anna
 			src: ["https://cdn.imgchest.com/files/4gdcx8n63d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3gwrz24.png",
