@@ -3996,6 +3996,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Mnejing | Ylgr
+			src: ["https://cdn.imgchest.com/files/a55b53bb74e9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/520d17c77141.png",
+			title: "Emperor's Counsel",
+			artist: "Mnejing30",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: null,
+			desc: "Veronica is grateful for all and any of Ylgr's suggestions... even if they sometimes leap to extremes.",
+			date_str: "Feb 2026",
+			tags: ["sfw", "ylgr"],
+			hidden: false
+		},
+		{
 			// Mnejing | Yunaka
 			src: ["https://cdn.imgchest.com/files/7bwckgwjna7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvw8wxm4.png",
