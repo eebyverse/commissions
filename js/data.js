@@ -468,6 +468,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Cios | Tiki
+			src: ["https://cdn.imgchest.com/files/ec9fdb3bc36c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7167d2f58a6e.png",
+			title: "TBD",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Feb 2026",
+			tags: ["nsfw", "tiki"],
+			hidden: false
+		},
+		{
 			// Cios | Micaiah
 			src: ["https://cdn.imgchest.com/files/ye3c2a6wwg4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7w6c2l6nzry.png",
@@ -1099,9 +1112,22 @@ var data = {
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids. ",
+			desc: "Eleanor Delgarde, Queen Micaiah's head of staff, dressed for work. Though her sudden appearance and dubious background draws scrutiny from Daein's nobility, her firm yet fair leadership has earned her the—often fawning—affection of her fellow maids.",
 			date_str: "Jun 2023",
 			tags: ["sfw", "edelgard"],
+			hidden: false
+		},
+		{
+			// DeebyFeeby | Aurelia
+			src: ["https://cdn.imgchest.com/files/3cf32839b5dd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/166d740ef148.png",
+			title: "TBD",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Feb 2026",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{
