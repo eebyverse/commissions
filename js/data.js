@@ -2254,6 +2254,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Eirika
+			src: ["https://cdn.imgchest.com/files/11c9aa3af53f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/148d78c8f6b6.png",
+			title: "Bosom Bunnies",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Paired up for the Spring Festival, Eirika and Micaiah waste no time getting <em>very</em> well acquainted...",
+			date_str: "Mar 2026",
+			tags: ["sfw", "micaiah", "eirika"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Vika
 			src: ["https://cdn.imgchest.com/files/7mmc9gvwab7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5lgdo34.png",
