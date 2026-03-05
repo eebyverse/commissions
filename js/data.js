@@ -2263,7 +2263,7 @@ var data = {
 			art_url: null,
 			desc: "Paired up for the Spring Festival, Eirika and Micaiah waste no time getting <em>very</em> well acquainted...",
 			date_str: "Mar 2026",
-			tags: ["sfw", "micaiah", "eirika"],
+			tags: ["sfw", "eirika", "micaiah"],
 			hidden: false
 		},
 		{
