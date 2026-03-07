@@ -2566,6 +2566,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Harunn | Flayn and Veyle
+			src: ["https://cdn.imgchest.com/files/243324f30d2a.png", "https://cdn.imgchest.com/files/e304b8ff2826.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e77d98fc9257.png",
+			title: "Sea Serpents",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong> and <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Mar 2026",
+			tags: ["sfw", "flayn", "veyle", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Harunn | Lysithea
 			src: ["https://cdn.imgchest.com/files/4apc5dlnl34.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7lxcpg3zk87.png",
