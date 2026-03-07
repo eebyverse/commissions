@@ -2573,7 +2573,7 @@ var data = {
 			artist: "harunn2288",
 			artist_url: "https://x.com/harunn2288",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong> and <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong> and <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Mar 2026",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
