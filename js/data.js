@@ -900,11 +900,11 @@ var data = {
 			// Decox | Alear and Julia
 			src: ["https://cdn.imgchest.com/files/4390d0eeed52.png"],
 			thumbnail: "https://cdn.imgchest.com/files/77f42a9fb052.png",
-			title: "A Different Kind of Study",
+			title: "Revision, Reward",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "In the end, Julia decides that lessons can wait.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "In the end, Julia decides that any further studies can wait.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Feb 2026",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
@@ -1134,11 +1134,11 @@ var data = {
 			// DeebyFeeby | Aurelia
 			src: ["https://cdn.imgchest.com/files/3cf32839b5dd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/166d740ef148.png",
-			title: "TBD",
+			title: "Inheritor of Dawn",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "<em>Aurelia—full name Aurelia Strahl Altina—is the daughter of Queen Micaiah. That also means she's a princess of Daein, and currently the sole heir to its throne!</em>",
 			date_str: "Feb 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
@@ -2573,7 +2573,7 @@ var data = {
 			artist: "harunn2288",
 			artist_url: "https://x.com/harunn2288",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong> and <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "Flayn introduces Veyle to more comfortable surroundings.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong> and <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Mar 2026",
 			tags: ["sfw", "flayn", "veyle", "gifts_received"],
 			hidden: false
@@ -4120,7 +4120,7 @@ var data = {
 			artist: "Morbid",
 			artist_url: "https://bsky.app/profile/m0rb1dspade.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			desc: "Micaiah knows full well what loving Edelgard will bring.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
 			date_str: "Feb 2026",
 			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
