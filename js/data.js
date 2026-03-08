@@ -471,11 +471,11 @@ var data = {
 			// Cios | Tiki
 			src: ["https://cdn.imgchest.com/files/ec9fdb3bc36c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7167d2f58a6e.png",
-			title: "TBD",
+			title: "Visit From the Voice",
 			artist: "Cios",
 			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Devotion to Naga takes many forms...",
 			date_str: "Feb 2026",
 			tags: ["nsfw", "tiki"],
 			hidden: false
@@ -900,11 +900,11 @@ var data = {
 			// Decox | Alear and Julia
 			src: ["https://cdn.imgchest.com/files/4390d0eeed52.png"],
 			thumbnail: "https://cdn.imgchest.com/files/77f42a9fb052.png",
-			title: "TBD",
+			title: "A Different Kind of Study",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
+			desc: "In the end, Julia decides that lessons can wait.<br/><br/>Collab with <strong><a href='https://x.com/biskitbio'>Bento</a></strong>.",
 			date_str: "Feb 2026",
 			tags: ["nsfw", "other", "collab"],
 			hidden: false
