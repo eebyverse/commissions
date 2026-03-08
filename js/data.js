@@ -1134,7 +1134,7 @@ var data = {
 			// DeebyFeeby | Aurelia
 			src: ["https://cdn.imgchest.com/files/3cf32839b5dd.png"],
 			thumbnail: "https://cdn.imgchest.com/files/166d740ef148.png",
-			title: "Inheritor of Dawn",
+			title: "Heir of Dawn",
 			artist: "DeebyFeeby",
 			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
 			art_url: null,
