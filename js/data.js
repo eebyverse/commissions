@@ -3099,6 +3099,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// LavenderIncubus | Laura
+			src: ["https://cdn.imgchest.com/files/4nec8o96qn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqmlppj7.png",
+			title: "Revealing All",
+			artist: "LavenderIncubus",
+			artist_url: "https://bsky.app/profile/lavenderincubus.art",
+			art_url: null,
+			desc: "Until her path crossed with Micaiah, Laura had never identified openly as a girl – fearing she would need to keep it a secret for her whole life. The kindness and acceptance she received, both in the Dawn Brigade and beyond, would ultimately give her the confidence she needed to return home at the war's end and tell her family and friends the truth.",
+			date_str: "Apr 2024",
+			tags: ["nsfw", "laura"],
+			hidden: false
+		},
+		{
 			// LazzleDazzler | Anna and Henriette
 			src: ["https://cdn.imgchest.com/files/7mmc9wqln67.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvw2reb4.png",
@@ -4669,19 +4682,6 @@ var data = {
 			desc: "<em>Waiting wasn't so bad. All that matters is that you're here now.</em><br/><br/>Gift for <strong><a href='https://bsky.app/profile/violetblade.bsky.social'>VioletBlade</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
-			hidden: false
-		},
-		{
-			// Roarke | Laura
-			src: ["https://cdn.imgchest.com/files/4nec8o96qn4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqmlppj7.png",
-			title: "Revealing All",
-			artist: "Roarke",
-			artist_url: "https://bsky.app/profile/roarke.bsky.social",
-			art_url: null,
-			desc: "Until her path crossed with Micaiah, Laura had never identified openly as a girl – fearing she would need to keep it a secret for her whole life. The kindness and acceptance she received, both in the Dawn Brigade and beyond, would ultimately give her the confidence she needed to return home at the war's end and tell her family and friends the truth.",
-			date_str: "Apr 2024",
-			tags: ["nsfw", "laura"],
 			hidden: false
 		},
 		{
