@@ -343,10 +343,23 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvznvb94.png",
 			title: "A Moment's Reprieve",
 			artist: "Betabetamaru_77",
-			artist_url: "https://bsky.app/profile/babykatafan.bsky.social",
+			artist_url: "https://x.com/Betabetamaru_77",
 			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
 			desc: "Though downtime brings its own share of struggles for Edelgard, Micaiah always ensures she gets the rest she needs – warding off nightmares with her steady, comforting presence.",
 			date_str: "May 2023",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
+			// Betabetamaru | Edelgard and Micaiah
+			src: ["https://cdn.imgchest.com/files/f3d8fce77fae.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7d6e7e400157.png",
+			title: "Looking the Part",
+			artist: "Betabetamaru_77",
+			artist_url: "https://x.com/Betabetamaru_77",
+			art_url: "https://x.com/Betabetamaru_77/status/1660588899754975232",
+			desc: "Not all jobs are created equal...",
+			date_str: "Mar 2026",
 			tags: ["sfw", "micaiah", "edelgard"],
 			hidden: false
 		},
@@ -1954,6 +1967,18 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
 			desc: "Invited to Daein Keep from her small but celebrated tea shop in Nevassa, Adina comes offering her finest blends for the royal family... only to find the princess far more interested in sampling <em>her</em>.<br/><br/>Collab with <strong><a href='https://x.com/AgbayaniHiro'>Hiro Agbayani</a></strong>.",
 			date_str: "Jun 2025",
+			tags: ["sfw", "aurelia", "other", "collab"],
+			hidden: false
+		},
+		{	// Fusenryo | Aurelia and Archie
+			src: ["https://cdn.imgchest.com/files/9bb3b70905d1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45b454eb126a.png",
+			title: "An Easy Win",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
+			desc: "When Archie, a travelling wyvern knight, hears of Princess Aurelia's <em>inclinations</em> from her friend Adina, she heads straight for the Daein capital of Nevassa... eager to prove her worth one to one in a duel.<br/><br/>Collab with <strong><a href='https://x.com/AgbayaniHiro'>Hiro Agbayani</a></strong>.",
+			date_str: "Mar 2026",
 			tags: ["sfw", "aurelia", "other", "collab"],
 			hidden: false
 		},
