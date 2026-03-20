@@ -2295,11 +2295,11 @@ var data = {
 			// Fusenryo | Micaiah and Nowi
 			src: ["https://cdn.imgchest.com/files/75316f37c15c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5d4f1b923340.png",
-			title: "TBD",
+			title: "Eternal Youth",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD. <br/><br/>Collab with <strong><a href='https://bsky.app/profile/1000yeardragon.bsky.social'>1000yeardragon</a></strong>.",
+			desc: "Micaiah knows full well how appearances can deceive. <br/><br/>Collab with <strong><a href='https://bsky.app/profile/1000yeardragon.bsky.social'>1000yeardragon</a></strong>.",
 			date_str: "Mar 2026",
 			tags: ["sfw", "micaiah", "other", "collab"],
 			hidden: false
