@@ -2682,6 +2682,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// inusukiNo1 | Aureia
+			src: ["https://cdn.imgchest.com/files/5cc4996e031a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/311cc9246440.png",
+			title: "TBD",
+			artist: "inusukiNo1",
+			artist_url: "https://skeb.jp/@inusukiNo1",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/scarlet-flowers.bsky.social'>scarlet-flowers</a></strong>.",
+			date_str: "March 2026",
+			tags: ["sfw", "aurelia", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Irene | Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/7mmc9gpz887.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/45xcvmxz3l7.png",
