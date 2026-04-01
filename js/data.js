@@ -1982,6 +1982,18 @@ var data = {
 			tags: ["sfw", "aurelia", "other", "collab"],
 			hidden: false
 		},
+		{	// Fusenryo | Aurelia and Belinda
+			src: ["https://cdn.imgchest.com/files/928097781a2d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/77097368ae19.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
+			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "aurelia", "other", "gifts_given"],
+			hidden: false
+		},
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcn9eezn4.png",
