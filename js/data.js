@@ -78,6 +78,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// alonemistrist | Aurelias
+			src: ["https://cdn.imgchest.com/files/8c2a0f118848.png"],
+			thumbnail: "https://cdn.imgchest.com/files/164fffd0589f.png",
+			title: "Don't Look Back",
+			artist: "alonemistrist",
+			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
+			art_url: null,
+			desc: "Time is the thief of joy.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// alonemistrist | Azura and Corrin
 			src: ["https://cdn.imgchest.com/files/932143db3f15.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b1d899c30730.png",
