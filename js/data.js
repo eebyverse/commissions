@@ -1666,7 +1666,7 @@ var data = {
 		{
 			// Evo | Edelcaiah Colour
 			src: ["https://cdn.imgchest.com/files/15da4d9195ee.png"],
-			thumbnail: "https://cdn.imgchest.com/files/9f4d69065f6a.pngpng",
+			thumbnail: "https://cdn.imgchest.com/files/9f4d69065f6a.png",
 			title: "TBD",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
