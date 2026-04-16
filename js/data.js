@@ -2707,6 +2707,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Incognigoat | Loki
+			src: ["https://cdn.imgchest.com/files/025a0e94df54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/29646b56b393.png",
+			title: "TBD",
+			artist: "Incognigoat",
+			artist_url: "https://x.com/incognigoat",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			date_str: "April 2026",
+			tags: ["sfw", "loki", "eeby", "gifts_received"],
+			hidden: false
+		},
+		{
 			// inusukiNo1 | Aureia
 			src: ["https://cdn.imgchest.com/files/5cc4996e031a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/311cc9246440.png",
@@ -4602,6 +4615,19 @@ var data = {
 			desc: "Even in exile, Nanna has never been one to forsake her duties.",
 			date_str: "Apr 2022",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			// Raziz | Eeby, Micaiah, and Veyle
+			src: ["https://cdn.imgchest.com/files/a38dcf13ba86.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8b56fb6531f5.png",
+			title: "TBD",
+			artist: "Raziz",
+			artist_url: "https://twitter.com/Raziz00",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["nsfw", "eeby", "micaiah", "veyle", "mirabilis", "gifts_received"],
 			hidden: false
 		},
 		{
