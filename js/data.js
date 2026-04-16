@@ -1673,7 +1673,7 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/evomanaphy.bsky.social'>Evomanaphy</a></strong>.",
 			date_str: "Apr 2026",
-			tags: ["nsfw", "edelgard", "micaiah", "gifts_received"],
+			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -1712,7 +1712,7 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Apr 2026",
-			tags: ["nsfw", "eeby", "loki", "gifts_received"],
+			tags: ["sfw", "eeby", "loki", "gifts_received"],
 			hidden: false
 		},
 		{
