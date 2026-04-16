@@ -1664,6 +1664,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Evo | Edelcaiah Colour
+			src: ["https://cdn.imgchest.com/files/15da4d9195ee.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9f4d69065f6a.pngpng",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/evomanaphy.bsky.social'>Evomanaphy</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["nsfw", "edelgard", "micaiah", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Evo | Eeby and Annette
 			src: ["https://cdn.imgchest.com/files/46acq9w2dw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcq9r3eo7.png",
@@ -1687,6 +1700,19 @@ var data = {
 			desc: "The way to the summoner's heart, so Loki discovers, is between her legs.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Nov 2021",
 			tags: ["nsfw", "eeby", "loki", "caeda", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Evo | Loki and Eeby 2
+			src: ["https://cdn.imgchest.com/files/d7b5a388bf94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ac0ad6edf2c0.png",
+			title: "TBD",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["nsfw", "eeby", "loki", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -2716,7 +2742,7 @@ var data = {
 			art_url: null,
 			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "April 2026",
-			tags: ["sfw", "loki", "eeby", "gifts_received"],
+			tags: ["nsfw", "loki", "eeby", "gifts_received"],
 			hidden: false
 		},
 		{
