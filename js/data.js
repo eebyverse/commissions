@@ -1599,32 +1599,6 @@ var data = {
 			hidden: false
 		},
 		{
-			// Evo | Grima and Laevatein
-			src: ["https://cdn.imgchest.com/files/45xcvkpw3n7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckg3ob57.png",
-			title: "Hearts of Our Own",
-			artist: "Evomanaphy",
-			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
-			art_url: null,
-			desc: "Grima and Laevatein, both born and raised to be unthinking tools of destruction, discover a greater purpose in each other's company.",
-			date_str: "Jul 2023",
-			tags: ["sfw", "grima", "other"],
-			hidden: false
-		},
-		{
-			// Evo | Indra and Macie
-			src: ["https://cdn.imgchest.com/files/7mmc9rwj9p7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/4gdcxpv53g4.png",
-			title: "Souls Split and Shared",
-			artist: "Evomanaphy",
-			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
-			art_url: null,
-			date_str: "Jul 2025",
-			desc: "Indra and Macie share half of themselves with each other – which, so their parents believe, is the reason for their peculiar eye colours...",
-			tags: ["sfw", "indramacie"],
-			hidden: false
-		},
-		{
 			// Evo | Aurelia
 			src: ["https://cdn.imgchest.com/files/f7cd20d04835.png"],
 			thumbnail: "https://cdn.imgchest.com/files/07d29f1f8beb.png",
@@ -1661,6 +1635,32 @@ var data = {
 			desc: "To Tana's delight, Alm is all too easy to fluster...<br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
 			date_str: "Jul 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Evo | Grima and Laevatein
+			src: ["https://cdn.imgchest.com/files/45xcvkpw3n7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckg3ob57.png",
+			title: "Hearts of Our Own",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Grima and Laevatein, both born and raised to be unthinking tools of destruction, discover a greater purpose in each other's company.",
+			date_str: "Jul 2023",
+			tags: ["sfw", "grima", "other"],
+			hidden: false
+		},
+		{
+			// Evo | Indra and Macie
+			src: ["https://cdn.imgchest.com/files/7mmc9rwj9p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxpv53g4.png",
+			title: "Souls Split and Shared",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			date_str: "Jul 2025",
+			desc: "Indra and Macie share half of themselves with each other – which, so their parents believe, is the reason for their peculiar eye colours...",
+			tags: ["sfw", "indramacie"],
 			hidden: false
 		},
 		{
