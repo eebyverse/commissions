@@ -4651,7 +4651,7 @@ var data = {
 			artist: "Raichana",
 			artist_url: "https://bsky.app/profile/raichana.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
