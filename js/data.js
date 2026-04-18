@@ -143,6 +143,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Araya | Edelcaiah
+			src: ["https://cdn.imgchest.com/files/0c7b6ba34478.png"],
+			thumbnail: "https://cdn.imgchest.com/files/27947ac2f7e1.png",
+			title: "TBD",
+			artist: "Araya",
+			artist_url: "https://bsky.app/profile/arayaejiri.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Argilla | Aurelia
 			src: ["https://cdn.imgchest.com/files/yxkczrkxvn7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yvdcwvg9aly.png",
@@ -299,7 +312,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Bad Frog | Aurelia
+			// Bad Frog | Aurelia 1
 			src: ["https://cdn.imgchest.com/files/4z9cvre2687.png"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxwel2e7.png",
 			title: "Twofold",
@@ -309,6 +322,19 @@ var data = {
 			desc: "Amidst light and dark, Aurelia dances.",
 			date_str: "May 2025",
 			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
+			// Bad Frog | Aurelia 2
+			src: ["https://cdn.imgchest.com/files/7e1df4c2218b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/467d620e8fd0.png",
+			title: "TBD",
+			artist: "Bad Frog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -4615,6 +4641,19 @@ var data = {
 			desc: "Even as fellow Queens of Renais, some things never change between Eirika and Camilla.",
 			date_str: "Jan 2024",
 			tags: ["sfw", "camilla", "eirika"],
+			hidden: false
+		},
+		{
+			// Raichana | Micaiah and Renne
+			src: ["https://cdn.imgchest.com/files/1d955df30c32.png"],
+			thumbnail: "https://cdn.imgchest.com/files/eddf86267679.png",
+			title: "TBD",
+			artist: "Raichana",
+			artist_url: "https://bsky.app/profile/raichana.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Collab with <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
 		},
 		{
