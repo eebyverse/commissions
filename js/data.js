@@ -1987,16 +1987,16 @@ var data = {
 			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
-		{	// Fusenryo | Aurelia 1
-			src: ["https://cdn.imgchest.com/files/6076b494bd85.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/0ddf172ef8c9.png",
-			title: "Inheritor",
+		{	// Fusenryo | Aurelia and Edelgard
+			src: ["https://cdn.imgchest.com/files/yq9c3mvlvo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnmq5p94.png",
+			title: "A Quiet Goodbye",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "<em>You address Aurelia Strahl Altina, future queen of Daein. Treat me as your equal... and we will have no quarrel.</em>",
-			date_str: "Jan 2026",
-			tags: ["sfw", "aurelia"],
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lphlpcymz22o",
+			desc: "<em>Oh, my little bird... If only I had a little longer, that I might see you soar.</em>",
+			date_str: "Jun 2025",
+			tags: ["sfw", "aurelia", "edelgard"],
 			hidden: false
 		},
 		{	// Fusenryo | Aurelia 2
@@ -2011,18 +2011,6 @@ var data = {
 			tags: ["sfw", "aurelia", "collab"],
 			hidden: false
 		},
-		{	// Fusenryo | Aurelia and Edelgard
-			src: ["https://cdn.imgchest.com/files/yq9c3mvlvo4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcnmq5p94.png",
-			title: "A Quiet Goodbye",
-			artist: "fusenryo2",
-			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lphlpcymz22o",
-			desc: "<em>Oh, my little bird... If only I had a little longer, that I might see you soar.</em>",
-			date_str: "Jun 2025",
-			tags: ["sfw", "aurelia", "edelgard"],
-			hidden: false
-		},
 		{	// Fusenryo | Aurelia and Adina
 			src: ["https://cdn.imgchest.com/files/7pjcqrwxeo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7kzca2b9az7.png",
@@ -2033,6 +2021,18 @@ var data = {
 			desc: "Invited to Daein Keep from her small but celebrated tea shop in Nevassa, Adina comes offering her finest blends for the royal family... only to find the princess far more interested in sampling <em>her</em>.<br/><br/>Collab with <strong><a href='https://x.com/AgbayaniHiro'>Hiro Agbayani</a></strong>.",
 			date_str: "Jun 2025",
 			tags: ["sfw", "aurelia", "other", "collab"],
+			hidden: false
+		},
+		{	// Fusenryo | Aurelia 1
+			src: ["https://cdn.imgchest.com/files/6076b494bd85.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0ddf172ef8c9.png",
+			title: "Inheritor",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "<em>You address Aurelia Strahl Altina, future queen of Daein. Treat me as your equal... and we will have no quarrel.</em>",
+			date_str: "Jan 2026",
+			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
 		{	// Fusenryo | Aurelia and Archie
@@ -2122,6 +2122,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Edelcaiah Dance 2
+			src: ["https://cdn.imgchest.com/files/9fae081d828d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b9a7c3713734.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/JollyOldSoldier'>JollyOldSoldier</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Edelcaiah Morning
 			src: ["https://cdn.imgchest.com/files/4apc5kq2z64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckx38xg7.png",
@@ -2131,6 +2144,19 @@ var data = {
 			art_url: null,
 			desc: "With Micaiah, Edelgard finds joy rather than fear in every new day.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
 			date_str: "Apr 2025",
+			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Edelcaiah Dance
+			src: ["https://cdn.imgchest.com/files/601d5ce23212.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a91cad8e94d2.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
+			date_str: "Apr 2026",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
 		},
@@ -3744,6 +3770,19 @@ var data = {
 			desc: "Aurash and Aizawa, both proudly showing off.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/insaiyanval.bsky.social'>Val</a></strong> and <strong><a href='https://bsky.app/profile/serifaizawa.bsky.social'>Serif</a></strong>.",
 			date_str: "Jan 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Mason | Eirimilla
+			src: ["https://cdn.imgchest.com/files/ae46744f72b3.png", "https://cdn.imgchest.com/files/52aa2602ad1f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0048a5341c0f.png",
+			title: "TBD",
+			artist: "Mason",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: null,
+			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
+			date_str: "Apr 2026",
+			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
 		},
 		{
