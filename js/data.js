@@ -2681,6 +2681,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gzei | Indra and Macie
+			src: ["https://cdn.imgchest.com/files/3587fbdf1622.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7645e9cbd85d.png",
+			title: "TBD",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "May 2026",
+			tags: ["sfw", "indramacie"],
+			hidden: false
+		},
+		{
 			// Hana Mina | Eeby, Mira, Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/45xcvgk3ng7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvrw9xe4.png",
