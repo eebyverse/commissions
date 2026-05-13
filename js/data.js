@@ -146,11 +146,11 @@ var data = {
 			// Araya | Edelcaiah
 			src: ["https://cdn.imgchest.com/files/0c7b6ba34478.png"],
 			thumbnail: "https://cdn.imgchest.com/files/27947ac2f7e1.png",
-			title: "TBD",
+			title: "A Little Something",
 			artist: "Araya",
 			artist_url: "https://bsky.app/profile/arayaejiri.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
+			desc: "Edelgard and Micaiah prepare for a very special day.<br/><br/>Gift from <strong><a href='https://x.com/mrcrulez'>MRC Rulez</a></strong> and <strong><a href='https://bsky.app/profile/lucyrenmifi.bsky.social'>Mifi</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
@@ -328,11 +328,11 @@ var data = {
 			// Bad Frog | Aurelia 2
 			src: ["https://cdn.imgchest.com/files/7e1df4c2218b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/467d620e8fd0.png",
-			title: "TBD",
+			title: "Princess at Peace",
 			artist: "Bad Frog",
 			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
+			desc: "Aurelia, in a moment of rest.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/badfrog.bsky.social'>Bad Frog</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
@@ -1693,11 +1693,11 @@ var data = {
 			// Evo | Edelcaiah Colour
 			src: ["https://cdn.imgchest.com/files/15da4d9195ee.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9f4d69065f6a.png",
-			title: "TBD",
+			title: "In Love's Hues",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/evomanaphy.bsky.social'>Evomanaphy</a></strong>.",
+			desc: "Even as day fades, Micaiah's love endures.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/evomanaphy.bsky.social'>Evomanaphy</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "edelgard", "micaiah", "gifts_received"],
 			hidden: false
@@ -1732,11 +1732,11 @@ var data = {
 			// Evo | Loki and Eeby 2
 			src: ["https://cdn.imgchest.com/files/d7b5a388bf94.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ac0ad6edf2c0.png",
-			title: "TBD",
+			title: "Temptation",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
+			desc: "In a single whisper, Loki promises a thousand unfulfilled desires.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/pgmk01.bsky.social'>P.GMK</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "eeby", "loki", "gifts_received"],
 			hidden: false
@@ -2050,11 +2050,11 @@ var data = {
 		{	// Fusenryo | Aurelia and Belinda
 			src: ["https://cdn.imgchest.com/files/928097781a2d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/77097368ae19.png",
-			title: "TBD",
+			title: "Two Princesses",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
-			desc: "TBD<br/><br/>Gift for <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
+			desc: "Belinda, of Ulster, and Aurelia, of Daein—fast on their way to becoming the best of friends.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "aurelia", "other", "gifts_given"],
 			hidden: false
@@ -2125,11 +2125,11 @@ var data = {
 			// Fusenryo | Edelcaiah Dance 2
 			src: ["https://cdn.imgchest.com/files/9fae081d828d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b9a7c3713734.png",
-			title: "TBD",
+			title: "Familiar Dance",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/JollyOldSoldier'>JollyOldSoldier</a></strong>.",
+			desc: "Though they should hardly know each other, Edelgard and Micaiah find themselves stepping in perfect time.<br/><br/>Gift from <strong><a href='https://x.com/JollyOldSoldier'>JollyOldSoldier</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
@@ -2151,11 +2151,11 @@ var data = {
 			// Fusenryo | Edelcaiah Dance
 			src: ["https://cdn.imgchest.com/files/601d5ce23212.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a91cad8e94d2.png",
-			title: "TBD",
+			title: "Pas de Deux",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
+			desc: "Micaiah's inexperience in the ballroom offers Edelgard the rarest of opportunites—to give back, as much as to take.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/labmemb3r.bsky.social'>labmemb3r</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "micaiah", "edelgard", "gifts_received"],
 			hidden: false
@@ -2684,11 +2684,11 @@ var data = {
 			// Gzei | Indra and Macie
 			src: ["https://cdn.imgchest.com/files/3587fbdf1622.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7645e9cbd85d.png",
-			title: "TBD",
+			title: "Schemers",
 			artist: "Gzei",
 			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "With Indra and Macie, smiles spell trouble.",
 			date_str: "May 2026",
 			tags: ["sfw", "indramacie"],
 			hidden: false
