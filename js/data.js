@@ -5750,6 +5750,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// TimboCactus | Marnie
+			src: ["https://cdn.imgchest.com/files/e8d941026858.png", "https://cdn.imgchest.com/files/b2fae68ef0b5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/694751d29cf8.png",
+			title: "TBD",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
+			desc: "TBD",
+			date_str: "Dec 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			// TimboCactus | Rosado
 			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
