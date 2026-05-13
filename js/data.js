@@ -5759,7 +5759,7 @@ var data = {
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
 			desc: "TBD",
 			date_str: "Dec 2025",
-			tags: ["nsfw", "other"],
+			tags: ["extreme", "other"],
 			hidden: false
 		},
 		{
