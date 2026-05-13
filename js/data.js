@@ -5760,7 +5760,7 @@ var data = {
 			desc: "TBD",
 			date_str: "Dec 2025",
 			tags: ["extreme", "other"],
-			hidden: false
+			hidden: true
 		},
 		{
 			// TimboCactus | Rosado
