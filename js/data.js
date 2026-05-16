@@ -2801,11 +2801,11 @@ var data = {
 			// Incognigoat | Loki
 			src: ["https://cdn.imgchest.com/files/025a0e94df54.png"],
 			thumbnail: "https://cdn.imgchest.com/files/29646b56b393.png",
-			title: "TBD",
+			title: "Spoiled for Choice",
 			artist: "Incognigoat",
 			artist_url: "https://x.com/incognigoat",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
+			desc: "Loki knows her summoner all too well.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
 			date_str: "April 2026",
 			tags: ["nsfw", "loki", "eeby", "gifts_received"],
 			hidden: false
@@ -2814,11 +2814,11 @@ var data = {
 			// inusukiNo1 | Aureia
 			src: ["https://cdn.imgchest.com/files/5cc4996e031a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/311cc9246440.png",
-			title: "TBD",
+			title: "Dishevelled",
 			artist: "inusukiNo1",
 			artist_url: "https://skeb.jp/@inusukiNo1",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/scarlet-flowers.bsky.social'>scarlet-flowers</a></strong>.",
+			desc: "In comfort and rest, Aurelia can allow herself to look a little less than perfect.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/scarlet-flowers.bsky.social'>scarlet-flowers</a></strong>.",
 			date_str: "March 2026",
 			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
@@ -3789,11 +3789,11 @@ var data = {
 			// Mason | Eirimilla
 			src: ["https://cdn.imgchest.com/files/ae46744f72b3.png", "https://cdn.imgchest.com/files/52aa2602ad1f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/0048a5341c0f.png",
-			title: "TBD",
+			title: "Deep-Sea Darlings",
 			artist: "Mason",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
+			desc: "With Camilla near, Eirika knows she'll never drift into danger.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/josejuliojmz.bsky.social'>José</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
@@ -4712,11 +4712,11 @@ var data = {
 			// Raichana | Micaiah and Renne
 			src: ["https://cdn.imgchest.com/files/1d955df30c32.png"],
 			thumbnail: "https://cdn.imgchest.com/files/eddf86267679.png",
-			title: "TBD",
+			title: "Remiferian Waltz",
 			artist: "Raichana",
 			artist_url: "https://bsky.app/profile/raichana.bsky.social",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
+			desc: "Renne knows how first impressions mean everything.<br/><br/>Gift from <strong><a href='https://x.com/AgathionWrites'>AgathionWrites</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "micaiah", "other", "gifts_received"],
 			hidden: false
@@ -4751,11 +4751,11 @@ var data = {
 			// Raziz | Eeby, Micaiah, and Veyle
 			src: ["https://cdn.imgchest.com/files/a38dcf13ba86.png"],
 			thumbnail: "https://cdn.imgchest.com/files/8b56fb6531f5.png",
-			title: "TBD",
+			title: "Dragged Under",
 			artist: "Raziz",
 			artist_url: "https://twitter.com/Raziz00",
 			art_url: null,
-			desc: "TBD<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			desc: "As prey, Veyle finds the summoner far too easy. As a pet... she finds her just perfect.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["nsfw", "eeby", "micaiah", "veyle", "mirabilis", "gifts_received"],
 			hidden: false
