@@ -4553,16 +4553,16 @@ var data = {
 			hidden: false
 		},
 		{
-			// Nessu | Loki and Eeby
-			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
-			thumbnail: "https://cdn.imgchest.com/files/46acqv32og7.png",
-			title: "Dark Reflection",
-			artist: "Nessu",
-			artist_url: "https://x.com/NessuDraws",
-			art_url: "https://x.com/NessuDraws/status/1531289335793799168",
-			desc: "A shapeshifter can have anyone wear anything, even in defiance of all logic and reason: a fact which Loki, in snaring her summoner and dragging her ever deeper into dependency, relishes making the most of.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
-			date_str: "May 2022",
-			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
+			// Nacho | Aurelia 
+			src: ["https://cdn.imgchest.com/files/0ea11f2f0a15.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ef772b52043b.png",
+			title: "Rude Awakening",
+			artist: "nach0art",
+			artist_url: "https://vgen.co/nach0art",
+			art_url: null,
+			desc: "Despite being named for the dawn, Aurelia is anything but a morning person...<br/><br/>Gift from <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			date_str: "May 2026",
+			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
 		},
 		{
@@ -4602,6 +4602,19 @@ var data = {
 			desc: "Loki takes special measures to secure her new identity.<br/><br/>Collab with <strong><a href='https://x.com/PeevedLatias'>Peeved Latias</a></strong>.",
 			date_str: "May 2023",
 			tags: ["nsfw", "caeda", "loki", "collab"],
+			hidden: false
+		},
+		{
+			// Nessu | Loki and Eeby
+			src: ["https://cdn.imgchest.com/files/yxkczxkkge7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqv32og7.png",
+			title: "Dark Reflection",
+			artist: "Nessu",
+			artist_url: "https://x.com/NessuDraws",
+			art_url: "https://x.com/NessuDraws/status/1531289335793799168",
+			desc: "A shapeshifter can have anyone wear anything, even in defiance of all logic and reason: a fact which Loki, in snaring her summoner and dragging her ever deeper into dependency, relishes making the most of.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/mythicjunkrare.bsky.social'>MythicJunkRare</a></strong>.",
+			date_str: "May 2022",
+			tags: ["nsfw", "eeby", "loki", "lysithea", "collab"],
 			hidden: false
 		},
 		{
