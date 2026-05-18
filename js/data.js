@@ -2071,6 +2071,18 @@ var data = {
 			tags: ["sfw", "other", "gifts_received"],
 			hidden: false
 		},
+		{	// Fusenryo | Alm and Celica
+			src: ["https://cdn.imgchest.com/files/6d2d242e6e50.png"],
+			thumbnail: "https://cdn.imgchest.com/files/27229c67f667.png",
+			title: "Something Perfect",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "<em>Few things could be said to be perfect. Their own love, after all the years they’d known each other, had led to marriage—but still, the road had been uneven, and at times fraught with pain. Even Valentia’s peace wouldn’t be the easy, untroubled union both Mila and Duma had trusted them with, in their final moments. The scars of war would be slow to heal, and those bound by loyalty to the countries of old would be the hardest to convince.<br/><br/>But this moment, here with Alm… this, Celica thought, was as close to perfection as she could hope to ever find.</em><br/><br/>Gift for <strong><a href='https://bsky.app/profile/revivalmode.bsky.social'>Revivalmode</a></strong>.",
+			date_str: "May 2026",
+			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
 		{	// Fusenryo | Catriagrid
 			src: ["https://cdn.imgchest.com/files/7mmc9g32bo7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4nec8onxrd4.png",
