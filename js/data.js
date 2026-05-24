@@ -5788,6 +5788,19 @@ var data = {
 			hidden: true
 		},
 		{
+			// TimboCactus | Aurelia, Caeda and Phina
+			src: ["https://cdn.imgchest.com/files/9005797b050b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9c0866d13745.png",
+			title: "Tea for Three",
+			artist: "TimboCactus",
+			artist_url: "https://x.com/TimboCactus",
+			art_url: null,
+			desc: "For the first time, an invitation to tea leaves Aurelia... out of her depth.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "May 2026",
+			tags: ["nsfw", "aurelia", "caeda", "edelgard", "micaiah", "eeby", "other", "collab"],
+			hidden: false
+		},
+		{
 			// TimboCactus | Rosado
 			src: ["https://cdn.imgchest.com/files/4gdcx9zrn84.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7ogcbpznx2y.png",
