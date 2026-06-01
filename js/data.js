@@ -104,6 +104,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// alonemistrist | Seiros and Tiki
+			src: ["https://cdn.imgchest.com/files/4ee9f3c146d6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f6ca5440b5b8.png",
+			title: "Daughters of Dragons",
+			artist: "alonemistrist",
+			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
+			art_url: null,
+			desc: "'I have long since grown out of such fears,' Seiros said. 'Though… I confess, it is not so easy to shake the feeling that we are being watched.'<br>'Of course we’re being watched,' Tiki said, matter-of-fact. 'The daughter of Sothis, entering the fool years of her youth, and all while under the influence of the daughter of Naga… I don’t doubt there’s a line of would-be consorts waiting to take me to task for corrupting you.'<br>'I cannot imagine any of them daring to accuse you of that.'<br>'Oh? Then perhaps I haven’t been doing my job.'",
+			date_str: "June 2026",
+			tags: ["sfw", "rhea", "tiki"],
+			hidden: false
+		},
+		{
 			// // alonemistrist | Veyle and Kiran
 			src: ["https://cdn.imgchest.com/files/49zc2bnl99y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/ye3c2dvnkq4.png",
