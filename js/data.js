@@ -112,7 +112,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/alonemistrist.bsky.social",
 			art_url: null,
 			desc: "<em>'I have long since grown out of such fears,' Seiros said. 'Though… I confess, it is not so easy to shake the feeling that we are being watched.'<br><br>'Of course we’re being watched,' Tiki said, matter-of-fact. 'The daughter of Sothis, entering the fool years of her youth, and all while under the influence of the daughter of Naga… I don’t doubt there’s a line of would-be consorts waiting to take me to task for corrupting you.'<br><br>'I cannot imagine any of them daring to accuse you of that.'<br><br>'Oh? Then perhaps I haven’t been doing my job.'</em>",
-			date_str: "June 2026",
+			date_str: "Jun 2026",
 			tags: ["sfw", "rhea", "tiki"],
 			hidden: false
 		},
@@ -543,6 +543,19 @@ var data = {
 			desc: "Devotion to Naga takes many forms...",
 			date_str: "Feb 2026",
 			tags: ["nsfw", "tiki"],
+			hidden: false
+		},
+		{
+			// Cios | Framme
+			src: ["https://cdn.imgchest.com/files/69942b4afeb8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c31c44069b23.png",
+			title: "Steward's Service",
+			artist: "Cios",
+			artist_url: "https://bsky.app/profile/ciosart.bsky.social",
+			art_url: null,
+			desc: "For the right person, Framme can try her very best...",
+			date_str: "Jun 2026",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -2831,7 +2844,7 @@ var data = {
 			artist_url: "https://x.com/incognigoat",
 			art_url: null,
 			desc: "Loki knows her summoner all too well.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/impulse96.bsky.social'>Impulse96</a></strong>.",
-			date_str: "April 2026",
+			date_str: "Apr 2026",
 			tags: ["nsfw", "loki", "eeby", "gifts_received"],
 			hidden: false
 		},
@@ -2844,7 +2857,7 @@ var data = {
 			artist_url: "https://skeb.jp/@inusukiNo1",
 			art_url: null,
 			desc: "In comfort and rest, Aurelia can allow herself to look a little less than perfect.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/scarlet-flowers.bsky.social'>scarlet-flowers</a></strong>.",
-			date_str: "March 2026",
+			date_str: "Mar 2026",
 			tags: ["sfw", "aurelia", "gifts_received"],
 			hidden: false
 		},
