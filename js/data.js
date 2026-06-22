@@ -2212,6 +2212,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Edelcaiah Emblems
+			src: ["https://cdn.imgchest.com/files/c975beeacce9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dc31d8f9e8f9.png",
+			title: "I'll Soar Away",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "High above the clouds, at the break of dawn, Emblem Edelgard finally remembers.",
+			date_str: "Jun 2026",
+			tags: ["sfw", "micaiah", "edelgard"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2owd994.png"],
 			thumbnail: "https://cdn.imgchest.com/files/49zc2kwn2ey.png",
