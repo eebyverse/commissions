@@ -2745,6 +2745,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Gzei | Aurelia
+			src: ["https://cdn.imgchest.com/files/8d399821fa2e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9aa8c9e201ad.png",
+			title: "Cocksure",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "Overconfidence is a flimsy shield.",
+			date_str: "Jul 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
 			// Hana Mina | Eeby, Mira, Flayn and Veyle
 			src: ["https://cdn.imgchest.com/files/45xcvgk3ng7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcvrw9xe4.png",
