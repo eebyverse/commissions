@@ -5970,6 +5970,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Whitecake | Aurelia
+			src: ["https://cdn.imgchest.com/files/4b9ec5bcbc70.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9c3bd372e1e3.png",
+			title: "Two Worlds",
+			artist: "WhiteCake",
+			artist_url: "https://vgen.co/WhiteCake",
+			art_url: null,
+			desc: "Heir to one kingdom; child of two worlds.<br/><br/>Gift from <strong><a href='https://bsky.app/profile/si67.bsky.social'>Si67</a></strong>.",
+			date_str: "Jul 2026",
+			tags: ["sfw", "aurelia", "edelgard", "micaiah", "gifts_received"],
+			hidden: false
+		},
+		{
 			// WjdPablo | Eeby
 			src: ["https://cdn.imgchest.com/files/yd5cezpkor4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/739cxnwpqe7.png",
