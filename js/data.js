@@ -2537,6 +2537,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Sakura
+			src: ["https://cdn.imgchest.com/files/ffaacd5c0b1a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/95e908ad647a.png",
+			title: "Bloom in the Dark",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3m2f6oizn4s26",
+			desc: "In another world, in place of a prince's pride, Anankos works his influence on a princess's broken heart...",
+			date_str: "Jul 2026",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Musashi and Tiki
 			src: ["https://cdn.imgchest.com/files/77e1a7adc008.png"],
 			thumbnail: "https://cdn.imgchest.com/files/497d63257e58.png",
