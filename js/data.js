@@ -5892,7 +5892,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// TimboCactus | Eir and Fjorm
+			// Tobey | Eir and Fjorm
 			src: ["https://cdn.imgchest.com/files/a4200da2c47a.png"],
 			thumbnail: "https://cdn.imgchest.com/files/d46c1d7413b4.png",
 			title: "Death's Embrace",
@@ -5902,6 +5902,19 @@ var data = {
 			desc: "For a princess of death, Eir leaves Fjorm feeling impossibly warm.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/darkness-2727.bsky.social'>DarknesS</a></strong>.",
 			date_str: "Sep 2025",
 			tags: ["sfw", "other", "gifts_given"],
+			hidden: false
+		},
+		{
+			// Tobey | Eir and Fjorm
+			src: ["https://cdn.imgchest.com/files/69c6eafdf200.png"],
+			thumbnail: "https://cdn.imgchest.com/files/19d2bdc7e8fe.png",
+			title: "Duplicity",
+			artist: "T0bey",
+			artist_url: "https://bsky.app/profile/t0bey-art.bsky.social",
+			art_url: null,
+			desc: "It's always the ones who seem easiest to trust...",
+			date_str: "Jul 2026",
+			tags: ["sfw", "annette"],
 			hidden: false
 		},
 		{
