@@ -3391,7 +3391,7 @@ var data = {
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3ludej5ohnk24",
 			desc: "Asimov and Ottilie rest atop a pile of gold.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/aidenr0.bsky.social'>Spindle</a></strong>.",
 			date_str: "Jul 2025",
-			tags: ["sfw", "anna", "other", "gifts_given"],
+			tags: ["sfw", "other", "gifts_given"],
 			hidden: false
 		},
 		{
