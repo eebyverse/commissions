@@ -5850,7 +5850,7 @@ var data = {
 			desc: "<em>After losin' the League, I figured the best thing to do was go off an' see the world. Expand my horizons.</em><br/><br/><em>As it turned out... I wasn't even a lil' bit ready for what the world had waitin' for me.</em>",
 			date_str: "Dec 2025",
 			tags: ["extreme", "other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			// TimboCactus | Aurelia, Caeda and Phina
