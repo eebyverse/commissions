@@ -5841,13 +5841,13 @@ var data = {
 		},
 		{
 			// TimboCactus | Marnie
-			src: ["https://cdn.imgchest.com/files/e8d941026858.png", "https://cdn.imgchest.com/files/b2fae68ef0b5.png"],
+			src: ["https://cdn.imgchest.com/files/b2fae68ef0b5.png"],
 			thumbnail: "https://cdn.imgchest.com/files/694751d29cf8.png",
-			title: "TBD",
+			title: "New Horizons",
 			artist: "TimboCactus",
 			artist_url: "https://x.com/TimboCactus",
 			art_url: "https://x.com/TimboCactus/status/1587188608372510721",
-			desc: "TBD",
+			desc: "<em>After losin' the League, I figured the best thing to do was go off an' see the world. Expand my horizons.</em><br/><br/><em>As it turned out... I wasn't even a lil' bit ready for what the world had waitin' for me.</em>",
 			date_str: "Dec 2025",
 			tags: ["extreme", "other"],
 			hidden: true
