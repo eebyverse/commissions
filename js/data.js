@@ -6049,6 +6049,19 @@ var data = {
 		},
 		{
 			// Xander Wolk | Aurelia
+			src: ["https://cdn.imgchest.com/files/4016d1cb20fa.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7c116ee734b1.png",
+			title: "TBD",
+			artist: "Xander Wolk",
+			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Aug 2026",
+			tags: ["sfw", "aurelia"],
+			hidden: false
+		},
+		{
+			// Xander Wolk | Aurelia
 			src: ["https://cdn.imgchest.com/files/4fe7866351aa.png"],
 			thumbnail: "https://cdn.imgchest.com/files/bd1e15774cbe.png",
 			title: "Air of Superiority",
