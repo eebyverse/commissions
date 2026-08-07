@@ -1638,14 +1638,14 @@ var data = {
 			hidden: false
 		},
 		{
-			// Estdale | Mirabilis
+			// Endsofthearth | Micaiah
 			src: ["https://cdn.imgchest.com/files/ff0cea3f2d71.png"],
 			thumbnail: "https://cdn.imgchest.com/files/3a79ac30f564.png",
-			title: "TBD",
+			title: "Before Dawn",
 			artist: "endsofthearth",
 			artist_url: "https://bsky.app/profile/endsofthearth.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "Micaiah is all too used to the dark.",
 			date_str: "Aug 2026",
 			tags: ["sfw", "micaiah", "request"],
 			hidden: false
