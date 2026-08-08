@@ -6051,11 +6051,11 @@ var data = {
 			// Xander Wolk | Aurelia
 			src: ["https://cdn.imgchest.com/files/4016d1cb20fa.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7c116ee734b1.png",
-			title: "TBD",
+			title: "Pocket-Sized",
 			artist: "Xander Wolk",
 			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "A little bean on the lookout for ladies.",
 			date_str: "Aug 2026",
 			tags: ["sfw", "aurelia"],
 			hidden: false
