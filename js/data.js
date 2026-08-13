@@ -2098,6 +2098,18 @@ var data = {
 			tags: ["sfw", "aurelia", "other", "gifts_given"],
 			hidden: false
 		},
+		{	// Fusenryo | Summer Aurelia
+			src: ["https://cdn.imgchest.com/files/03d922688cdf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ac17473868b1.png",
+			title: "Summer's Scion",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
+			desc: "A new dawn on Daein's shores.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Aug 2026",
+			tags: ["sfw", "aurelia", "collab"],
+			hidden: false
+		},
 		{	// Fusenryo | Azura and Lyn
 			src: ["https://cdn.imgchest.com/files/7mmc9moopa7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y8xcn9eezn4.png",
