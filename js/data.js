@@ -2302,6 +2302,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Eeby + Lysithea
+			src: ["https://cdn.imgchest.com/files/f9d53253528a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3d481bd69c5c.png",
+			title: "Bad Day",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "After a hard day, Lysithea gives Eeby exactly what she was.",
+			date_str: "Aug 2026",
+			tags: ["sfw", "eeby", "lysithea"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Eeby + Edelcaiah Kiss
 			src: ["https://cdn.imgchest.com/files/ye3c2ow63z4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9gmee27.png",
