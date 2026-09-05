@@ -1055,14 +1055,14 @@ var data = {
 		{
 			// Decox | Vali
 			src: ["https://cdn.imgchest.com/files/1d458d8b4f39.jpg", "https://cdn.imgchest.com/files/1ee4f88acdde.jpg", "https://cdn.imgchest.com/files/53b8f3a856f1.jpg", "https://cdn.imgchest.com/files/c117b9b52857.png", "https://cdn.imgchest.com/files/9a0ca91e0a21.png", "https://cdn.imgchest.com/files/b2f87cf33da7.png", "https://cdn.imgchest.com/files/310f1da8755a.png", "https://cdn.imgchest.com/files/ad31e72cba59.png", "https://cdn.imgchest.com/files/5b5dc2ce6d6e.png", "https://cdn.imgchest.com/files/7822c9286121.png", "https://cdn.imgchest.com/files/5d20355ecb8d.png", "https://cdn.imgchest.com/files/b3e88b41f66b.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7w6c2m5meky.png",
-			title: "TBD",
+			thumbnail: "https://cdn.imgchest.com/files/2e917b4d3726.png",
+			title: "Delectable",
 			artist: "Decox",
 			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
 			art_url: null,
-			desc: "TBD",
+			desc: "When Váli picks a fight with Loki, she soon learns that even her everlasting endurance has limits...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
 			date_str: "Sep 2026",
-			tags: ["nsfw", "loki", "other", "collab"],
+			tags: ["nsfw", "loki", "caeda", "camilla", "ingrid", "tiki", "micaiah", "other", "collab"],
 			hidden: false
 		},
 		{
