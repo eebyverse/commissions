@@ -5521,7 +5521,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://www.pixiv.net/en/users/17986763",
 			art_url: "https://www.pixiv.net/en/artworks/108042015",
-			desc: "Caeda, dressed for the road – and with room for one more.",
+			desc: "Caeda, ready for the road – and with room for one more.",
 			date_str: "May 2023",
 			tags: ["sfw", "caeda"],
 			hidden: false
@@ -5549,6 +5549,19 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/99945635",
 			desc: "Est White, known to authorities only as the Pink Whitewing. Still a student at St. Macedon's, she often feels a world apart from her older sisters, and struggles to be taken seriously as their equal – even as, through it all, she masks her insecurities with a smile.",
 			date_str: "Jul 2022",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// SilverCandyGum | Ethlyn
+			src: ["https://cdn.imgchest.com/files/d9096ed4001a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7afe6b79de22.png",
+			title: "Free Spirit",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/99945635",
+			desc: "Ethyln, dressed to impress.",
+			date_str: "Sep 2026",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
