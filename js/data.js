@@ -1067,7 +1067,7 @@ var data = {
 		},
 		{
 			// Decox | Vali
-			src: ["", "https://cdn.imgchest.com/files/2d633c934c1b.png", "https://cdn.imgchest.com/files/1ee4f88acdde.jpg", "https://cdn.imgchest.com/files/53b8f3a856f1.jpg", "https://cdn.imgchest.com/files/c117b9b52857.png", "https://cdn.imgchest.com/files/9a0ca91e0a21.png", "https://cdn.imgchest.com/files/b2f87cf33da7.png", "https://cdn.imgchest.com/files/310f1da8755a.png", "https://cdn.imgchest.com/files/ad31e72cba59.png", "https://cdn.imgchest.com/files/5b5dc2ce6d6e.png", "https://cdn.imgchest.com/files/7822c9286121.png", "https://cdn.imgchest.com/files/5d20355ecb8d.png", "https://cdn.imgchest.com/files/b3e88b41f66b.png"],
+			src: ["https://cdn.imgchest.com/files/2d633c934c1b.png", "https://cdn.imgchest.com/files/1d458d8b4f39.jpg", "https://cdn.imgchest.com/files/1ee4f88acdde.jpg", "https://cdn.imgchest.com/files/53b8f3a856f1.jpg", "https://cdn.imgchest.com/files/c117b9b52857.png", "https://cdn.imgchest.com/files/9a0ca91e0a21.png", "https://cdn.imgchest.com/files/b2f87cf33da7.png", "https://cdn.imgchest.com/files/310f1da8755a.png", "https://cdn.imgchest.com/files/ad31e72cba59.png", "https://cdn.imgchest.com/files/5b5dc2ce6d6e.png", "https://cdn.imgchest.com/files/7822c9286121.png", "https://cdn.imgchest.com/files/5d20355ecb8d.png", "https://cdn.imgchest.com/files/b3e88b41f66b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/80f3816f6103.png",
 			title: "Delectable",
 			artist: "Decox",
