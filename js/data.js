@@ -2513,7 +2513,7 @@ var data = {
 			// Fusenryo | Micaiah and Hong Hua
 			src: ["https://cdn.imgchest.com/files/80e9b931a2e7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/2223566fe66e.png",
-			title: "A Taste of Redemption",
+			title: "Taste of Atonement",
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
