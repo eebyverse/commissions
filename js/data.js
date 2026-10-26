@@ -2523,6 +2523,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Hong Hua
+			src: ["https://cdn.imgchest.com/files/096729b73b45.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/fcc5039ae1c6.png",
+			title: "TBD",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "TBD",
+			date_str: "Jun 2026",
+			tags: ["sfw", "micaiah", "other"],
+			hidden: true
+		},
+		{
 			// Fusenryo | Micaiah and Nowi
 			src: ["https://cdn.imgchest.com/files/75316f37c15c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5d4f1b923340.png",
