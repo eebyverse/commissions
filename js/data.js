@@ -2510,6 +2510,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Hong Hua
+			src: ["https://cdn.imgchest.com/files/80e9b931a2e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2223566fe66e.png",
+			title: "A Taste of Redemption",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Hong Hua is unused to accepting kindness—and most of all, from such strangers as Micaiah.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Oct 2026",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Nowi
 			src: ["https://cdn.imgchest.com/files/75316f37c15c.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5d4f1b923340.png",
@@ -2649,6 +2662,19 @@ var data = {
 			art_url: null,
 			desc: "Sothis and Naga discuss an alliance of trust and cooperation between their peoples.",
 			date_str: "Sep 2025",
+			tags: ["sfw", "other"],
+			hidden: false
+		},
+		{
+			// Fusenryo | Ninae and Peter
+			src: ["https://cdn.imgchest.com/files/0742ee0e8a1f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fae56f038fcf.png",
+			title: "Don't Fear the Reaper",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "While not unwelcome, Peter finds Ninae's unusual shows of affection... stifling.",
+			date_str: "Oct 2026",
 			tags: ["sfw", "other"],
 			hidden: false
 		},
