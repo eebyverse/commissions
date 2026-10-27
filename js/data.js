@@ -2484,6 +2484,19 @@ var data = {
 			hidden: false
 		},
 		{
+			// Fusenryo | Micaiah and Kotone
+			src: ["https://cdn.imgchest.com/files/38230f3cf7ae.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b8ec8019b752.png",
+			title: "Close Examination",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "During her first meeting with SEES's new doctor, Kotone receives anything but a regular check-up...<br/><br/>Collab with <strong><a href='https://bsky.app/profile/kiminokioku.bsky.social'>kiminokioku</a></strong>.",
+			date_str: "Oct 2026",
+			tags: ["sfw", "micaiah", "other", "collab"],
+			hidden: false
+		},
+		{
 			// Fusenryo | Micaiah and Y'shtola
 			src: ["https://cdn.imgchest.com/files/eac5308b421b.png"],
 			thumbnail: "https://cdn.imgchest.com/files/a41dcd9b0fc5.png",
@@ -2523,7 +2536,7 @@ var data = {
 			hidden: false
 		},
 		{
-			// Fusenryo | Micaiah and Hong Hua
+			// Fusenryo | Micaiah and Sanaki
 			src: ["https://cdn.imgchest.com/files/096729b73b45.jpeg"],
 			thumbnail: "https://cdn.imgchest.com/files/fcc5039ae1c6.png",
 			title: "TBD",
