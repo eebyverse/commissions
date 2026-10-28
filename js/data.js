@@ -2100,6 +2100,18 @@ var data = {
 			tags: ["sfw", "aurelia"],
 			hidden: false
 		},
+		{	// Fusenryo | Aurelia and Galiene
+			src: ["https://cdn.imgchest.com/files/ade8773a2c8d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1898ec6e4776.png",
+			title: "These Tender Thoughts",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
+			desc: "Aurelia had never counted on falling in love.<br/><br/>Collab with <strong><a href='https://bsky.app/profile/fillerpoint5.bsky.social'>Fillerpoint5</a></strong>.",
+			date_str: "Oct 2026",
+			tags: ["sfw", "aurelia", "other", "collab"],
+			hidden: false
+		},
 		{	// Fusenryo | Aurelia and Archie
 			src: ["https://cdn.imgchest.com/files/9bb3b70905d1.png"],
 			thumbnail: "https://cdn.imgchest.com/files/45b454eb126a.png",
@@ -2119,7 +2131,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: "https://bsky.app/profile/exaltedbrand.bsky.social/post/3lqly7qqrwc23",
-			desc: "Belinda, of Ulster, and Aurelia, of Daein—fast on their way to becoming the best of friends.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
+			desc: "Belinda of Ulster and Aurelia, of Daein—fast on their way to becoming the best of friends.<br/><br/>Gift for <strong><a href='https://bsky.app/profile/catnipium.bsky.social'>Nagi</a></strong>.",
 			date_str: "Apr 2026",
 			tags: ["sfw", "aurelia", "other", "gifts_given"],
 			hidden: false
